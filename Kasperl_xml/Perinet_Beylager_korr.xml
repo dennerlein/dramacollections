@@ -1,0 +1,8762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Das lustige Beylager
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Joachim Perinet
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1797">
+      1797
+     </date>
+     <date type="premiere" when="1797">
+      1797
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="kaspar">
+      <persName>
+       Kaspar
+      </persName>
+     </person>
+     <person xml:id="regent">
+      <persName>
+       Regent
+      </persName>
+     </person>
+     <person xml:id="graf">
+      <persName>
+       Graf
+      </persName>
+     </person>
+     <person xml:id="haspel">
+      <persName>
+       Haspel
+      </persName>
+     </person>
+     <person xml:id="lenchen">
+      <persName>
+       Lenchen
+      </persName>
+     </person>
+     <person xml:id="fanille">
+      <persName>
+       Fanille
+      </persName>
+     </person>
+     <person xml:id="poet">
+      <persName>
+       Poet
+      </persName>
+     </person>
+     <person xml:id="friseur">
+      <persName>
+       Friseur
+      </persName>
+     </person>
+     <person xml:id="kutscher">
+      <persName>
+       Kutscher
+      </persName>
+     </person>
+     <person xml:id="lisette">
+      <persName>
+       Lisette
+      </persName>
+     </person>
+     <person xml:id="schneider">
+      <persName>
+       Schneider
+      </persName>
+     </person>
+     <person xml:id="koch">
+      <persName>
+       Koch
+      </persName>
+     </person>
+     <person xml:id="gräfin">
+      <persName>
+       Gräfin
+      </persName>
+     </person>
+     <person xml:id="gräf.">
+      <persName>
+       Gräf.
+      </persName>
+     </person>
+     <person xml:id="gräfinn">
+      <persName>
+       Gräfinn
+      </persName>
+     </person>
+     <person xml:id="haspel ">
+      <persName>
+       Haspel
+      </persName>
+     </person>
+     <personGrp xml:id="friseure">
+      <name>
+       Friseure
+      </name>
+     </personGrp>
+     <personGrp xml:id="bedienstete">
+      <name>
+       Bedienstete
+      </name>
+     </personGrp>
+     <person xml:id="kasp">
+      <persName>
+       Kasp
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     DAS LUSTIGE BEYLAGER
+    </head>
+    <head>
+     als Singspiel in zwey Aufzügen nach Hafners Hausregenten
+    </head>
+    <head>
+     von Joachim Perinet 1797
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Graf von Hollerblüh.
+     </castItem>
+     <castItem>
+      Gräfinn Fanille, dessen Braut.
+     </castItem>
+     <castItem>
+      Herr von Basternat, Regent.
+     </castItem>
+     <castItem>
+      Herr von Haspel.
+     </castItem>
+     <castItem>
+      Lisette, Lenchen. Kammerjungfern.
+     </castItem>
+     <castItem>
+      Mehlschöberl, ein Koch.
+     </castItem>
+     <castItem>
+      Hexameter, ein Poet.
+     </castItem>
+     <castItem>
+      Ein Friseur.
+     </castItem>
+     <castItem>
+      Ein Schneider.
+     </castItem>
+     <castItem>
+      Ein Fiacker.
+     </castItem>
+     <castItem>
+      Kaspar, Bedienter des Regenten.
+     </castItem>
+     <castItem>
+      Domestiquen.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="scene">
+    <head>
+     Vorbericht.
+    </head>
+    <p>
+     Die Achtung, die ich dem schätzbaren Publikum schuldig bin, macht es mir zur Pflicht, mich über eine Unwahrheit zu rechtfertigen, die im 10ten Bande des allgemeinen Europäischen Journals über dieses Singspiel ausgebreitet wurde. Sie lautet also: „Prag den 17ten September. Der beschäftigte Hausregent, oder: die närrische Hochzeit, ein komisches Singspiel von Perinet.“
+     Nachdem sich der Herr Kritiker über Wahl und Ausarbeitung dieses Stückes lustig gemacht, endet er folgendermassen: „Wenn ja anders Herr Perinet, wie es auf dem Anschlagzettel stand, der rüstige Umarbeiter dieser Posse ist, so mag er mit dem Unbekannten, unharmonischen Musikkompositeur
+     einst im Schattenreiche noch diese Sünde schwer verantworten, daß er des guten Hafners Dichterasche (welcher einst Wien nicht wenig belustigte) erst nach 50 Jahren wieder aus der Ruhe störte, um jenes Hafnerische, sonst beliebte Stück, nach seiner Art umzumodeln, und damit der Göttinn Langeweile ein Opfer zu bringen. Auch gefiel das Stück, Musik, und Vorstellung so wenig, daß das Publikum einstimmig ein Verdammungsurtheil darüber fällte.“
+     Wäre die Bearbeitung dieses Productes mein, so würd ich so wie sonst, auch dießmal geschwiegen haben, weil ich Federkriege fliehe: aber da ich ganz und gar keinen Antheil an dieser Prager-Oper habe, und als sie aufgeführet wurde, noch keine Zeile von der meinigen geschrieben hatte, so seh ich mich nothgedrungen, mich hier öffentlich für die Ehre zu bedanken, daß man sich meines ehrlichen Namens bey einem Bastard bediente. Gern vergeb ich denen Herausgebern des Brünner-Journales, die falsche Nachricht ihrer Correspondenten, aber meiner Ehre könnte ich es nicht vergeben, wenn ich meinen Namen zum Aushangschilde
+     eines Findlings herliehe, an dessen Existenz ich unschuldig bin.
+     Gegenwärtige Oper ist die meinige, wozu mein Freund, Herr Müller die Musik setzte, und ich will wünschen, daß wir nicht auch der Disharmonie wegen im Schattenreiche dafür büssen werden. Das gütige Publikum hat unsere Versuche der Hafnerischen Bearbeitungen zu nachsichtsvoll, aller Orten, aufgenommen, als daß wir an einer gleichen Aufnahme dieses bourlesken Singspiels zweifeln sollten. Der billige Recensent wird es für das nehmen, was es ist. Es ist schon vom Hafner aus, zur Erschütterung des Zwergfelles geschrieben, und ich habe alles gethan, es nicht zum Trauerspiele zu machen. Da es schon so glücklich war, einen rüstigen Vorarbeiter zu haben, der sich meinen Namen ausborgte, so genießt es vielleicht bald die Ehre, so wie seine Vorgänger, rüstige Nacharbeiter zu erhalten, die aus unserer neugegärbten Haut Riemen schneiden. Ich habe das Zutrauen zu der bekannten Billigkeit und Gerechtigkeitsliebe der Verfasser des allgemeinen Europäischen Journals, daß Sie diese Nachricht eben so bereitwillig widerrufen
+     werden, als Sie selbe eingeschaltet haben. Jeder, der ausspielt, muß erwarten, daß er gestochen wird, aber die Herren Unternehmer der Monatsschrift werden mir selbst eingestehen müssen, daß es traurig ist, wenn uns das beßte Herzblatt durch einen Buben abgestochen wird, und ein falscher Spieler unseren Nahmen brandmarkt.
+     Hier öffentlich gelobe ich, mich immer durch billige Recensionen belehren zu lassen, und auf Bitterkeiten zu schweigen. Ich gebe meine Bearbeitung in die Hände des nachsichtsvollen Publikums. Dem belehrenden Recensenten zu folgen und das Publikum zu befriedigen, ist Pflicht, Wunsch und Bestreben
+    </p>
+    <stage>
+     Ihres ergebensten Joachim Perinet
+    </stage>
+    <stage>
+     Dichter und Mitglied des k. k. privil. Marinellischen Theaters.
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Zimmer mit Mittel- und Seitenthüren.)
+     </stage>
+     <stage>
+      Der Regent. Um ihn sind Kammerdiener, Lakayen, Läufer, Jäger, Portier und Pagen versammelt.
+     </stage>
+     <div type="#introduction">
+      <head>
+       Introduction.
+      </head>
+      <lg>
+       <l>
+        Gestrenger Herr Regent vom Haus,
+       </l>
+       <l>
+        Theil uns nun das Kommando aus.
+       </l>
+       <l>
+        Gar keine Arbeit fällt uns schwer,
+       </l>
+       <l>
+        Herr Hausregent und g’strenger Herr.
+       </l>
+      </lg>
+     </div>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Ihr wißt die glänzende Parthie
+       </l>
+       <l>
+        Von unserm Grafen Hollerblüh?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bedienstete"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wir wissen sie.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Fanille heißt die Gräfinn Braut,
+       </l>
+       <l>
+        Mit der er morgen wird getraut.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bedienstete"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Fanille heißt die Gräfinn Braut?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Da braucht er nun viel Domestiken,
+       </l>
+       <l>
+        Zum rennen und laufen und schicken.
+       </l>
+       <l>
+        Da müßt ihr euch alle befleissen
+       </l>
+       <l>
+        Gehorsame Diener zu heissen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bedienstete"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Das wollen wir
+       </l>
+       <l>
+        Stets alle hier!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Nun Kinder ihr alle,
+       </l>
+       <l>
+        Versammelt im Sahle,
+       </l>
+       <l>
+        Euch Morgen um neun.
+       </l>
+       <l>
+        Ganz neu equipiret,
+       </l>
+       <l>
+        Geputzt und frisiret,
+       </l>
+       <l>
+        Muß jeder auch seyn.
+       </l>
+       <l>
+        Haarpeutel und Zöpfe,
+       </l>
+       <l>
+        Gepuderte Köpfe,
+       </l>
+       <l>
+        Weißseidene Strümpfe, dann silberne Schnallen,
+       </l>
+       <l>
+        Und saubere Wäsche, versteht sich vor allen;
+       </l>
+       <l>
+        Gekämmt und gewaschen, damit euch die Braut,
+       </l>
+       <l>
+        Nicht etwa für schmutzige Lumpen anschaut.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bedienstete"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Graf Hollerblüh wird mit Fanille getraut,
+       </l>
+       <l>
+        Es lebe der Bräutigam hoch mit der Braut!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Geht Kinder, geht Kinder, und schreyts nicht so laut!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles bis auf den Regenten ab)
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Das wär vorüber! Es sind freylich viel unnütze Brodfresser, aber, was will man machen? He Kaspar!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (inwendig gähnend)
+      </stage>
+      <p>
+       Was ist’s G’schrey? Was giebts?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich glaube gar, du liegst noch im Bett?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Versteht sich. Es ist ja noch nicht 8 Uhr: und wann ich ein bissel früher aufsteh, so bin ich schwierig, wie eine tragende Katz.
+      </p>
+      <stage>
+       (Er kommt mit halbangezogenem Kleide.)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich glaube gar, du schläfst noch?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ey ja wohl, ich steh’ nur in Qualen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Sieh, ob niemand draussen ist.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das glaub ich. Vor einer Stund’ haben’s schon anpumpert, aber ich hab nichts dergleichen gethan. Ein junger Mensch, der noch im Wachsen ist, muß sich ausschlafen. Derweil man schläft, thut man nichts anders.
+       <stage>
+        (lacht)
+       </stage>
+       Es klopft schon wieder wer.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Geh, oder –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich kann gar nicht begreifen, wie die Leut so früh ausgehn mögen. – Wer mir nicht wenigstens ein paar Zwölferln giebt, den meld’ ich g’wiß nicht.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ein Diener macht mir schon so siel Verdruß, die andern fressen noch mich und meinen Grafen auf.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (kommt lachend)
+      </stage>
+      <p>
+       Ihr Gnaden! – Es ist einer drauß, der sagt, sein Vetter hätt’ ihn an ihnen kommandirt als eine geheime Sekatur.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Als Sekretair. – Das wird der Herr von Haspel seyn. Laß ihn herein.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, ja: er sieht einem Haspel gleich, aber keinen Zwirn hat er
+      </p>
+      <stage>
+       (deutet auf Geld – ab)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Wenn er nicht gar blitzdumm ist, so ist er doch noch immer in unsere Hauskanzley gut genug.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Vorige, Haspel tritt ein.
+     </stage>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Serviteur! Serviteur!
+       </l>
+       <l>
+        Ich bin der Sekretair.
+       </l>
+       <l>
+        Mein Mutter heißt die Eva Raspel –
+       </l>
+       <l>
+        Und ich, ich bin der junge Haspel! –
+       </l>
+       <l>
+        Kein Esel bin ich doch ach Ne!
+       </l>
+       <l>
+        Ich kann das a-b-c – He! he!
+       </l>
+      </lg>
+      <head>
+       2.
+      </head>
+      <lg>
+       <l>
+        Serviteur! Serviteur!
+       </l>
+       <l>
+        Der Vetter schickt mich her.
+       </l>
+       <l>
+        Ich bin ein recht geschicktes Mandel –
+       </l>
+       <l>
+        Ich kam erst aus dem Oberlandel –
+       </l>
+       <l>
+        Ein Mensch bin i, per se per se!
+       </l>
+       <l>
+        Nicht wahr, das wissen’s eh? He! he!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Was für eine bestialische Figur! Was reden Sie für Sprachen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich red deutsch. Französisch kann ich nicht, aber lateinisch hätt’ ich lernen sollen, und wälisch und italiänisch hätt’ ich lernen können.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Haben Sie studiert?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Bis auf die kleinen Schulen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Können Sie doch was aufsetzen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ja: da schaun’s her!
+      </p>
+      <stage>
+       (setzt den Hut auf)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich meyne, ein Concept?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Glaubens, ich bin ein Zuckerbäcker, daß ich ein Konfekt aufsetzen soll?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Das ist ein Dummkopf! – Können Sie wenigstens lesen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ja ja. Bey meinem Vettern hab ich im Weingarten die schönsten schmeckenden Weinbeer herabgelesen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich meyne Schrift, oder Gedrucktes lesen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Was zerdruckt ist, kann ich nicht lesen, aber die g‘schriebne Schrift kann ich lesen hören.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Nun, so lesen Sie mir diesen Brief vor.
+       <stage>
+        (Er buchstabirt mit Herzensangst)
+       </stage>
+       Nun, will nichts kommen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Wird gleich was kommen.
+       <stage>
+        (liest)
+       </stage>
+       „Hoch-Esel-Gefrorner!“
+       <stage>
+        (lacht)
+       </stage>
+       Ist der Brief an Ihnen?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Hochedelgeborner!“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich hab mich nur geirrt, weil ich alleweil auf Sie geschaut hab. – „Im Sommerhochgeehrtister Herr!“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Warum nicht gar im Winter? „Insonders Hochgeehrtester Herr.“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Ich hätte längst gewischt, an sie zu speyen.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Ich hätte längst gewünscht, an sie zu schreiben.“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Weil ich aber im Sechswochenbett lächerlich war.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Was Teufel liest der Herr? Mein Vetter in sechs Wochen?
+       <stage>
+        (lacht)
+       </stage>
+       „weil ich aber 6 Wochen bettlägerig war, heißts ja.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „So bin ich vermindert worden.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „So bin ich verhindert worden.“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Ich mag keinen Zwiefel essen.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Ich trag keinen Zweifel indessen.“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Sie werden voll Wanzen, Läus, Fisch und Hund seyn?“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Nein, das ist zu toll! Es heißt ja: „Sie werden vom ganzen Leib’ frisch und gesund seyn.“ Aber, wie kann denn ein vernünftiger Mensch so lesen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich bin ein vernünftiger Mensch, und hab’ doch so g’lesen.
+       <stage>
+        (liest)
+       </stage>
+       „Ich wünschte Ihnen noch meine Freundschaft beym Lebzelten und im Bierhaus zu bezeigen.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Bey Lebzeiten, und bey mir im „Haus“. Ist denn der Herr gar so dumm?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (lesend)
+      </stage>
+      <p>
+       Sie haben recht. – „Ein reitender Todter hat den Trost gebracht.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ha ha! – Wie kann denn ein Todter reiten? Und Post heißt es, nicht Trost.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Hat den Most gebracht, das auf seinem Hut ein Feuer in der Saulederey entstanden.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Nein! Wenn man ihr Lesen einem Hund eingiebt, so krepirt er. – „Auf seinem Gut in der Saliterey“ steht ja klar da.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Wodurch bis drey Nulla Häuser abgebrennt sind.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „30 Häuser.“
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Auch hat eine Stoffade nebst mehreren Pedetschen die Nachricht gebracht.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Staffette und Depechen“ doch das ist nicht deutsch.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Daß der geweste Rockolor“ –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       „Controlor“ warum nicht gar Schlafrock.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       „Daß der geweste Schlafrock die Amtsgelder angepfiffen habe, und deßwegen rassirt worden.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>      
+       „Kassirt“ heißt es Monsieur Dummkopf! –
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (lesend)
+      </stage>
+      <p>
+       „Cassirt heißt es Monsieur Dummkopf. – Meine Schwester wohnt zu Freßburg auf dem Zuckerkandel. – Ihr ewiger Feind, beiß in die Krot – Eins, sieben, neun und sieben.“
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (reißt ihm den Brief weg)
+      </stage>
+      <p>
+       Jetzt hat der Herr Zeit! Sie sind ein criminalischer Esel.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Was? – Es ist schon gut! – Das ist mir just recht. Wenn auch Sie kein Esel brauchen, so giebt es doch Leut, die expressi keinen G’scheidten, sondern einen Esel haben wollen. Ich befehl mich auf Ihnen.
+      </p>
+      <stage>
+       (will ab)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich will meinem Grafen einen Spaß machen.
+       <stage>
+        (zu sich)
+       </stage>
+       Verweilen Sie, ich will mit dem Grafen sprechen. Warten Sie indessen im Vorzimmer.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (stolz)
+      </stage>
+      <p>
+       Das ist ihr Glück, daß Sie andere Saiten aufziehen. Wenn man gleich einen jeden Haspel abdanken wollt’, wohin wurd die Welt noch kommen?
+       <stage>
+        (schnell)
+       </stage>
+       Nicht wahr, sie waren selbst froh, daß Sie einen Dienst kriegt haben? Länger als eine Viertelstund kann ich nicht warten, denn ich muß dem Kässtecher seine Bibliotheck einrichten. G’horsamer, G’horsamer! – Setzens auf – Bleibens da!
+       <stage>
+        (drängt ihn zurück)
+       </stage>
+       Das Kleid gieb ich mir schon selber. Mein Handkuß an d’ Frau Liebste und d’ kleine Familie. Ich wünsch alles Erdenkliche, was Sie sich selbst wünschen mögen, daß ’s Fleischessen gut anschlagt. Das Bindband werd’ ich draußen ablegen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Das ist der größte Narr, den ich Zeit meines Lebens gesehen habe.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <p>
+       Ihr Gnaden, der Graf von Hollerthee –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ist er schon oben?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein, der Wagen ist noch nicht im ersten Stock.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Vorige. Graf Hollerblüh. Kaspar öfnet ihm die Thüre.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Guten Morgen mein lieber Regent. Wie gehts?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       So ziemlich. Die Leute überlaufen mich. Ich habe bereits ein halbes Bataillon engagirt.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Mag es hingehen, aber ich brauche sie nur zur Parade. Die Stadt ist meine Sache nicht. Nach den Flitterwochen kehr ich wieder auf mein geliebtes Gut, ziehe Blumen und Kinder groß, erspare mein Frau und mein Geld, dem Doktor den Gang, und das Neujahr dem Apotheker.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Aber die Gräfinn?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Mann und Weib ist ein Leib. Wir sind einig. Sie mein lieber Regent, regieren mein Haus, und ich meine Frau. Lassen Sie sich in ihren Geschäften nicht hindern, und ich mustere indessen meine Dienerschaft.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Meine Wünsche – – –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ich weiß, was Sie sagen wollen. Sie sind ein ehrlicher Deutscher, und haben meinem Vater und mir redlich gedient. Ein Freund kann mir nichts Böses wünschen. Sie schätzen in mir den Grafen, ich in ihnen den Menschen. Ehrlichkeit ist ein schönes Diplom.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Und währet am längsten.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Ehrlichkeit, ein rein Gewissen,
+       </l>
+       <l>
+        Sind des Herzens bester Schild.
+       </l>
+       <l>
+        Ihre weichen Polsterkissen,
+       </l>
+       <l>
+        Sind mit Ruh und Trost gefüllt.
+       </l>
+       <l>
+        Ehrlichkeit bedarf so wenig
+       </l>
+       <l>
+        Selbst in Hütten ist sie froh.
+       </l>
+       <l>
+        Besser schläft man als ein König,
+       </l>
+       <l>
+        Und zu Pflaumen wird das Stroh.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Ein braver Mann! –
+       <stage>
+        (zu Kaspar)
+       </stage>
+       Nun, gehst du mit deinem Herrn?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich darf Euer Gnaden nicht allein lassen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Warum nicht?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Es ist mir schon einmal eine goldene Uhr gestohlen worden, hernach hätt’ ichs zahlen sollen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Verfluchter Kerl! –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Man soll halt ein Zimmer nie allein lassen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Du bist ein ehrlicher Kerl, aber zuweilen ein gewaltiger Esel.
+      </p>
+      <stage>
+       (lachend)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das seynd just die besten Leut, und unser eins muß Geduld haben wie ein Esel, und Ihr Gnaden, zu sagen beliebten. Es kommen ja viel Millionen Menschen, und alle in ihr Gnaden Dienst, aber meistens lauter Narren; und da können ihr Gnaden denken, wie mein Herr geplagt seyn muß. Er ist lauter g’scheide Leut g’wohnt, wie ich bin.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Das ist wahr.  – Sieh, wer draussen ist, und, da ich deinen Herrn nicht stören will, so lasse sie nur zu mir herein. Ich will mich für den Regenten ausgeben.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gleich –
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ich will einmal die Mode mitmachen, inkognito zu seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (kommt wieder)
+      </stage>
+      <p>
+       Ihr Gnaden, der Koch ist draussen, der die Nachbarschaft gekocht hat.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Der Koch aus der Nachbarschaft? – Laß ihn kommen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Soll er selber hereingehen?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Nein Narr, auf dem Rücken wirst ihn herein tragen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kann ja leicht seyn.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Ein Koch? – Auch recht. Aber nun hab ich vergessen, was für einer? – Ein wälscher, der kocht mir zu wenig: ein spanischer zu faschirt, und die französischen versalzen die Suppen. – Ein deutscher Koch ist der beßte, er macht Kraftsuppen. –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Kaspar bringt den Koch auf dem Rücken.
+     </stage>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Laß er mich herab, was soll denn die Kinderey seyn?
+       <stage>
+        (er wirft ihn herab)
+       </stage>
+       Ihr Gnaden verzeihen, ich bin der Stadtkoch Mehlschöberl. Ich hab mich nur gehorsamst anfragen wollen, ob mir nicht erlaubt wäre, das gräfliche Beylager zu kochen? Ich bin da gleich gegenüber. Bey der eifersüchtigen Pastete heißt der Schild.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (lachend)
+      </stage>
+      <p>
+       Der Name ist nicht viel versprechend. Kann der Herr auch nach ausländischer Art kochen?
+      </p>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Versteht sich. – Ich bin im Stand alle Nationen in eine Speiß zu kochen. – Wann ich wüßt, wieviel tausend Menschen an der Tafel sitzen, so wollt ich gleich ein Speißzetterl machen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Bey zwanzig Personen nur.
+      </p>
+      <stage>
+       (lacht)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich sitz aber nicht dabey.
+      </p>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Itzt möchte ich wissen, ob der Tafeldecker ein Hufeisen oder ein Bögeleisen macht? Auf 20 Personen müssen wenigstens 800 Speisen seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O jerum! da giebts ein B’scheidessen!
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ist der Herr rasend?
+      </p>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Das verstehen Ihr Gnaden nicht; das muß ich besser wissen, das ist mein Pflug. All meine Aeltern, Groß-Ur-Ur-Guckältern waren Köche, selbst mein Vater ist eine Köchinn g’wesen,
+       <stage>
+        (in Hitze)
+       </stage>
+       und mein Stammhalter hat eine Buttertaig-Pasteten über den Ochsen gemacht; der beym Kaiser Nero ist gebraten worden.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Er ist ein Narr!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Entweder war der Ochs klein, oder die Pastete in meiner Größ.
+      </p>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Ich bin im Stand, und schlag’ den Herrn selber in eine Pasteten.
+       <stage>
+        (zu Kaspar, der wegspringt)
+       </stage>
+       Kosten muß man die Speisen, hernach raisoniren. Ich hab schon viel auf die Tafel gesetzt, die vornehmsten Deserteurs sogar.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (der das Lachen verhält)
+      </stage>
+      <p>
+       Gut, gut. Mach er nur einen kleinen Entwurf.
+      </p>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <p>
+       Gleich ihr Gnaden! – Da wär also die Tafel.
+       <stage>
+        (indem er die Schlafhaube hinwirft)
+       </stage>
+       Da die Gäste – Jetzt koch‘ ich; geben Sie Acht:
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <lg>
+       <l>
+        Primo müssen Suppen kommen
+       </l>
+       <l>
+        Notabene dreyerley.
+       </l>
+       <l>
+        Kelch wird zu der Braunen g’nommen
+       </l>
+       <l>
+        Und Lebzelten nebenbey: –
+       </l>
+       <l>
+        Man druckts durch ein braunes Tüchel
+       </l>
+       <l>
+        So bekommts ein gutes G’rüchel.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Weiter unten muß dann stehn,
+       </l>
+       <l>
+        Eine Suppe à chien.
+       </l>
+       <l>
+        Das muß Reiß mit Asan seyn
+       </l>
+       <l>
+        Und da kommen Scheer-Rub’n drein.
+       </l>
+       <l>
+        Mitten? – Ja, just à propos
+       </l>
+       <l>
+        Mitten steht die Oglio.
+       </l>
+       <l>
+        Da wird gleich von Klein‘ und Großen
+       </l>
+       <l>
+        Alles in dem Haus zerstossen.
+       </l>
+       <l>
+        Will man sie noch schwärzer saufen,
+       </l>
+       <l>
+        Laßt man s’ Dintenfaß drein laufen.
+       </l>
+       <l>
+        Gegenüber müssen stehn
+       </l>
+       <l>
+        Plunzen und ein Zwiefelkreen.
+       </l>
+       <l>
+        Bachne Hendeln, Ananas,
+       </l>
+       <l>
+        Und rundum ein Salverkas.
+       </l>
+       <l>
+        Auch sind bey der Tracht vonnöthen
+       </l>
+       <l>
+        Zwey abscheuliche Pasteten.
+       </l>
+       <l>
+        Wann man just nichts anders hat
+       </l>
+       <l>
+        Schlagt man drein ein Specksallat.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ah! Den trag ich hinaus.
+      </p>
+      <stage>
+       (Er nimmt den Koch, und dann im Feuer seinen Grafen.)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Verdammter Flegel!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Gnaden verzeihen, jetzt bin ich schon in meiner Galle. Der könnt einem den Appetit verleiden.
+       <stage>
+        (Man hört klopfen)
+       </stage>
+       Es klopft schon wieder wer. Vielleicht ist das die Köchinn?
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Wie bedaur’ ich den armen Regenten!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O jerum ihr Gnaden. Zwey Madeln seyn draussen, wann’s ihr Gnaden als Kammerkatzen brauchen. G’sichteln, als wann sie lakirt wären. – Soll ich etwa ihr Gnaden für die Fräulein ausgeben?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Narr! – Führe sie zur Gräfinn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Anschaun könnens ja ihr Gnaden. Es kostet ja nichts.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Je nun meinetwegen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (umkehrend)
+      </stage>
+      <p>
+       Eine nach der andern?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Alle zwey.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was hab aber ich für eine Ansprach?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Geh, sag’ ich.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (brummend)
+      </stage>
+      <p>
+       Die reichen Herren haben nie genug. Er ist eh ein Bräutigam, und doch so ein Nimmersatt.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Wenn meine Braut das wüßte! – Warum? – Ein Bräutigam ist sicherer als ein Ehemann. Der Bräutigam hoft, und der Ehemann giebt seine Hofnung auf.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Lenchen. Lisette. Kaspar. Graf.
+     </stage>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#lenchen #lisette">
+      <speaker>
+       Lenchen und Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Zwey Kammerjungfern nahen sich,
+       </l>
+       <l>
+        Dir, gütiger Regent;
+       </l>
+       <l>
+        Wo jede, glaub es sicherlich!
+       </l>
+       <l>
+        Die Welt ein wenig kennt.
+       </l>
+       <l>
+        Wir kennen jeden Modeschwung,
+       </l>
+       <l>
+        Von nah und auch von fern:
+       </l>
+       <l>
+        Wir dienten schon bey Alt und Jung,
+       </l>
+       <l>
+        Bey Frauen und bey Herrn,
+       </l>
+       <l>
+        Und überall recht gern.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ich kann sticken!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Flicken, stricken,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Roth und weissen Anstrich machen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Haare färben, andre Sachen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Nichts auf eine Grobheit sagen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Und ich kann auch Briefeln tragen;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Jeder wird in Gold uns fassen
+       </l>
+       <l>
+        Wer uns nur ein wenig kennt.
+       </l>
+       <l>
+        Wir sind beyde zu verlassen,
+       </l>
+       <l>
+        Nimm uns gütigster Regent!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Willkommen meine lieben Kinder! – Ich brauche aber nur eine.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die andere nehm’ ich.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Habt ihr schon gedient?
+      </p>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <p>
+       Ich 14 Tage bey dem Fräulein Blondin.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Und ich 3 Wochen bey dem Fräulein Brunett.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (zu Liset.)
+      </stage>
+      <p>
+       Wie alt ist sie?
+      </p>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <p>
+       20 Jahr und im letzten Monat.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Und ich 19 Jahr, 6 Wochen und 3 Tag.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wenn sie alle zwey bekennen, daß sie 20 Jahr alt sind, so hängt gewiß ein halbes Dutzend noch dran.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (indem er mit Lenchen schäckert)
+      </stage>
+      <p>
+       Ich werde mit dem Grafen sprechen. Indessen aber,
+      </p>
+      <p>
+       wenn ich eine Kammerjungfer brauchte, so –
+      </p>
+      <stage>
+       (kneipt sie in die Wange)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O jegerl! das sag ich der Braut! –
+      </p>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Schau, wie der Regent so artig ist.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (zu Lisette)
+      </stage>
+      <p>
+       Sie kann sich wieder anfragen.
+      </p>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <stage>
+       (schnippisch)
+      </stage>
+      <p>
+       Wenn Sie erlauben. Adje Jungfer Naseweis, sie hat sich von jeher mit den Hausoffizieren abgegeben, so bleib sie auch dabay.
+       <stage>
+        (zu Kaspar, der ihr nach seiner Art schmeichelt)
+       </stage>
+       Geh er, mit Lakeyen beschmutz’ ich mich nicht.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Jetzt geh sie, sie Person sie! –
+      </p>
+      <stage>
+       (Graf lacht)
+      </stage>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Lassen Sie sie gehen. Es ist nicht viel an ihr verloren. Sie ist ohnehin wegen Verdrüßlichkeiten aus allen Diensten gekommen. Zudem hat sie auch nur ein loses Maul, hat nichts gesehen und probirt, und ist nie über die Linie gekommen.
+       <stage>
+        (schnell)
+       </stage>
+       Ich will mich eben nicht groß machen, aber ich war schon in Frankreich und Italien, in Krakau und in Pohlen, und hab in Steyermark bey einer Marchande de mode über 18 Jahr gearbeitet.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       He Jungferl, still! – Da hätt’ die Jungfer ja schon ’s Dienen mit ein Jahr ang’fangt?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ich sehe, sie weiß sich geltend zu machen. Gehe sie also indessen in das Vorzimmer, bis die Gräfinn kommt. Da, nimm sie indessen diese Kleinigkeit.
+      </p>
+      <stage>
+       (giebt ihr etwas)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Jetzt ist der Dienst schon richtig. Das Drangeld hats schon!
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ich danke ganz ergebenst. Der Herr Graf wird gewiß mit mir zufrieden seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Er ist’s so schon!
+       <stage>
+        (zu Lench.)
+       </stage>
+       Also von 19 Jahren wird nichts herabg’handelt?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Nicht eine Minute.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin erst neunzehn Sommer alt,
+       </l>
+       <l>
+        Das kann mein Taufschein weisen.
+       </l>
+       <l>
+        Ich war, und das ist nicht geprahlt,
+       </l>
+       <l>
+        Auch, wie gesagt auf Reisen.
+       </l>
+       <l>
+        In Frankreich und Italien,
+       </l>
+       <l>
+        In China und in Persien,
+       </l>
+       <l>
+        In England und Kalabrien,
+       </l>
+       <l>
+        In Moskau und Sibirien,
+       </l>
+       <l>
+        Hab ich so mancherley gesehn,
+       </l>
+       <l>
+        Wie alle Nationen gehn.
+       </l>
+       <l>
+        Ja neunzehn Sommer zähl’ ich nur,
+       </l>
+       <l>
+        Bin ganz voll Leben und Natur:
+       </l>
+       <l>
+        Ich bin noch lang nicht majorenn
+       </l>
+       <l>
+        Und habe doch die Welt gesehn.
+       </l>
+       <l>
+        Ganz Frankreich und Italien,
+       </l>
+       <l>
+        Ganz Krakau, China, Persien,
+       </l>
+       <l>
+        Ganz England und Kalabrien,
+       </l>
+       <l>
+        Selbst Moskau und Sibirien, –
+       </l>
+       <l>
+        Doch mach ich jetz in Wien auch Halt,
+       </l>
+       <l>
+        Ich bin ja tausend Wochen alt.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Graf, Kaspar.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die hat Reisen g’macht! Wann’s nur überall ein Monath war, so muß’s ein fünfzig Jahrl auf dem Buckel haben, ohne Umschaun.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Wenn ich sie nehme, so wird sie ohnehin dein Accidenz, denn auf dem Lande brauch ich keine Kammerjungfer.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bedank mich gar schön. – Aber bleibts dabey, daß ihr Gnaden aufs Land gehen?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ja, ich liebe die schöne Natur.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       In der Stadt giebts Schönheiten genug.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Schweig, dein Herz ist zu roh.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das ihrige wird auch nicht g’sotten seyn.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       In der Stadt ist alles verkünstelt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gehn ihr Gnaden mit mir um, ich bin die Natur selber.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Auf dem Lande gehör ich mir selbst zu.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich bin nirgends recht zu Haus.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Die Natur lacht mich an.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die muß ein spassig’s G’sicht machen?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Der Himmel ist so heiter!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wann’s nicht regnet.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Kurz, auf dem Lande lebt man doppelt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da geh ich nicht hinaus. Itzt bin ich 50, hernach wurd ich gar 100 Jahr alt.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Schweig! Das ist nur ein Gefühl für erhabene Seelen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So kann ich ja’s Maul halten.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Auf dem Lande gahör ich mir allein zu, in der Stadt einem Jeden. Schöne Natur, dir huldige ich!
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Ich habe satt die große Stadt,
+       </l>
+       <l>
+        Das Lärmen und das Getümmel.
+       </l>
+       <l>
+        Viel besser lebt sich’s in der That,
+       </l>
+       <l>
+        Dort unter freyem Himmel.
+       </l>
+       <l>
+        Eh’ noch aus seiner Pflaumengruft
+       </l>
+       <l>
+        Der Städter sich erhebet,
+       </l>
+       <l>
+        Begrüß ich Gottes Morgenluft,
+       </l>
+       <l>
+        In der die Lerche schwebet.
+       </l>
+       <l>
+        Ein guter Freund, ein gutes Buch,
+       </l>
+       <l>
+        Ein Weibchen, das mich herzet;
+       </l>
+       <l>
+        Auf Gottes grünen Rasentuch,
+       </l>
+       <l>
+        Wird so die Zeit verscherzet.
+       </l>
+       <l>
+        In ländlicher Einsiedeley.
+       </l>
+       <l>
+        Ein Mahl in einer Laube:
+       </l>
+       <l>
+        Da fliegt kein Phaeton vorbey,
+       </l>
+       <l>
+        Und würzt es uns mit Staube.
+       </l>
+       <l>
+        Nur das Theater fällt mir schwer,
+       </l>
+       <l>
+        Vermissen es zu sollen,
+       </l>
+       <l>
+        Doch kommt ein kleiner Haus-Acteur,
+       </l>
+       <l>
+        Dann spiel ich Väter-Rollen.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (steckt den Kopf heraus und schaut ihm nach)
+      </stage>
+      <p>
+       Ist er schon fort? – Larifari und lauter Giges Gages! – Wegen der Komödie wär mir ’s wenigste, aber wegen dem Hachelputz.
+       <stage>
+        (er deutet aufs Essen)
+       </stage>
+       In allen 7 Welttheilen kann man besser essen. – Und kommt mir just ein Gusto in’s Grüne, so rutsch ich mit meinem Leher-Hengsten hinaus, oder ich spann’ meine eigenen Rappen ein.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Im Winter und im Sommer ist’s gut in der Stadt,
+       </l>
+       <l>
+        Da sauft man sich voll, und da frißt man sich satt:
+       </l>
+       <l>
+        Drauf mach ich auf d’ Madeln ein’ lustige Jagd,
+       </l>
+       <l>
+        Weg’n der mich kein Jager beym Waldamt verklagt.
+       </l>
+       <l>
+        In Prater, zu Dornbach, in Töbling, und Brühl,
+       </l>
+       <l>
+        Da singen die Lercherln nur oft als zu viel.
+       </l>
+       <l>
+        – – –
+       </l>
+       <l>
+        Im Winter ist Musik und Tanz überall,
+       </l>
+       <l>
+        Da führ ich mein Madel zu’n Bock auf’n Saal
+       </l>
+       <l>
+        Da streichen’s dir Deutsche, Juhessa, Juhe!
+       </l>
+       <l>
+        Da zieht’s ein’m die Flaschen von selber in d’ Höh!
+       </l>
+       <l>
+        Da wird ein’m so wunderlich sauer und süß,
+       </l>
+       <l>
+        Der Wein steigt in Kopf, und der Tanz kommt in d’Füß.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Der Regent, hernach Kasper.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ey ey, lieber Herr Graf! Sie geben mir da eine saubere Commission. Ich soll die Kammerjungfer in ihrem Nahmen aufnehmen? Da werd ich wohl der Fräulein Braut keinen grossen Gefallen erweisen. – Indessen, er ist Herr! – He Kaspar!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da bin ich schon mit mir selber.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Sind die Kammerjungfern im Vorzimmer?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, ich war just bey ihnen in der Sansamble.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Die eine soll kommen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Welche?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Die der Graf sich aussuchte. – Führe sie hieher, und du kannst indessen bey der andern bleiben. Ich muß allein mit ihr reden. –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Allein? – O du arme Lenerl! – Da kommst recht dem Wolfen in die Krampeln.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Zum Glück erwarte ich alle Minuten die Gräfinn, dann mag sie die Kammerjungfern selbst examiniren. Ich will sie indessen ein wenig rekognosziren, und ziehe mich aus der Schlinge.
+      </p>
+      <stage>
+       (ins Kabinet ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Kaspar, Lenchen.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bis daher führ’ ich d’ Jungfer; weiter därf ich nicht gehen, denn dort ist des grimmigen Wolfen seine Falle.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Er ist nicht gescheidt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich bin mir nur gar zu g’scheidt. Weiß d’ Jungfer, daß der Regent nicht der Regent ist, daß der Regent der Graf, und der Graf der Regent ist?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Er ist ein Narr.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die Jungfer ist kein übles G‘sicht, he! he! he! und wann d’ Jungfer justement vacant ist, und wann der Jungfer mein G’sicht anständig wär – und wann d’ Jungfer nimmer länger wollt im ledigen Kammerjungfernstande bleiben, so wär ich so frey, und leget’ mein Herz auf ein’ Kaffeetatzen, und thäts der Jungfer präsentiren. –
+       <stage>
+        (er schmeichelt ihr)
+       </stage>
+       Besinn sich die Mamsell Jungfer, und gieb’s Acht, daß ihr kein Leid g’schieht. – Ich hör ihn schon heulen. – O wie Schad ist’s um das junge, süsse Blut.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Der Kerl ist besessen.
+       <stage>
+        (lacht laut)
+       </stage>
+       O mein lieber Kaspar, eine Kammerjungfer meines gleichen fürchtet sich nicht vor den Wölfen. Ich habe bey manchem Unthier gedient, hab mich aber von keinem beißen laßen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Lenchen, Graf, Regent, Haspel.
+     </stage>
+     <stage>
+      Quartetto.
+     </stage>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <lg>
+       <l>
+        Das Glück ist rund, die Welt ist weit,
+       </l>
+       <l>
+        Drum hasche nach dem Glück.
+       </l>
+       <l>
+        Denn ach die goldne Rosenzeit
+       </l>
+       <l>
+        Kehrt nimmermehr zurück.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (kommt mit dem Regenten.)
+      </stage>
+      <lg>
+       <l>
+        Betrachten Sie das Mädchen nur
+       </l>
+       <l>
+        Und ihren schwarzen Blick,
+       </l>
+       <l>
+        Sehr wenig Kunst und viel Natur
+       </l>
+       <l>
+        Verlieh ihr das Geschick.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Der Teufel ist ein Schelm, o traut
+       </l>
+       <l>
+        Nicht ihrem falschen Blick;
+       </l>
+       <l>
+        Die Hochzeit geht, merkt es die Braut,
+       </l>
+       <l>
+        Dann wie ein Krebs zurück.
+       </l>
+       <l>
+        Das ist der Graf –
+       </l>
+      </lg>
+      <stage>
+       (zu den Mädchen)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Das der Regent –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Da sieht man, wie man wen verkennt!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #regent">
+      <speaker>
+       Graf. Regent.
+      </speaker>
+      <lg>
+       <l>
+        Wahrhaftig, sie gefällt mir sehr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Auch mir gefällt mein neuer Herr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (bey der Thüre hereinplatzend)
+      </stage>
+      <lg>
+       <l>
+        Wie ist’s? werd’ ich bald Sekretär?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #regent #lenchen"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Was will denn der?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin der Sekretär. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Der kommt zur ungelegnen Zeit,
+       </l>
+       <l>
+        Verhindert ganz mein Glück:
+       </l>
+       <l>
+        Das Glück ist rund, die Welt ist weit,
+       </l>
+       <l>
+        Doch weich ich nicht zurück.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Was will die komische Figur
+       </l>
+       <l>
+        Mit ihrem Schafkopf Blick?
+       </l>
+       <stage>
+        (auf Haspel)
+       </stage>
+       <l>
+        Wär ich allein mit Lenchen nur –
+       </l>
+       <l>
+        Vielleicht macht ich ihr Glück.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Der kam just recht die dumme Haut,
+       </l>
+       <l>
+        Verdirbt den ganzen Tanz;
+       </l>
+       <l>
+        Um desto besser für die Braut
+       </l>
+       <l>
+        So ist ihr Glück doch ganz.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Wie ist’s? – Wie wirds? – Hört niemand mehr?
+       </l>
+       <l>
+        Ists Ernst, Spaß, oder Scherz?
+       </l>
+       <l>
+        Da steht der arme Sekretär,
+       </l>
+       <l>
+        Wie’s Mandel bey dem Sterz!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #regent #lenchen"><!-- korrekt ids -->
+      <speaker>
+       Alle drey.
+      </speaker>
+      <lg>
+       <l>
+        Alles alles geht verworren
+       </l>
+       <l>
+        Und man hat sich so gefreut.
+       </l>
+       <l>
+        Ach, es geht dabey verloren
+       </l>
+       <l>
+        Die so schöne goldne Zeit.
+       </l>
+       <l>
+        Doch nur stille, stille, stille!
+       </l>
+       <l>
+        Denkt, es soll und muß so seyn
+       </l>
+       <l>
+        Es ist so des Glückes Wille
+       </l>
+       <l>
+        Gieb, o Mensch! dich willig drein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (dreinschreyend)
+      </stage>
+      <lg>
+       <l>
+        Sitzt denn alles auf den Ohren?
+       </l>
+       <l>
+        Glaubt’s der Sekretär hat Zeit?
+       </l>
+       <l>
+        Habts denn das Gehör verloren,
+       </l>
+       <l>
+        Wenn man wie ein Esel schreyt?
+       </l>
+       <l>
+        Still, ich bin der junge Haspel!
+       </l>
+       <l>
+        Haspel heiß ich, was wollts mehr?
+       </l>
+       <l>
+        D’Mutter heißt die Eva Raspel,
+       </l>
+       <l>
+        Still – ich bin der Sekretär.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Mein lieber Herr von Haspel! – Hier ist des Herrn Grafen Bruder.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       So? – Servus! – Servus! Aber ich kann ihn nicht ausnehmen. Ich hab schlechte Augen von Studiren bey der Nacht.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (zum Grafen)
+      </stage>
+      <p>
+       Ich bestell ihn nur des Spasses wegen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Lassen Sie ihn. Es ist selten ein Haus, wo nicht ein Haspel ist.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich bin da.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Und sollen auch da bleiben.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Es ist ihnen eine Ehr’ – Damit aber der Herr Regent nicht glaubt, ich bin ein Esel, vor ihnen zu reden, so hab ich einen Aufsatz da, den ich an meine Herzensbesitzerinn geschrieben hab, aber ich muß’s selber lesen, sonst kanns kein Mensch.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Irr ich nicht, so ist das ja der Hausherrn Sohn von Linz?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (zum Grafen)
+      </stage>
+      <p>
+       Kann denn eine solche Kreatur auch eine Herzensbesitzerinn haben?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Weibergusto sind verschieden. – Lesen Sie!
+      </p>
+      <stage>
+       (zu Haspel)
+      </stage>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+        (liest)
+       </stage>
+      <p>
+       „Einzige Quartiersfrau meines getreuen Herzens-Pallastes! Substantiose Urschel!“ Sie ist eine Köchinn! – „und ich kann dirs nicht länger verschwiegen halten, derohalben ich so viele Unordnungen und Handlereyen in meinem Herzen empfunden gewesen.“
+      </p>
+      <stage>
+       (Alle lachen)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Das ist schön!
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Das ist hochdeutsch! – „Silberne Urschel! Wann wird die Sonne meines Glücks untergehen?“ Das ist eine Fraß!*)– „Weswegen du wirst erkennen, wie viel ich dir zu Ehren alle Tag Seufzer ausstoß.“ Alle gehören für sie. – „Urschel! sammetne Urschel! – Mühlstein meines Herzens, wann ländet die Stunde meines Glücks an?“ Merken Sie die Fineß? – Sie kommt von Linz.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich merke was.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (liest)
+      </stage>
+      <p>
+       „Daß ich durch deine Person, wegen der Heurath, aus der Freud, von dem Glück, vor der Consolation, zum Herzen, mittels der Umständ, bey dem Zufall, hinter dem Neid, gegen die Lieb, über das Frolocken, nach der Verfolgung, unter der Ersprießlichkeit, und auf das nächste Heurathen gehabt haben mögen könne. Du wirst mich verstanden haben.“
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Das ist leicht, so eine Schrift zu verstehen!
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Das glaub ich.
+       <stage>
+        (liest)
+       </stage>
+       „Leb wohl grünaugichter Schatz! Dein verschamerirter Liebhaber! – Haspel!“
+      </p>
+      <stage>
+       (Alle lachen)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Was? – grüne Augen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ja, das hat sie. Grüne Augen, eine blaue Nase, und rothe Zähn.
+       <stage>
+        (liest)
+       </stage>
+       „Ich erwarte von dir nächstens eine scandalose Antwort.“
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Die verdienen Sie auch.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Mein lieber Herr Haspel, ich geb ihnen mein Wort, daß Sie meinem Bruder gefallen. Lenchen! – Sie weiß ihre Schuldigkeit.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (Knicks)
+      </stage>
+      <p>
+       Ihro Gnaden werden meine Verdienste loben.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (zum Grafen)
+      </stage>
+      <p>
+       Ich gratulire.
+       <stage>
+        (zum Haspel)
+       </stage>
+       Herr Haspel, ich wünsche gute Unterhaltung.
+      </p>
+      <stage>
+       (ab mit dem Grafen. Lenchen will durch die Mittelthüre. Haspel zieht sie zurück.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Lenchen. Haspel.
+     </stage>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       He Jungferl! – Warts ein wenig!
+       <stage>
+        (dummlachend)
+       </stage>
+       Der Jungfer ihr Sprach ist mir aus der Fasanomie bekannt.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       So? – Sie sind ja der Hausherrns Sohn, in Linz, beym goldenen Schöpfen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Richtig, das ist mein Vater. – Nicht der Schöps, sondern der Hausherr. – Und wann ich mich nicht irr, so ist ja die Lenerl, die g’weßte Jungfer bey der g’strengen Frau von Pfnausnigel? – Hat mich d’ Jungfer schon ganz vergessen? Mich, den zärtlichen Haspel?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (spröd)
+      </stage>
+      <p>
+       Wer andern Mädeln schreibt, der kann mich auslassen!
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Sey d’ Jungfer nicht so dumm. Es ist ja nur ein G’spaß. He he! Der Brief kommt aus meinem Kopf. Es ist alles erlogen. Ich bin noch der alte Haspel.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Das seh ich.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Und wann sie will – ich bin g’laden, mit Dukaten, und mein Vater geht schon auf den letzten Füssen.
+       <stage>
+        (lacht)
+       </stage>
+       Itzt bin ich Sekretär, und wann sie ein Appetitt auf mich hätt, so wurden wir ein Paar, und da wurden wir sehen, was ich mir mit der Zeit mit meiner Feder verdienen könnte.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Wenn das Ernst wär – ja – ein Haspel wird ein scharmanter Ehemann – Topp!
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Topp! Wenn ich geheimer Sekretär werde, so wirst du meine vertraute geheime Canzley.
+      </p>
+     </sp>
+     <stage>
+      Duetto.
+     </stage>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        O Lenerl, o Lenerl! wie hab ich dich gern!
+       </l>
+       <l>
+        Dein bin ich, dein bleib ich, dein will ich zug’hörn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Du bist schon mein Haspel, du bleibst auch schon mein,
+       </l>
+       <l>
+        Du sollst stets mein einziger Haspel nur seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Mein Vater hat Geld, und ich hab viel Verstand
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Wer Geld hat, hat Alles, braucht nichts vor der Hand.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ja Lenerl, ja Lenerl, da hast du wohl recht,
+       </l>
+       <l>
+        Denn, wann ich kein Geld hätt, wer weiß, wer mich möcht?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Mein G’sichtel ist hübsch und mein Haspel hat Geld,
+       </l>
+       <l>
+        So bringt uns dein Geld und mein G’sicht durch die Welt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #haspel">
+      <speaker>
+       Alle zwey.
+      </speaker>
+      <lg>
+       <l>
+        Der Handel ist g’schlossen, da hast du mein Wort,
+       </l>
+       <l>
+        Der Haspel und d‘ Lenerl, die sind schon akkord:
+       </l>
+       <l>
+        Und führen wir bald unser eigenes Haus
+       </l>
+       <l>
+        So gehen die Haspeln sein Lebtag nicht aus.
+       </l>
+      </lg>
+      <stage>
+       (Beyde ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Kaspar. Der Regent.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O jerum! – Was hab ich g’sehen? Die Jungfer Lenerl hat sich verhaspelt?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (aus dem Kabinet)
+      </stage>
+      <p>
+       Kaspar!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Gnaden!
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich und der Graf schliessen einige Rechnungen ab. Laß also niemand vor, und minder wichtige kannst du selbst abfertigen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gut, ich werd schon einen Kreen machen. – Ich weiß, was ich thu, ich leg den Kasakin da an, und setz das Fraßhäubel da auf, so seh ich einen völligen Pamphili gleich, wie mein Herr!
+       <stage>
+        (Er zieht den Schlafrock an)
+       </stage>
+       Den Haspel muß ich was anders zu thun geben, sonst peckt er mir die Kammerjungfer an, und das wär mir zu patzig. – He! – Herr Haspel!
+      </p>
+      <stage>
+       (er wirft sich in den Sessel. Haspel kommt und fährt zurück)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Erschrick der Herr nicht, ich bin der Graf im Schlafrock.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ihr Excellenz!
+      </p>
+      <stage>
+       (ihm den Schlafrock küssend)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Er hat meine Gnad, aber mit der Kammerkatz muß er sich nicht abgeben, das ist meines Kaspars Parthie, und der ist ein braver, guter, bildschöner Kerl. Bis indessen ein andere Einrichtung getroffen wird, so meld’ er mir jeden, der kommt, mein Freund! – Wir bleiben ihm in Gnaden gewogen.
+       <stage>
+        (reicht ihm die Hand zum Kuß)
+       </stage>
+       Er kann sich absundiren! –
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Der Graf hat eine Bratze, wie ein Riebeisen, und so schwarz, als wann Ruben drauf anbaut wären.
+      </p>
+      <stage>
+       (zu sich, dann ab)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Sackerlot! es geht!
+       <stage>
+        (lacht)
+       </stage>
+       Die erste Audienz ist vorbey. Ich glaub, wann man nur ein wenig ein Schlafrock an hat, so lernt man schon grob gegen die gemeinen Leut seyn.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <p>
+       Ihr Excellenz, des Gott Apollo sein Stiefbruder ist draussen. Er sagt, er ist ein Prophet.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Den laß der Herr einergehn. Der soll mir den Traum auslegen.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Gleich! – Geh der Herr her!
+      </p>
+      <stage>
+       (er öfnet ihm die Thür und bleibt gaffend stehen)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Der Poet im Schlafrock mit Lorbeer.
+     </stage>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Gepriesner Mazenat, du bist es in der That, den ich so früh als spat verehre: weil ich für meine Kunst, nur einzig deine Gunst, und gar nichts anders sunst, begehre.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das ist gewiß auch ein vornehmer Herr! –
+       <stage>
+        (laut)
+       </stage>
+       Ist der Herr ein Prophet?
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Nein, ich bin ein Poet, der Dichtkunst und Reime versteht. – Durch diese Zimmerthür, komm ich herein zu dir, dir, meine Pflicht allhier, zu weisen, und dich bis an mein End, dich, den Herr Graf man nennt, Potztausend Schlaprament! zu preisen.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ihr Exlenz der flucht! den wirf ich hinaus.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Laß ihn leben! –
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Sind sie ein Gelehrter?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich bin der Graf Hollerthee.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <stage>
+       (sich verbeugend)
+      </stage>
+      <p>
+       Ich hab ein Epitaphium auf dero Beylager verfaßt. Hören Sie! –
+      </p>
+      <lg>
+       <l>
+        „Hochwohlgeborner Bräutigam!
+       </l>
+       <l>
+        Erlaub mir deinen großen Nahm
+       </l>
+       <l>
+        Nach Würde zu erheben,
+       </l>
+       <l>
+        Und da ich dich durch Reime grüß,
+       </l>
+       <l>
+        So sag’ ich dir, du bist so süß,
+       </l>
+       <l>
+        Wie Feigen und Ziweben
+       </l>
+       <l>
+        Die Hoch und wohlgeborne Braut,
+       </l>
+       <l>
+        Scheint mir a recht a gute Haut,
+       </l>
+       <l>
+        Sie thut wie Sterne glanzen.
+       </l>
+       <l>
+        Der Götter Hand dieß liebe Paar,
+       </l>
+       <l>
+        Vor allem Unglück stets bewahr,
+       </l>
+       <l>
+        Vor Hungersnoth und Wanzen.“
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Mich beißts schon am ganzen Leib.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Halt der Herr das Maul.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <lg>
+       <l>
+        „Wie die Marschantzger auf dem Baum,
+       </l>
+       <l>
+        Wie auf dem Hornerbier der Faum,
+       </l>
+       <l>
+        Wie Milch und Obers pranget,
+       </l>
+       <l>
+        So hat der hochzeitliche Graf,
+       </l>
+       <l>
+        An seiner Braut dem lieben Schaaf,
+       </l>
+       <l>
+        Die Schönheit auch erlanget. –
+       </l>
+       <l>
+        Ich wünsche Euch zum guten Schluß,
+       </l>
+       <l>
+        Von der Perücke bis zum Fuß
+       </l>
+       <l>
+        Nur singen, tanzen, lachen.
+       </l>
+       <l>
+        Der Himmel wolle Euch zugleich,
+       </l>
+       <l>
+        Auf diesem Brettelteller-Reich,
+       </l>
+       <l>
+        Beglückt, und alles, was ihr euch an Leib
+       </l>
+       <l>
+        und Seel Ersprießliches wünschen wollt, so
+       </l>
+       <l>
+        wie ich es wünsche, geniessen machen.“
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Der letzte Fersch ist um eine halbe Meil Wegs zu lang.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Auch hab ich eine kleine Komödie verfertigt.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Da spiel ich auch mit.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Still Domestick! – Leß mir’s der Herr vor. Kritisiren will ichs, aber besser machen kann ich’s nicht. Wie heißts?
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Fraß und Füllerey, ein Schauspiel in fünfzehn Aufzügen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Der Titel ist verflucht hungrig.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Da spiel ich mit, da spiel ich mit. Denn fressen kann ich wie ein Halter.
+      </p>
+      <stage>
+       (Man hört läuten.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Jetzt muß ich fort, mein Bruder läutet mir. – Mach der Herr derweil was Lustiges. Da ist Feder und Dinte –
+       <stage>
+        (zu Haspel)
+       </stage>
+       und der Herr scheer sich fort, damit der G’lehrte seinen Schedel ausleeren kann.
+      </p>
+      <stage>
+       (Haspel ab)
+      </stage>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ihr Excellenz – ich bitt nur um eine Kleinigkeit.
+      </p>
+      <stage>
+       (die Hand aufhaltend. – Man läutet.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ein andersmal – jetzt hab’ ich nichts Kleines!
+       <stage>
+        (er sucht überall)
+       </stage>
+       Ich komme gleich, sonst prügelt mich mein Bruder.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Me Hercule! Prügeln?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, weil er der Maratherr ist. – Wünsch gute Gedanken!
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Das heißt den ganzen Tag gefischt, und nichts erwischt. Ein leerer Magen, kein Gericht, und Appetit, das reimt sich nicht.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <p>
+       Herr Prophet! – Es ist ein Herr in einem Flegelmantel draus, der will mit ihnen reden. Er hat Roß und Wagen vor dem Haus stehen, ich weiß nicht, ist’s ein Lehenkutscher, oder ein eigner Herr.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ach Himmel ach! Das ist der Racker! Der unglückselige Fiacker! – Dem bin ich 2 Siebzehner schuldig, drum wird der Flegel ungeduldig! – Das Ding wird immer schöner. Leih er mir 2 Siebzehner.
+      </p>
+      <stage>
+       (zum Haspel)
+      </stage>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ach, ich leih keinem Poeten nichts. Mein Vater hat g’sagt, in Versen nehmen sie’s zu leihen, und in Profi geb’ns nichts zurück. Da ist der gnäd’ge Herr schon.
+      </p>
+      <stage>
+       (macht dem Lehenkutscher die Thür auf, dann ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechszehnter Auftritt.
+     </head>
+     <stage>
+      Fiacker. Poet.
+     </stage>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       No, wie ist’s. Der Herr laßt mich schön warten? Das wär schon recht! Nachher heißts, ein Kutscher ist ein Flegel. Auf d’letzt thäts ein auf‘n Kraut fressen. Mach der Herr, sonst fahr ich unter ein Gulden nicht weg. Es ist ohnedem ein Schand für mein Wagen, denn die Leut glauben, ich führ den Pfingstlimmel.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Nur Geduld, ich verlange nichts umsonst.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Umsonst auch noch? Ist wahr, Haber und Heu krieg ich umsonst? Es seyn ohnedem zanzete Zeiten. Wann man fahrt, wie man will, so kriegt man höchstens ein 2 Groschenstückl Trinkgeld, und, wenn man ein wenig raisonnirt, so schreyens gleich, Kerl, was hast für ein Numero? und nachher giebts Strichel nach dem gereckten Tod. – Also Marsch!
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich habe keinen Kreutzer. Führt mich aus Liebe des Nächsten.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Meine Pferd und ich fressen nichts von der Liebe des Nächsten. Marsch! Zieh der Herr den Schlafrock aus, und lauf er im Hemd z’Haus.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich setz euch meinen Lorber ein.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Da konnt ich höchstens ein Lungelbratel damit fressen.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Bedenkt doch, wer ich bin.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Ein Mensch, der kein Geld hat, ist nichts. – Der Herr ist ein Ferschenmacher? Mein Kammerad der Schmalzlippel kanns auch.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       O grosser Apoll! So soll die Poesie gar unter die Lehenkutscher gekommen seyn?
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Er hat mir öfters einen Fersch auf mein Mensch g’macht, aber itzt haben wir uns zertragen.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Habt ihr ein Mädchen?
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Nix Mädchen, ein Mensch hab ich g’sagt.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich will euch etwas machen, wenn ihr mich führt.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Ja Herr, was Lieb’s. So, daß ich sie gern hab, und daß sie mich gern hätt, und mein Wagen, und meine 4 Schimmel bring mir der Herr auch hinein. Sie heißt Köchinn, und ist ein Evadudel. Sie macht die beßten Germnudel in ganz Oesterreich.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Also: Willkommen, liebster Schatz, gepriesne Evadudel, Verfasserinn der so berühmten Germnudel! –
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Das ist schön und köstlich!
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich hab zu deinem Dienst ein Wagen und 4 Schimmel, und bleib dein bis in Tod dir treu ergebner Limmel.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Nein, das ist zu laut.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Es ist gut, wenn sich der Mensch erniedrigt.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Nein, den Limmel muß mir der Herr zu was anders machen.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ein Limmel ist ja leicht verändert, es giebt noch mehr Schimpfnahmen im Grobians-Kalender.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Gut – komm der Herr, da drauß ist’s besser, da trinken wir eins mit einander. Aber bevor’s fertig ist, führ ich den Herrn nicht heim. Wir seyn ohnehin gerackert g’nug. Kein Mensch will recht fahren, weil jetzt die Commotion in der Modi ist, und wann’s nit um’s Neujahr regnet, oder bey ein Feuerwerk ein kleins Wolkenbrüchel niedergeht, so müssen wir auf d’letzt unsere Roß fressen.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <lg>
+       <l>
+        Es ist ein Fiacker jetzt so wie sein Pferd,
+       </l>
+       <l>
+        Bey unsern Zeiten im nähmlichen Werth.
+       </l>
+       <l>
+        Bald fahrt er zu langsam, bald fahrt er zu g’schwind,
+       </l>
+       <l>
+        Nachdem er halt führt oft ein hackliches Kind.
+       </l>
+       <l>
+        Der Wag’n soll nicht stossen, soll gehn wie ein Trag,
+       </l>
+       <l>
+        Sonst ist gleich beym Aussteig’n a grimmige Klag,
+       </l>
+       <l>
+        Und heißt er’s ein wenig ein G’sindel dabey,
+       </l>
+       <l>
+        So kriegt er sein Habern, da kommt d’Polizey.
+       </l>
+       <l>
+        – – –
+       </l>
+       <l>
+        Da wird uns der Wagen gar oft ruinirt,
+       </l>
+       <l>
+        Wenn puderte Herren spazieren man führt;
+       </l>
+       <l>
+        Da wird er voll Puder, Pomadi und Schmier,
+       </l>
+       <l>
+        Und kriegt man doch keinen Kreutzer dafür:
+       </l>
+       <l>
+        Oft führ ich die Herren auf Puff und auf Borg,
+       </l>
+       <l>
+        Das Zahlen das ist ihre mindeste Sorg.
+       </l>
+       <l>
+        Es wär oft vonnöthen, man frässet auch bloß
+       </l>
+       <l>
+        Nur Haber und Heu wie ein hungriges Roß.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Kaspar aus dem Kabinet wie zuvor.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich muß doch g’spassig ausschauen, denn mein Herr hat glaubt, er ist’s selber.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      Fräulein Fanille tritt ein, und macht Kaspar ein Compliment.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Guten Morgen, lieber Regent! –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Ihr Gnaden foppen sich ja selber. Bin ja nur ich’s.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Der Kaspar? – Wie kommt er in die Maskerade?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Der Herr Graf und der Regent thun miteinander auf Muttiplication studiren, damit’s mehr Geld bey der Hochzeit haben, und da hab ich halt indessen sein Stell vertreten, und die Partheyen überhört, denn in dem Schlafrock stecken die beßten Gedanken.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Was sind das für zwey Mädchen im Vorzimmer?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Zwey Kammerjungfern. Eine hat des Herrn Grafen Approbation schon erhalten.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       So? – Ich will sie sprechen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (will sich ausziehen)
+      </stage>
+      <p>
+       Gleich!
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Bleib er nur so, dem Grafen braucht er noch nichts zu sagen, daß ich hier bin.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich riech ihr Gnaden von Weiten – ich merks schon – He Kammerjungfern!
+       <stage>
+        (zur Thüre hinaus, dann springt er ins Kabinet)
+       </stage>
+       Der Graf retirirt sich. Zwey Augen hab ich nur. Wann mir eine jede nur eins auskratzt, so bin ich blind, wie ein Fink.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Ey, ey! Das ist mir nicht lieb, daß mein Bräutigam Kammerjungfern engagirt. – Doch – Passons la dessus. Ist er nur einmal mein Mann, dann bin ich seine erste Kammerfrau.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Finale.
+     </head>
+     <sp who="#gräfinn">
+      <speaker>
+       Gräfinn.
+      </speaker>
+      <lg>
+       <l>
+        Der Brautstand ist vor allen
+       </l>
+       <l>
+        Der schönste Stand allein.
+       </l>
+       <l>
+        Das Herz fängt an zu wallen,
+       </l>
+       <l>
+        Es kann nicht ruhig seyn.
+       </l>
+       <l>
+        Es zittert, hoft und schwebet,
+       </l>
+       <l>
+        Man weiß nicht aus noch ein,
+       </l>
+       <l>
+        Man glaubt, indem man bebet,
+       </l>
+       <l>
+        Im Paradies zu seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette #lenchen">
+      <speaker>
+       Lisette, Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Hier sind wir zu Diensten
+       </l>
+       <l>
+        Mit unseren Künsten,
+       </l>
+       <l>
+        Sind flink bey der Hand.
+       </l>
+       <l>
+        Uns fehlts nicht an Willen
+       </l>
+       <l>
+        Den Wunsch zu erfüllen,
+       </l>
+       <l>
+        Wir haben Verstand.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräf.">
+      <speaker>
+       Gräf.
+      </speaker>
+      <stage>
+       (zur Lisette)
+      </stage>
+      <lg>
+       <l>
+        Was kann Sie für Sachen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Kann Kopfputze machen,
+       </l>
+       <l>
+        Auf Haar und auf Touren:
+       </l>
+       <l>
+        Ich kann Garnituren,
+       </l>
+       <l>
+        Auch die Natherey,
+       </l>
+       <l>
+        Und noch mancherley.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräf.">
+      <speaker>
+       Gräf.
+      </speaker>
+      <stage>
+       (zu Lenchen)
+      </stage>
+      <lg>
+       <l>
+        Und sie, was kann denn sie?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Noch mehr als wie die.
+       </l>
+       <l>
+        Spitzbutzen, spitzkleckeln,
+       </l>
+       <l>
+        Salopp machen, fleckeln,
+       </l>
+       <l>
+        Und dann nebenbey.
+       </l>
+       <l>
+        Die Kanditerey.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräf.">
+      <speaker>
+       Gräf.
+      </speaker>
+      <lg>
+       <l>
+        Und ihr Lohn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Hundert Gulden.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräfin">
+      <speaker>
+       Gräfin.
+      </speaker>
+      <stage>
+       (zu Lis.)
+      </stage>
+      <lg>
+       <l>
+        Sie muß sich gedulden,
+       </l>
+       <l>
+        Denn diese kann mehr.
+       </l>
+       <stage>
+        (zu Lench.)
+       </stage>
+       <l>
+        Sie kommt wieder her.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Schämt sie sich nicht so zu lügen
+       </l>
+       <l>
+        Und die Dame zu betrügen,
+       </l>
+       <l>
+        O sie Fisperl ohne End?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ich hab ihr halt nachgelogen,
+       </l>
+       <l>
+        Und sie so, wie sie betrogen,
+       </l>
+       <l>
+        Ey potztausend Fickerment!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Nur Geduld, wir wollen sehen,
+       </l>
+       <l>
+        Wie es ihr wird hier ergehen
+       </l>
+       <l>
+        Bald wirft man die aus dem Haus,
+       </l>
+       <l>
+        So wie überall hinaus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ey glaubt sie, man kanns nicht wissen,
+       </l>
+       <l>
+        Daß sie aus dem Haus hat müssen,
+       </l>
+       <l>
+        Weg’n dem schwarzen Ferdinand?
+       </l>
+       <l>
+        Das ist ja schon weltbekannt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Was! das möcht’ ich nochmal hören!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ey daran werd ich mich kehren.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Ja sie lügt in ihren Hals
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Und das thut sie ebenfalls.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette #lenchen">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Nein, das ist nicht zu ertragen.
+       </l>
+       <l>
+        So ein Schimpf in diesem Haus!
+       </l>
+       <l>
+        Schrecklich müssen wir uns schlagen,
+       </l>
+       <l>
+        Eine muß zum Haus hinaus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (im Schlafrock)
+      </stage>
+      <lg>
+       <l>
+        Heda still ums Teuxelswillen
+       </l>
+       <l>
+        Seyds dann auf der Wäscherzillen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Sie hat mir das Brot gestohlen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Laß sie sich ein anders hohlen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Sie hat nur die Braut betrogen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        So hätt’ d’Jungfer wieder g’logen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette #lenchen">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Nur Geduld dich will ich kriegen,
+       </l>
+       <l>
+        Haub’ und Haar zugleich soll fliegen,
+       </l>
+       <l>
+        So entkommst du mir nicht mehr,
+       </l>
+       <l>
+        Nein, auf Kammerjungfern Ehr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Da wird eine Prügel kriegen,
+       </l>
+       <l>
+        Gleich wird da ein Schopf wegfliegen,
+       </l>
+       <l>
+        Mamsell Jungfern meiner Ehr
+       </l>
+       <l>
+        Machts mir keinen Staub daher. (Er schiebt sie hinaus)
+       </l>
+       <l>
+        Ey potztausend, das war was!
+       </l>
+       <l>
+        Das war a Bagaschi das!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <stage>
+       (kömmt ängstlich)
+      </stage>
+      <lg>
+       <l>
+        Das ist ein verdammter Racker!
+       </l>
+       <l>
+        Der abscheuliche Fiacker.
+       </l>
+       <l>
+        Ach, um alles in der Welt
+       </l>
+       <l>
+        Leihens mir ein kleines Geld.
+       </l>
+      </lg>
+      <stage>
+       (zu Kasp.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Ha! verflucht, nein, Unsereins
+       </l>
+       <l>
+        Hat nichts Großes und nichts Kleins.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <lg>
+       <l>
+        Nehmens doch zur G’fälligkeit
+       </l>
+       <l>
+        Meinen Kranz aus Dankbarkeit!
+       </l>
+       <stage>
+        (setzt ihm eben auf)
+       </stage>
+       <l>
+        Und verstecken sie mich hier,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Fort ins Kabinet mit dir.
+       </l>
+       <stage>
+        (Er versteckt den Poeten und kommt gleich wieder)
+       </stage>
+       <l>
+        Itzt bin ich, schauts mich einmal an
+       </l>
+       <l>
+        Sogar ein Lorbeerblattel Mann.
+       </l>
+       <l>
+        Doch still, ich höre wieder wen,
+       </l>
+       <l>
+        Da muß ich gleich auf d’Seite gehen.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (kommt mit Lisette und Lenchen)
+      </stage>
+      <lg>
+       <l>
+        Verlassen Sie sich nur auf mich,
+       </l>
+       <l>
+        Der g’heime Secretair bin ich.
+       </l>
+       <l>
+        Machts Frieden und seyds einmal g’scheidt,
+       </l>
+       <l>
+        Sonst kommts den Mäulern in die Leut!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette">
+      <speaker>
+       Lenchen. Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Nein, ich will wieder meine Ehr’!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ey theilts mitsammen hin und her,
+       </l>
+       <l>
+        So giebts gar kein’ Prozeß nicht mehr:
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #regent">
+      <speaker>
+       Graf. Regent.
+      </speaker>
+      <stage>
+       (kommen)
+      </stage>
+      <lg>
+       <l>
+        Was giebt es hier für Streiterey,
+       </l>
+       <l>
+        Ist das Respekt und Brauch?
+       </l>
+       <l>
+        Der dumme Haspel ist dabey,
+       </l>
+       <l>
+        Die Kammerjungfern auch.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ich liebe nicht die Zänkerey,
+       </l>
+       <l>
+        Darum entfern ich mich.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (hält und umschlingt sie)
+      </stage>
+      <lg>
+       <l>
+        Bleib liebes Lenchen ohne Scheu,
+       </l>
+       <l>
+        Bleib hier, ich schütze dich.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräfinn">
+      <speaker>
+       Gräfinn.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <lg>
+       <l>
+        Ha! mein saubrer Bräutigam!
+       </l>
+       <l>
+        Kommen wir allhier zusamm?
+       </l>
+       <l>
+        Ich komm, es ist mir herzlich leid (spöttisch)
+       </l>
+       <l>
+        Wohl gar zur ungelegnen Zeit?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #gräfinn #lenchen #lisette #regent #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wer weiß, was noch daraus entsteht,
+       </l>
+       <l>
+        Was wird der Schluß wohl seyn?
+       </l>
+       <l>
+        Wer weiß, wie es zu Ende geht?
+       </l>
+       <l>
+        Ich seh es noch nicht ein.
+       </l>
+       <l>
+        Da schaut nun eins das andre an,
+       </l>
+       <l>
+        Die hier, der andre dort:
+       </l>
+       <l>
+        Und keines weiß, wie oder wann?
+       </l>
+       <l>
+        Man hört kein lautes Wort.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (kömmt)
+      </stage>
+      <lg>
+       <l>
+        Auf d’letzt, da setzt es Handel noch,
+       </l>
+       <l>
+        Ich g’spür die Prügel schon.
+       </l>
+       <l>
+        Nur also g’schwind hinaus beym Loch
+       </l>
+       <l>
+        Und heidipritsch davon!
+       </l>
+      </lg>
+      <stage>
+       (will ab.)
+      </stage>
+     </sp>
+     <sp who="#graf #gräfinn #lenchen #lisette #regent #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Was ist denn das? Wer ist denn der?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <stage>
+       (kommt und hält Kaspar)
+      </stage>
+      <lg>
+       <l>
+        Da nichts passiert mein saubrer Herr!
+       </l>
+       <l>
+        Glaubt er, daß ’s gleich so geht?
+       </l>
+       <l>
+        Nein, foppen laß ich mich nicht mehr,
+       </l>
+       <l>
+        Halt an mein Herr Poet!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #gräfinn #lenchen #lisette #regent #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Poet? ein Poet?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (knieend)
+      </stage>
+      <lg>
+       <l>
+        Der ist ja drin im Kabinet.
+       </l>
+       <l>
+        Und ich bin ja ganz und gar,
+       </l>
+       <l>
+        Kasperl selbst der arme Narr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #regent">
+      <speaker>
+       Graf. Regent.
+      </speaker>
+      <lg>
+       <l>
+        Heraus mein saubrer Herr Poet,
+       </l>
+       <l>
+        Heraus aus diesem Kabinet.
+       </l>
+      </lg>
+      <stage>
+       (Sie führen ihn heraus)
+      </stage>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <lg>
+       <l>
+        O weh ich dummer Michel!
+       </l>
+       <l>
+        Itzt krieg ich richtig Strichel.
+       </l>
+       <l>
+        O Tod komm mit der Sichel,
+       </l>
+       <l>
+        Mach, daß mir armen Michel,
+       </l>
+       <l>
+        Wird des Fiackers Strichel,
+       </l>
+       <l>
+        Zum Nichel aller Nichel.*)
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Ich sehe, hier ist ein Verstoß
+       </l>
+       <l>
+        Dahier ist Geld, laß er ihn los.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <lg>
+       <l>
+        Schon gut. Mein Lebtag gnäd’ger Herr!
+       </l>
+       <l>
+        Führ ich ja kein’ Poeten mehr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <stage>
+       (kommt auch gelaufen, und stößt den Kutscher nieder)
+      </stage>
+      <lg>
+       <l>
+        Da ist die Tafel, hier die Gäst’,
+       </l>
+       <l>
+        Die Knödel werden sonst zu fest.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <lg>
+       <l>
+        Herr, wenn er mir noch einmal’ kummt, **)
+       </l>
+       <l>
+        So weiß ich, daß der Kopf ihm brummt.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (mit der Faust drohend ab, indem ihn Kaspar hinaus transportirt.)
+     </stage>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <lg>
+       <l>
+        Die Suppe wird kalt, und die Bratel verbraten,
+       </l>
+       <l>
+        Die Knödel sind hart, und der Taig wird nicht g’rathen.
+       </l>
+       <l>
+        Die Schnepfen, die Hasen, der Hahn und Fasan,
+       </l>
+       <l>
+        Verbraselt sich alles, kurzum ich richt an.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Sag es mir, was will er doch?
+       </l>
+       <l>
+        Ich glaub er ist ein Narr?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#koch">
+      <speaker>
+       Koch.
+      </speaker>
+      <lg>
+       <l>
+        Mehlschöberl heiß ich, und bin Koch,
+       </l>
+       <l>
+        Da wissen Sie es klar.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (zum Hasp.)
+      </stage>
+      <lg>
+       <l>
+        Sag er mir, was will denn er?
+       </l>
+       <l>
+        Wenn man fragen kann?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Nichts per Er, bin Secretair,
+       </l>
+       <l>
+        Und wen geht’s was an?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin Lieschen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin Lene.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräfin">
+      <speaker>
+       Gräfin.
+      </speaker>
+      <stage>
+       (zum Graf.)
+      </stage>
+      <lg>
+       <l>
+        Das ist also ihre Schöne?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        O da werden Sie sich irren,
+       </l>
+       <l>
+        Hab ich denn nicht mehr Kredit?
+       </l>
+       <stage>
+        (zur Gräf. beis.)
+       </stage>
+       <l>
+        <stage>
+         (laut)
+        </stage>
+        Alles will ich engagiren,
+       </l>
+       <l>
+        Daß kein Unrecht hier geschieht.
+       </l>
+       <l>
+        Doch nur auf ein Vierteljahr,
+       </l>
+       <l>
+        Dann ist der Kontrakt auch gar.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräfin">
+      <speaker>
+       Gräfin.
+      </speaker>
+      <lg>
+       <l>
+        Nun so sind wir auch vereint,
+       </l>
+       <l>
+        Wenns mein Bräutigam so meynt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette #regent #haspel #koch #poet"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (bis auf den Grafen und die Gräfinn.)
+      </stage>
+      <lg>
+       <l>
+        Jubelt hoch und jauchzet laut,
+       </l>
+       <l>
+        Vivat Bräutigam und Braut!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #gräfinn #lenchen #lisette #regent #haspel #koch #poet"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Alles war hier so verworren,
+       </l>
+       <l>
+        Alles hatte sich geirrt:
+       </l>
+       <l>
+        Keiner traute Aug’ und Ohren,
+       </l>
+       <l>
+        Jeder hat sich selbst vexirt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gräfinn #lenchen #lisette"><!-- korrekt ids -->
+      <speaker>
+       Weiber.
+      </speaker>
+      <lg>
+       <l>
+        Gar nichts ist nunmehr zu scheuen,
+       </l>
+       <l>
+        Alles alles war ein Wahn:
+       </l>
+       <l>
+        Giebt es irgend Streitereyen,
+       </l>
+       <l>
+        Sind die Männer Schuld daran:
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf #gräfinn #lenchen #lisette #regent #haspel #koch #poet"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Zu dem Sturme schollen Glocken,
+       </l>
+       <l>
+        Alles gieng die Kreuz und Quer:
+       </l>
+       <l>
+        Alles alles gieng ins Stocken,
+       </l>
+       <l>
+        Da kam wieder Friede her.
+       </l>
+       <l>
+        Nach dem Sturme scheint die Sonne,
+       </l>
+       <l>
+        Keine Nebel sieht man mehr,
+       </l>
+       <l>
+        Ruh und Eintracht nur bringt Wonne,
+       </l>
+       <l>
+        Ach! wenns nur bald Friede wär!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Ende des ersten Aufzugs.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Voriges Zimmer.)
+     </stage>
+     <stage>
+      Fanille zornig, hinter ihr eilig der Graf.
+     </stage>
+     <stage>
+      Duetto.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <lg>
+       <l>
+        Nein das ist zu übertrieben!
+       </l>
+       <l>
+        Sich in Lenchen zu verlieben?
+       </l>
+       <l>
+        O der schöne Bräutigam!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Es war ja nur Scherz Geliebte,
+       </l>
+       <l>
+        Daß Sie Eifersucht betrübte,
+       </l>
+       <l>
+        Und ich zum Verdachte kam.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <lg>
+       <l>
+        Nun ich will das Beste glauben,
+       </l>
+       <l>
+        Mir nicht alle Hoffnung rauben,
+       </l>
+       <l>
+        Denn ich bau auf ihr Gefühl.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Es ist wirklich gar zu bitter,
+       </l>
+       <l>
+        Wenn den Ton der Hochzeitzither
+       </l>
+       <l>
+        Eifersucht verstimmen will.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille #graf">
+      <speaker>
+       Fanille. Graf.
+      </speaker>
+      <lg>
+       <l>
+        Darum vergessen und vergeben,
+       </l>
+       <l>
+        Laß uns wieder ruhig leben,
+       </l>
+       <l>
+        Liebe sey des Zweifels Damm.
+       </l>
+       <l>
+        Wir sind Braut und Bräutigam!
+       </l>
+      </lg>
+      <stage>
+       (Beyde durch die Mittelthüre ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Kaspar mit dem Regenten in erster Tracht.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Aber sag mir nur, bist du denn wirklich des Teufels?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein, ich gehöre ja Ihnen zu.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Wer hat dir denn erlaubt meinen Schlafrock anzuziehen? –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich selber. Sie haben ja gesagt, ich soll ihre Person vorstellen, und wann ich einen Schlafrock anhabe, sieh ich Ihnen am besten gleich.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Das sag ich dir, wenn du mir noch einmal so einen dummen Streich machst, so jag ich dich aus dem Dienst.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ach das ist gar nichts möglich. Wir seynd ja schon so zusammengewohnt, wie ein paar Lehenkutscherroß.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Du bist und bleibst ein Narr.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ein Narr muß auch seyn, sonst machten die G’scheiden nicht so viel Aufsehen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Geh und ruf mir Lenchen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die andere ist auch wieder draussen, sie setzt sich an, wie a Wantze.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich brauche sie nicht.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das sag ich ihr alleweil, aber sie sagt, man hat in dem Haus ihre Ehr beschmutzt, sie will sich vor Ihr Gnaden wieder herausputzen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Du thust, was ich dir sage. Lenchen kommt, und Lisette wartet
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Also die Lenerl kommt, und d’Liserl wart?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich werde läuten, wenn ich ihrer bedarf. Hörst du?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Das ist ein alter Schachteldeckel! – Also die Liserl wart, und die Lenerl kommt?
+       <stage>
+        (ab)
+       </stage>
+       Jungfer Lenerl!
+       <stage>
+        (an der Thüre)
+       </stage>
+       Nur herein Mamsell Jungfer!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Vorige. Lenchen.
+     </stage>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Was befehlen Ihr Gnaden? –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ich will mit ihr allein sprechen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So wär’s sauber! – Sie hört nicht gut, ich will ihr’s verdollmetschen.
+      </p>
+      <stage>
+       (zum Regenten.)
+      </stage>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ich bin wahrhaftig in dem Verdachte ganz unschuldig.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja die andre ist ein Lugenmaul, und –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Still! Wer redt mit dir? – Was geht dich das an?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu sich)
+      </stage>
+      <p>
+       Es geht mich ein wenig stark an.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Man muß doch höflich gegen artige Kavaliere seyn. Ich weiß schon, die andere hat mich verträtscht: aber sie ist erstens nichts im Stand, zweytens mit Amanten umrungen, bildet sich ein, sie wär eine Dame, hat ein Maul wie ein Schwerdt, ist voller Schulden, und –
+       <stage>
+        (nicht daß ich ihr die Ehr abschneid)
+       </stage>
+       aus drey Diensten mit Schand und Spott gekommen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So recht Jungfer Lenerl, red die Jungfer nur zu, aber nur nicht Ehr abschneiden.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ja, sie ist schon einmal – –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Still, der Zorn redt aus ihr –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich will ein Häferl Milch hohlen, da lassen die Schlangen meistens das Gift drein.
+      </p>
+      <stage>
+       (zu sich)
+      </stage>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (kneipt sie in die Wange)
+      </stage>
+      <p>
+       Nur getrost mein Schatz! –
+       <stage>
+        (zu Kaspar)
+       </stage>
+       Entferne dich! –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was? Schatz, ein Zwicker, und allein auch noch? –
+       <stage>
+        (laut)
+       </stage>
+       Nein, das thut kein Gut Herr Hausfreund?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Spitzbube!
+      </p>
+      <stage>
+       (Kaspar entspringt)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Regent. Lenchen.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Mein liebes Kind, ich möchte gern, daß wir länger beysammen blieben. Nehme sie sich daher in Acht. Der Graf ist etwas galant, die Braut eifersüchtig, und sie, ist jung und hübsch. Ey, ey! Es sind Schindeln auf dem Dache.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Für was halten Sie mich?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Für ein Frauenzimmer. Es ist alles vergessen, aber notabene! Man muß auch den Schein vermeiden.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Was thu ich denn? Kann ich dafür, wenn ich kein Rhinozeros-Gesicht habe? Ist es meine Schuld, daß der Graf Augen hat. Man muß suchen zu gefallen, weil man noch jung ist. Eine Kammerjungfer sucht sich beliebt zu machen, wo sie kann.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Sie sucht sich also auch beliebt zu machen? – Ein Mädchen, das zu sehr gefällt, gefällt am Ende gar niemand. Ich will ihr eine Romanze erzählen.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       O ja, Romanzen hör ich recht gerne.
+      </p>
+     </sp>
+     <stage>
+      Romanze.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Es war einmal in Oesterreich,
+       </l>
+       <l>
+        Den Nahmen weiß ich nicht:
+       </l>
+       <l>
+        Ein Mädchen, einem Engel gleich,
+       </l>
+       <l>
+        Von Wuchs und von Gesicht.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Nur einen Fehler hatte sie
+       </l>
+       <l>
+        Den man ihr übel nahm:
+       </l>
+       <l>
+        Sie liebte nach der Phantasie,
+       </l>
+       <l>
+        Was in den Weg ihr kam.
+       </l>
+       <l>
+        Kurzum sie liebte jedermann,
+       </l>
+       <l>
+        Der sie nur angelacht,
+       </l>
+       <l>
+        Doch, was fieng sie am Ende an?
+       </l>
+       <l>
+        Was fieng die an? Gieb Acht!
+       </l>
+       <l>
+        Gieb Acht!
+       </l>
+      </lg>
+      <lg>
+       <l>
+        So ward sie alt, sah häßlich aus
+       </l>
+       <l>
+        Man floh sie überall:
+       </l>
+       <l>
+        Die Männer flohen nun ihr Haus
+       </l>
+       <l>
+        Zu ihrer grossen Quaal.
+       </l>
+       <l>
+        Und trug sie auf der Gasse dann
+       </l>
+       <l>
+        Den Runzelkopf zur Schau,
+       </l>
+       <l>
+        Fieng jedes Kind zu schreyen an:
+       </l>
+       <l>
+        „Da kommt ja der Wauwau!“
+       </l>
+       <l>
+        Sie starb, und stieg vom Grab hervor
+       </l>
+       <l>
+        In jeder Mitternacht,
+       </l>
+       <l>
+        Und rief durch ein fernes Rohr
+       </l>
+       <l>
+        Ihr Mädchen, habet Acht!
+       </l>
+       <l>
+        Gebt Acht!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <stage>
+       (Er geht bis an die Thüre, dann kehrt er um, da sie in Gedanken steht)
+      </stage>
+      <p>
+       Nun, – Hat sie Ihr die Lection gemerkt, oder soll ich sie ihr noch einmal sagen? – Was denkt sie?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <stage>
+       (die bisher immer bußfertig stand, fängt plötzlich an zu lachen)
+      </stage>
+      <p>
+       Ich denke – ha! ha! ha! wie die Alte mit dem Runzelkopf auf dem Platz um Mitternacht spatzieren geht? Das ist eine Geistergeschichte nach der neuesten Mode, Kinder zu schrecken. – Pfiffig muß man’s anstellen, Pfeiffen schneiden, weil man im Rohre sitzt, und fangt man an, mit dem Kopf zu wackeln, wie eine Ofenfigur, dann ists immer noch Zeit.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Junge Mädchen müssen scherzen,
+       </l>
+       <l>
+        Weil noch frische Jugend lacht.
+       </l>
+       <l>
+        Nichts verwelkt so leicht wie Herzen
+       </l>
+       <l>
+        Dann heißt’s, Liebe gute Nacht!
+       </l>
+       <l>
+        Wird man alt – dann ist’s vergebens, –
+       </l>
+       <l>
+        Niemand sieht uns zärtlich an.
+       </l>
+       <l>
+        Drum genießt die Zeit des Lebens,
+       </l>
+       <l>
+        Sucht beyzeiten einen Mann.
+       </l>
+       <l>
+        Heute diesen, morgen jenen,
+       </l>
+       <l>
+        Daß man einen Wechsel hat.
+       </l>
+       <l>
+        So lernt man die Männer kennen,
+       </l>
+       <l>
+        Das ist pfiffig in der That!
+       </l>
+       <l>
+        Hat man nun den Schatz gefunden,
+       </l>
+       <l>
+        Winket uns der Liebe Lohn,
+       </l>
+       <l>
+        Dann geschwinde sich verbunden, –
+       </l>
+       <l>
+        Marsch, zur Kopulation!
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Regent. Kaspar.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Bravo! Die hat gerathen, sie darf nur gut thun.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Gnaden! – Der gnädigen Fräule ist nicht gut, sie liegt auf dem Kanapee, und seufzt wie ein Blasbalg.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Ist denn niemand bey ihr?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kein Mensch. Der Graf ist justament fort von ihr. Ich glaube, sie weint, daß’s nicht früher geheurath hat.
+      </p>
+      <stage>
+       (Regent will ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Vorige. Graf.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Wohin mein lieber Regent?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Zur Fräulein Braut – ihr ist nicht wohl. –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Possen! Es war verliebter Verdruß, und bei der Aussöhnung setzt’ es Thränen. Traurige Bräute, lustige Weiber!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das versteh ich nicht, aber wann das wahr ist, so brüll ich bei meiner Hochzeit wie ein Ochs.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Marsch hinaus vor die Thüre!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Recht! – Man hört so nichts G’scheidtes herin.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Graf. Regent.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Mein lieber Regent, bald werd ich dem Himmel danken, wenn die Hochzeit vorüber ist. Meine Braut hat abscheuliche Launen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Erlauben Sie mir Herr Graf, eine so artige Kammerjungfer –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Sie müssen Scherz von Ernst unterscheiden, lieber Hausregent. Ich thäte Lenchen gleich aus dem Hause, aber ich will mein Vorrecht nicht vergeben. Geb ich einmal nach, so steh ich unter dem Pantofel. – Uebrigens wie steht es mit dem Balle?
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Es ist alles in Ordnung. – Und die Narren, die wir engagirten, sollen genug zu unserer Unterhaltung beytragen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Man giebt ihnen eine Vierteljahrsgage, und laßt sie dann laufen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Der Poet schreibt sich die Finger krumm, und der Sekretär Haspel rezitirt es, daß die Hunde heulen.
+      </p>
+      <stage>
+       (Man hört aussen Lärm)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Was ist das?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (hereinstolpernd)
+      </stage>
+      <p>
+       Das ist ein Specktackel! – Der Poet und der Haspel haben sich einander völlig bey der Parocken.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Warum denn?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       No, der Haspel soll Komödie spielen lernen, aber er ist fast so ein Esel wie ich.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ruf sie herein.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich werde gleich ein paar Granaten drein gehen lassen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Wir wollen uns indessen verbergen.
+      </p>
+      <stage>
+       (auf die Seite)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Vorige. Poet. Haspel.
+     </stage>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich bin der Dichter, ich muß es besser wissen. Der Herr muß anlegen, was ich will. Wir vertheilen die Rollen, alles muß Kastrummässig erscheinen. Lern der Herr vorher reden, eh er mich belehren will.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich kann noch mehr als reden, ich kann singen.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ich werde thun, was ich will. – Kann der Herr aber auch singen, wie ein König? – Kann er die sieben Aktionen? So befiehlt er – so zeigt er seine Würde – so geht er auf und nieder – so weint er – so lacht er – so ist er zärtlich, so wieder zornig. –
+      </p>
+      <stage>
+       (er packt Haspeln, und wirft ihn gerade auf den Grafen)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       He da!
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Ha Sr. Excellenz, macht eine Reverenz!
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ihr Exlenz können einen Puff aushalten. Wenn sie nicht so stark wären, ich hätte sie umgeworfen, wie einen Wollsack.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu Haspel)
+      </stage>
+      <p>
+       Steht das in der Rolle drin?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Ich verbiethe mir jeden Zank. Indessen ist es mir sehr lieb, wenn sie sich ein wenig exerciren. Ein kleines Haustheater ist immer eine noble Passion.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, und wann wir auf dem Land einmal eine Komödie gagiren, so mach ich den Kasperl seine Rollen. Ich kann akkurat solche G’friser schneiden, wie er.
+      </p>
+      <stage>
+       (macht sie)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Doch jetzt laßt uns allein!
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <stage>
+       (zu Haspel und Kaspar)
+      </stage>
+      <lg>
+       <l>
+        Ihr göttlichen Genies, kommt unter meine Flügel
+       </l>
+       <l>
+        Hier seyd ihr sicherer, als mancher Erdensahn [!],
+       </l>
+       <l>
+        Denn die Kritik sticht mehr als wie ein alter Rigel
+       </l>
+       <l>
+        Die Musen reichen euch bereits die Lorbeerkran.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Graf. Regent.
+     </stage>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       So hab ich doch in meinem Leben keine solchen Narren gesehen.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Desto besser, lieber Regent. Itzt muß man lustig seyn, da ist schon etwas erlaubt: Ein Bräutigam bedarf ja Aufheiterung, eh er in den Kerker kommt.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      (Fanillens Zimmer, mit einem Handspiegel.)
+     </stage>
+     <stage>
+      Fanille allein.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Wenn ich mich nur nicht ärgern dürfte. Ich sehe als Braut so blaß aus, so blaß, als ob ich schon einige Wochen verheurathet wäre, und Verdruß gehabt hätte – Blaß? – I da fällt mir ein herrlicher Gedanke ein. – Ja, ich will mich revangiren, und zugleich meinen Bräutigam probiren. – Kupido, du Schelm aller Schelme, steh dießmahl einer Schelmin bey. He Kaspar!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Fanille. Kaspar.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wollen mir ihr Gnaden was? –
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Sag er mir, wie schau ich denn aus?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wie halt eine Braut ausschauen soll. Bleich vor Furcht, roth vor Lieb, blau aus Kälte, und grün in der Hofnung.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Er ist ein Narr. Mir ist todtenübel.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das kann seyn, aber ihr Gnaden sehn aus wie das Leben. Das Gesicht ist roth wie ein Scharlach-Ausschlag, und weiß wie eine Kalchgruben.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Was nutzt das, äusserlich roth und inwendig krank.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da heißts halt, auswendig huy! und inwendig pfuy! So seyn Ihr Gnaden akkurat, wie ein Marschanzgerapfel, der ist oft auswendig roth und inwendig g’fault.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Ich soll mich gar nicht zürnen, ich bekomme gleich den Schwindel.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So sollen ihr Gnaden lieber beyzeiten eine Aderlaß einnehmen.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Mir geht gewiß was vor.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Vorgehn thut mir nichts, aber nachgehn thut mir ein Kellner, dem ich acht Jahr drey Gulden schuldig bin. –
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Nun, da hat er einen Dukaten.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Muß ich herausgeben? – Bedank mich! – Ich werd schon fleißig dafür trinken, daß ihr Gnaden recht g’sund werden.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Seh er nach, wer klopft?
+      </p>
+     </sp>
+     <sp who="#kasp">
+      <speaker>
+       Kasp.
+      </speaker>
+      <p>
+       So kann man kein Augenblick allein bey einer Fräula seyn.
+      </p>
+      <stage>
+       (geht zur Thür, und macht auf.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Der Schneider guckt mit dem Kopf zur Thüre herein, lacht, und fährt wieder zurück.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Was will er?
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <stage>
+       (lacht dumm)
+      </stage>
+      <p>
+       Ich weiß schon, was ich will. Hihihi! aber ihr Gnaden wissens nicht.
+      </p>
+      <stage>
+       (wieder zurück.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ah, den fang ich Solo!
+      </p>
+      <stage>
+       (er führt ihn vor.)
+      </stage>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Was will er?
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Ich möcht ihr Gnaden gern um und um meßen.
+      </p>
+      <stage>
+       (lacht.)
+      </stage>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Mich?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Itzt sag er gleich, wer er ist?
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Ich bin – ich bin der Schneiderg’sell Zwirndel, und möcht halt – ich möcht ihr Gnaden gern die Kleidermaaß nehmen, möcht ich –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Dem werd ich wohl die Maaß nehmen müssen!
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Mein Freund, ich habe mein Brautkleid schon, und meinen eigenen Schneider.
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Das thut nichts, ich will gleich eines auf die künftige Niederkunftgala machen – Hihihi! –
+       <stage>
+        (er betrachtet den Kaspar)
+       </stage>
+       Verzeihen mir ihr Gnaden, daß ich lach, aber so bald ich einen dummen Menschen sieh, so muß ich kudern, wie ein Füllerl.
+      </p>
+      <stage>
+       (lacht überlaut.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So darf der Herr das ganze Jahr bey kein Spiegel vorbeygehn.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Wer schickt ihn denn?
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Ich schick’ mich selber. Ich bin der g’scheide Sohn vom Schneider Wetz, ja, der bin ich. Er hat mich hier ausgebrütet, hat er mich –
+       <stage>
+        (er nimmt die Maaß und Scheer heraus, und beschäftigt sich mit ihr.)
+       </stage>
+       Ihr Gnaden müssen sich von meiner Arbeit was anschaffen, entweder ein Kommodel oder ein Schaketel. – Ich will ihnen ein Flugkleid machen, oder ein Ziehkleid, einen Schlafrock, oder einen Reitermantel. – Bleiben ihr Gnaden nur hübsch still stehen.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Der Kerl ist ein Narr – was will ich machen. Nur, so meß er zu.
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <stage>
+       (der auch Kaspar mitmeßt)
+      </stage>
+      <p>
+       Wenn Ihr Gnaden erlauben, so mach ich auch gleich die Livree für den gnädigen Herrn da mit. Schwarz mit grün Aufschlägen, weisse Weste und rothe Hosen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So ist’s recht! – Das ist ein guter Gusto.
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Hi! hi! hi! – Von was schaffen’s ihr Gnaden? Von Wixleinwand, oder Fließpapier, von Gelsengarn oder Pergament? – Ich hab der Gräfinn Grünspann ein Fourno von indianischen Vögelnestern gemacht, und dem Baron von Thumirnichts ein Gilee-Weste von einen Feuerwerkzettel. – Essen ihr Gnaden viel?
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Was geht das ihn an?
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       Nun, so nimm ich halt die Taglia ein bissel weiter.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Mir kann er keck was zugeben.
+      </p>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <p>
+       So, jetzt bin ich fertig. – Ihr Gnaden werden mit mir zufrieden seyn, ich hab schon mehr solche Damesen mit Kleidern versehen. Hi! hi! hi! hi! – Zur Dankbarkeit will ich Ihr Gnaden ein Liedel singen, was ich bey einem jeden Frauenzimmer sing, wenn ich ihr die Kleidermaaß nimm.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <lg>
+       <l>
+        Ein Schneider, das ist halt ein künstlicher Mann,
+       </l>
+       <l>
+        Denn er zieht die Menschen mit Kleidern nur an.
+       </l>
+       <l>
+        Versteht er die Kunst nur, und hat er ein Paß,
+       </l>
+       <l>
+        So nimmt er von all seinen Kunden die Maaß.
+       </l>
+       <l>
+        – – –
+       </l>
+       <l>
+        Es sagt zwar der Wetz-Wetz, kein Schneider ist schwer,
+       </l>
+       <l>
+        Er hat nix als Nadeln, als Zwirn, und die Scheer:
+       </l>
+       <l>
+        Doch hat nur ein Schneider ein weinig ein Hirn,
+       </l>
+       <l>
+        So kann er bey Schönen sich rekommandirn.
+       </l>
+       <l>
+        – – –
+       </l>
+       <l>
+        Und komm ich auch hundertmal noch auf die Welt,
+       </l>
+       <l>
+        So werd’ ich kein G’lehrter, so werd‘ ich kein Held,
+       </l>
+       <l>
+        So werd ich ein Schneider, wie vor und wie eh,
+       </l>
+       <l>
+        Ein Schneider ist’s beste auf Erden – Juhe!
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Fanille, Kaspar.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wann ich nicht schon ein burgerlicher Lakay war, ich wurd gleich ein Schneider.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Mir scheint, in diesem Haus kommen alle Narren zusammen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, ja, mir ist’s selber so.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Begleit er mich. Vielleicht wird mir in der freyen Luft besser. – Doch nein – laß er mir vorher Lenchen und Lieschen in mein Kabinet kommen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gleich ihr Gnaden!
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Fanille allein.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Ich muß ihm gleich anfänglich das Feld abgewinnen, und zeigen, daß ich Frau vom Hause bin.
+      </p>
+      <stage>
+       (ab ins Kabinet.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Kasper [!] kommt mit den Mädchen, Lenchen und Lieschen. Hinter ihnen der Graf und der Regent.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die Fräule Braut will’s so haben, und da brauchts hernach kein Reden.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Zu was brauch ich denn zwey Kammerjungfern?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Gnaden brauchen gar keine, aber d’ Fräula.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Er wird Unrecht verstanden haben?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ey ja wohl.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <stage>
+       (aus dem Kabinet.)
+      </stage>
+      <p>
+       Nein, mein Lieber, er hat Recht!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Schau! Hab’ ich’s nicht gleich gesagt – Alles wollen’s besser wissen, als ein geschworner Lakay.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Aber Fräulein –
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Still Herr Graf – Sie haben Lenchen aufgenommen, und ich nehme Lieschen auf. Ich will auch meinen Willen haben.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Aber bedenken Sie doch!
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Bedenken hin, bedenken her. Eine für mich. Die andere für Sie. Wird eine krank, so ist die andere zur Bedienung da. – Nicht wahr liebes Männchen?
+       <stage>
+        (sie schmeichelt ihm)
+       </stage>
+       Willst du?
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Muß ich denn nicht? – Ich sehe schon, ich gehöre in den grossen Orden. Wer kann der Schmeicheley der Weiber widerstehen?
+      </p>
+     </sp>
+     <stage>
+      Quintetto.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Wer schlägt Weibern etwas ab,
+       </l>
+       <l>
+        Wenn sie zärtlich schmeicheln,
+       </l>
+       <l>
+        Man beugt den Kommandostab,
+       </l>
+       <l>
+        Wenn sie sanft uns streicheln.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Mit dem Fusse schon im Grab
+       </l>
+       <l>
+        Wecket uns ihr Schmeicheln.
+       </l>
+       <l>
+        Keine Bitte schlägt man ab,
+       </l>
+       <l>
+        Auch dann, wenn sie heucheln.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <lg>
+       <l>
+        Nein, mein Graf schlägt mir nichts ab,
+       </l>
+       <l>
+        Ich will ihm schon schmeicheln,
+       </l>
+       <l>
+        Und so oft er nach mir gab,
+       </l>
+       <l>
+        Ihm die Wangen streicheln.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Mädchen legt euch gleich ins Grab,
+       </l>
+       <l>
+        Wißt ihr nicht zu schmeicheln,
+       </l>
+       <l>
+        Sonst führt euer Mann den Stab,
+       </l>
+       <l>
+        Dann nützt gar kein Streicheln.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lisette">
+      <speaker>
+       Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Reitze, die Natur nicht gab,
+       </l>
+       <l>
+        Suchet zu erheucheln,
+       </l>
+       <l>
+        Wie die Katzen auf und ab
+       </l>
+       <l>
+        Müßt ihr Männer streicheln.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette #fanille #regent #graf">
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Lärmen, Toben, Zanken, streiten
+       </l>
+       <l>
+        Schadet mehr und nützet nicht:
+       </l>
+       <l>
+        Weil dadurch zu allen Zeiten
+       </l>
+       <l>
+        Nichts sich bieget, sondern bricht.
+       </l>
+       <l>
+        Sanftmuth kann in’s Herz sich schleichen,
+       </l>
+       <l>
+        Man ist wider Willen schwach –
+       </l>
+       <l>
+        Alle Herzen müssen weichen,
+       </l>
+       <l>
+        Alles giebt der Sanftmuth nach.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Fanille mit denen Mädchen ab. Der Graf und Regent begleiten sie bis zur Thüre. Der Regent geht links und der Graf bleibt.)
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       So sind wir Männer! Die kleinste Bitte eines Weibes sind wir unvermögend abzuschlagen, und wenn es unser Verderben wäre –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (der den Kopf zur Thüre hereinsteckt)
+      </stage>
+      <p>
+       Ja, ja, das ist g’wiß und wahrhaftig.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Spitzbube! ich glaube gar, du hast mich behorcht?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Freylich, sonst hört man ja nichts. – Aber Ihr Gnaden – Ha ha ha! Machen Sie sich nichts draus, wann sie ein Siemandel werden, es ist eine völlige Ehrenscharschi! –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Du bist ein Narr!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ah hat sich wohl – ich bin nur gar zu gescheidt – und wann ich reden därft – ich bin freylich nur ein Lakay, aber ich hab ein Herz, ein Leber und ein Peischel, wie ein anderer. Essen, trinken, schlafen, und verliebt seyn muß ein jeder Mensch. Bey einem jeden brandelts. – Ich wüßt ein schönes Brandellied drauf, wann’s Ihr Gnaden erlauben.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Nun, so sing Narr!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Mir hat’s ein Kutscher g’lernt, der Singerknab ist.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Die Lieb und das Brandeln ist einerley Sach’,
+       </l>
+       <l>
+        Bald brandelt es stark, und bald brandelt es schwach.
+       </l>
+       <l>
+        Das ledige Solo geht alleweil schlecht,
+       </l>
+       <l>
+        Wann Herz der Adut ist, gehts justament recht.
+       </l>
+       <l>
+        Da prandelt man fleissig in Ernst und im Scherz.
+       </l>
+       <l>
+        Das bessere Brandel ist allweil in Herz.
+       </l>
+      </lg>
+      <lg>
+       <head>
+        2.
+       </head>
+       <l>
+        Herz-Coeur bleibt halt immer und ewig das Glück,
+       </l>
+       <l>
+        Da giebts wenig Schellen, und giebt wenig Pik.
+       </l>
+       <l>
+        Doch giebts einmal Handel, geht alles kaput,
+       </l>
+       <l>
+        Da wird oft das einzige Treff nur Adut.
+       </l>
+       <l>
+        Man spielt dann die Betteln zu Duzendweis fort,
+       </l>
+       <l>
+        Der Ehmann der paßt, und das Weib spielt ein’ Mord.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechzehnter Auftritt.
+     </head>
+     <stage>
+      Graf allein.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Der Kerl hat Recht, – Wer liebt, ist schwach, vielleicht mildert sich meine Liebe, wenn ich die Freuden des Ehestandes lange genug genossen habe. – Es ist das allgemeine Schicksal: Spiel und Liebe sind Passionen, sie nehmen ab, wie sie steigen.
+      </p>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Eines liebenden Gefühle,
+       </l>
+       <l>
+        Gleichen nur des Sommers Schwüle:
+       </l>
+       <l>
+        Man weiß nicht, wo aus noch ein,
+       </l>
+       <l>
+        Vor der Sonne starkem Schein.
+       </l>
+       <l>
+        Endlich kommt der Ehstandssegen,
+       </l>
+       <l>
+        Bald dann Donner Blitz und Sturm,
+       </l>
+       <l>
+        Dann liegt nach dem kühlen Regen
+       </l>
+       <l>
+        Auf dem Blatt’ ein kleiner Wurm.
+       </l>
+       <l>
+        Bald folgt auf die grosse Schwüle
+       </l>
+       <l>
+        Eine labungsvolle Kühle –
+       </l>
+       <l>
+        Man wird ruhig, und schläft ein –
+       </l>
+       <l>
+        Das wird auch mein Schicksal seyn.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Fanille kommt aus dem Kabinettte [!] mit dem Friseur.
+     </stage>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Main lieber Monsieur Henri, er muß mir verhülflich seyn. Kann er recht lügen?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Als ob es gedruckt wäre.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Nun dann, so steh er mir in einer unschuldigen List bey. Ich will meinen Bräutigam die Hölle ein wenig heiß machen.
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Noch vor der Heyrath?
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Vergeß er nicht, mit wem er spricht.
+      </p>
+      <stage>
+       (Der Friseur macht einen Sprung zurück.)
+      </stage>
+     </sp>
+     <sp who="#friseure">
+      <speaker>
+       Friseure.
+      </speaker>
+      <p>
+       Mille Pardon! Die schönsten Fräulein machen mich zu ihrem Vertrauten. Sonst vertreten die Kammerjungfern unsere Stelle, aber jetzt haben wir die hohe Gnade die Charges d’affaires zu seyn.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Er versteht mich nicht. Es ist kein Rendesvous, was er mir ausführen helfen soll. Es betrifft einen Todschlag. –
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Ah –
+       <stage>
+        (zurückprallend)
+       </stage>
+       Pardon! – Leichtsinnige Stückchen machen wohl die Haarkrauser zuweilen, aber davor bewahr uns der haarpuderweisse Himmel! – Wir sind lustig, aber nicht boshaft.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Er ist ein braver Kerl! – Komm er, ich will sein Gewissen beruhigen. – Getraut er sich mich umzubringen?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Nicht um hundert Dukaten.
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Wenn ich ihm aber 200 gebe?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Was für einen Todtschlag befehlen Ihro gräflichen Gnaden?
+      </p>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <p>
+       Komm er hernach nur, es soll sein Schade nicht seyn.
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Ins Himmels Nahmen – ich weiß, sie belieben mit ihrem Diener zu badinaschiren. –Ich gehorche.
+      </p>
+      <stage>
+       (beyde auf verschiedenen Seiten ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      (Sahl)
+     </stage>
+     <stage>
+      Poete Haspel memorirt die Rolle.
+     </stage>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Wie stehts? Kann er seine Rolle?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Nur Geduld, so eine Bravour-Arie laßt sich nicht über die Finger abbrechen.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Wissen Sie, wen sie vorstellen?
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich weiß schon, ich komm als Haspel von Linz, und mach eine kleine Reisebeschreibung.
+      </p>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Nun so probiren Sie es. Ich mache indessen das Publikum.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Meinetwegen, so krieg ich nach und nach Kuraschi.
+      </p>
+      <stage>
+       (Er geht ab, kommt durch die Mittel- oder Seitenthüre wieder.)
+      </stage>
+     </sp>
+     <stage>
+      Aria.
+     </stage>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Von Linz her ist ein nasser Weg,
+       </l>
+       <l>
+        Das glaubts mir mit Verlaub,
+       </l>
+       <l>
+        Das Schiff, das geht bald grad, bald schreg*)
+       </l>
+       <l>
+        Und macht ein’ starken Staub.
+       </l>
+       <l>
+        Die Strudel hab ich auch passirt,
+       </l>
+       <l>
+        Der Wirbel hat mich recht sekkirt,
+       </l>
+       <l>
+        Da hab ich öfters g’schrien. „Hohlaus!“
+       </l>
+       <l>
+        Sonst wär ich tauft wor’n wie ein Maus.
+       </l>
+       <l>
+        – –
+       </l>
+       <l>
+        Es war schon Nacht, da länd ich an,
+       </l>
+       <l>
+        Und such ein Wirthshaus mir;
+       </l>
+       <l>
+        Da geh ich gleich zum schwarzen Hahn,
+       </l>
+       <l>
+        Als fremder Passagier.
+       </l>
+       <l>
+        Wer seyn Sie? „hat der Kellner g’fragt,
+       </l>
+       <l>
+        Ich bin der Haspel“, hab ich g’sagt:
+       </l>
+       <l>
+        Da hat er unters G’sicht mir g’lacht
+       </l>
+       <l>
+        Und vor der Nasen d’Thür zug’macht.
+       </l>
+       <l>
+        – –
+       </l>
+       <l>
+        Ich zieh den Beutel gleich hervor,
+       </l>
+       <l>
+        Und schepper’**), was ich kann,
+       </l>
+       <l>
+        Da macht er wieder auf das Thor,
+       </l>
+       <l>
+        Fangt per Ihr Gnaden an
+       </l>
+       <l>
+        Da hab ich g’sehn, was’s Geld nicht macht,
+       </l>
+       <l>
+        Daß niemand über d’Haspeln lacht:
+       </l>
+       <l>
+        Der Mensch ist gar nichts ohne Münz,
+       </l>
+       <l>
+        In Wien so gut als wie in Linz.
+       </l>
+      </lg>
+      <stage>
+       (Er geht ab)
+      </stage>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <p>
+       Bravo! Kommen Sie nur wieder.
+       <stage>
+        (führ [!] ihn herein)
+       </stage>
+       Sie machen es recht gut. Fahren Sie so fort, mein Sohn, und Ruhm und Beyfall ist ihr Lohn. Ich will indessen weiter schreiben.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Es wird schon gehen. Nach und nach bekomm’ ich schon Kurasche. –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      Haspel. Lenchen.
+     </stage>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ach lieber Herr Haspel, ich weiß mir mit meiner Rolle nicht zu helfen, helf er mir’s doch einstudiren.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ja liebe Jungfer Lenerl, mir gehts selber so. – Aber, weiß die Jungfer was, wir können ja derweil eine andere Rolle studiren? Ich –
+       <stage>
+        (dummlachend)
+       </stage>
+       hab die Jungfer so gern, so gern. Mein leiblichen Vater könnt’ ich nicht lieber haben.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Und ich habe sie bloß so lieb, weil sie meinen verstorbenen Bruder so gleich sehen.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Ich? – Das muß ein hübscher Mensch g’wesen seyn?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ja? aber er ist leider im Narrenthurm gestorben.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Wanns mir nur nicht auch so geht, ich studir allzuviel. – Jungfer Lenerl – wie wär’s, wann wir unser Duett miteinander probirten? Wir dürfen nur die Nahmen ändern, und es paßt akkurat auf uns.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Meinetwegen.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Wir können einander da was Liebes sagen, und es merkt kein Mensch nichts, als wir zwey selber. Es geht justament so, wie das Ba de deix aus dem hübschen Balletel.
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ja – ich hab’s auch gesehen.
+      </p>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <p>
+       Also Kuraschi! – Wir seyn ja allein. Sie stellt sich daher, und ich daher – Wir seynd bös aufeinander – und werden wieder gut, und tanzten nachher miteinander ab, kann d’Jungfer tanzen?
+      </p>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <p>
+       Ich machs halt so gut ich kann. – Kurasch.
+      </p>
+     </sp>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#haspel ">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Gieb o Lenerl, gieb ein Küßchen mir
+       </l>
+       <l>
+        Dein Haspel bittet dich.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Nein kein Küßchen geb ich Haspel dir
+       </l>
+       <l>
+        Geh, Falscher, lasse mich.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Bist du so, so bin ich so,
+       </l>
+       <l>
+        Geh nur, geh, ich bin recht froh,
+       </l>
+       <l>
+        Nie komme ich wieder her.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Geh nur geh, ich bin recht froh,
+       </l>
+       <l>
+        Bist du so? Auch ich bin so
+       </l>
+       <l>
+        Es giebt der Haspeln mehr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Bleib doch hier!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Komm du zu mir!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Komm doch her!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Nimmermehr!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin fromm –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Nun so komm! So komm!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Schau o Lenerl, ich bin gänzlich zahm,
+       </l>
+       <l>
+        Komm laß uns einig seyn;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Sey nur, Haspel, freundlich wie ein Lamm,
+       </l>
+       <l>
+        Dann ist die Lenerl dein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Lenerl! Lenerl! Liebe Lenerl!
+       </l>
+       <l>
+        Schöne, gute, süsse Lenerl,
+       </l>
+       <l>
+        Gieb mir doch nur deine Hand!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen">
+      <speaker>
+       Lenchen.
+      </speaker>
+      <lg>
+       <l>
+        Haspel, Haspel, lieber Haspel!
+       </l>
+       <l>
+        Da hast du die Hand mein Haspel,
+       </l>
+       <l>
+        Als mein treues Unterpfand.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #haspel">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Gieb o Lenerl/Hasperl gieb dein Handel mir
+       </l>
+       <l>
+        Versöhnet sind wir ganz;
+       </l>
+       <l>
+        Komm nun Lenerl/Hasperl denn bald feyern wir
+       </l>
+       <l>
+        Den frohen Jubeltanz.
+       </l>
+      </lg>
+      <stage>
+       (Tanzend ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwanzigster Auftritt.
+     </head>
+     <stage>
+      Regent und Kaspar von der andern Seite.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Gnaden Herr Regent, der Friseur von der Fräula Braut kommt gerennt, als ob er närrisch wäre.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Friseur eilends.
+     </stage>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Ach! Wo ist der Herr Regent?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hier!
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Ihr Götter, wo ist der Herr Regent?
+      </p>
+      <stage>
+       (lauft herum.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hat er denn keine Augen, da steht er ja? –
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Was gehts mich an, wenn er da steht, ich will wissen, wo er ist? Ich hab zu viel gesehn, ich hab zu viel gehört.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich glaub, er hat zuviel gesoffen.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Was soll es? Da bin ich!
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Seyn ihr Gnaden endlich da – wo seynd ihr Gnaden? –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Was ist dann geschehen?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Sagens ihr Gnaden statt meiner.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So werden wirs vor vierzehn Tagen nicht innen. – Brennts vielleicht?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       O das wär gut, wenn die ganze Gasse in Flammen stund.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O du verfluchter Kerl!
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Die Fräulein Braut – ist todt.
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Todt? –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ist’s aber wahr?
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Wie wäre es möglich, daß ein Friseur lügen könnt? Ja, sie ist wirklich zum erstenmal gestorben. Ihr Gnaden kurz zu melden, ich will ihr just die Pomeranzenkraus machen, traplir ihr die Haar – auf der Seite seyn Pantofel gestanden, der Joli hat just ein Fleisch gefressen – beym Haus sitzt ein Milchweib – gegenüber habens Holz kriegt. – Die Mamsell niest, ich sag, „Helf Gott“,– Da schlagt die Uhr ein Stückl, ich greif in den Sack, nimm die Dose, schlag auf den Deckel, und schnupf Taback. –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Den hätt’ ich schon längst mit Füssen getreten. –
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Auf einmal wird ihr übel, sie fallt auf mich, ich laß sie aus, und sie macht einen Schlag auf die Erden. – Sie muß vorher schon todt gewesen seyn – ich fall auch neben sie hin, fühle ihr den Puls, der Puls sagt kein Wort. Ich geh her, gieb ihr ein paar Löffel Pomade ein, sie wird kalt wie eine gefrorne Weichsel – endlich nehm ich das heisse Toupée-Eisen, fahr ihr dreymal übern Schlaf, sie bleibt aber maustodt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Die Krankheit muß schon in ihr loschirt haben – sie hat sich erst gemeidert. Wann man ihrs morgen gesagt hätt, daß sie heut sterben muß, sie hätt’ einen ausgelacht.
+      </p>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <p>
+       Ich lauf fort, da steht die Kammerjungfer in der Thür, ich nehm mir einen Rand, und laufe über sie hinüber, und da bin ich nun leider!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O jegerl, die Lenerl! –
+      </p>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <p>
+       Lasset uns nur die Sache noch ein wenig vertuschen, damit die Nachricht den Grafen nicht erschrecke.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Sonst könnt’ ihn der Verschlag treffen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Finale.
+     </head>
+     <sp who="#regent #friseur">
+      <speaker>
+       Regent. Friseur.
+      </speaker>
+      <lg>
+       <l>
+        Sie ist nicht mehr! Sie ist nicht mehr
+       </l>
+       <l>
+        Ihr Leben ist verschwunden,
+       </l>
+       <l>
+        Sie ist nicht mehr, ach ich/der Friseur
+       </l>
+       <l>
+        Der hat sie todt/Ich hab’ sie todt gefunden.
+       </l>
+       <l>
+        Nun ist die todt die gute Braut,
+       </l>
+       <l>
+        Ach weint und jammert alle laut.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Sie ist nicht mehr, sie ist nicht mehr,
+       </l>
+       <l>
+        Das hätt’ sie sollen wissen.
+       </l>
+       <l>
+        Die Fräula hat, sagt der Friseur,
+       </l>
+       <l>
+        Zu fruh ins Gras gebissen,
+       </l>
+       <l>
+        Nun ist sie todt die gute Haut
+       </l>
+       <l>
+        Wo kriegt der Graf ein andre Braut?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette">
+      <speaker>
+       Lenchen. Lisette.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <lg>
+       <l>
+        Ach Jammer, Elend, Angst, und Noth,
+       </l>
+       <l>
+        Was hab ich müssen hören!
+       </l>
+       <l>
+        Daß Fräulein Braut ist plötzlich todt
+       </l>
+       <l>
+        Wer kann den Thränen wehren?
+       </l>
+       <l>
+        Nun ist sie todt die gute Braut,
+       </l>
+       <l>
+        Zwey Kammerjungfern weinen laut.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <lg>
+       <l>
+        Ach Gott Apollo, sie ist hin!
+       </l>
+       <l>
+        Sie wollt als Braut sich hutschen,
+       </l>
+       <l>
+        Da kam der Tod, der Flegel kühn,
+       </l>
+       <l>
+        Und ließ sie Brettel rutschen.
+       </l>
+       <l>
+        Ja, ja der Tod mit seinem Pfeil,
+       </l>
+       <l>
+        Sitzt unterm Thor, hat Schwefel feil.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <stage>
+       (kommt mit Mustern)
+      </stage>
+      <lg>
+       <l>
+        Da hab ich die Muster zum freudigen Tag,
+       </l>
+       <l>
+        Ists wahr, was ich höre, so trift mich der Schlag!
+       </l>
+       <l>
+        Die Fräula ist g’storben, itzt ists gute Nacht –
+       </l>
+       <l>
+        So hab ich umsonst meinen Conto gemacht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Ja wohl gute Nacht!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <lg>
+       <l>
+        Ich armer, armer Sekretär!
+       </l>
+       <l>
+        Itzt brauchen sie kein Haspel mehr.
+       </l>
+       <l>
+        Heut ist der Mensch g’sund und wohlauf,
+       </l>
+       <l>
+        Und morgen steht er todter auf.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (kommt)
+      </stage>
+      <lg>
+       <l>
+        Ha! Wissen sie’s schon, vielgeliebter Regent!
+       </l>
+       <l>
+        Ja, sie ist dahin, die ich Braut schon genennt
+       </l>
+       <l>
+        Ja – ja – ich komme lieber Schatz! –
+       </l>
+       <stage>
+        (zu Haspel)
+       </stage>
+       <l>
+        Fort auseinander, macht mir Platz! –
+       </l>
+       <stage>
+        (geht auf sie los)
+       </stage>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Kennen mich Ihr Gnaden nicht?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Ja – du schwarzer Bösewicht! –
+       </l>
+       <l>
+        Wie? – So ist es wirklich wahr,
+       </l>
+       <l>
+        So ist mein Regent ein Narr?
+       </l>
+      </lg>
+      <stage>
+       (lacht)
+      </stage>
+     </sp>
+     <sp who="#kaspar #haspel">
+      <speaker>
+       Kaspar. Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Umgekehrt, hernach ist’s wahr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (Kaspar anstarrend)
+      </stage>
+      <lg>
+       <l>
+        Geliebtes Weibchen, dir folg ich nach!
+       </l>
+       <l>
+        Ach! ich werde matt und schwach.
+       </l>
+      </lg>
+      <stage>
+       (man bringt ihn auf den Sessel)
+      </stage>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Herr Graf! Herr Graf! Was ist geschehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel #kaspar">
+      <speaker>
+       Haspel. Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Itzt glaub ich, wird er sterben gehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (springt auf)
+      </stage>
+      <lg>
+       <l>
+        Geht, spielt einen Deutschen und Walzer mir auf,
+       </l>
+       <l>
+        Da tanz ich und tob ich recht landlerisch drauf.
+       </l>
+       <stage>
+        (plötzlich wird er schwindlicht)
+       </stage>
+       <l>
+        Welch ein Schwindel! – Ich vergehe!
+       </l>
+       <l>
+        Weil ich alles doppelt sehe –
+       </l>
+       <l>
+        Ja – schon – zuckt – der – Tod – in mir –
+       </l>
+       <l>
+        Holde – Braut – ich fol – ge – dir!
+       </l>
+      </lg>
+      <stage>
+       (Er fällt hin)
+      </stage>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Itzt ist er hin der arme Herr!
+       </l>
+       <l>
+        Er giebt schon gar kein Zeichen mehr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#regent">
+      <speaker>
+       Regent.
+      </speaker>
+      <lg>
+       <l>
+        Ach! welch ein unglücksel’ger Tag! –
+       </l>
+       <l>
+        Mein Graf ist todt – Mich trift der Schlag.
+       </l>
+      </lg>
+      <stage>
+       (fällt hin)
+      </stage>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #friseur #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        O weh! Der arme Hausregent!
+       </l>
+       <l>
+        Er macht sein letztes Testament.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <lg>
+       <l>
+        Itzt stirbt er schon, er wird Hundskalt. –
+       </l>
+       <l>
+        Wer da nicht in die Ohnmacht fallt,
+       </l>
+       <l>
+        Der hat im Leib kein Quintel Ehr
+       </l>
+       <l>
+        Adje! – Zu ihm leg ich mich her.
+       </l>
+      </lg>
+      <stage>
+       (zu des Grafen Füssen)
+      </stage>
+     </sp>
+     <sp who="#poet">
+      <speaker>
+       Poet.
+      </speaker>
+      <lg>
+       <l>
+        Spectaculum! spectaculum!
+       </l>
+       <l>
+        Auch mir gehts schon im Kopf herum.
+       </l>
+       <l>
+        Zu Ende geht mein Lebenslauf!
+       </l>
+       <l>
+        O ihr 12 Musen, nehmt mich auf.
+       </l>
+      </lg>
+      <stage>
+       (stirbt)
+      </stage>
+     </sp>
+     <sp who="#schneider #lenchen #lisette #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Ach, du vortrefliches Genie!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel #kaspar">
+      <speaker>
+       Haspel. Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Gestorben ist die Poesie.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schneider">
+      <speaker>
+       Schneider.
+      </speaker>
+      <lg>
+       <l>
+        Ach! wann ich nur kein Schneider wär’
+       </l>
+       <l>
+        Wo nimm ich die Couragi her?
+       </l>
+       <l>
+        Expressi ja – Welt b’hüt dich Gott! –
+       </l>
+       <l>
+        Ein Zuckerl noch – Itzt bin ich todt.
+       </l>
+      </lg>
+      <stage>
+       (stirbt)
+      </stage>
+     </sp>
+     <sp who="#lenchen #lisette #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Tod erkennet kein Gesetz.
+       </l>
+       <l>
+        Todt ist der Schneider Wetz und Wetz.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lenchen #lisette">
+      <speaker>
+       Lenchen. Lisette.
+      </speaker>
+      <lg>
+       <l>
+        Das Fräulein ist dahin, und war so jung und roth!
+       </l>
+       <l>
+        Zwey Jungfern legen sich mit ihr zugleich in Tod.
+       </l>
+      </lg>
+      <stage>
+       (sterbend)
+      </stage>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ich armer, armer Sekretär!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Die lacht, als obs lebendig wär;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#friseur">
+      <speaker>
+       Friseur.
+      </speaker>
+      <stage>
+       (reicht dem Grafen Taback)
+      </stage>
+      <lg>
+       <l>
+        Plait il Monsieur!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Bienobligé.
+       </l>
+      </lg>
+      <stage>
+       (nimmt, niest, und legt sich wieder in den Tod)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zum Haspel)
+      </stage>
+      <lg>
+       <l>
+        Zur G’sundheit!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <lg>
+       <l>
+        Ebenfalls!
+       </l>
+       <l>
+        Wer bricht denn uns den Hals?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Komm Brüderl zu dem Todtentanz,
+       </l>
+       <l>
+        Wir sterben miteinander.
+       </l>
+       <l>
+        Denn mich verdrüßt das Leben ganz,
+       </l>
+       <l>
+        Komm Bruder Alexander!
+       </l>
+       <l>
+        Wirf alles von dem Ranzen,
+       </l>
+       <l>
+        Und laß zu todt uns tanzen. (Nach dem Pas de deux sterben sie. – Pause)
+       </l>
+      </lg>
+     </sp>
+     <sp who="#haspel">
+      <speaker>
+       Haspel.
+      </speaker>
+      <stage>
+       (richtet den Kopf in die Höhe)
+      </stage>
+      <lg>
+       <l>
+        Ists noch nicht bald zum Essen Zeit?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (eben so)
+      </stage>
+      <lg>
+       <l>
+        Ich bin schon in der Ewigkeit.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <stage>
+       (tritt ein)
+      </stage>
+      <lg>
+       <l>
+        Was ist das? – Ha! welche Gruppen!
+       </l>
+       <l>
+        Todt sind alle diese Truppen? –
+       </l>
+       <l>
+        Alle, alle todt für mich? –
+       </l>
+       <stage>
+        (Sie tritt vor, und berührt den Grafen)
+       </stage>
+       <l>
+        Blick auf!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Du lebst?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <lg>
+       <l>
+        Für dich!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Für mich!
+       </l>
+      </lg>
+      <stage>
+       (Umarmung)
+      </stage>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar #haspel"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (recken langsam die Hälse in die Höhe)
+      </stage>
+      <lg>
+       <l>
+        Was ist das? – Ha! welch ein Staunen?
+       </l>
+       <l>
+        Hör ich wirklich die Posaunen?
+       </l>
+       <l>
+        Leb ich? – Sterb ich? – Es ist klar? –
+       </l>
+       <l>
+        Daß ich in der Ohnmacht war.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#fanille">
+      <speaker>
+       Fanille.
+      </speaker>
+      <lg>
+       <l>
+        Seyd lustig und munter, durchtanzet die Nacht,
+       </l>
+       <l>
+        Mit Heinrich war alles gar fein abgemacht. (auf den Friseur)
+       </l>
+       <l>
+        Ich habe die Liebe des Grafen probirt
+       </l>
+       <l>
+        Und bin seiner Treue nun ganz überführt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar #haspel #graf"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Drum wacker gezechet und laut jubilirt!
+       </l>
+       <l>
+        Gehüpft und gesprungen, und drauf musicirt!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Polonaise.
+     </stage>
+     <sp who="#haspel #kaspar">
+      <speaker>
+       Haspel. Kaspar.
+      </speaker>
+      <lg>
+       <l>
+        Die ganze Kompagnie erwacht,
+       </l>
+       <l>
+        Doch legt sie sich gleich wieder,
+       </l>
+       <l>
+        Wenn dieser Tag kein Glück gemacht,
+       </l>
+       <l>
+        Auch augenblicklich nieder.
+       </l>
+       <l>
+        Wir suchen euch nur allen,
+       </l>
+       <l>
+        Recht herzlich zu gefallen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poet #schneider #lenchen #lisette #regent #friseur #kaspar #haspel #graf #fanille"><!-- korrekt ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Nun herrscht die Freude wieder hier,
+       </l>
+       <l>
+        Die Ruh ist uns beschieden
+       </l>
+       <l>
+        Auch Euch, ihr Gönner wünschen wir,
+       </l>
+       <l>
+        Gesundheit, Glück, und Frieden.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Allgemeiner Tanz und Jubel.
+     </stage>
+     <stage>
+      Ende.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

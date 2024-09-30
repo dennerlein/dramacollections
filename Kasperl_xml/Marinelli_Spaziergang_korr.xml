@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Der Spaziergang im Brader oder Casperle das närrische Studentl, und Hannswurst der einfältige Hofmeister.
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl von Marinelli
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1770">
+      1770
+     </date>
+     <date type="premiere" when=""/>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="hanswurst">
+      <persName>
+       Hanswurst
+      </persName>
+     </person>
+     <person xml:id="siemande">
+      <persName>
+       Siemande
+      </persName>
+     </person>
+     <person xml:id="caspar">
+      <persName>
+       Caspar
+      </persName>
+     </person>
+     <person xml:id="baberl">
+      <persName>
+       Baberl
+      </persName>
+     </person>
+     <person xml:id="chaterl">
+      <persName>
+       Chaterl
+      </persName>
+     </person>
+     <person xml:id="tandler">
+      <persName>
+       Tandler
+      </persName>
+     </person>
+     <person xml:id="gutscher">
+      <persName>
+       Gutscher
+      </persName>
+     </person>
+     <person xml:id="lauffer">
+      <persName>
+       Lauffer
+      </persName>
+     </person>
+     <person xml:id="herr v. siemande">
+      <persName>
+       Herr V Siemande
+      </persName>
+     </person>
+     <person xml:id="liebhaber">
+      <persName>
+       Liebhaber
+      </persName>
+     </person>
+     <person xml:id="kutscher">
+      <persName>
+       Kutscher
+      </persName>
+     </person>
+     <person xml:id="freulein">
+      <persName>
+       Freulein
+      </persName>
+     </person>
+     <person xml:id="jungfer baberl">
+      <persName>
+       Jungfer Baberl
+      </persName>
+     </person>
+     <person xml:id="chatel">
+      <persName>
+       Chatel
+      </persName>
+     </person>
+     <person xml:id="waberl">
+      <persName>
+       Waberl
+      </persName>
+     </person>
+     <person xml:id="ein tändler">
+      <persName>
+       Ein Tändler
+      </persName>
+     </person>
+     <person xml:id="die wache">
+      <persName>
+       Die Wache
+      </persName>
+     </person>
+     <person xml:id="baberle">
+      <persName>
+       Baberle
+      </persName>
+     </person>
+     <person xml:id="chrette">
+      <persName>
+       Chrette
+      </persName>
+     </person>
+     <person xml:id="laufer">
+      <persName>
+       Laufer
+      </persName>
+     </person>
+     <person xml:id="gutsch">
+      <persName>
+       Gutsch
+      </persName>
+     </person>
+     <person xml:id="chutscher">
+      <persName>
+       Chutscher
+      </persName>
+     </person>
+     <person xml:id="der gutscher">
+      <persName>
+       Der Gutscher
+      </persName>
+     </person>
+     <person xml:id="monsieur leopold">
+      <persName>
+       Monsieur Leopold
+      </persName>
+     </person>
+     <person xml:id="monsieur francois">
+      <persName>
+       Monsieur Francois
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     DER SPAZIERGANG IM BRADER ODER CASPERLE DAS NÄRRISCHE STUDENTL, UND HANNSWURST DER EINFÄLTIGE HOFMEISTER
+    </head>
+    <head>
+     von Karl Marinelli 1770
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Hr. von Siemande 
+     </castItem>
+     <castItem>
+      Freule Charlotte, Freule Chrette seine töchter
+     </castItem>
+     <castItem>
+      Jungfer Baberl ihre Dienerin 
+     </castItem>
+     <castItem>
+      Casperle von Langenohr
+     </castItem>
+     <castItem>
+      Hanswurst sein Hofmeister
+     </castItem>
+     <castItem>
+      Mons: Francois ein Kamerdiener
+     </castItem>
+     <castItem>
+      Mons: Leopold, ein Stallmeister
+     </castItem>
+     <castItem>
+      Chaterl, eine Köchin. 
+     </castItem>
+     <castItem>
+      Ein Gutscher. 
+     </castItem>
+     <castItem>
+      Ein Lauffer. 
+     </castItem>
+     <castItem>
+      Zwey Studenten.
+     </castItem>
+     <castItem>
+      Ein kleines Leyrer Mädchen.
+     </castItem>
+     <castItem>
+      Ein Tändler.
+     </castItem>
+     <castItem>
+      Die Wache.
+     </castItem>
+     <castItem>
+      2 Kellner.
+     </castItem>
+     <castItem>
+      Etwelche Statisten.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      1ster Auftritt.
+     </head>
+     <stage>
+      Freule Charlotte Freule Chrette, Jungfer Baberl. die beyden Freulein bitten ihre Dienerin. Sie möchte auf|ihrer Seythe seyn. Charlotte. wegen den Mons: Franc: den|schönen Kammerdiner, und Chrette wegen den Mons: Leop: den|gallanten Stallmeister.
+     </stage>
+     <sp who="#jungfer baberl">
+      <speaker>
+       Jungfer Baberl.
+      </speaker>
+      <p>
+       stellt ihnen ihren|Adl, ihr Geld, ihre Schönheit vor.
+      </p>
+     </sp>
+     <sp who="#freulein">
+      <speaker>
+       Freulein.
+      </speaker>
+      <p>
+       Es seyen bey der Zeit die|Männer sehr schwer zu bekommen. schmeicheln ihr unendlich.|
+      </p>
+     </sp>
+     <sp who="#jungfer baberl">
+      <speaker>
+       Jungfer Baberl.
+      </speaker>
+      <p>
+       Sie könne ihren Fraulein unmöglich was versagen,|verspricht ihnen ihren närrischen Vatern zu betrügen.
+      </p>
+      <stage>
+       sogleich
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      2ter Aufttritt.
+     </head>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Herr v. Siemande.
+      </speaker>
+      <stage>
+       hat das Lezte mit angehört.
+      </stage>
+      <p>
+       fragt, warum|man so nachdrücklich an ihn gedencke?
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       sie hätte Noth-|wendigkeiten zu verrichten.
+      </p>
+      <stage>
+       lauft ab.
+      </stage>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       stellt seine|Töchter zur Rede, über was sie zu murren hätten, und|warum sie ihn betrügen wollten.
+      </p>
+     </sp>
+     <sp who="#freulein">
+      <speaker>
+       Freulein.
+      </speaker>
+      <p>
+       weil sie so selten|ausgehen d[u→]ürften.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       sie würden izt genug ausgehen|können. Er erwarte alle Augenblicke den jungen Herrn|Casperle von Langenohr nebst seinen Hofmeister von Lintz.
+      </p>
+     </sp>
+     <sp who="#freulein">
+      <speaker>
+       Freulein.
+      </speaker>
+      <p>
+       Ob der junge Hh. Geld habe, und ob der Hofmeister|hüpsch seye.
+      </p>
+     </sp>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Herr v. Siemande.
+      </speaker>
+      <p>
+       wundert sich über ihre neugierigen|Fragen. sollen beyde zur Arbeit gehn. mit der Baberl wolle|er schon ein andermahl Abrechnung halten
+      </p>
+      <stage>
+       alle ab
+      </stage>
+     </sp>
+     <stage>
+      Stadt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      3ter Auftritt.
+     </head>
+     <stage>
+      Cathel die Köchin mit einen Zögerl, und Jungfer Waberl aus Siemandens Hau{se.}
+     </stage>
+     <sp who="#waberl">
+      <speaker>
+       Waberl.
+      </speaker>
+      <p>
+       spricht sie gleich an. wo sie so geschwind hingehe.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       |sie seye heute völlig stumpf.
+      </p>
+     </sp>
+     <sp who="#waberl">
+      <speaker>
+       Waberl.
+      </speaker>
+      <p>
+       warum?
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       ihr Kutscher|hätte ihr versprochen sie auf den Hof bey der grünnen Kräutlerinn|abzuhollen. und er seye nicht gekommen.
+      </p>
+     </sp>
+     <sp who="#waberl">
+      <speaker>
+       Waberl.
+      </speaker>
+      <p>
+       Es würde ja|an ihren Gutscher das Heil nicht gelegen seyn!
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       lobt|ihren Gutscher, daß der er der beste A{lor}mant in der ganzen|Wienstadt seye. daß er ihr gleich die Hand gebe, und daß|sie schon niteinmahl miteinander gerauft hätten,
+      </p>
+      <stage>
+       unter dieser|Erzellung schnupft sie Toback. zieht den Rock dann, und wann hinauf, und|schlagt sich selbst auf die Haube.
+      </stage>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       Es würde ihr vieleicht ein|anderes hungriches Weibsbild ihren Gutscher weggefischt haben|
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       daß sie dies keiner rathen wolle, sie raufte auf Mord, und|Bluth. Naasen, und Ohren würde sie wegkrazen.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       lacht über ihre¬|Eyfer.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       sie soll nicht lachen. sie möchte sonst vergesßen,|daß sie ihre gute Freundin.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       besänftiget sie, und fragt,|warum sie denn heute ihren Gutscher so sehnlich erwartet?|
+      </p>
+     </sp>
+     <stage>
+      *abends*|
+     </stage>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       ihre Herrschaft speisste heute nicht zu Hauße. der Gutscher|habe ihr versprochen sie in Brader zu führen.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       Er würde|vieleicht schon noch kommen. Sie müsße izt bey ihrer Haubenhefterin Hauben hohlen.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       will ihr, weil ihr Weeg auch dahin gehe Geselschaft |leisten.
+      </p>
+     </sp>
+     <stage>
+      Lazzi der Komp. [ab] beyde ab.|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      4ter Auftritt.
+     </head>
+     <sp who="#monsieur francois">
+      <speaker>
+       Monsieur Francois.
+      </speaker>
+      <p>
+       Ein selbstgespräch von seiner Schönheit, und der|Liebe zu seiner Freule Charlotte
+      </p>
+      <stage>
+       zu ihm.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      5ter Auftritt.
+     </head>
+     <sp who="#monsieur leopold">
+      <speaker>
+       Monsieur Leopold.
+      </speaker>
+      <p>
+       gewöhnliche Begrüsßungen reden von ihrer|Schwägerschaft, und von seiner Liebe zu der Fr: Chrette.
+      </p>
+      <stage>
+       zu|ihnen.|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      6ter Auftritt.
+     </head>
+     <stage>
+      Freule Charlotte, und Grette eine reist die andere nach, und nach vom Fenster weg.
+     </stage>
+     <stage>
+      Jede will mit ihren Liebhaber sprechen. wie|sie dann miteinander stünden? ez. bleiben endlich, und vernehme¬|von ihren Liebhabern, daß sie dieselben gern im Brader führen|möchten.
+     </stage>
+     <sp who="#freulein">
+      <speaker>
+       Freulein.
+      </speaker>
+      <p>
+       versprechen durch Hilfe der Waberl gewiß|zu kommen. Fürchten, es möchte ihr Vater kommen, gehen vom{m} Fenster
+      </p>
+     </sp>
+     <sp who="#liebhaber">
+      <speaker>
+       Liebhaber.
+      </speaker>
+      <p>
+       schreien ihnen noch tausend Compl nach.
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      7ter Auftritt.
+     </head>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Herr v.
+      </speaker>
+      <p>
+       Siemande. Was sie seinem Hauße für Kompl: machten?
+      </p>
+      <stage>
+       |beyde erschröcken.
+      </stage>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       warum sie die Nahmen seiner|Töchter genennt, was sie da wollten?
+      </p>
+     </sp>
+     <sp who="#herr v. siemande #liebhaber"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <p>
+       machen in Kürze|ihren Liebsantrag.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       [so→]die wären die beste¬ Schwiegersöhne,|die man auf der Gaßen fände, und die gleich ihre Meinung|da erklärten. Wer sie dann beyde wären.
+      </p>
+     </sp>
+     <sp who="#liebhaber">
+      <speaker>
+       Liebhaber.
+      </speaker>
+      <p>
+       sagen es|
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Er wolle Tochter keinem masquirten Laquey, und keine{m}|authorisirten Stallknecht geben. Er müsße izt zum|Wasßer hinausgehen. Es solle sich keiner gelüsten lasßen|in seiner Abwesenheit seine Behausung zu betretten, oder {er}|wolle ihm mit Stock, und Wache den Weeg zeigen. Sie sollen|ihm seine Ofenherzigkeit nicht übel nehmen.
+      </p>
+      <stage>
+       geht fort.|
+      </stage>
+     </sp>
+     <sp who="#liebhaber">
+      <speaker>
+       Liebhaber.
+      </speaker>
+      <p>
+       wollen klüger seyn, nachgeben, und ihm heimlich|um seine Töchter betrügen.
+      </p>
+      <stage>
+       beyde gehen fort.|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      8ter Auftritt.
+     </head>
+     <sp who="#der gutscher">
+      <speaker>
+       der Gutscher.
+      </speaker>
+      <p>
+       flucht über die höllische Schindmehren, welche ihm durch|das Ausschlagen verhindert, mit seiner Katherl zu reden.|Menget die Chatel und die Schindm[eh→]ören so durcheinander|daß man nicht weiß, wem er eigentlich den schönen Tietel bey-|lege
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      9ter Auftritt.
+     </head>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       wo er dann stecke? die Gräfin hätte anspannen befohlen|
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Er könne nicht anspannen. denn er habe seine Chatel *nich¬*|gesehen, und die Schindmören sey beym Schmid.
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       was|für eine Schindmören?
+      </p>
+     </sp>
+     <sp who="#chutscher">
+      <speaker>
+       Chutscher.
+      </speaker>
+      <p>
+       Nu! das Pferd welches mich|heut geschlagen hat, und welches ich zum beschlagen geritte¬|habe.
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       wer dann izt fahren würde?
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       seinetweg¬|könne fahren, wer da wolle. Die verfluchte Schindmören! seine|Kathel würde izt auch böse seyn. und sein Chatel seye ihm|lieber als sein Dienst. die verfluchte Schindmöhren! Hauen|will ichs, daß sie daran gedenken sollte, daß sie einen|Gutscher geschlagen hat.
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       An seiner Chatel seye|nicht viel neu ge[k→]bachenes?
+      </p>
+     </sp>
+     <sp who="#gutsch">
+      <speaker>
+       Gutsch.
+      </speaker>
+      <p>
+       wie so?
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       Er habe sie mit|einen gewisßen Heyducken gehn sehen.
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       Last sich die Sache|etwas genauer erzellen:
+      </p>
+      <stage>
+       unter der Erzellung hat er immer|mit tempo angebracht: da hast du einen Toback! red weiter!|
+      </stage>
+     </sp>
+     <sp who="#laufer">
+      <speaker>
+       Laufer.
+      </speaker>
+      <p>
+       Erzellt, daß er der Chaterl, und dem Heyducken nachge-|schlichen. Sie wären miteinander über den Fischmarck beym|rothen Thurn hinaus, und beym bruder Herz ums Eck hinüber|gegangen. Sie wäre dem Heyducken in Arm gehenckt. Er hätte ihr|öfters das Goderl gekrazt. Sie wären hernach in der Jägerzeil in ein|Wirths Hauß gegangen, und hätten getanzt. Auf den Abend habe er|sie wieder mit den Heyducken bey der Limonadehütten gesehen, wie|er ihr eine Limonade gezallt.
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       Ist toll, Ein Kutscher könne ihr eine|Limonade verschaffen, als ein Heyduck.
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       hust ihn auf. er solle|es nicht leiden.
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       wann das wahr, was er gesagt, so wolle er es|seiner Chaterl wie seinen Pferden machen. wann er aber lüge, so wolle|er ihm schlagen, daß er in seinen Leben zum Lauffen nichts mehr nutz|seyn sollte.
+      </p>
+      <stage>
+       beyde gehen eiligst mit der Chaterl zu reden ab.|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      10ter Auftritt.
+     </head>
+     <stage>
+      Hanswurst und Caspar. Caspar als junger Herr närrisch gekleidet, mit großen|Courier Stiffeln, und einer Peitsche.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       als Hofmeister im|Reiße Kleid ohne Hanswurstshosen. Seyn froh, daß sie glücklich über den|Strudel, und Wirbel herunter gefa[ll→]hren.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       gefällt die Stadt|weil es so freundliche Buben gebe. Es habe ihm schon einer einen|Schlingel geheisßen. Und hern{a}ch hätten die Häußer so große Fenster,|daß es eine Freud wäre sie einzuwerffen.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       mit Ansehen. Er|solle dergleichen Kindereyen meiden. Er soll sich aufführen, wie ein|wahrer Gelehrter. Wenig esßen, viel reden. Nichts trincken. Keine Bübereye¬|treiben, und sich vor den gefä{hr}lichen Geschlecht in acht nehmen. Und wenn|er ja ein so große Begierde trage ein Fenster einzuwerffen, so solle|er ihm den Stein geben. Er sey größer, und stärcker. Ihm könne leicht|ein Klied verränket werden.
+      </p>
+     </sp>
+     <stage>
+      Casp[ar] möcht gern seinen neuen Kostherrn|sehen.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       der Hh: v. Siemande würde sie wohl empfangen. Gleich nach ihrer|Ankumpft will er dem Hh: Papa ihre Ankumpft, und dieseitige Vergnügen melden.
+      </p>
+      <stage>
+       |dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      11ter Auftritt.
+     </head>
+     <stage>
+      Herr: v. Siemande.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       redet ihm gleich an, ob er nicht wisße, wo der|Hh: v. Siemande wohne?
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       voll Freuden, Er seye es selbst, ob sie die|von Lintz ankommenden Fremdlinge wären.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       bejaet, er wäre der Hof-|meister, und dort stünde der junge
+      </p>
+     </sp>
+     <stage>
+      Hh: [Hh→]Siemand. lauft voll|Freuden auf Casp: zu will ihn umarmen. Casp. der in Gedanken ge-|standen, und izt erschrikt, peitscht ihn weg.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       stellt ihn zur Rede|soll dem Hh. v. Sie: nach Würden empfangen.
+      </p>
+     </sp>
+     <stage>
+      Casp: lazzo der Umar-|mung.
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       fragt ob sie auf den Waßer ankommen wären, und|warum Casp: Courierstiefel und Peitschen hätte.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       daß er das|Wasßer peitschen, und das Schif hätt spornen können, daß es geschwinder|gegangen wäre.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       sie sollen zu ihm in die Behausung kommen|
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       ob er hübsche Menscher habe?
+      </p>
+     </sp>
+     <stage>
+      Siem: zeigt das Hauß. Casp. lauft|gleich hinein [ab]
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       daß der junge Hh: nicht viel Lebensarth habe,|weil er gleich der erste hineinlaufe.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er solle es ihm verzeihen|Er verstünde es nicht besßer.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Hw: soll vorausgehen.|
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       protestirt.
+      </p>
+     </sp>
+     <stage>
+      Siem: geht vor.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <stage>
+       zieht ihn zurück.
+      </stage>
+      <p>
+       weil sie|erlaubt haben, so geh ich voraus.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       der Hh: Hofmeister und der| junge Hh: kömen ihm untern Huth nicht recht richtig für.
+      </p>
+      <stage>
+       folgt nach.|
+      </stage>
+     </sp>
+     <stage>
+      Zimmer
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      12ter Auft:ritt.
+     </head>
+     <sp who="#freule #charlotte #chrette">
+      <speaker>
+       Freule, Charlotte, und Chrette.
+      </speaker>
+      <p>
+       Wisßen nicht, wie sie es anfangen sollten|vom Pappa die Erlaubniß zu bekommen in Brader gehen zu|d{e}rfen.
+      </p>
+     </sp>
+     <sp who="#freule #charlotte">
+      <speaker>
+       Freule, Charlotte.
+      </speaker>
+      <p>
+       Sie wollten zu der Frau Baase zum Spiel sich|ausbitten.
+      </p>
+     </sp>
+     <sp who="#chrette">
+      <speaker>
+       Chrette.
+      </speaker>
+      <p>
+       wenn nur der Hh: Vater nicht selbst mitgehe.
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      13ter Auft:ritt.
+     </head>
+     <stage>
+      Caspar überfällt rückwärts die beyden Fräulein, und bekomt sie beym|Kragen. Die Freulein schreien. dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      14ter Auft:ritt.
+     </head>
+     <stage>
+      Hr: von Siemande. Hw: halten den Casp: ab.
+     </stage>
+     <stage>
+      Hanswurst macht den|Freulein sein Compl:
+     </stage>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       ebenfalls, sie gefallen ihm. fragt,|dem Siem: ob er sie nicht ein wenig herumreißen dürfte?|
+      </p>
+     </sp>
+     <stage>
+      Hanswurst [rep] zankt mit ihm, und
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <stage>
+       sagt.
+      </stage>
+      <p>
+       Er soll sich, und seinen|Eifer ein wenig mäßigen.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p><!-- stage? -->
+       sezt sich auf die Erde. Zieht einen|Stiefel aus. tragt ihm zu Charl: sagt sie solle diese Wenigkeit|annehmen. Es sey ein Present statt einen Zahnstirerbüchsel|
+      </p>
+      <stage>
+       die beyden Freulein lachen.
+      </stage>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       sie sollen das Gute Gemüth von seinen|jungen Herrn erkennen. ez. dazu.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       *Caspar.
+      </speaker>
+      <p>
+        was die Freule hier habe. lazzo mit der Musche. Arie.*
+      </p>
+     </sp>
+     <stage>
+      Siemande erlaubt ihm, mit den Fr. manierlich um|zu gehen.|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      15ter Auftritt.
+     </head>
+     <sp who="#jungfer baberl">
+      <speaker>
+       Jungfer Baberl.
+      </speaker>
+      <p>
+       daß die Speissen aufgetragen würden.
+      </p>
+     </sp>
+     <stage>
+      Casp. sobald|er sie sieht lauft er auf sie zu. Baberl. lauft herum, und Casp.|ihr nach. die Freu. lach¬, und gehen auch zum Speißen.
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Im abgeh¬,|der junge Hh. gehe gewaltig auf die Leuth.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er richte sich überall|nach den Haußherrn|
+      </p>
+     </sp>
+     <stage>
+      Voriges Zimmer|
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <stage>
+     *sauber gekleidet.*
+    </stage>
+    <div type="scene">
+     <head>
+      1ster Auftritt.
+     </head>
+     <stage>
+      Hanswurst und Caspar.
+     </stage>
+     <stage>
+      Hanswurst man gienge nicht immer spazieren der Gnad¬|Hh: habe ihnen das Zimmer eingeräumt. sie wollten also ein wenig|studieren.
+     </stage>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       mag nichts lernen, auf das Eßen schmecke|es ihm nicht.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er wolle nie etwas lernen. Er seye wie eine|Schwein.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       Warum.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er esße, trincke, schlaffe.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       der|Hofmeister sey auch eine Sau.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       warum.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       er esße, trinke,|schlaffe.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       schüzt seine übrige Kopfarbeite¬ vor. bringt ihm mit|guten Worten dahin, daß sie miteinander ein Argument machen|und alsdenn spazieren gehn wollten. Hier ist das Argument.|nach diesen Er solle dem Hh. v. Siem: das Argument lesen laßen. Vieleicht|schencke er ihm was.
+      </p>
+     </sp>
+     <stage>
+      Casp. voll Freuden ab.
+     </stage>
+     <stage>
+      Hanswurst hat seine Überlegung.|dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      2ter Auftritt.
+     </head>
+     <sp who="#jungfer baberl">
+      <speaker>
+       Jungfer Baberl.
+      </speaker>
+      <p>
+       fragt, ob dem Hh: Hofmeister dies Sa Zimmer anständig|wäre.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst
+      </speaker>
+      <stage><!-- p? -->
+       höflich.
+      </stage>
+     </sp>
+     <stage>
+      Scene der Caresßen, Höflichkeiten, und Liebe|
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       sieht seinen jungen Hh: beurlaubt sich. Sie solle ihm nachkommen|Er hätte ihr noch etwas zu erzellen.
+      </p>
+      <stage>
+       geht ab
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      3ter Auftritt.
+     </head>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <stage>
+       hat *zugesehen, sagt
+      </stage>
+      <p>
+       {sie} solle*|seinem Hh: Hofmeister nicht viel trauen. Er könne gar|leicht einen Bock ins Argument machen ez.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       der Hh:|Hofmeister habe nur von der Hauswirtschaft mit ihr gesprochen.|
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       das könne er auch. sagt sie wäre ihm lieber als die Freulein|ez.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       will es nicht glauben.
+      </p>
+     </sp>
+     <stage>
+      Casp. Arie. Ich kann das Mauhl ez|dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      4ter Auftritt.
+     </head>
+     <stage>
+      Siemande tragt ihn nach der Arie fort. Caspar strampft mit Händ,|und Füsßen. Baberl. wundert sich.
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Verbiethet ihr|mit den jungen Herrn nichts zu reden. Er brenne, wie eine|Bechfackel
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       [W→] Baberl. 
+      </speaker>
+      <p>
+       sie verlange keinen Umgang. Ersucht dem|Hhrn. von Siem. den Freulein zum Spiel zu der Frau Baase zu|erlauben.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Er habe es seinen Töchtern schon versprochen.|Es wäre ihm lieb. daß sie den jung¬ Hhrn. aus den Aug¬ kämen.|Er wolle ihm nur ein paar Tage behalten, und alsdenn woanderst|hin in die Kost geben.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       der Hh. Hofmeister wäre gar|ein artiger Hh:
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       merckt schon, wie viel es geschlagen.|schaft Waberl zu der Arbeit. Er müße andere Maasregeln nehme¬
+      </p>
+      <stage>
+       |geht fort|
+      </stage>
+     </sp>
+     <stage>
+      Stadt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      5ter Auftritt.
+     </head>
+     <sp who="#monsieur francois #leopold">
+      <speaker>
+       Monsieur Francois und Leopold.
+      </speaker>
+      <p>
+       Erwarten mit Schmerzen den Augen-|blick, wo sie wieder mit ihren Geliebten sprechen könnten. die|Mädln hätten Geld, und dies mache sie schön.
+      </p>
+      <stage>
+       dazu.|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      6ter Auftritt.
+     </head>
+     <sp who="#baberle">
+      <speaker>
+       Baberle.
+      </speaker>
+      <p>
+       grüßt die beyden Herrn, bringt die Nachricht, daß die|Freulein um 5 Uhr im Lehenwagen bis zur Jägerzeil fahren|würden.
+      </p>
+     </sp>
+     <sp who="#liebhaber">
+      <speaker>
+       Liebhaber.
+      </speaker>
+      <p>
+       wollen ihren Jagdzug dahin bestellen. bedancken,|und beurlauben sich.
+      </p>
+      <stage>
+       gehen fort. zu Baberl.|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      7ter Auftritt.
+     </head>
+      <sp who="#chaterl">
+      <speaker>
+       Chatel.
+      </speaker>
+      <stage>
+       ist froh sie zu sehen.
+      </stage>
+      <p>
+       Ihr Kutscher habe sie aus Eyfersucht prügeln|wollen, nun seye er wieder völlig gut.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       daß sie keinen|Liebhaber verlange, der sie prügeln wolle.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       das müsste seyn.|sagt sie solle heut mit ihnen im Brader gehn.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       sie könne selbst|mit ihren Amanten gehn. sie habe izt einen Hofmeister|
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       greint mit ihr, daß sie sich so niederträchtig mache, und sich mit|einen Hofmeister abgebe. sie habe ihr immer einen braven|Vorreither, Heyducken, oder Lauffer zu kuppeln wollen, aber|weil sie ihr izt die Schand mit einen Hofmeister mache, so wolle sie|nichts von ihr wisßen.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       sie verstünde nicht was sie rede.|sie seye nur ein gemeines Mensch.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       was Mensch? sie|sey ein Stubenfezen, ein Kehrbesen.
+      </p>
+     </sp>
+     <stage>
+      gerathen in Zanck. Baberl|schlagt der Chaterl die Hauben vom Kopf, Chaterl. zieht den Zochlöfel|heraus. izt kommt es zum Handgemenge. sogleich|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      8ter Auftritt.
+     </head>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <stage>
+       nimt den Huth herunter.
+      </stage>
+      <p>
+       damen was giebt es für einen Zanck.|
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       sagt der Hh: Hofmeister soll sich ihrer annehmen. Er, und|sie wären beschimpfet. erzellt das Vorbeygegangene.|
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       sagt der Kuchelhadern soll sich gleich backen, oder er prügle|sie fort.
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <stage>
+       will über ihn her sogleich|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      9ter Auftritt.
+     </head>
+     <sp who="#kutscher #lauffer">
+      <speaker>
+       Kutscher, und Lauffer.
+      </speaker>
+      <p>
+       Was es hier gebe?
+      </p>
+     </sp>
+     <sp who="#chaterl">
+      <speaker>
+       Chaterl.
+      </speaker>
+      <p>
+       Schau Hanns,|der Kerl! will mich schlagen.
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Nur statt: zu Hw: wer ist er?|
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er habe nichts darnach zu fragen. Er wäre Hofmeister.|
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       das wäre was anders. sein Diener Hh. Collega.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       was|Collega? Er wäre Hofmeister über einen jungen Hhrn.
+      </p>
+     </sp>
+     <sp who="#gutscher">
+      <speaker>
+       Gutscher.
+      </speaker>
+      <p>
+       und er|über seine Pferde, folgsam stünden sie in einen Range.|
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <stage>
+       wird toll,
+      </stage>
+      <p>
+       heist ihn einen Flegl.
+      </p>
+     </sp>
+     <sp who="#lauffer">
+      <speaker>
+       Lauffer.
+      </speaker>
+      <p>
+       Er solle nicht schimpfen,|oder sie schlügen ihn krum, und lahm.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <stage>
+       zieht den Degen.
+      </stage>
+      <p>
+       Hier geht’s|zum rauffen
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      10ter Auftritt.
+     </head>
+     <sp who="#die wache">
+      <speaker>
+       Die Wache.
+      </speaker>
+      <p>
+       Was hier vorgehe?
+      </p>
+     </sp>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       der Kerl hätte den Degen über| [ih] sie gezogen.
+      </p>
+     </sp>
+     <stage>
+      die Wache führt den Hw. ungeachtet aller Weigerung|fort, und die übrigen gehen schreiend mit|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      11ter Auftritt.
+     </head>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Sieht den [Hw:] Hofmeister fortführen, will hören,|was er begangen, und von der Wache frey machen.
+      </p>
+      <stage>
+       Geht|eilends nach.|
+      </stage>
+     </sp>
+     <stage>
+      Zimmer.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Dritter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      1ster Auftritt.
+     </head>
+     <stage>
+      die beyden Freulein, und
+     </stage>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       Meldet, daß ihre|Liebhaber kommen würde, und entdeckt sogleich die Verdrüßlich-|keit, welche der Hofmeister wegen ihr gehabt
+      </p>
+      <stage>
+        dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      2ter Auftritt.
+     </head>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       fragt eine nach der anderen um den Hofmeister|Keine will es ihm sagen.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <stage>
+       ungeduldig.
+      </stage>
+      <p>
+       der Hh. Hof-|meister wäre im Loch.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       in was für einen Loch? in|Ofenloch.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       Nein! im Arrest.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       hat seine Freude,|daß der Hh: Hofmeist: im Loch sey
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      3ter Auftritt.
+     </head>
+     <stage>
+      Hh. v. Siemande. Hanswurst
+     </stage>
+     <stage>
+      Ersterer sagt, Er soll sich ins kümpftige|vor dergleichen Steittigkeiten in Acht nehmen.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       daß es|nimmermehr geschehen würde. Er habe es nur der Jungf: Baberl|zu Lieb gethan.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       lazzo. der Hofmeister ist im Loch geweße¬|
+      </p>
+     </sp>
+      <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       was der junge Hh. rede.
+      </p>
+     </sp>
+     <stage>
+      Casp. lazzo wie vorher.
+     </stage>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       wer es|ihm gesagt. Es wäre nicht wahr.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       der Hh. Hofmeister sey|halt doch im Loch geweßen.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       bittet dem gnäd: Hh: er|möchte jedermann diesen Umstand ver[zeihe¬ →]schweigen. bittet die|Freulein um Verzeihung, wenn vieleicht sein junger Hh. sie|sollte beleidiget haben.
+      </p>
+     </sp>
+     <stage>
+      Casp. lazzo, wie vorher.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <stage>
+        wincket|ihm, 
+      </stage>
+      <p>
+       und droht ihn zu prügeln.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       sagt seine Töchter solle¬|in die Gesellschaft zur Frau Baase gehn. Er wolle zu Hauße.|bleiben, um nöthige Anordnungen zu machen.
+      </p>
+      <stage>
+       Geht mit|allen Frauenzimmern ab.
+      </stage>
+     </sp>
+     <stage>
+      Hanswurst sagt heimlich zu der Jungfer Baberl|sie solle ein wenig in [sein →]ihrem Zimmer warten. er hätte ihr was zu|sagen. wenn alle fort. Izt wolle er mit dem Rindvieh|Abhandlung halten.
+     </stage>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <stage>
+       lacht erstaunlich.
+      </stage>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Ein solches|Unglück könne jedem Galanthome geschehen, wenn er sich um|damen annehme. {rück}elt ihm die Haare. Er solle sich nicht|mehr unterstehen zu lachen, oder er nehme ihm zu den|Spaziergang nicht mit.
+      </p>
+     </sp>
+     <stage>
+      lazzo mit Abgehen. Muß mit Tempo ge-|macht werden.|
+     </stage>
+     <stage>
+      Stadt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      4ter Auftritt.
+     </head>
+     <sp who="#ein tändler">
+      <speaker>
+       Ein Tändler.
+      </speaker>
+      <p>
+       Ist froh, daß er nun seine Schuld bekommen würde.|bey dem Mons: Franc: wäre sie nicht gar richtig geweßen.|Nun habe er eine schriftliche Anweisung an dem Hrn: von|Siemande. Weil der Mons: Fran: bey seiner Geliebten in|Brader wäre, wolle er sein Geld zu erhaschen trachten.|der Termin wäre zwar erst in 14 Tägen. aber besßer|zu fruh, als zu spat.
+      </p>
+      <stage>
+       Hört Jemand aus dem Hause kommen|begiebt sich zurück|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      5ter Auftritt.
+     </head>
+     <stage>
+      Hw: Baberl, Casp: Hw: führt die Waberl unter den Arm.
+     </stage>
+     <sp who="#hanswurst">
+      <speaker>
+       HansWurst.
+      </speaker>
+      <p>
+       Sie|wären hier fremd. Sie solle sie nun dahin führen, wo es|lustig zu gienge.
+      </p>
+     </sp>
+     <sp who="#baberl">
+      <speaker>
+       Baberl.
+      </speaker>
+      <p>
+       sie dürfte¬ sich nur einen Lehenwagen|nehmen, und im Brader fahren. die Fräulein würden|vieleicht auch schon dort seyn.
+      </p>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       will allein nicht|mitgehen. Er wolle auch Jemand unter den Arm führen|
+      </p>
+     </sp>
+     <stage>
+      sieht den Tandler, nimmt ihm gleich unter den Arm, will ihm| mitführen.
+     </stage>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       Er habe nicht zeit.
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       Er soll dem Hrn:|gehn lasßen. Vieleicht fänden sie unterweegs ein ehrbahres|Frauenzimmer, welches sie mitführen könnten.
+      </p>
+     </sp>
+     <stage>
+      Casp. will das am Eck sizende Kipfelweib mit den Kipfelstand mitnehmen|alle drey gehen fort.
+     </stage>
+     <stage>
+      Tändler will nunmehr sein Glück wegen|den Geld versuchen. geht zum Hauße, und klopft dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      6ter Auftritt.
+     </head>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Herr v Siemande.
+      </speaker>
+      <p>
+       was er wolle?
+      </p>
+     </sp>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       Ob er vielleicht der gnäd:|Hh: v. Siemandl. Er möchte so gut seyn, die Gnade haben, und|den Auszügel bezallen.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       {l}ist: wer ihm dies schuldig|wäre?
+      </p>
+     </sp>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       der zukümpftige Schwiegersohn des Hr: v. Siemande.|der Mons: Franc: Er hätte ihm die Anweisung gegeben.|
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Er solle sich zum Teufel scherren. Er wolle weder von ihm|noch von dem Lumpe[l →]n Franz etwas wisßen. Er solle sich nicht|unterfangen zu gedenken, geschweige zu sagen, daß der Franz|sein Schwiegersohn werden wolle.
+      </p>
+     </sp>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       Wenn er auch nichts|sage, so wisße es die ganze Stadt, ja es würden sie viel tausend|Menscher beyeinander im Brader sehen.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       Er würde das|Glück nicht haben, sie im Brader zu sehen.
+      </p>
+     </sp>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       Er dürfte|nur izt hinaus gehen, so würde er die beyeinander antreffen.|
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande.
+      </speaker>
+      <p>
+       fangt an zu argwohnen.
+      </p>
+     </sp>
+     <sp who="#tandler">
+      <speaker>
+       Tandler.
+      </speaker>
+      <p>
+       erzellt, was er gehört|und gesehen.
+      </p>
+     </sp>
+     <sp who="#siemande">
+      <speaker>
+       Siemande
+      </speaker>
+      <p>
+       schenkt ihm einen Gulden Vor die Nachricht.|sein Geld solle [be] er beyme Franz suchen. Seine*n* Töchtern nachzugeh¬|
+      </p>
+      <stage>
+       geht er nebst den Tändler fort.|
+      </stage>
+     </sp>
+     <stage>
+      Wald
+     </stage>
+     <stage>
+      Tisch mit gedeckter Tafel|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      7ter Auftritt.
+     </head>
+     <stage>
+      die beyden Freulein sizen nebst Monsieur Francois Monsieur Leopold;|Zwey Kellner, welche aufwarten *{NB.} die Frauenzi¬: habe¬ engl. Hütte auf.*|die Männer sind beschäftiget die Frauenzimmer zu bedienen|
+     </stage>
+     <stage>
+      Frauenzimmer loben die schöne Gegend, und daß sie hier ewig|bleiben möchten. Nach Hauß zu gehn, und bey dem verdrüßlich¬|Vatern zu bleiben, wäre viel zu betrübt. Sind besorgt,|wenn sie vieleicht wer kennen sollte, und sie verrathen würden.|
+     </stage>
+     <stage>
+      Monsieur Francois tröstet sie, will gleich ein wenig sehen, was für|Leuthe hier wären geht fort. die übrigen reden noch von|dem Inhalt dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      8ter Auftritt.
+     </head>
+     <stage>
+      Zwey Studenten. singen ihr Liedch¬, bitten um ein Allmosen,|und gehen weiter fort. ez: dazu|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      9ter Auftritt.
+     </head>
+     <sp who="#monsieur francois ">
+      <speaker>
+       Monsieur Francois
+      </speaker>
+      <p>
+       daß keine bekannte Seele in ganzen Brader|wäre. sie könnten ruhig beysamen bleiben dazu|
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      10ter Auftritt.
+     </head>
+     <stage>
+      Jungf: Baberl. Hanswurst und Caspar
+     </stage>
+     <stage>
+      Complimentiren sie. Müssen sich|zu ihnen setzen.
+     </stage>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       nimmt sich gleich esßen, und trincken weg|und sezt sich vorn an die Bühne. übrige sind lustig
+      </p>
+      <stage>
+       dazu|
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      11ter Auftritt.
+     </head>
+     <stage>
+      Lieserl als leyrer Mädchen. singt ihr Liedchen. bekomt Geld zuschencke¬ dazu
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      12ter Auftritt.
+     </head>
+     <stage>
+      Chaterl, Gutscher. Lauffer. Statisten.
+     </stage>
+     <stage>
+      Hier wären Leuthe.
+     </stage>
+     <stage>
+      Chaterl sobald|sie dem Hw: sieht, sagt sie zu ihren Führern. Sie sollten keine Händel|
+      <p>
+       anfangen.
+      </p>
+     </stage>
+     <sp who="#kutscher">
+      <speaker>
+       Kutscher.
+      </speaker>
+      <p>
+       Er wisße ja, daß die Wacht hier wäre.|sagt, daß Mädl soll aufleyern. Er wolle mit seiner|Chaterl einen {...}net tanzen.
+      </p>
+     </sp>
+     <stage>
+      Liserl. leyert den Menuet.|Kutscher, und Köchin tanzen nach den Charakter ez. Nach diesen tanzt|Casp: mit einer nach belieben. zu der grösten Lustbarkeit dazu|*und Tandler*|
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      13ter Auftritt.
+     </head>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Herr v Siemande.
+      </speaker>
+      <p>
+       Erfreut, die Gesellschaft in so guter Hormonie|anzutreffen.
+      </p>
+     </sp>
+     <stage>
+      [Alle] Freulein, Liebhaber, junger Hh: und Hofmeister|erschröken.
+     </stage>
+     <sp who="#liebhaber">
+      <speaker>
+       Liebhaber.
+      </speaker>
+      <p>
+       wollen mit Schmeicheley den alten Herrn|dahin bringen, daß er die Sache nicht übel aufnehmen solle.|
+      </p>
+     </sp>
+     <sp who="#herr v. siemande">
+      <speaker>
+       Hh. v. Siemande.
+      </speaker>
+      <p>
+       Im höchsten Grad erzörnt. die beyden Hhrn. Lumpen|sollen ihm nicht toll machen, oder er laße sie mit der Wache|wegführen. seine Madln *Töchter*gehörten nicht in diese Gesellschaft,|Junge Mädln wären bald verführt. Er wolle sich mit ihnen nicht|abgeben. Seine Kinder wolle er ins Kloster sperren laßen,|und an gehörigen Orthe wolle er sich beklagen, daß man|solche dem Staate höchst schädliche Müßigänger, und Leuth-|Ansezer auf einer Festung versorgen solle. Von der Bürde|des Jungen Herrns, und Hofmeisters wolle er sich heute noch|entledigen. Es wäre ihm lieb, wann sie heute Nacht sein Hauß|nicht mehr betretten, und in einen Wirthshause übernachte¬|möchten. dem Vater des Casp: wolle er nach Lintz schreiben,|was für einer guten Obsorge er seinen Sohn anver-|traut.
+      </p>
+      <stage>
+       Geht mit seinen Töchtern ab: Andere lachen|über diese Bedrohung.
+      </stage>
+     </sp>
+     <sp who="#caspar">
+      <speaker>
+       Caspar.
+      </speaker>
+      <p>
+       sein Vater sehe die Menscher selbst|gern, und würde es seinem Sohn nicht übel nehmen.|
+      </p>
+     </sp>
+     <sp who="#hanswurst">
+      <speaker>
+       Hanswurst.
+      </speaker>
+      <p>
+       sie würden deßweg¬ doch nicht zu Grund gehen. die Jungfer|Baberl soll bey ihnen bleiben,
+      </p>
+     </sp>
+     <sp who="#caspar #hanswurst #herr v. siemande #liebhaber"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       wollen im Brader ein|Angedenken unterlasßen, und nachdem sie einander|Freundschaft zugeschworen, befehlen sie den Mädl|auf der Leyer einen steyrischen zu spielen, und unter|dem Tanz erfolgt das|
+      </p>
+     </sp>
+     <stage>
+      Ende
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

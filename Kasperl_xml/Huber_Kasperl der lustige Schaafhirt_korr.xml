@@ -1,0 +1,7153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Kasperl der lustige Schaafhirt,
+     oder
+     das Mayfest auf den Alpen
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Leopold Huber
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1791">
+      1791
+     </date>
+     <date type="premiere" when=""/>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="thomas">
+      <persName>
+       Thomas
+      </persName>
+     </person>
+     <person xml:id="kasperl">
+      <persName>
+       Kasperl
+      </persName>
+     </person>
+     <person xml:id="röschen">
+      <persName>
+       Röschen
+      </persName>
+     </person>
+     <person xml:id="gretl">
+      <persName>
+       Gretl
+      </persName>
+     </person>
+     <person xml:id="schulmeister">
+      <persName>
+       Schulmeister
+      </persName>
+     </person>
+     <person xml:id="christl">
+      <persName>
+       Christl
+      </persName>
+     </person>
+     <person xml:id="christel">
+      <persName>
+       Christel
+      </persName>
+     </person>
+     <person xml:id="graf">
+      <persName>
+       Graf
+      </persName>
+     </person>
+     <person xml:id="luft">
+      <persName>
+       Luft
+      </persName>
+     </person>
+     <person xml:id="sophie">
+      <persName>
+       Sophie
+      </persName>
+     </person>
+     <person xml:id="klara">
+      <persName>
+       Klara
+      </persName>
+     </person>
+     <person xml:id="therese">
+      <persName>
+       Therese
+      </persName>
+     </person>
+     <person xml:id="savojarde">
+      <persName>
+       Savojarde
+      </persName>
+     </person>
+     <person xml:id="max">
+      <persName>
+       Max
+      </persName>
+     </person>
+     <person xml:id="lise">
+      <persName>
+       Lise
+      </persName>
+     </person>
+     <person xml:id="waller">
+      <persName>
+       Waller
+      </persName>
+     </person>
+     <person xml:id="clara">
+      <persName>
+       Clara
+      </persName>
+     </person>
+     <person xml:id="gretchen">
+      <persName>
+       Gretchen
+      </persName>
+     </person>
+     <personGrp xml:id="chor">
+      <name>
+       Chor
+      </name>
+     </personGrp>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     KASPERL DER LUSTIGE SCHAAFHIRT, ODER DAS MAYFEST AUF DEN ALPEN
+    </head>
+    <head>
+     in komisches Singspiel in zwey Aufzügen für die Marinellische Kinderschule
+    </head>
+    <head>
+     von Leopold Huber 1791
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Graf Waller, Gutsherr.
+     </castItem>
+     <castItem>
+      Sophie, seine Schwester.
+     </castItem>
+     <castItem>
+      Baron Luft.
+     </castItem>
+     <castItem>
+      Thomas, ein Barbier im Dorf, Wittwer.
+     </castItem>
+     <castItem>
+      Schulmeister.
+     </castItem>
+     <castItem>
+      Kasperl, Christel, Hirten aus dem Gebirg.
+     </castItem>
+     <castItem>
+      Röschen, Gretchen, Nichten des Barbiers.
+     </castItem>
+     <castItem>
+      Therese, 
+     </castItem>
+     <castItem>
+      Kammermädchen der Sophie.
+     </castItem>
+     <castItem>
+      Max, Jäger des Grafen.
+     </castItem>
+     <castItem>
+      Klara, ein junges Hirtenmädchen.
+     </castItem>
+     <castItem>
+      Lise, des Gärtners Tochter.
+     </castItem>
+     <castItem>
+      Ein Savojarde.
+     </castItem>
+     <castItem>
+      Mehrere Hirten und Hirtinnen.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <stage>
+    Ein komisches Singspiel in zwey Aufzügen für die Marinellische Kinderschule
+   </stage>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Das Theater stellt vor eine hohe Alpengegend. Reizendes Gebürg, woraus ein Wasserfall strömt, der sich unten im Thale verliert. Man sieht hin und wieder Schaafe weiden. Oben sitzt auf einem steilen Felsenstück Kasperl, und bläst bey Aufzug der Kortine auf der Schalmey. Unten im Thal von zerschiedenen Seiten, Christel und Röschen, ohne einander zu sehen.)
+     </stage>
+     <stage>
+      Terzett.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ich Kasper, ohne Sorgen
+       </l>
+       <l>
+        Freu’ mich an jedem Morgen
+       </l>
+       <l>
+        Der lieben bunten Welt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <lg>
+       <l>
+        An jedem frühen Morgen
+       </l>
+       <l>
+        Bin ich so frey von Sorgen,
+       </l>
+       <l>
+        Und freue mich der Welt. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel #kasperl">
+      <speaker>
+       Alle 3.
+      </speaker>
+      <lg>
+       <l>
+        Ich grüsse Thal und Felder,
+       </l>
+       <l>
+        Ich grüsse Flur und Wälder
+       </l>
+       <l>
+        Mein Gretl / Christel / Röschen ist mir mehr als Geld.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Kaum, daß ich früh aufstehe
+       </l>
+       <l>
+        Zu meinen Schaafen gehe,
+       </l>
+       <l>
+        Fällt mir mein Röschen ein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wenn ich im Schlafe liege
+       </l>
+       <l>
+        Träum’ ich wie in der Wiege
+       </l>
+       <l>
+        Und wünsch bey ihm zu seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel #röschen">
+      <speaker>
+       Christel. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Mein Röschen / Christel ist so schlank und schön
+       </l>
+       <l>
+        Süß ist von ihr / ihm ein Kuß.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       [zugleich]
+      </stage>
+      <lg>
+       <l>
+        Mein Gretl hat n’ Loch im Kinn
+       </l>
+       <l>
+        So rund wie Haselnuß.
+       </l>
+       <stage>
+        (kommt herunter)
+       </stage>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Bin ich bey ihr /ihm, so seh ich schier
+       </l>
+       <l>
+        Und hör nichts um und um –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Seh’ ich mein Gretl – krippelts mir
+       </l>
+       <l>
+        Zwick – zwick im Herz herum. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel #kasperl">
+      <speaker>
+       Alle 3.
+      </speaker>
+      <lg>
+       <l>
+        Da gehts – zwick – zwick –
+       </l>
+       <l>
+        Da gehts tschi – tschi –
+       </l>
+       <l>
+        Ich seh nichts um und um
+       </l>
+       <l>
+        Hopsasa – Dudeldum!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie gehen um einander herum, bis endlich Christel Röschen erwischt.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <p>
+       Du hier – Christel! weißt du auch, das ist gar nicht schön, daß du mich so erschröckt hast – Du wirst vielleicht nicht wissen, daß einem das entsetzlich schaden kann –
+      </p>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <p>
+       Schaden? liebes Röschen! wenn ich dich an der Hand nehme –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Nun freylich; hat mir ja meine Mutter seelig so oft erzählt, wie die Leute vom gähen Schrecken allerhand Zufälle bekommen haben, und endlich gestorben sind. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (kömmt herfür)
+      </stage>
+      <p>
+       Was das für närrische Leute zusammen sind – Da bandelns und tandelns an einander herum, –
+       <stage>
+        (nimmt ihre Hände, legt sie zusammen)
+       </stage>
+       Da gehts her, gebt einander die Hände – ihr habt  meinen Seegen – für d’Aussteuer könnts selber sorgen. –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ja – was nüzt das – du weißt lieber Kasperl! mein Vetter will nicht einmal haben, daß ich mit dem Christel reden soll –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Weiß schon, was dem Herrn Vetter im Kopf herum spuckt – vor 6 Wochen starb seine Frau, nun will er sich halt selbst noch in seinen alten Tagen so n’ junges Moeuble ins Haus anschaffen –
+      </p>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <p>
+       So giebt mir nur einen guten Rath, lieber Kasperl! – du weißt – ohne mein Röschen kann ich nicht leben. –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Und so geht mirs gerade mit dem Christel –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Nun wenn das nicht ein paar verliebte Gimpeln sind, so giebts keine mehr in der Welt –
+       <stage>
+        (laut)
+       </stage>
+       – du weißt, ich hab deine Schwester die Gretl auch gern – so lang aber dein Vater nicht Ja sagt, – ja so wird aus der ganzen Pastete nichts werden. –
+      </p>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <p>
+       Was werde ich noch anfangen? ich armer Christl!
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       O ich armes Mädchen!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (wird nach und nach bewegt)
+      </stage>
+      <p>
+       S’ist – s’ist wahr
+       <stage>
+        (weint auch)
+       </stage>
+       Die junge Leuteln dauren mich – aber wer kann dafür, daß – daß der Vetter so ein Flegel ist, und nicht Ja sagen will.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Du könntest uns wohl behülflich seyn, wenn du wolltest. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Aber wie denn, ihr Frazen! –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Du weißt, ich und meine Schwester haben von unserer Frau Mahm 200 fl. geerbt, wenn wir nur diese Schrift bekommen könnten. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und was wolltet ihr hernach mit der Schrift machen? he! –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Zu unsern gnädigen Herrn gieng ich damit – er ist gestern mit seiner Schwester hier angekommen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Also an der Schrift ist euch so viel gelegen? – Die müssen wir zu erwischen suchen.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Wie wirst du sie aber kriegen, Kasperl! du darfst ja wegen der Gretl keinen Schritt in das Haus kommen. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Dafür laßt nur mich sorgen. – Morgen ist unser Mayfest – das wißt ihr – vor einem Jahr, da wir unsern Maytanz hielten, hat der gnädige Herr, der alten Lise Tochter zusammen gebandelt, heuer soll die Reihe an uns kommen. – Juhe! es lebe der gnädige Herr, und meine Kretl oben drein!
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Mein Gretl ist so wunderschön,
+       </l>
+       <l>
+        Hat Aepfelrothe Backen,
+       </l>
+       <l>
+        Krieg ich sie einmal nur zu sehn –
+       </l>
+       <l>
+        So nimm ichs an dem Nacken,
+       </l>
+       <l>
+        Und küsse sie von Herzen mein,
+       </l>
+       <l>
+        Und hab mit ihr mein Spiel –
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Sie ist n’ Diendl zart und fein,
+       </l>
+       <l>
+        So schlank, wie Besenstiehl.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Christel und Röschen.
+     </stage>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <p>
+       Ich
+       <stage>
+        (schluchzend)
+       </stage>
+       Ich muß dirs aufrichtig sagen, Röschen! länger werd’ – ichs jetzt nimmer aushalten können – ich bin doch auch schon in denen Jahren, wo ich auf n’ ernsthafte Art ans Heurathen denken muß. –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Und mir wärs auch lieber heut als morgen, ich weis gar nicht, wie mirs so kurios ist, ums Herz. – Es schmeckt mir kein Essen und kein Trinken, und so gar im Schlaf muß ich an dich denken. –
+      </p>
+     </sp>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wenn ich des Morgens früh aufwache,
+       </l>
+       <l>
+        Seh’ ich nur Christel vor mir stehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Wenn ich des Nachts vom Schlaf erwache,
+       </l>
+       <l>
+        Hör ich mein Röschen vor mir gehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Die Lämmer treib ich auf die Weide,
+       </l>
+       <l>
+        Und singe fröhlich durch die Flur –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Das schönste Thal wird mir zur Haide,
+       </l>
+       <l>
+        Nur du verschönerst die Natur –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ich liebe dich –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Aus Herzensgrund?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        So heiß und treu –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        So spricht mein Mund –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ich liebe dich allein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christl">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Du must mein Schatzerl seyn.
+       </l>
+      </lg>
+      <stage>
+       (beyde ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (mit einem Flor auf dem Hut, in Gedanken vertieft, erblickt sie noch.)
+      </stage>
+      <p>
+       Nun ja – da sind sie wieder beysammen gewesen. Aber nur Geduld! ich werde der Hacke einen Stihl zu drehen wissen, darüber ihr euch wundern sollts. –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Voriger, der Schulmeister.
+     </stage>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Bonus Dies – sagen wir Lateiner! was macht denn der Herr Vetter so früh vor dem Dorf – hat vielleicht gar schon von dem pro Memoria gehört, das unsre gnädige Herrschaft an mich als Schulvorsteher des Dorfs hat ergehen lassen – ?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Und worinn soll denn das bestehen?
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Unser gnädiger Herr will – daß ich heute noch vor unserm Mayfest alle jungen Leute im Dorf aufsuchen soll, dit [!] einander gerne heurathen möchten –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Pfui Teufel! das sind schlimme Aspekten! Wenn das die beyden Mädchen erfahren, so ist der Teufel los –
+       <stage>
+        (laut)
+       </stage>
+       hör er, Er könnte mir einen wichtigen Freundschaftsdienst erweisen. –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Servus – Servus –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Ich wollte ihm auch gerne – – ha ha! ha! er versteht mich schon –
+       <stage>
+        (leiser)
+       </stage>
+       Ich hab gestern für einen Beinbruch 6 Flaschen Elsässer Wein erhalten – puh – köstlich und roth wie Türkenblut –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Hm – Hm – die Zunge wässert mir schon darnach, – der muß köstlich schmecken.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Auch wollt’ ich mich anheischig machen – den Herrn Vettern 3 Jahre umsonst zu barbieren – oder – Nein – nein
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       [!] Wir bleiben schon beym ersten.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Er weiß, ich habe seit meiner seeligen Frau Tod meine 2 Nichten bey mir im Haus; die älteste davon –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Möchte der Herr Vetter gerne in sein Domicilium aufnehmen, ha – ha – ha, verstehs schon –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Errathen –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie wär es, Herr Vetter! wenn er den Befehl des gnädigen Herrn heute noch verschweigen –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Benissime!
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Und für diese Gefälligkeit wollte ich ihm einstweilen nur die 6 Flaschen –
+      </p>
+     </sp>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Sechs volle Flaschen Wein –
+       </l>
+       <l>
+        Dafür kann man zu Diensten seyn
+       </l>
+       <stage>
+        (Pause)
+       </stage>
+       <l>
+        Der Wein – er geht – glu – glu! o Wunder!
+       </l>
+       <l>
+        Die Kehle frisch und froh hinunter;
+       </l>
+       <l>
+        Da singt man hübsch poetice –
+       </l>
+       <l>
+        Und trinket gern methodice
+       </l>
+       <l>
+        Sich durch 6 Flaschen Wein –
+       </l>
+       <l>
+        Ins Paradieß hinein.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <sp who="#thomas">
+      <speaker>
+       Thomas 
+      </speaker>
+      <stage>
+       allein. (Sieht ihm nach.)
+      </stage>
+      <p>
+       Was es doch für Narren in der Welt giebt – der singt sich durch 6 Flaschen Wein ins Paradieß – und mich bringt ein Mädel um meine Sinnen, Ey, ey, ey – die Liebe versetzt mir da einen gewaltigen Streich. – Meine ganze Barbierkunst leidet darunter – nicht anders! wenn mich jemand ruft, aber zu lassen – so bin ich mit meiner Barbierschüssel da, will der andere rasirt seyn, so will ich ihm die Hühneraugen ausschneiden – oder eine Visikator setzen. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Herr Thomas! ey – hum, hum,
+       </l>
+       <l>
+        Ey, ey, daß ist zu dumm –
+       </l>
+       <l>
+        Ein junges Mädchen soll ich freyn?
+       </l>
+       <l>
+        Soll närrisch in der Liebe seyn – ?
+       </l>
+       <l>
+        Ey, ey, hum, hum –
+       </l>
+       <l>
+        Ey, ey, das ist zu dumm –
+       </l>
+       <l>
+        Da soll ich Aderlassen gehn, –
+       </l>
+       <l>
+        Sollnach den Patienten sehn –
+       </l>
+       <l>
+        Da will ich sie rasiren,
+       </l>
+       <l>
+        Klistiren und purgiren,
+       </l>
+       <l>
+        Seciren, amputiren
+       </l>
+       <l>
+        Und schmieren, trepaniren
+       </l>
+       <l>
+        Mit Schrepfen sie kuriren
+       </l>
+       <l>
+        Und Blutigelisiren –
+       </l>
+       <l>
+        Herr Thomas! ey – hm – hm –
+       </l>
+       <l>
+        Ey – ey – das ist zu dumm.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftrit. [!]
+     </head>
+     <stage>
+      Christl allein, Thom.
+     </stage>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Wie mir doch so wunderbar ums Herz ist, wenn ich nicht bey einem Röschen bin – Kaum bin ich von ihr entfernt, so wünschte ich mich wieder zu ihr – kaum bin ich da, so klopft mir das Herz – und da
+       <stage>
+        (Thomas schleicht heraus)
+       </stage>
+       wünschte ich, über alle Berge zu seyn. – Ich glaub lieber, wenn es nicht bald anders wird, daß ich noch zuletzt hinlieg und sterbe. –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Du armer Junge! wie ich höre, bist du sehr krank – du siehst auch ganz miserabel aus –
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <p>
+       Ihr habt recht, es ist mir gar nicht gut. – Und ich dächte, daß ihr mich am besten kuriren könntet.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie das – von Herzen gern – hast vielleicht keinen Appetit – keinen Schlaf.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Tag und Nacht denk ich an Röschen, und da kann ich nichts essen und nicht schlafen.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Das ist ein schlimmer Umstand – Ehedem war ich so lustig – so munter. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Ich hatte sonst der Freuden viel,
+       </l>
+       <l>
+        War munter, sorgenfrey –
+       </l>
+       <l>
+        Vergnügte mich mit Pfänderspiel,
+       </l>
+       <l>
+        Und bließ auf der Schalmey –
+       </l>
+       <l>
+        Die Lämmer sah ich munter springen,
+       </l>
+       <l>
+        Die Vögel hört ich lieblich singen –
+       </l>
+       <l>
+        Die Henne scherzte mit dem Hahn,
+       </l>
+       <l>
+        Und mich lacht keine Freude an.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (Kommt vom Gebirge, mit einem Körbchen mit Milch und Brod.)
+      </stage>
+      <p>
+       Ich möchte nur wissen, wo mein Kasperl steckt, – ich such ihn schon auf dem ganzen Gebürg, und will ihm s’Mittag-Brod bringen, und doch kann ich ihn nicht finden; –
+       <stage>
+        (Man hört hinter dem Gebürg ein Jagdstückl blasen.)
+       </stage>
+       Hilf Himmel! was hör ich – der gnädige Herr kommt von der Jagd – da muß ich eilends fort
+      </p>
+      <stage>
+       (geht nebenbey.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Graf Waller, 2 Jäger mit Wadhörnern. Sie kommen unter dem Jagdstück vom Gebirg herunter.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf Waller.
+      </speaker>
+      <lg>
+       <l>
+        Wenn auf unbewohnten Haiden,
+       </l>
+       <l>
+        Gemsen und Steinböcke waiden,
+       </l>
+       <l>
+        Freut sich jeder Waidemann –
+       </l>
+       <l>
+        Piff, paff – piff, paff –
+       </l>
+       <l>
+        Wenn die fernen Kugel sausen,
+       </l>
+       <l>
+        Donner, Blitz und Winde brausen –
+       </l>
+       <l>
+        Und im nahen Fichtenwald
+       </l>
+       <l>
+        Hund und Jagdhorn widerhallt –
+       </l>
+       <l>
+        Piff – paff – piff – paff –
+       </l>
+       <l>
+        Da zielet man – und spannt den Hahn –
+       </l>
+       <l>
+        Es lebe jeder Waidemann!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Waller mit den Jägern ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftrirt. [!]
+     </head>
+     <stage>
+      Luft allein.
+     </stage>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Gestern sah’ ich hier ein allerliebstes Mädchen Schaafe waiden – und mir war, als wenn ich sie vorhin wieder gesehen hätte – ich will hier auf sie warten – denn zu meiner Braut zu gehen, bleibt mir immer noch Zeit genug übrig. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Ueberall, wo Mädchen sind,
+       </l>
+       <l>
+        Da bin ich dabey –
+       </l>
+       <l>
+        Grillen schlag ich in den Wind,
+       </l>
+       <l>
+        Haß’ das Einerley –
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Bald ists diese, bald ists jene,
+       </l>
+       <l>
+        Süß ist mir das Wandern –
+       </l>
+       <l>
+        Zur Brunette, zur Blondine –
+       </l>
+       <l>
+        Bald zu einer andern –
+       </l>
+      </lg>
+      <stage>
+       (von Anf.)
+      </stage>
+     </sp>
+     <stage>
+      (Gretlschleicht sich herbey.)
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (kommt herfür mit vielen ländlichen Kniksen)
+      </stage>
+      <p>
+       Schönen guten Tag, lieber, gnädiger Herr!
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Schön willkomm – schön willkomm – wie kommst denn du hieher? liebes Mädchen!
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Nun, da hab’ ich wollen meinem Kasperl das Mittagessen bringen – aber ich weiß ja nicht, wo ich ihn finden soll –
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Desto besser für mich –
+       <stage>
+        (laut)
+       </stage>
+       Wer ist denn dein Kasperl? –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Ein Hirtenjunge auf den Alpen – er will mich nächstens heurathen. –
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Wo wohnst du denn? schönes Mädchen!
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (schnell mit vielen Knicksen)
+      </stage>
+      <p>
+       Gleich da, zu Anfang des Dorfs, in dem weissen Häusel – nahe dabey steht ein Lindenbaum, und neben dem Lindenbaum steht ein Brunn – Ihnen zu dienen. –
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Ich werde dich auf den Abend besuchen – darf ich? – Hier schenk’ ich dir einstweilen einen Gulden, kauf dir auf morgen ein Band zu deinem Hut. –
+      </p>
+      <stage>
+       (Kasperl kommt.)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Schönen Dank – gnädiger Herr!
+       <stage>
+        (küßt ihm die Hand)
+       </stage>
+       aber nehmen sie sich in Acht, daß mein Kasperl nichts merkt, denn der Kerl ist eifersüchtig wie ein Pavian. –
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Sey unbesorgt, es wird schon alles gut gehen. –
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Gretl, Kasperl rückwärts.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Was? einen Gulden, zu einem Band auf den Hut? schau – da könnt’ ich glücklichs Mädel werden, wenn sich der hübsche Herr in mich verlieben wollt. Er sieht auch ganz anders aus als mein Kasperl – er ist kein so vierschrötiger Limmel – und die Herren in der Stadt, hab’ ich mir sagen lassen, sollen gar höflich, und manierlich mit ihren Frauen umgehen. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Nun wart Gretl! ich will dir den vierschrötigen Limmel vertreiben.
+      </p>
+     </sp>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (Kasperl macht ihr alles komisch nach.)
+      </stage>
+      <lg>
+       <l>
+        Mein Kasperl ist ein grober Schroll,
+       </l>
+       <l>
+        Der gnädige Herr ist fein –
+       </l>
+       <l>
+        Und ich, die schöne Gretl soll
+       </l>
+       <l>
+        Des Kasperls Weib noch seyn?
+       </l>
+       <l>
+        Nein, nein! ich werde gnädige Frau,
+       </l>
+       <l>
+        Dann gaft man mich wohl an –
+       </l>
+       <l>
+        Dann brüßt’ ich mich trotz einem Pfau,
+       </l>
+       <l>
+        Dann ruft, wer rufen kann –
+       </l>
+       <l>
+        Da geht die schöne gnädige Frau –
+       </l>
+       <l>
+        Da seht die Gretl an.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (Kommt herfür.)
+      </stage>
+      <p>
+       Da seht die schöne gnädige Frau – Da seht die Närrin an. – Tausend Fickerment! was hab’ ich da g’hört – ich ein grober Schroll, ich ein vierschrötiger Limmel – und mein Gretl eine gnädige Frau dazu – Nein – das ist zu arg, s’Madl ist von mir kassirt. – Und was ich noch dazu g’hört hab’ – auf die Nacht eine Zusammenkunft, und noch dazu einen Gulden auf Abschlag – mit uns ist’s aus. –
+      </p>
+      <stage>
+       (läuft umher.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Kasperl, oben vom Gebürge, kömmt ein Savojard, mit einer Laterna magica auf dem Rücken.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was zum Henker, ist denn das für ein Kerl! – aha – ein lustiger Pursche aus dem wälschen Gebürg. –
+      </p>
+     </sp>
+     <sp who="#savojarde">
+      <speaker>
+       Savojarde.
+      </speaker>
+      <p>
+       Hab sie – gut Freund! ein Krenz – will sie guck laß in mein Kastlock – könn sie da seh kurios Sack –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (äfft ihn nach)
+      </stage>
+      <p>
+       Ab sie all schon g’sehen, die kurios Sack – ha – ha – ha – schön willkomm, Brüderl! bin auch vor drey Jahren, mit so einem Lock hausiren gegangen. –
+      </p>
+     </sp>
+     <sp who="#savojarde">
+      <speaker>
+       Savojarde.
+      </speaker>
+      <p>
+       Auck?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Richtig – ha!
+       <stage>
+        (bei Seite)
+       </stage>
+       da fällt mir ein Gedanke ein – hör du, Brüderl! – komm du mit mir nach Haus –
+      </p>
+     </sp>
+     <sp who="#savojarde">
+      <speaker>
+       Savojarde.
+      </speaker>
+      <p>
+       Guck sie ernack in mein Lock – da kann sie seh –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Schöne Rarität, schöne Spieliwerk –
+       </l>
+       <l>
+        Hab sie nick gesehn, guck sie in mein Lock –
+       </l>
+       <l>
+        Will sie seh die Marcus-Platz – he –
+       </l>
+       <l>
+        Will sie seh n’ Bärenhaz – he –
+       </l>
+       <l>
+        Will sie seh Adam und Ev –
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Wie sie geh spazier im Paradieß – he –
+       </l>
+       <l>
+        Und die Engel komm – und gieb sie
+       </l>
+       <l>
+        Ein Tritt, und jack sie n’aus – aha!
+       </l>
+       <l>
+        Komm sie dock – und guck sie in mein Lock. –
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Der Thomas hat mir sein Haus verboten – von der Schrift, die er in Händen hat, hängt unser Glück oder Unglück ab – die Schrift muß ich also in meine Hände zu bekommen suchen; –  mein Gretl ist freylich n kleine Hex, die ich nimmer anschauen sollt – aber ist sie nur mein Weib – den vierschrötigen Bauerlimmel will ich ihr schon auf den Buckel schreiben. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Was schern mich die Mädeln; ich lache dazu,
+       </l>
+       <l>
+        Ich bin ja ein lustiger Alpenhirtenbue –
+       </l>
+       <l>
+        Ich hab’ runde Wadeln, so fest wie ein Kern –
+       </l>
+       <l>
+        Versteh mich aufs Küssen – wie d’städtische Herrn –
+       </l>
+       <l>
+        Ich kann mich flink drehen im Kraise herum,
+       </l>
+       <l>
+        Ich juchze und springe – Juh heisa – tom tum –
+       </l>
+       <l>
+        Was schern ec.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      (Zimmer bey dem Grafen.)
+     </stage>
+     <stage>
+      Sophie allein.
+     </stage>
+     <sp who="#sophie">
+      <speaker>
+       Sophie
+      </speaker>
+      <p>
+       Noch kehrt er nicht zurück in meine Arme – und wie sich meine ganze Seele nach ihm sehnt – ich verließ die Stadt, um mich in den ländlichen unschuldigen Freuden der Dorfleute zu zerstreuen, und doch find ich um und um nichts, als Langeweile, wenn Karl nicht bey mir ist. –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Therese.
+     </stage>
+     <sp who="#therese">
+      <speaker>
+       Therese.
+      </speaker>
+      <p>
+       So ganz allein, gnädiges Fräulein! und wenn ich recht sehe, so haben sie gar geweint. –
+      </p>
+     </sp>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <p>
+       O gutes Mädchen! ich zähle jeden Augenblick, ihn zu sehen. Wo find’ ich ihn, den Geliebten meiner Seele – komm – laß mich ihn aufsuchen, laß mich ihm sagen, wie sehr ich ihn liebe – wie sehr ich mich nach seiner Umarmung sehne. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Nur Karl ist mein Lust und Freude,
+       </l>
+       <l>
+        Kaum daß ich um und bey ihm bin –
+       </l>
+       <l>
+        Empfind’ ich nichts von Gram und Leide –
+       </l>
+       <l>
+        Die ganze Welt ist mir so schön –
+       </l>
+       <l>
+        Karl ist mein Alles – er allein,
+       </l>
+       <l>
+        Soll ewig mein Geliebter seyn.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechszehnter Auftritt.
+     </head>
+     <stage>
+      Therese, allein.
+     </stage>
+     <sp who="#therese">
+      <speaker>
+       Therese.
+      </speaker>
+      <p>
+       Das arme Fräulein! Sie ist zu bedauren – ich zweifle sehr, ob sie wieder so zärtlich und treu von dem Baron geliebt wird, – aber – wie ich immer sag – so sind die gottlosen Mütter –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Die Männer – die Männer – die Männer –
+       </l>
+       <l>
+        Sind leider – nichts als Männer –
+       </l>
+       <l>
+        Sie halten nichts – versprechen viel –
+       </l>
+       <l>
+        Und sind wie s’Wetter im April –
+       </l>
+       <l>
+        Wie der Wind
+       </l>
+       <l>
+        So geschwind
+       </l>
+       <l>
+        Sich um Häuserspitzen drehet,
+       </l>
+       <l>
+        Ist auch nur
+       </l>
+       <l>
+        Lieb und Schwur
+       </l>
+       <l>
+        Gar zu bald verwehet. –
+       </l>
+       <l>
+        Ach – die Männer ec.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Max, mit einer Flinte, die er laden will.
+     </stage>
+     <sp who="#max">
+      <speaker>
+       Max.
+      </speaker>
+      <p>
+       Recht ist recht – aber Tag und Nacht draußen in Wind und Wetter durch den Wald spazieren, ist nicht recht. – Kaum kommt man nach Haus, so heißt’s – wieder fort hinaus in die Forst – und darüber vergißt man das nothwendigste zu Haus –
+      </p>
+     </sp>
+     <stage>
+      (Therese kommt und schlägt ihn auf die Schulter.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      Therese, Max.
+     </stage>
+     <sp who="#therese">
+      <speaker>
+       Therese.
+      </speaker>
+      <p>
+       Und was soll wohl das nothwendigste seyn, Monsieur Max! –
+      </p>
+     </sp>
+     <sp who="#max">
+      <speaker>
+       Max.
+      </speaker>
+      <p>
+       Was anders, als du – mein kleiner Engel! du glaubst nicht, wie kurios mir ums Herz ist, wenn ich nicht um und neben dir bin –
+      </p>
+     </sp>
+     <sp who="#therese">
+      <speaker>
+       Therese.
+      </speaker>
+      <p>
+       Und doch kann er ganze Täge von mir wegbleiben, ohne sich um unser eins zu bekümmern. –
+      </p>
+     </sp>
+     <sp who="#max">
+      <speaker>
+       Max.
+      </speaker>
+      <p>
+       Was kann ich dafür – glaubst du denn nicht, daß ich bey dir, mein liebes Röschen! lieber auf die Jagd gehen möchte – ich denke ohnehin, daß kein braver Jäger in der Welt ist, der nicht die Mädchen gern hat. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Immer nur nach Gemsen jagen
+       </l>
+       <l>
+        Und nichts um die Mädchen fragen
+       </l>
+       <l>
+        Heiß ich wahrlich gar nicht fein. –
+       </l>
+       <l>
+        Jagdlust heitert unsre Kräfte,
+       </l>
+       <l>
+        Frischet unsre Lebenssäfte –
+       </l>
+       <l>
+        Aber Mädchen, Jagd, und Wein –
+       </l>
+       <l>
+        Hu – da läßt sichs lustig seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Beyde Hand in Hand ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      (Zimmer in des Thomas Haus. Zwey Spinnrädchen ein Kasten und Tisch, etliche Stühle.)
+     </stage>
+     <stage>
+      Röschen, hernach der Schulmeister und Gretl.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Alle Freude ist für mich dahin. – Ehedem war ich so munter, so sorgenfrey, – jede Frühlingsblume erinnerte mich an die frohen Tage meines Lebens, und jezt ist verschwunden diese Glückseligkeit auf immer.
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Wenn der Sonne goldne Strahlen,
+       </l>
+       <l>
+        Früh die Flur und Hain bemahlen,
+       </l>
+       <l>
+        Lachet alles um mich her –
+       </l>
+       <l>
+        Wenn das Abendroth die Wälder,
+       </l>
+       <l>
+        Schöner färbet – und die Felder
+       </l>
+       <l>
+        Blümen schmücken, wie so schön,
+       </l>
+       <l>
+        Und wie seelig ich da bin.
+       </l>
+       <l>
+        Aber ohne Christels Liebe,
+       </l>
+       <l>
+        Was ist mir die Blumenflur,
+       </l>
+       <l>
+        Todt für mich ist die Natur.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter [!] Auftritt.
+     </head>
+     <stage>
+      (Gretl will spinnen, der Schulmeister folgt ihr allenthalben nach.)
+     </stage>
+     <stage>
+      Gretl. Schulmeister.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       So laß er mich nur mit Frieden, wenn der Herr Vetter nach Haus käme –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Nun – nun bin ich ja ganz mit ihr solus cum sola, wie wir Lateiner sagen – komm sie einmal daher, Jungfer Gretchen!
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Dank schönstens – ich hab jetzt ganz andere Sachen zu thun –
+       <stage>
+        (beis. macht ihr Rädchen zurecht)
+       </stage>
+       wenn ich nur dem abscheulichen Schulmonarchen da weg hätte –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Was hat sie gesagt? Nun – sie darf sich ja nicht vor mir scheuen –
+       <stage>
+        (beis.)
+       </stage>
+       ey – ey – ey – das wär so ein Hausrath für einen Schulmeister –
+       <stage>
+        (laut)
+       </stage>
+       hör sie – hör sie – Jungfer Gretchen! ich  – ich könnte ihr recht gut seyn –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (mit einem Knicks)
+      </stage>
+      <p>
+       Da dank ich halt schönstens dafür –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Und denk sie daran – es – es wäre jetzt so die beste Gelegenheit –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Nun – was will er denn mit seiner Gelegenheit – ich verstehe ihn nicht –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (leiser, geheimnißvoll)
+      </stage>
+      <p>
+       Der Herr Graf will haben, daß sich alle diejenigen, die sich gerne heurathen möchten, morgen bey ihm melden sollten –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (wird immer aufmerksamer)
+      </stage>
+      <p>
+       Ist das möglich? –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Er ist Willens, jedem Paar 100 fl. auszubezahlen zur Ausstattung – und noch obendrein jedem Mädchen ein weisses Lamm in die Haushaltung –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       O der liebe, gnädige Herr! wie wird sich meine Schwester freuen, wenn sie das hören wird – das muß ich ihr gleich zu wissen machen – das muß ich ihr gleich erzählen –
+      </p>
+      <stage>
+       (springt ab)
+      </stage>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Ey – ey – ey – Herr Schulmeister Loci! soviel ich merk, hast du hier einen dummen Streich gemacht; ich war so eben im Begriff, ihr eine Liebes-Declaration abzulegen – und erzähl ihr da prima furia den ganzen Plunder; – wenn das Vetter Thomas erfährt – Hilf Himmel! ich glaube, er kömmt schon – wenn ich mich nur verstecken könnte, sonst wird ihm mein Gesicht sagen, daß ich mich verplaudert habe – Wenn nur der Kasten – aha – der Schlüssel steckt – es sind die Kleider von seiner seeligen Frau darinnen – da hinein will ich mich verstecken.
+      </p>
+      <stage>
+       (ab in den Kasten)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwanzigster Auftritt.
+     </head>
+     <stage>
+      Gretl. Röschen.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       O lieber, goldener Herr Schulmeister – Hilf Himmel! wo ist er denn so eilend hingekommen –
+      </p>
+      <stage>
+       (sie sehen sich um)
+      </stage>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (öfnet den Kasten)
+      </stage>
+      <p>
+       Ha – ha – ha – sie sehen mich nicht – so kann ich wohl desto leichter erfahren, was sie unternehmen wollen –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wenn jetzt nur mein Christel schon da wäre – unser Vetter wird wohl vor dem Abend nicht nach Hause kommen –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Komm her – laß uns hier hinsitzen und spinnen, bis er kömmt – der junge schöne Herr aus der Stadt hat mir auch versprochen, mich heute Abends noch zu besuchen –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Bravo – da hört man saubere Neuigkeiten – da muß ich mich versteckt halten, um zu spioniren –
+      </p>
+      <stage>
+       (Sie setzen sich zu zerschiedenen Seiten an ihre Rädchen und spinnen.)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (indem sie spinnt)
+      </stage>
+      <p>
+       Der Henker soll unsern alten Schulmeister holen, und uesern [!] Vetter obendrein – nicht wahr – Schwester!
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Bravissime –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Laß uns lieber eines singen, bis Christel kömmt –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Nun meinethalben – so fangen wir an –
+      </p>
+     </sp>
+     <stage>
+      Finale.
+     </stage>
+     <sp who="#röschen #gretl">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Laß die Alten murren,
+       </l>
+       <l>
+        Laß die Rädchen knurren
+       </l>
+       <l>
+        Knurre – knurre – knurre!
+       </l>
+       <l>
+        Dieser Faden fein und rein,
+       </l>
+       <l>
+        Muß zur Hochzeitwäsche seyn –
+       </l>
+       <l>
+        Schön und fein
+       </l>
+       <l>
+        Muß der goldne Faden seyn.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Christel unter der Thüre, Röschen springt ihm gleich in die Arme.
+     </stage>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Seyd ihr allein – so bleib ich hier –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #gretl">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Wir sind allein – verschließ die Thür –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (die Thür wird verschlossen.)
+     </stage>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Was wird denn hier geschehen – ?
+       </l>
+       <l>
+        Das möchte ich wohl sehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Schönstes Mädchen, das ich liebe –
+       </l>
+       <l>
+        Mit dem reinsten Herzenstriebe,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Laßt den Alten murren
+       </l>
+       <stage>
+        (spinnt immer fort)
+       </stage>
+       <l>
+        Laßt die Rädchen knurren.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ach ich liebe dich allein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #schulmeister">
+      <speaker>
+       Gretl. Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Knurre – knurre – knurr –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Ganz allein! –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Du sollst nur der meine seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (man klopft)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zwey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. (Thomas rüttelt an der Thür, klopft.)
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Piff, die Thüre ist verschlossen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Still – laßt mich ein bischen losen, St!
+       </l>
+       <stage>
+        (sie schleicht sich an die Thür)
+       </stage>
+       <l>
+        Wer da draussen möchte seyn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (mit harter Stimme, klopft.)
+      </stage>
+      <lg>
+       <l>
+        Macht auf – auf – auf –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #röschen #christl">
+      <speaker>
+       Alle 3.
+      </speaker>
+      <lg>
+       <l>
+        Was werden wir ihm sagen,
+       </l>
+       <l>
+        Ich möchte fast verzagen.
+       </l>
+       <l>
+        Wie klopfet mir mein Herz –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (klopft wieder)
+      </stage>
+      <lg>
+       <l>
+        Macht auf –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel #röschen #schulmeister">
+      <speaker>
+       Christel. Röschen. Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Wenn er mich / dich wird entdecken.
+       </l>
+       <l>
+        So ists um mich / dich geschehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Drum mußt du dich verstecken,
+       </l>
+       <l>
+        So wird er dich nicht sehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Wohin? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Hier in den Kleiderschrank hinein,
+       </l>
+       <stage>
+        (sie öfnet den Schrank)
+       </stage>
+       <l>
+        Dort kannst du lang verborgen seyn,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Ach Röschen, komm mit mir hinein –
+       </l>
+       <l>
+        Ich kann unmöglich ganz allein –
+       </l>
+       <l>
+        So lang hier eingeschlossen seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (man klopft)
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Er kommt – so geh mit ihm hinein –
+       </l>
+      </lg>
+      <stage>
+       (beyde hinein)
+      </stage>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (steckt den Schlüssel an.)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Hinein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Hinein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Ich armes Schulmeisterlein
+       </l>
+       <l>
+        Muß hier jezt eingeschlossen seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (wie er die Thür rücklings zuschließt)
+      </stage>
+      <lg>
+       <l>
+        Nun wird es sich bald zeigen –
+       </l>
+       <l>
+        Was hier geschehen ist –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Hinein – hinein –
+       </l>
+       <l>
+        Das Beste ist – ich schlafe ein –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie setzt sich vor ihr Rädchen hin, und schläft ein.)
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (sieht sich um)
+      </stage>
+      <lg>
+       <l>
+        Ey was sind das für Possen –
+       </l>
+       <l>
+        Die Thüre ist verschlossen –
+       </l>
+       <l>
+        Und Gretchen schläft allhier –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (tritt schlafend das Rädchen mit geschlossenen Augen)
+      </stage>
+      <lg>
+       <l>
+        Knurre – knurre – knurr –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister #christel #röschen">
+      <speaker>
+       Schulmeister. Christel. Röschen.
+      </speaker>
+      <stage>
+       (öfnen die Thüre)
+      </stage>
+      <lg>
+       <l>
+        Er wird uns wohl entdecken –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Ich werd sie müssen wecken –
+       </l>
+       <l>
+        Ganz langsam ohne schrey’n –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Knurre – knurre – knurr –
+       </l>
+      </lg>
+      <stage>
+       (wie oben)
+      </stage>
+     </sp>
+     <sp who="#christel #röschen">
+      <speaker>
+       Christel. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Sie weiß sich zu verstellen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #schulmeister">
+      <speaker>
+       Thomas. Schulmeister.
+      </speaker>
+      <stage>
+       (leise)
+      </stage>
+      <lg>
+       <l>
+        Denn bey dergleichen Fällen –
+       </l>
+       <l>
+        Muß man behutsam seyn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (noch immer im Schlaf)
+      </stage>
+      <lg>
+       <l>
+        Knurre – knurre – knurr –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (rüttelt sie am Arm, ruft laut)
+      </stage>
+      <lg>
+       <l>
+        Gretchen! –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (springt auf)
+      </stage>
+      <lg>
+       <l>
+        Was ist gescheh’n –
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Drey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Kasperl als Savojarde.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Schöne Rarität – schöne Spielewerk –
+       </l>
+       <l>
+        Da kann sie seh die türkische Kaiser –
+       </l>
+       <l>
+        Wie sie hab ein groß Bart –
+       </l>
+       <l>
+        Ist das nit ein Spott und Schand – ä hä –
+       </l>
+       <l>
+        Guck sie in die Lock – ä hä –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Pack er sich fort –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Sag er mir dock – wer wohnet hier? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Hier wohnet Thomas, der Barbier –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ick will barbieret seyn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Nein – nein – das kann nicht seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Ich hab jetzt keine Zeit –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Per Dio – warum keine Zeit? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (zu Gretchen)
+      </stage>
+      <lg>
+       <l>
+        Komm her und laß uns gehen –
+       </l>
+       <l>
+        Und laß den Bengel stehen. –
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vier und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Baron Luft.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Schon harr’ ich deiner in dem Garten,
+       </l>
+       <l>
+        Doch weilest du zu lang –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #kasperl">
+      <speaker>
+       Thomas. Christl. Röschen. Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Jetzt wird mir Angst und bang –
+       </l>
+       <l>
+        Ich zittere an Händen
+       </l>
+       <l>
+        Ich weiß mich nicht zu finden –
+       </l>
+       <l>
+        Wir wollen weiter gehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ick bleib hier solo stehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Kommt laßt den Bengel stehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Schlingel! was willst du hier machen? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ha – ha – ha das ist zum lachen
+       </l>
+       <l>
+        Auf diesen Stuhl setz ick mick hin –
+       </l>
+       <l>
+        Biß ick von ihm barbieret bin –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (setzt sich mitten in das Zimmer)
+     </stage>
+     <sp who="#thomas #christl #röschen #graf"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (jedes vor sich)
+      </stage>
+      <lg>
+       <l>
+        Ich komme noch von Sinnen.
+       </l>
+       <l>
+        Ob diesem Grobian –
+       </l>
+       <l>
+        Vor Zorn möcht’ ich vergehn –
+       </l>
+       <l>
+        Da seht den Schlingel an,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        So setz er sich, er Grobian,
+       </l>
+       <l>
+        Dann kann er weiter gehn –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (holt das Tuch, er saift ihn ein)
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ich werd schon weiter gehn,
+       </l>
+       <l>
+        Treff’ ich die Schrift nur an –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Schönes Mädchen! du mein Leben,
+       </l>
+       <l>
+        Laß mich dir ergeben seyn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Schönes Röschen! –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (öfnen die Thüre)
+      </stage>
+      <lg>
+       <l>
+        Mein Geliebter!
+       </l>
+       <l>
+        Laß uns nur der Liebe weihn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Ich will nur das Messer holen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #gretl #röschen">
+      <speaker>
+       Christl. Gretl. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Himmel, ich steh wie auf Kohlen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Im Kasten liegts –
+       </l>
+      </lg>
+      <stage>
+       (will dahin)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (hält ihm an Rock zurück)
+      </stage>
+      <lg>
+       <l>
+        Herr Vetter – nein –
+       </l>
+       <l>
+        Im Kasten kanns unmöglich seyn –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Kasperl langt ihm in die Tasche und holt die Schrift heraus – Gretl sieht es.)
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Hilf Himmel! Herr Vetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Was ist denn geschehn? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Ein Dieb –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Ein Dieb – ich hab es gesehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin verrathen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Welche Betrügerey –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ach lieben Leute steht mir bey.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünf und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Sophie und Graf Waller.
+     </stage>
+     <sp who="#waller">
+      <speaker>
+       Waller.
+      </speaker>
+      <lg>
+       <l>
+        Im ganzen Dorfe such ich dich,
+       </l>
+       <l>
+        Was ist denn hier geschehen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <lg>
+       <l>
+        Ach – Liebster! wie verlanget mich –
+       </l>
+       <l>
+        Dich einmal doch zu sehen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <lg>
+       <l>
+        Ich folge dir den Augenblick –
+       </l>
+       <l>
+        Komm laß uns weiter gehn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Was ist denn hier geschehn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Thomas. (geht zum Kasten, erblickt Röschen und Christl.)
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was seh’ ich – alle Wetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #röschen">
+      <speaker>
+       Christl. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wir sind es nur, Herr Vetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was macht ihr hier allein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #röschen">
+      <speaker>
+       Christl. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wir mußten eingeschlossen seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Sie mußten eingeschlossen seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Thomas öfnet die andere Thüre des Kastens, der Schulmeister steht in der Kleidung von der verstorbenen Frau des Thomas da – mit veränderter Weiberstimme.)
+     </stage>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Du böser, alter Schwelger!
+       </l>
+       <l>
+        Geh meinen Vorschlag ein –
+       </l>
+       <l>
+        Heurath nicht mehr – sonst wird es dich gereu’n.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (erschrickt heftig – fällt zur Erde)
+      </stage>
+      <lg>
+       <l>
+        Alle gute Geister!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Alle gute Geister!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (zitternd zur Erde)
+      </stage>
+      <lg>
+       <l>
+        O liebe Rösel! laß mich frey –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Hilf Himmel! welche Zauberey. –
+       </l>
+       <l>
+        Welche Bestürzung! wie bebet die Seele. –
+       </l>
+       <stage>
+        (jedes für sich.)
+       </stage>
+       <l>
+        Mir zittern die Glieder – mir stocket die Kehle –
+       </l>
+       <l>
+        Was soll denn hier geschehen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (geht rücklings zum Schulmeister, erkennt ihn und reißt ihm die Mütze ab)
+      </stage>
+      <lg>
+       <l>
+        Das werdet ihr bald seh’n –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (schreyen).
+      </stage>
+      <lg>
+       <l>
+        Was seh’ ich –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin hier ganz incognito –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Schulmeister? – ha – ha – ha –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (auf der Erde)
+      </stage>
+      <lg>
+       <l>
+        O Spitzbub du in folio –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Per jocus kroch ich mich hinein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Dafür soll er geprügelt seyn.
+       </l>
+      </lg>
+      <stage>
+       (holt den Stock)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechs und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, der Savojarde in Kasperls Kleidung.
+     </stage>
+     <sp who="#savojarde">
+      <speaker>
+       Savojarde.
+      </speaker>
+      <lg>
+       <l>
+        Geb’ sie Laterna magica
+       </l>
+       <l>
+        Ick gehe itzt nack Haus –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (äft ihm nach)
+      </stage>
+      <lg>
+       <l>
+        Hier ist Laterna magica –
+       </l>
+       <l>
+        Der Spaß ist jetzt schon aus –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Was soll denn dieses seyn? sag an –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (giebt sich zu erkennen zur Gretl)
+      </stage>
+      <lg>
+       <l>
+        Ich bin der Kasperl – sieh mich an –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Der Kasperl –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Kasperl –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin betrogen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (zum Grafen)
+      </stage>
+      <lg>
+       <l>
+        Hier diese Schrift!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was, meine Schrift!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Das junge Madel will er frey’n,
+       </l>
+       <l>
+        Will sie nur durch Betrügereyn
+       </l>
+       <l>
+        Zu seinem Weibe machen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Ha –ha – das ist zum lachen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <lg>
+       <l>
+        Die Schriften will ich lesen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Pack dich – du alter Besen!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (schleudert ihn weg)
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Welche Prostitution –
+       </l>
+       <l>
+        Ich will Satisfaction. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Er will Satisfaction!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Welche Prostitution!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (alle lachen ihn aus.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Sieben und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige alle, Jäger, Bediente und Bauern.
+     </stage>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (Bediente u. Bauern.)
+      </stage>
+      <lg>
+       <l>
+        Welch ein Lermen – was ist geschehen!
+       </l>
+       <l>
+        Man bleibe auf der Gasse stehen –
+       </l>
+      </lg>
+      <stage>
+       Jedes für sich.
+      </stage>
+      <lg>
+       <l>
+        Lasset uns von hinnen weichen,
+       </l>
+       <l>
+        Laßt uns auf den Zehen schleichen,
+       </l>
+       <l>
+        Sachte, daß uns Niemand hört.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #christl #röschen #graf #luft #kasperl #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Einigkeit sey unsre Stütze,
+       </l>
+       <l>
+        Zufriedenheit sey unsre Würze,
+       </l>
+       <l>
+        Durch Zwist wird jede Freud gestört.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Ende des ersten Aufzugs.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Vorige Alpengegend. Alle Hirten und Hirtinnen hin und wieder auf dem Gebürge zerstreut. Kasperl mit Schalmey.)
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Der May beginnt,
+       </l>
+       <l>
+        Der Frühling winkt,
+       </l>
+       <l>
+        Auf! laßt uns alle freu’n.
+       </l>
+       <l>
+        Der Vogel singt,
+       </l>
+       <l>
+        Das Lämmchen springt,
+       </l>
+       <l>
+        Wir freuen uns des Mayen.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Verlieren sich nach und nach ins Gebürg.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Kasperl. Gretl.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Laßt uns lustig seyn, Kinder! heut ist der erste Frühlingstag – unsere gnädige Herrschaft will, daß wir uns an dem heutigen Maytanz freuen sollen –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Und denk daran, lieber Kasperl! ein weisses Lamm und hundert Gulden oben drein, da werden wir wohl auch zum heurathen schauen müssen, wie meinst?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Meinetwegen magst du darnach schauen, wie du willst, ich – ich hab gar kein Lust mehr dazu –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Was? du liebst mich also nicht mehr?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Könnt unmöglich, bin nur ein armer Schaafhirt, mein Mittagessen besteht in Brod und Milch, und du bist jetzt schon Bißkoten gewohnt, nix nix, mit uns ist’s aus.
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Was, was? es wird doch dein Ernst nicht seyn – Sieh,
+       <stage>
+        (weint)
+       </stage>
+       ich, ich hab dich immer so lieb g’habt –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Schau – immer so lieb g’habt, und neben mir hast du den jungen gnädigen Herrn auch lieb g’habt, nicht wahr? –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Du bist aber auch gar ein Mensch, der keinen Spaß versteht.
+      </p>
+      <stage>
+       (will ihn an der Hand nehmen.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (sucht sich loszuwinden)
+      </stage>
+      <p>
+       Geh, ich will nichts mehr von dir wissen – geh zu deinem Herrn Grafen –
+      </p>
+      <stage>
+       (zeigt ihr den Rücken)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Nix – mit mir reden sollst du – anschauen sollst mich –
+       <stage>
+        (Kasperl schaut zur Erde, und spielt mit seinem Hut – sie richtet ihm den Kopf in die Höhe)
+       </stage>
+       Den Kopf in die Höhe, und gleich seh mich an, und das recht freundlich, oder ich will in meinem Leben nichts mehr von dir wissen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (bey Seite)
+      </stage>
+      <p>
+       O du Hex von einem Mädl –
+       <stage>
+        (laut)
+       </stage>
+       Nu nu, ich schau ja schon.
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (stößt ihn, aber nicht sanft von sich)
+      </stage>
+      <p>
+       Geh – ich glaub, du liebst mich nicht mehr –
+       <stage>
+        (weint)
+       </stage>
+       Ich – ich bin dir immer so treu –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Ey so lüg, du Blizhex –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Und jetzt – jetzt –
+       <stage>
+        (weint in die Schürze)
+       </stage>
+       da wir einander bald heurathen sollten –
+      </p>
+      <stage>
+       (sie schaut unter der Schürze herfür und lacht)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Von dem Stadtherrn sagt sie kein Wort –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Schon gut – ich –
+       <stage>
+        (schluchzt)
+       </stage>
+       ich – ich weiß schon was ich thu – hi – hi – hi
+      </p>
+      <stage>
+       (lacht wieder)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (Wird nach und nach bewegt – geht bald zu ihr hin – bald weg – fängt nach und nach zu weinen an – sucht es aber zu verstellen)
+      </stage>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Ich – ich bin im Stand – und – und ertrenk mich –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (springt auf einmal hin – – mit ausbrechendem Weinen)
+      </stage>
+      <p>
+       Wirst doch kein Narr seyn – Gretl –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (lacht aus vollem Halse)
+      </stage>
+      <p>
+       Ha – ha – ha –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (Läßt den Stock fallen – legt die Hände über einander – stumm sieht sie an – )
+      </stage>
+     </sp>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Ey –ey – was fällt dir ein –
+       </l>
+       <l>
+        So dumm sollt’ ich wohl seyn?
+       </l>
+       <l>
+        Ich sollte mich ertrenken –
+       </l>
+       <l>
+        Wie läßt sich das wohl denken –?
+       </l>
+       <l>
+        Warum? – aus Lieb zu dir?
+       </l>
+       <l>
+        Ha – ha – das fehlte mir –
+       </l>
+       <l>
+        Nein – nein, Herr Dummrian!
+       </l>
+       <l>
+        So was geht gar nicht an.
+       </l>
+      </lg>
+      <stage>
+       (springt ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein. (Immer noch in voriger Stellung –sieht ihr nach, wie aus einem Traum erwachend.)
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       War das mein Gretl! – Tausend Fickerment! warum hat sich das Mädel so verändert – es ist ja nicht anders, als wenns ein Wechselbalg wär, - und doch, ha – ha – ha! wenn ich an sie denk, so ists nit anders, als wenn mir s’Herz im Leib herum spazieren wollt. – S’ist halt doch ein närrisches Gewächs um ein Mädel –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        N’ Madel ist ein närrisch G’wächs,
+       </l>
+       <l>
+        Ganz lieblich anzuschauen –
+       </l>
+       <l>
+        So schelmisch aber, wie n’ Hex.
+       </l>
+       <l>
+        Da ist nit viel zu trauen –
+       </l>
+       <l>
+        Je freundlicher die Madeln sind,
+       </l>
+       <l>
+        Je wirblicher sind sie, wie Wind –
+       </l>
+       <l>
+        Da kratzen sie ein’m s’Goderl,
+       </l>
+       <l>
+        Da lecken sie ein’m s’Pfoderl –
+       </l>
+       <l>
+        Und richten noch von Hauß zu Hauß.
+       </l>
+       <l>
+        Uns arme Männer wacker aus –
+       </l>
+       <l>
+        Und doch – Narrethey!
+       </l>
+       <l>
+        S’bleibt halt doch dabey –
+       </l>
+       <l>
+        N’Mädel ist ec.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Schulmeister mit Gretchen. Thomas mit Röschen.
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       So kommt doch daher, und laßt ein vernünftiges Wort mich euch reden – es ist ja nicht anders, als wenn ihr Mädchen behext wäret.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Wir meynens ja gut mit euch, ihr niedliche Puppen ihr!
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Nun also, da sind wir – was haben die Herrn also mit uns zu reden –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Hör – liebes Nichtchen! heut ist unser jährliches Mayfest –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Das wissen wir alles schon – und heute kriegen wir auch beyde noch Männer –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Hoc est quod volo – das ist es eben – was wir wollen.
+      </p>
+     </sp>
+     <stage>
+      Quartett.
+     </stage>
+     <sp who="#schulmeister #thomas #gretchen #röschen">
+      <speaker>
+       Schulmeister. Thomas. Gretchen. Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Seh’ ich Gretchen / Röschen vor mir stehn,
+       </l>
+       <l>
+        Kann ich nimmer weiter gehn,
+       </l>
+       <l>
+        Froh schlägt mir mein Herz –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #gretchen">
+      <speaker>
+       Röschen. Gretchen.
+      </speaker>
+      <lg>
+       <l>
+        Seh’ ich Kasperl /Christel vor mir stehn,
+       </l>
+       <l>
+        Kann ich nimmer weiter gehn,
+       </l>
+       <l>
+        Froh schlägt mir mein Herz.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #schulmeister">
+      <speaker>
+       Thomas. Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Komm Gretchen! du bist mein
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #gretchen">
+      <speaker>
+       Röschen. Gretchen.
+      </speaker>
+      <lg>
+       <l>
+        Ey, ey Röschen das kann nicht seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Ich liebe dich ex animo.
+       </l>
+       <l>
+        Mein Herze geb ich dir,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Du wirst mein ex officio,
+       </l>
+       <l>
+        Mein Geld vermach ich dir.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #gretchen">
+      <speaker>
+       Beyde Mädchen
+      </speaker>
+      <stage>
+       (machen Knikse, und gehen immer zurück.)
+      </stage>
+      <lg>
+       <l>
+        Ihr Herren! nein – es geht nicht so,
+       </l>
+       <l>
+        Wir danken hübsch dafür,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        So bleibet doch allhier
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Wir thun euch nichts zu leide.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Das glauben wir ja schon
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretchen">
+      <speaker>
+       Gretchen.
+      </speaker>
+      <lg>
+       <l>
+        Und schleichen uns davon
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas #schulmeister">
+      <speaker>
+       Thomas. Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        So bleibet nicht so fern!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #gretchen">
+      <speaker>
+       Röschen. Gretchen.
+      </speaker>
+      <lg>
+       <l>
+        Adieu! ihr alte Herrn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Beyde werfen ihnen einen Kuß zu, und springen davon)
+     </stage>
+     <stage>
+      (Pause) (Sie sehen einander an)
+     </stage>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Aber, Herr Vetter! was wir beyde für gewaltige Esel sind.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       So viel mir scheint, haben die Mädchen uns gar zum Besten – nur Geduld, hilft dieses Mittel nicht, so hilft das andere. – –  Wir wollen ihnen nach.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Ha, ha, ha, und auch da werden wir von ihnen gefoppt werden. – experto crede Ruperto.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Sophie allein.
+     </stage>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <p>
+       Einsam und allein irr ich umher – suche meinen Geliebten, und find ihn nicht – jedes Blümchen erinnert mich an den lieblichen Frühling – alles freuet sich in der ganzen Natur – und doch ist es so trüb – so düster in meiner Seele – O Karl! – Du allein kannst mir die Tage meines Lebens, in Stunden der Freude umwandeln – ohne dich werde ich abwelken – wie das Veilchen im stillen Thale welkt – von den Strahlen der Sonne –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Lieblich hör ich Philomele singen
+       </l>
+       <l>
+        In dem nahen Wald,
+       </l>
+       <l>
+        Höre ihre Silberstimme klingen,
+       </l>
+       <l>
+        Daß das Echo hallt –
+       </l>
+       <l>
+        Tausend sanfte Töne schweben
+       </l>
+       <l>
+        Um mich froh herum,
+       </l>
+       <l>
+        Aber Leider – ach – sie geben
+       </l>
+       <l>
+        Mir nur Kummer um und um.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Thomas und Kasperl.
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie ich dir sage, wenn du mir behülflich bist, dem Christl Röschen abzureden, so versprech ich dir die Gretl zum Weib, hier hast du meine Hand –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und wenn ichs auch dem Christl abgeredt hab, was soll denn hernach mit dem Mädel geschehen.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Verstehst du mich denn nicht, wo ich hinaus will – selber heurathen will ich sie –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Selber heurathen – nun ja – ich denk, das wär auch das beste – Ja – schaut Vetter Thomas! das sollt mir eine Kleinigkeit seyn – aber –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Was aber
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wenn ich nur auch versichert wär, daß ihr wegen der Gretl Wort halten wolltet. –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Sieh – hier geb ich dir diese Schrift zum Pfand – sie enthält die Obligation derer beyden Mädchen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (schnell)
+      </stage>
+      <p>
+       Gebt her, Vetter Thomas – mit dieser Bedingung unternehm ich alles, was ihr wollt.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie wär es, wenn wir eine kleine List zu Hülfe nehmen wollten – die beyde Leutchen werden leicht zu betrügen seyn
+       <stage>
+        (Pause)
+       </stage>
+       Wie, wenn man ihnen sagte, sie wären von einander behext.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ihr habt den besten Einfall von der Welt –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Eben recht – dort kömmt Christl – der arme Junge – wie er zur Erde schaut – nicht anders, als wenn er kein Quintl gutes Gewissen in seinem Leibe hätte.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Wart, alter Narr! du sollst gefoppt werden.
+      </p>
+      <stage>
+       (sie gehen zurück)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Christel, (traurig zur Erde sehend)
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Guten Morgen – Christel! Hilf Himmel, wie siehst du aus – so hat dich endlich das Satansspiel auch erwischt – Christl! du bist behext –
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <stage>
+       (zitternd)
+      </stage>
+      <p>
+       Wa – was sagt ihr – Vetter Thomas – be – behext wär ich –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Du kommst mir ja ganz anders vor; – deine Augen – Hilf Himmel – sie brennen Lichterloh – jetzt stehen deine Haare zu Berge – dein Maul vergrössert sich von einem Ohr zu dem andern –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       O du Hauptschelm von einem Herrn Vetter!
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <stage>
+       (zitternd)
+      </stage>
+      <p>
+       Wie – wie soll ich denn behext worden seyn – und von wem?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie und von wem? kannst du noch fragen? das ganze Unglück kommt alles von deiner Rösel her –
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Mein Röschen ist aber noch so jung, wie sollt sie denn so früh schon hexen können? –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Glaubst du denn, daß es nur alte Hexen giebt, und weißt du denn nicht – daß die Mädeln dergleichen Sachen ganz früh lernen. –
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Aber sie ist so unschuldig, wie ein Turteltäuberl. –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Eben das sind die rechten, die so aussehen.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Ich hab’ ihr aber nichts zu leide gethan, warum sollt sie mich denn behext haben?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Ich sags ja immer, so sind die Mädels, die kleinen Hexen gehen nur darauf aus, wie sie uns Männer den Kopf verrücken können.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Und doch können sie so freundlich seyn.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Drum muß man ihnen nicht trauen.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Aber, warum sind sie denn so schön, so artig?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Eben durch das Schöne, durch das Artige behexen sie uns – Alle ihre Schönheiten sind nichts anders als des Satans Spiegelfechterey. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Daß ist ein Gauner!
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Wär das möglich, was soll ich anfangen? lieber Vetter!
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wie wär’s, wenn du dich 14 Tage zu Haus einsperrtest?
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Ganz allein, ohne Röschen zu sehen?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Immer ärger, der Spizbube!
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Ganz allein, ohne sie zu sehen.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Das kann ich nicht aushalten, da stirb ich gleich in den ersten 3 Tagen.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Du willst also nicht folgen, so hör
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Nun gut, so sieh dich satt an ihr,
+       </l>
+       <l>
+        Und leid die Straffe dann dafür,
+       </l>
+       <l>
+        Sie mache dich, wozu sie will,
+       </l>
+       <l>
+        Zur Kaze und zum Krokodill.
+       </l>
+       <l>
+        Zur Nachteul und zur Fledermaus,
+       </l>
+       <l>
+        Zum Bären und zum Vogelstrauß,
+       </l>
+       <l>
+        Zum Guguck und zum Pelikan,
+       </l>
+       <l>
+        Zum Affen und zum Pavian.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Christel, allein. (Schaut ihm ängstlich nach)
+     </stage>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <p>
+       Was hab’ ich gehört? Ich soll wegen meinem Röschen eine Katze und ein Krokodill werden? ein Bär und ein Pavian – Nein – das laß ich wohl bleiben! Von der Stund an, will ich sie nicht mehr anschauen, und jetzt gleich, jezt gleich will ich fort. Das wär eine schöne Geschichte, da würde mich gar kein Mädchen mehr anschauen wollen; Nein! ich gehe
+      </p>
+      <stage>
+       (geht einige Schritte fort, kommt aber gleich wieder zurück.)
+      </stage>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        N’ Katze und n’ Pavian,
+       </l>
+       <l>
+        Sogar n’ Fledermaus?
+       </l>
+       <l>
+        N’ Guguk und n’ Pelikan?
+       </l>
+       <l>
+        Ey, ey, da wird nichts draus?
+       </l>
+       <l>
+        Wenn andere im Bette liegen,
+       </l>
+       <l>
+        Müßt ich des Nachts im finstern fliegen,
+       </l>
+       <stage>
+        (Weint)
+       </stage>
+       <l>
+        hi, hi, hi, hi, ich armer Mann,
+       </l>
+       <l>
+        Ich schau die Rösel nicht mehr an.
+       </l>
+       <l>
+        Da müßt ich schreyn, miau, miau.
+       </l>
+       <l>
+        So wie die Katzen schreyn.
+       </l>
+       <l>
+        Müßt Guguk, gugukgug, guguk
+       </l>
+       <l>
+        So wie der Guguk schreyn.
+       </l>
+       <stage>
+        (Lacht)
+       </stage>
+       <l>
+        Ha, ha, ha, ha, da wird nichts draus,
+       </l>
+       <l>
+        Ich werd kein Fledermaus.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Kasperl kommt herfür, allein.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ha – ha! glaubt der Mensch, er sey behext – und von wem? von einem hübschen Mädel –
+       <stage>
+        (Pause)
+       </stage>
+       Ey – ey – ey – mein Gretl will mir nicht aus dem Kopf – ich glaub zwar nicht, daß ich von ihr behext bin – aber in meinem Herzen klammerts und hammerts, als wenn ich in einer Papiermühle wär. –
+      </p>
+      <stage>
+       (sie schleicht sich hinter ihn hin)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Kasperl und Gretl.
+     </stage>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Grüß dich der Himmel, lieber Kasperl – eben recht, daß du da bist –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So – und was solls seyn – wirst dich wohl auch nicht ohne Ursache da aufhalten – du erwartest vielleicht den hübschen Herrn aus der Stadt –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Ey, der Himmel bewahr – mit dem hübschen Herrn aus der Stadt ists nichts – er hat mich vorhin nach Haus geschickt, und mir gesagt, daß er nur seinen Spaß mit mir gehabt hat –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So – schaut – schaut –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Und daß ich dich wieder aufsuchen soll – und daß wir – ich schäme mich es zu sagen –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So – und jetzt soll ich gut genug seyn – soll mich sogleich wieder finden lassen – nix – Mädel! ich will nix mehr von dir wissen.
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (weint.)
+      </stage>
+      <p>
+       Nun – das wär schön – s’ ganze Dorf weiß, daß wir einander lieb haben – und jetzt –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       S’ g’schieht dir recht – warum fangst so Talkereyen an –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (schmeichelt ihm)
+      </stage>
+      <p>
+       So sey wieder gut, lieber Kasperl!
+      </p>
+      <stage>
+       (geht ihm nach)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nix – geh du zu deinem Stadtherrn – was willst dich denn mit mir abgeben –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       S’ ist  – s’ ist schon recht – das – das hätt’ ich in meinem Leben nicht von dir geglaubt – hab – hab – mich schon so auf meine Hochzeit gefreut – und jetzt –
+      </p>
+      <stage>
+       (weint in die Schürze.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Fickerment –
+       <stage>
+        (beis.)
+       </stage>
+       Jetzt wird mir bald mein Herz so weich, wie ein Specksalat –
+       <stage>
+        (laut)
+       </stage>
+       Geh her, Madel! – Es sey alles vergessen, wir werden ein Paar –
+      </p>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <p>
+       Ist das dein Ernst, lieber Kasperl?
+      </p>
+     </sp>
+     <stage>
+      Duetto.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Gieb mir dein Patscherl,
+       </l>
+       <l>
+        D’ Gretl ist mein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Du bist mein Schatzerl,
+       </l>
+       <l>
+        Ich bleibe dein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Heut bist du noch n’ Braut,
+       </l>
+       <l>
+        Morgen mein Weib.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Heysa! ich schreye laut,
+       </l>
+       <l>
+        Ich werd n’ Weib.
+       </l>
+      </lg>
+      <stage>
+       (beiyde ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      (Ländlicher Garten)
+     </stage>
+     <stage>
+      Röschen allein.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Sobald ich Christel nur erblicke,
+       </l>
+       <l>
+        Empfind’ ich Marter, Angst und Pein,
+       </l>
+       <l>
+        Oft gieng ich wieder gern zurücke,
+       </l>
+       <l>
+        Wünscht ich nur nicht bey ihm zu seyn.
+       </l>
+       <l>
+        Ich brauche alles, was ich kann,
+       </l>
+       <l>
+        Bey mir schlägt gar kein Mittel an.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Lise mit einem Körbchen voll Blumen. Röschen.
+     </stage>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Wie alles so schön ist, vor einigen Monaten sah man noch kein Gräßchen hier, alles war mit Schnee bedeckt, und jetzt, wie die kleinen Blümchen herfürkommen, seitdem die Sonne so schön auf sie hinscheint.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wo willst du denn  hin, liebes Lieschen?
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Zu meinem Vater, ihm diese Blumen bringen, du weißt ja, daß er heute so viel zu arbeiten hat, weil der gnädige Herr selber in eigener Person bey unserm Mayfest seyn wird. O wie freu’ ich mich, da giebt es etwas zu tanzen.
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Liebe Blümchen! blühet schön,
+       </l>
+       <l>
+        Hier in diesem Garten,
+       </l>
+       <l>
+        Dann führ ich mein Lämmchen hin,
+       </l>
+       <l>
+        Und will seiner warten.
+       </l>
+       <l>
+        Veilchen und den bunten Klee,
+       </l>
+       <l>
+        Will ich ihm dann pflücken,
+       </l>
+       <l>
+        Meinem Lämmchen weiß, wie Schnee,
+       </l>
+       <l>
+        Himmel! welch Entzücken!
+       </l>
+      </lg>
+      <stage>
+       (lustig ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreizehnter Auftritt.
+     </head>
+     <stage>
+      Röschen Thomas und der Schulmeister.
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (winkt dem Schulmeister)
+      </stage>
+      <p>
+       Ach! bist du hier, mein liebes Mädchen! aber
+       <stage>
+        (entsetzt sich)
+       </stage>
+       Hilf Himmel! was fehlt dir, wie siehst du aus?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wie sollt’ ich denn anders aussehen, Vetter Thomas, mir fehlt ja gar nichts.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Es ist ja nicht anders, als ob du stande pede aus dem Grabe kämst.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ich glaube, ihr seyd närrisch, ich bin ja so gesund, wie der Fisch im Wasser, nur ein bißl verliebt bin ich.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Eben das ist eine Krankheit, woran schon so viele Tausend Menschen gestorben sind.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Einen Tag siehest du oft ganz gut aus, den andern Tag, wie zum Exempel jetzt, siehst du aus, wie n’ Klötzen, vielleicht – Hilf Himmel ! wenn das wäre –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <p>
+       Was glaubt ihr denn, Vetter Thomas?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Wenn dich etwa gar – sag mir, Röschen! hat dir der Christel nie etwas zu essen gegeben? –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       O ja, gar oft –
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       So ists richtig, leider ist es richtig, du bist behext –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wer, ich behext – und von wem?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Von deinem Christel. – Sag du mir, du hast öfters keinen Apetit, nicht wahr?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ausser wenn ich bey Christl bin, da schmeckt mir das Essen recht gut. –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Richtig, da haben wir’s, du bist behext. – Oft kannst du nicht schlafen?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Und wenn ich auch schlafe, so träum’ ich nichts, als von meinem Christel.
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Da haben wir’s schon wieder, du bist behext.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Was soll ich denn anfangen, ich werde doch nicht an der Krankheit sterben müssen? –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (zuckt die Achseln)
+      </stage>
+      <p>
+       Ja wer kann das wissen. – Wenn er dir begegnet, darfst ihm nur den Rücken kehren, und ein einziges Wort dazu sagen.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Und was für ein Wort?
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Abrakadabra.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (springt ab)
+      </stage>
+      <p>
+       Abrakadabra, Abrakadabra! – Hilf Himmel! ich bin behext.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Es wirkt, Herr Vetter! Wir haben gewonnen, viel Glück zur Hochzeit!
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Ach, wenn ich so glücklich wäre – hundert Jahre wollt’ ich den Herrn Vetter umsonst barbieren.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Clara, allein. (Sie führt ein weißes Lämmchen, in der andern Hand ein Stückl Brod mit Salz)
+     </stage>
+     <sp who="#clara">
+      <speaker>
+       Clara.
+      </speaker>
+      <p>
+       Komm – sä – sä – ich muß dich ja auf das Schloß führen zu unserm gnädigen Herrn – es thut mir zwar recht leid um dich, das kann ich dir sagen –
+       <stage>
+        (streichelt es)
+       </stage>
+       aber was will ich machen – die Mutter wills haben, und da muß ich gehorchen –
+       <stage>
+        (Pause, sieht es an)
+       </stage>
+       Es wird dir wohl auch recht leid um mich thun, nicht wahr? – hab’ dir doch ein manch Stückel von meinem Morgenbrod gebracht – und jetzt –
+       <stage>
+        (weint in die Schürze)
+       </stage>
+       soll ich dich weggeben – hi – hi – hi! –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Klarl, und Graf Waller.
+     </stage>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Du weinst? kleines Mädchen! und warum? weißt du auch, daß ich heute Niemand traurig um mich sehen will. –
+      </p>
+     </sp>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <stage>
+       (immer noch schluchzend)
+      </stage>
+      <p>
+       Ja – was kann ich dafür? Sie würden wohl auch traurig seyn, wenn man ihnen, das Liebste, was sie haben, nehmen wollte? –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Und wer soll dir denn das nehmen wollen?
+      </p>
+     </sp>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <p>
+       Der gnädige Herr auf dem Schloß –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Sie kennt mich nicht –
+       <stage>
+        (laut)
+       </stage>
+       Und worinn besteht denn das? hast du vielleicht schon einen Geliebten?
+      </p>
+     </sp>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <p>
+       O der Himmel bewahr – da würd ich mich nicht halb so abgrämen – mein Lämmchen – mein schönes, weisses Lämmchen, soll ich auf das Schloß führen zum gnädigen Herrn –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Hast du es denn so lieb, dein Lämmchen? –
+      </p>
+     </sp>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <p>
+       O – ausser meinem Vater und Mutter, hab’ ich nichts lieberes auf der Welt – des Morgens, wenn ich aufstehe, theil ich mein Morgenbrod mit ihm – des Mittags, wenn die Sonne brennt, leg ich mich mit ihm in Schatten und schlafe – und des Abends, wenn es nicht mehr hungrig ist, bring’ ich es wieder nach Haus – und so ist dieß unschuldige, liebe Thierchen meine einzige Unterhaltung.
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Diesem Kind seine einzige Freude zu rauben, wäre ein Verbrechen.
+       <stage>
+        (laut)
+       </stage>
+       Geh du mit deinem Lämmchen wieder nach Haus, gutes Kind!
+      </p>
+     </sp>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <p>
+       Ey, das darf ich nicht – da wird ichs schon kriegen von meiner Mutter.
+      </p>
+     </sp>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#waller">
+      <speaker>
+       Waller.
+      </speaker>
+      <lg>
+       <l>
+        Des armen Mädchens Thränen,
+       </l>
+       <l>
+        Die nehmen mich wohl ein,
+       </l>
+       <l>
+        Dir deine Freude nehmen,
+       </l>
+       <l>
+        Hieß warlich grausam seyn –
+       </l>
+       <l>
+        Nimm du dein Lämmchen – geh zurück,
+       </l>
+       <l>
+        Ich folge dir im Augenblick.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechszehnter Auftritt.
+     </head>
+     <stage>
+      Klara allein.
+     </stage>
+     <sp who="#klara">
+      <speaker>
+       Klara.
+      </speaker>
+      <p>
+       Ja – was soll ich jetzt thun? den Herrn hab ich in meinem Leben nicht gesehen – und doch sagt er, daß ich mein Lämmchen zurückführen soll;
+       <stage>
+        (küßt das Lämmchen)
+       </stage>
+       Ach! wenn ich nur dich behalten dürfte, schönes, liebes Lämmchen! wie gerne wollt’ ich – ich weiß nicht was – entbehren.
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Wie mein Lämmchen schön und rein,
+       </l>
+       <l>
+        Müssen junge Mädchen seyn –
+       </l>
+       <l>
+        Sä – sä – sä – sä –
+       </l>
+       <stage>
+        (führt es fort)
+       </stage>
+       <l>
+        Führ’ ich es auf die Weide,
+       </l>
+       <l>
+        An einem Rosenband,
+       </l>
+       <l>
+        So pflück’ ich ihm die Kräuter
+       </l>
+       <l>
+        Mit meiner eignen Hand –
+       </l>
+       <l>
+        Ich bin noch jung und bin noch klein –
+       </l>
+       <l>
+        Ich will unschuldig – und so rein
+       </l>
+       <l>
+        Wie mein kleines Lämmchen seyn.
+       </l>
+      </lg>
+      <stage>
+       (ab).
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Schulmeister und Röschen.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ich armes Mädchen! hab’ mir vorgenommen, mich heute an unserm Mayfest so lustig zu machen –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Ich bedaure dich – aber sag du mir, wie gieng denn das Ding eigentlich zu? –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wie wir den letzten Maytanz hielten da brachte er mir ein Körbchen mit Bändern geziert, und einen Blumenstrauß, den er mir vorsteckte –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Und du liessest dir den Strauß vorstecken?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Nun freylich – aber im Augenblick – so wie er mich anrührte – fühlte ich ein Schaudern – ein Zittern –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Du wirst doch den Strauß schon in das Feuer geworfen haben?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Mit dem wars noch nicht aus – damit ich ja recht behext würde, gab er mir, jetzt bedenk er nur – einen Kuß –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Einen Kuß? o cœlum cœlorum! da wirds gar aus gewest seyn?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Und ich – ohne etwas böses zu denken – küßte ihn auch –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Du küßtest ihn auch? Hilf Himmel – das war dein Unglück –
+       <stage>
+        (beis.)
+       </stage>
+       O du Talk du! –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Jezt sagt mein Vetter, daß ich gar nicht mehr an ihn denken, daß ich ihm seine Bänder, sein Körbchen, seinen Strauß, – alles zurückgeben soll.
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Daß du aber ja nichts vergissest – hörst du?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Aber den Kuß? – muß ich ihm den auch wieder zurückgeben? –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Ja nicht! den giebst du mir –
+      </p>
+      <stage>
+       (will sie küssen.)
+      </stage>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Hört er, lieber Herr Schulmeister, wie schön seine Stimme klingt – er kömmt –
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Geschwind fort – fort – fort mit dir –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Apage! der Satanas
+       </l>
+       <l>
+        Nähert sich – fort – fort –
+       </l>
+       <l>
+        Hüte dich, es ist kein Spas,
+       </l>
+       <l>
+        Weich von diesem Ort.
+       </l>
+       <l>
+        Sonst wird er dich fressen
+       </l>
+       <l>
+        Wirst ihn nicht vergessen
+       </l>
+       <l>
+        Er wird an den Füssen
+       </l>
+       <l>
+        Dich hängen, und spiessen
+       </l>
+       <l>
+        Dich sieden und kochen
+       </l>
+       <l>
+        Dreimal in der Wochen
+       </l>
+       <l>
+        Apage! der Satanas
+       </l>
+       <l>
+        Nähert sich ec.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      Röschen und Christel.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (wie sie ihn sieht)
+      </stage>
+      <p>
+       Abra kadabra!
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Da ist sie die Boshafte!
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wie mir mein Herz schlägt, ja ich will dem Hrn. Schulmeister folgen – ich will fort.
+      </p>
+      <stage>
+       (geht, kömmt aber gleich wieder zurück.)
+      </stage>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Anschauen darf ich sie schon gar nicht.
+      </p>
+      <stage>
+       (schaut zur Erde)
+      </stage>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ich zittre über und über, wenn er mir nur nicht zu nahe kömmt.
+      </p>
+      <stage>
+       (kommt näher)
+      </stage>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Um alles in der Welt gieng ich nicht zu ihr hin. –
+       <stage>
+        (Sie kommen zusammen) (beyde springen auseinander)
+       </stage>
+       Abra kadabra!
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Wenn ich nur s’Herz hätte, ihn anzureden –
+       <stage>
+        (rücklings)
+       </stage>
+       guten Tag, Christel.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Ja, wer ein Narr wär, damit ich wieder aufs neue behext werde?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Er hört mich nicht – Christel! ich hab dich gegrüßt.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Nun – ich dank gar schön.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Es ist – es ist mir gar nicht lieb, verstehst du mich – daß ich dich hier antreffe.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Und mir ist es auch gar nicht lieb, daß ich dich hier antreffe, hast mich verstanden?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Du Boßhafter!
+      </p>
+     </sp>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Süsse Worte, sanfte Blicke.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Das sind deine Zauberstricke.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christl">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Sag doch Rösch. / Christl. sage mir,
+       </l>
+       <l>
+        Kommt das Hexen nicht von dir?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Weißt du noch am Mayentanze.
+       </l>
+       <l>
+        Als du mir den Strauß gebracht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Weißt du, wie mit blauem Bande,
+       </l>
+       <l>
+        Meinen Hut du umgemacht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Sag’ warum ich mich so kränke,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Und an dich nur immer denke!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #röschen">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Sag doch Röschen / Christel sage mir
+       </l>
+       <l>
+        Kommt das Hexen nicht von dir
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (zu zerschiedenen Seiten ab)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      Kasperl und Christl.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (bringt Christel zurück)
+      </stage>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Ach lieber Kasperl! da war Röschen, das gottlose Mädchen wieder da, ich weiß gar nicht, wie ich wieder zu ihr gekommen bin.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und du hast mit ihr gesprochen?
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Nicht ich, sie hat mit mir gesprochen. Hilf Himmel! – da kommt sie wieder, lieber Kasperl, bleib doch bey mir, sonst ist sie noch im Stand, und behext mich in einen Bären.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ha, ha, ha, Bleib da stehen, ich komm gleich wieder,
+       <stage>
+        (im Abgehen)
+       </stage>
+       ein Seelen guter Bub ist der Christel, aber ein Talk in Folio.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwanzigster Auftritt.
+     </head>
+     <stage>
+      Christl, Röschen (mit Körbchen und Bande.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Hier, da hast du alles wieder, was ich von dir habe, dein Körbchen, deine Bänder.
+      </p>
+      <stage>
+       (Sie will das Körbchen hin werfen, hält inne, und stellt es ganz sanft, und zitternd auf die Erde.)
+      </stage>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Ja, wenn ich ein Narr wär, ich merks schon, das thust du nicht umsonst.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Geh Falscher! ich möchte dich gerne schlagen, wenn es dir nur nicht weh thäte.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Schämst du dich nicht, daß du so hübsch bist, und mich Armen zu schlagen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Einundzwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Kasperl.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (mit wichtiger Miene)
+      </stage>
+      <p>
+       Jetzt kommt ein mal her, gebt mir eure Hand
+       <stage>
+        (greift ihnen den Puls)
+       </stage>
+       Es ist wahr, richtig ists mit euch beyden nicht.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyundzwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Sophie, Luft. (beyde ländlich gekleidet)
+     </stage>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Hilf Himmel! was kommen denn da für fremde Leute.
+      </p>
+     </sp>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <p>
+       Seyd ihr noch da, warum geht ihr denn nicht, um euch zu dem Fest vorzubereiten.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wie? das sind ja Euer gräfl. Gnaden!
+      </p>
+     </sp>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <p>
+       Euch zu liebe haben wir uns alle in ländliche Masken gekleidet, um desto mehr an eurer Freude Theil nehmen zu können, aber warum bist du denn so traurig?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Euer gräfl. Gnaden! ich – ich bin behext.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Und ich auch, ich bin auch behext.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ha, ha, ha,
+      </p>
+      <stage>
+       (alle lachen)
+      </stage>
+     </sp>
+     <sp who="#sophie">
+      <speaker>
+       Sophie.
+      </speaker>
+      <p>
+       Was bist du, behext?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Behext – von einem schönen Mädchen – lassen mich, Euer Gnaden! den Purschen ein Bissel examiniren, und sie werden gleich hören, an welchem Fieber er krank liegt. Also seit dem letzten Kuß auf dem Maytanz spürst so ein gewisses Schaudern, nicht wahr?
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Jawohl! wer hätte sich die schwarze Bosheit einfallen lassen, ach, der Kuß! er schmeckte so süß.
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       Hört einmal, gute Kinder! Ihr seyd auf eine unschuldige Art, von einander behext worden, Röschen durch dich, und du durch Röschen, und ihr beyde könnt auch nur einander kuriren.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Aber wie das, wie mach ichs denn, daß ich sie kurire, wie vergeht denn die Hexerey?
+      </p>
+     </sp>
+     <sp who="#luft">
+      <speaker>
+       Luft.
+      </speaker>
+      <p>
+       So wie es gekommen ist, nicht wahr, Sophie! Böses muß man mit Bösen vertreiben. Durch einen Kuß kam die Hexerey, durch einen Kuß muß sie auch wieder vertrieben werden.
+      </p>
+     </sp>
+     <stage>
+      Ariette.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Gelegenheit macht Diebe,
+       </l>
+       <l>
+        Dieß sieht man bey der Liebe,
+       </l>
+       <l>
+        Ein Kuß ist ein gefährlich Ding.
+       </l>
+       <l>
+        Kaum gehts pst, pst, kaum gehts kling kling
+       </l>
+       <l>
+        So ist schon da, die Hexerey.
+       </l>
+       <l>
+        Die ganze Narrethey
+       </l>
+      </lg>
+      <stage>
+       (mit Kasp. ab)
+      </stage>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Böses muß man mit Bösen vertreiben, sagt Er?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ja, wenn das wäre –
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christ.
+      </speaker>
+      <p>
+       Nun bin ich auch gar nicht mehr böse auf dich.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Dein Wille war also nicht, mir weh zu thun?
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christ.
+      </speaker>
+      <p>
+       Wie könnt’ ich das, wüßt ich nur, wie ich dich kuriren sollte. –
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ja, ich weiß es auch nicht.
+      </p>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <p>
+       Sieh einmal dort die Schaafe, wie sie hüpfen und springen, – hör, die Vögel, wie sie so lieblich singen, sieh dort den Geisbock, wie er von dem Hügel so fröhlich herunter springt. Komm, wir wollen auch so herum springen.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ja, ja, vielleicht hilft’s –
+      </p>
+      <stage>
+       (sie springen munter herum unter den Ritornell der Schulmeister und Gretel kommen dazu, und bleiben rückwärts stehen.)
+      </stage>
+     </sp>
+     <sp who="#christl #röschen">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Trallala la – Trallala la!
+       </l>
+       <l>
+        Hopseisa, Dudeldum!
+       </l>
+       <l>
+        Trallala la, trallala la!
+       </l>
+       <l>
+        Im Kreiße froh herum!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (bey Seite)
+      </stage>
+      <lg>
+       <l>
+        Was zum Henker! wollen diese,
+       </l>
+       <l>
+        Hier so ganz allein – ?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Ha! ich wette, alle beyde,
+       </l>
+       <l>
+        Müssen närrisch seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister #gretl">
+      <speaker>
+       Schulmeister. Gretl.
+      </speaker>
+      <stage>
+       (zu gleich)
+      </stage>
+      <lg>
+       <l>
+        Sie singen, sie springen,
+       </l>
+       <l>
+        Doch alles hilft nichts.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <stage>
+       (zugleich)
+      </stage>
+      <lg>
+       <l>
+        Wir singen und springen,
+       </l>
+       <l>
+        Doch alles hilft nichts.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Was wollen wir jezt machen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollen beyde lachen,
+       </l>
+       <l>
+        Und froh und lustig seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ha, ha, – Ha, ha,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Ha, ha, – Ha, ha.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (sie lachen und plözlich halten sie ein.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Was wird mit uns gescheh’n,
+       </l>
+       <l>
+        Wir wollen weiter geh’n –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie wollen fort.)
+     </stage>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Doch halt! da fällt mir ein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Und was soll das wohl seyn? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollen hier im Schatten,
+       </l>
+       <l>
+        Die andern erwarten,
+       </l>
+       <l>
+        Setz dich an diesen Ort –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie setzt sich einige Schritte von ihm auf den Rasen.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Willst du mich wohl verführen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Soll uns das wohl kuriren –
+       </l>
+       <l>
+        Nein, nein, ich gehe fort.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christel">
+      <speaker>
+       Christel.
+      </speaker>
+      <lg>
+       <l>
+        Setz dich, und schlummre ein,
+       </l>
+       <l>
+        Das wird am besten seyn. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Glaubst du das wohl?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Ich schlummre ein,
+       </l>
+       <l>
+        Das wird am besten seyn –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (kleine Pause.)
+     </stage>
+     <sp who="#gretl #schulmeister">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Die beyde sind von Sinnen,
+       </l>
+       <l>
+        Ich schleiche mich von hinnen,
+       </l>
+       <l>
+        Das wird am besten seyn,
+       </l>
+      </lg>
+      <stage>
+       (sie schleichen sich bey Seite.)
+      </stage>
+      <lg>
+       <l>
+        Still – still –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Christel! schläfst du schon? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Sey still – ich – – ich –
+        <stage>
+         (gähnt)
+        </stage>
+        uah –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Uah – azi –
+        <stage>
+         (gähnt)
+        </stage>
+        ach welche Noth! azi, azi –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Hast du genießt? nun helf dir Gott –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl #röschen">
+      <speaker>
+       Beyde.
+      </speaker>
+      <stage>
+       (indem sich beyde umwenden)
+      </stage>
+      <lg>
+       <l>
+        Ich kann nicht schlafen, welche Pein!
+       </l>
+       <l>
+        Da sitz ich Aermster! / Aermste! ganz allein.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Pause) (steht auf)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wenn ich näher bey dir wär –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Nun so komm und rücke her –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (nimmt ihn an der Hand)
+      </stage>
+      <lg>
+       <l>
+        Ach! ich werde ganz bewegt –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Fühle, wie mein Herz mir schlägt –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Leg deine Hand in meine Hand –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Ich will sie küssen –
+       </l>
+       <l>
+        Wie heißt mir wird – ach!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Welcher Brand!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christl">
+      <speaker>
+       Christl.
+      </speaker>
+      <lg>
+       <l>
+        Laß mich sie küssen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Küsse sie! –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie giebt ihm die Hand zum küssen)
+     </stage>
+     <sp who="#christl">
+      <speaker>
+       christl.
+      </speaker>
+      <lg>
+       <l>
+        Wie wohl mir wird –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Hier ist die Wange – küß auch die –
+       </l>
+      </lg>
+      <stage>
+       (Er küßt sie)
+      </stage>
+     </sp>
+     <stage>
+      (Der Schulmeister und Gretchen kommen herfür.)
+     </stage>
+     <stage>
+      (Sie stehen alle auf.)
+     </stage>
+     <sp who="#christl #röschen #gretl #schulmeister">
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        O Wonne – o Glück!
+       </l>
+       <l>
+        Welch seeliger Augenblick!
+       </l>
+       <l>
+        Weg ist alle Hexerey –
+       </l>
+       <l>
+        Wir / Sie sind von allem Uebel frey –
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreiundzwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Thomas.
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was seh’ ich alle Wetter
+       </l>
+       <l>
+        Ihr seyd so hier allein! –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <lg>
+       <l>
+        Willkommen uns Herr Vetter!
+       </l>
+       <l>
+        Hier sind wir ganz allein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister #gretl">
+      <speaker>
+       Schulmeister. Gretl.
+      </speaker>
+      <lg>
+       <l>
+        Hier sind sie ganz allein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was ist denn hier geschehen?
+       </l>
+       <l>
+        Was soll die Narrethey?
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (will beyde aus einander haben)
+     </stage>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <lg>
+       <l>
+        Wir beyde sind kuriret –
+       </l>
+       <l>
+        Von aller Hexerey. –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <lg>
+       <l>
+        Herr Vetter! welch miraculum!
+       </l>
+       <l>
+        Quale spectaculum!
+       </l>
+      </lg>
+      <stage>
+       (parlando)
+      </stage>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Wie ist denn dieß geschehen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <lg>
+       <l>
+        Ein Kuß hat uns kuriret,
+       </l>
+       <l>
+        Von aller Hexerey –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was hör’ ich? alle Teufel!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christl">
+      <speaker>
+       Röschen. Christl.
+      </speaker>
+      <lg>
+       <l>
+        Er wird doch ohne Zweifel!
+       </l>
+       <l>
+        Damit zufrieden seyn? –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Nein, nein, das kann nicht seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #christel">
+      <speaker>
+       Röschen. Christel.
+      </speaker>
+      <lg>
+       <l>
+        Wir geben uns die Hände,
+       </l>
+       <l>
+        Herr Vetter schlag er ein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Das laß ich nicht geschehen,
+       </l>
+       <l>
+        Das kann ohnmöglich seyn.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierundzwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. Kasperl.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Auf lustig und munter,
+       </l>
+       <l>
+        Zum Tanze herbey!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl">
+      <speaker>
+       Gretl.
+      </speaker>
+      <lg>
+       <l>
+        O Wunder! – o Wunder!
+       </l>
+       <l>
+        Fort ist Zauberey!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Noch kann ichs nicht begreifen,
+       </l>
+       <l>
+        Was soll das alles seyn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #röschen #christel #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        Sie können hier schon bleiben.
+       </l>
+       <l>
+        Wir gehen ganz allein,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Potz Donner, alle Wetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #röschen #christel #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        Wir gehen schon Herr Vetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Was ist dann hier gescheh’n?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #röschen #christel #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        Das sollen sie bald sehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Hier ist die Obligation
+       </l>
+       <stage>
+        (zeigt 2 Schriften)
+       </stage>
+       <l>
+        Und hier das Testament!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Ich fodere Satisfaction –
+       </l>
+       <l>
+        Sogar ein Jurament!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Wozu? – die beyde sind ein Paar –
+       </l>
+       <l>
+        Die Gretl bleibet mein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <lg>
+       <l>
+        Das ist und bleibet niemals wahr,
+       </l>
+       <l>
+        Das kann unmöglich seyn –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gretl #röschen #christel #schulmeister"><!-- ids korrekt -->
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        Kommt ohne verweilen
+       </l>
+       <l>
+        Zum Tanze herbey –
+       </l>
+       <l>
+        Kommt, lasset uns eilen
+       </l>
+       <l>
+        Fort ist Hexerey!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle 4 ab.)
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl. !
+      </speaker>
+      <lg>
+       <l>
+        So bin ich betrogen, mich lassens allein,
+       </l>
+       <l>
+        Wo kann noch ein grösserer Esel noch seyn.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfundzwanzigster Auftritt.
+     </head>
+     <stage>
+      (Die Bühne verwandelt sich in einen freyen, angenehmen Platz. Im Hintergrund ist eine Allee von Obstbäumen, vor denenselben Bogengänge mit grünen Lauben und Blumen geziert. In der Mitte ein Mayenbaum. – Der ganze Zug beginnt – alle haben grüne Kränze – zwey Mädchen bringen an einem rothen Band 2 weise Lämmer mit Blumen und Bändern geziert.)
+     </stage>
+     <stage>
+      Einzugschor.
+     </stage>
+     <sp who="#einzugschor">
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Auf lustig und fröhlich
+       </l>
+       <l>
+        Zum Tanze herbey,
+       </l>
+       <l>
+        Wie lieblich, wie seelig –
+       </l>
+       <l>
+        Ist uns nicht der May –
+       </l>
+       <l>
+        Wie blühen die Bäume,
+       </l>
+       <l>
+        Schön ist die Natur,
+       </l>
+       <l>
+        Welch Seegen in Keimen
+       </l>
+       <l>
+        Auf grünender Flur.
+       </l>
+       <l>
+        Auf lustig ec.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      da Capo.
+     </stage>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <stage>
+       (stürzt herein zu des Grafen Füßen)
+      </stage>
+      <p>
+       Ach gnädiger Herr!
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Was ist gesehn? [!]
+      </p>
+     </sp>
+     <sp who="#thomas">
+      <speaker>
+       Thomas.
+      </speaker>
+      <p>
+       Ich bin betrogen – –
+      </p>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <p>
+       Nicht betrogen – Nein –
+       <stage>
+        (zeigt ihm die Schrift)
+       </stage>
+       Ein Paar – sollen diese beyde seyn. –
+      </p>
+     </sp>
+     <stage>
+      (Röschen und Christl – Kasperl und Gretl zu den Füssen des Grafen. Sie bekränzen Sophien unter dem Chor.)
+     </stage>
+     <stage>
+      Final Chor.
+     </stage>
+     <sp who="#finalchor">
+      <speaker>
+       Final Chor.
+      </speaker>
+      <lg>
+       <l>
+        Auf lustig und fröhlich –
+       </l>
+       <l>
+        Zum Tanze herbey.
+       </l>
+       <l>
+        Wie lieblich, wie seelig
+       </l>
+       <l>
+        Ist uns nicht der May –
+       </l>
+       <l>
+        Wie blühen die Bäume,
+       </l>
+       <l>
+        Schön ist die Natur,
+       </l>
+       <l>
+        Welch Seegen im Keimen
+       </l>
+       <l>
+        Auf grünender Flur,
+       </l>
+       <l>
+        Auf lustig und Fröhlich
+       </l>
+       <l>
+        Zum Tanze herbey
+       </l>
+       <l>
+        Wie lieblich, wie seelig
+       </l>
+       <l>
+        Ist uns nicht der May.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Nach dem Chor beginnt ein lustiger Tanz – Sie machen zerschiedene Figuren mit ihren Maystöcken, springen über die Lämmchen – und so fällt unter einer angenehmen Gruppe der Vorhang.
+     </stage>
+     <stage>
+      Ende des Singspiels.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

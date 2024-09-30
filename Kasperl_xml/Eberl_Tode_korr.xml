@@ -1,0 +1,2504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Der Tode und seine Hausfreunde
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Ferdinand Eberl
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1793">
+      1793
+     </date>
+     <date type="premiere" when=""/>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="rose">
+      <persName>
+       Rose
+      </persName>
+     </person>
+     <person xml:id="kaspar">
+      <persName>
+       Kaspar
+      </persName>
+     </person>
+     <person xml:id="mauskopf">
+      <persName>
+       Mauskopf
+      </persName>
+     </person>
+     <person xml:id="katzbalg">
+      <persName>
+       Katzbalg
+      </persName>
+     </person>
+     <person xml:id="trautl">
+      <persName>
+       Trautl
+      </persName>
+     </person>
+     <person xml:id="spitzel">
+      <persName>
+       Spitzel
+      </persName>
+      <name type="variant">
+       Spitzl
+      </name>
+     </person>
+     <person xml:id="richter">
+      <persName>
+       Richter
+      </persName>
+     </person>
+     <person xml:id="everl">
+      <persName>
+       Everl
+      </persName>
+     </person>
+     <person xml:id="schulmeister">
+      <persName>
+       Schulmeister
+      </persName>
+     </person>
+     <person xml:id="gerichtsschreiber">
+      <persName>
+       Gerichtsschreiber
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     DER TODE UND SEINE HAUSFREUNDE
+    </head>
+    <head>
+     Posse in einem Aufzug von Ferdinand Eberl 1793
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Kaspar Schlauch.
+     </castItem>
+     <castItem>
+      Rose, sein Weib.
+     </castItem>
+     <castItem>
+      Mauskopf, Richter.
+     </castItem>
+     <castItem>
+      Trautel, sein Weib.
+     </castItem>
+     <castItem>
+      Spitzel, Schulmeister.
+     </castItem>
+     <castItem>
+      Everl, sein Weib.
+     </castItem>
+     <castItem>
+      Katzbalg, Gerichtsschreiber.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Ein schlecht meublirtes Zimmer, links ein Vorhang-Bett: rechts ein Tisch mit einer Kanne und ein Buch darauf.)
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (sitzt mit der Schlafhauben, ohne Ueberrock am Tisch, und liest aus dem Buche.)
+      </stage>
+      <p>
+       Lieben Brüder! Horchet wohl, sag’ ich euch! – Ein Weib ist ein vortrefliches Geschöpf; denn sie ist das Kleinod, das ihres Mannes Ehre schmückt, sie ist das Spezerey­kästel, die seine Wunden heilt, sie ist das Labsall, welches die Bürdendes kümmerlichen Lebens erleichtert. – Darum sag’ ich euch – ihr werdet wohl thun, wenn ihr euch Eine nehmet, sie mag braun oder weiß – groß oder klein – mager oder fett seyn; sie wird immer die eine Hälfte von euch ausmachen, nämlich – denn sie ist aus dem nämlichen Stoffe, aus dem ihr geschaffen seyd – weßwegen, wenn ihr 2 Speckseiten im Sauerkraut habt – ihr ja genau mit ihr theilen, und sie so gut halten sollt, als euern Leib! – und wenn’s euch an Bettgewand gebricht, so gebt ihr Stroh oder Heu! – damit sie sanft lege ihr Haupt – denn das Weib ist der Schatz, der euch aus allen Nöthen retten kann – denn wo ihr nicht mehr im Stande seyd – zu verdienen, so laßt nur euer Weib sorgen, sie wird sich zu helfen wissen, und euch gewis auch damit helfen.Also findet man es geschrieben, wo es gedruckt zu lesen ist. –Schade, daß keine Jahrzahl dabey steht, daß man doch gleichwohl wissen könnte, wenn diese Lügen wahr waren! – Du lieber Himmel! – Wenn man jetzt die Weiber ansieht, und solch ein Kapitel drauf liest, so gehen einem völlig die Augen über
+       <stage>
+        (trinkt).
+       </stage>
+       Zwar bey der Meinigen, da kann ich über nichts klagen, denn sie ist wie ein Lämmchen, und trägt Kummer und Sorge mit mir, wie ein Pack-Esel – sinnt Tag und Nacht, wie’s mir daraus helfen kann, und ist honett und schön – Cosa rara! bey allem dem ist mir aber mit ihr doch nicht geholfen – denn meine Schuldner werden sammt ihrer Schönheit und Herrlichkeit nicht bezahlt, und wenn uns der heutige Einfall nicht durchhilft, so wird’s uns Morgen nicht nur an Bettgewand, sondern vielleicht gar an Heu und Stroh gebrechen, und meine theure Hälfte kann sich statt sanft, breit auf der Pritsche im Arrest liegen – je nun sey’s wie’s sey – wenigstens weis ich doch, daß mir auch da mein Weibchen nachgeht, und nicht so wie manche, die ihren Männern Schulden zu machen erlauben, damit er davon laufen soll, und sie mit guter Manier als Exweiber leben können – und also ist das doch mein Trost – der auf alle Fälle ein Gläßchen Wein auf die Gesundheit meines braven Weibes verdient.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Rose. Kaspar.
+     </stage>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Kaspar! Kaspar!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nun was giebt’s Rosel?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Kaspar es wird gehen!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wird’s? aber was meinst du?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Was ich meine? dir zu helfen und drey Hausväter wacker zu prellen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Und meine Schulden?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Soll der Spaß mir einmal bezahlen, noch Ueberschuß bringen; und dir zeigen: was ein Weib alles im Stande ist.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So? Leider erfahren das die heutigen Männer, mehr als zu oft – und kriegen davon nicht selten Kopf- und Augenweh.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Denkst du so was von mir?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Weiberl! ’s ist halt so eine curiose Sache um euch! – Gelegenheit macht Diebe, und der Vorwitz ist überhaupt euere Sache.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Laß nur alles gut seyn; ich sag dir’s, bis Morgen bist du frank und frey von allem deinen Kummer.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ist das richtig?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Richtig und klar – meine Chapeaux werden gleich anmaschiren.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Deine Chapeaux? und die werden für mich bezahlen?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Die werden für dich bezahlen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Und du belohnst sie dafür?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Das sollst du erfahren!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Erfahren auch noch? – Mein Weib, das laß ich nicht angehen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sorg dich nicht, wird so arg nicht seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Aber schau nur Weib, das ist ja wieder alle Mode, daß der Mann erfahren soll.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Verdirb die Zeit nicht mit plaudern, und schick’ dich zu unsern Unternehmen an.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Anschicken? Nun laß hören.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Du bist tod.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich? ich tod? wie meinst du denn das?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nu, nur Geduld! Du legst dich nieder – ich stell ein brennendes Licht vor dir, decke dich mit einem Leintuch zu, und du stellst dich todt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Stell mich tod! – versteh’s schon. Und darnach?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Hernach wird der Hr. Richter kommen mit mir zu spienzeln.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Und da stell’ ich mich auch todt dabei, und schau so hübsch zu – versteh’s schon – aber du, wenn mich der Spaß etwan niessen macht.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Das wär eine saubere Affaire – du darfst nicht einmal Athem schöpfen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bravo! und was soll ich weiter machen?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Das weitere werd’ ich schon besorgen; Du hast nichts weiter zu thun, als ruhig zu bleiben.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Aber lieber Himmel! wenn mir der Richter nur nicht etwan gar zu viel Angst macht.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sorge nicht – gar nichts, deine Schulden werden bezahlt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Du! mir wärs lieber, wenn meine Schuldner gar nichts kriegten, als wenn man mich hernach für einen Schöpfen halten könnte.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nichts von allem dem sollst du zu besorgen haben, Meister Fabelhanns! – leg du dich nur ruhig hin, und verdirb mir nichts durch ein frühers Erwachen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Weib ich thu’s – ich thue dir den Gefallen, aber das sag ich dir – mach’s gut und ehrlich. Schau! du giltst noch immer als ein Wunderthier von einem Weib, weil du nur mich allein zum Manne hast.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Gut, das werd’ ich auch heute am besten zu behaupten wissen. Also hurtig an’s Werk; hohl nur aus der Kammer den Laden.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nun in’s Himmels Namen! so sey’s denn! so will ich dann sterben, indessen mein liebes Weib den Plan macht, um meine Schulden zu bezahlen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Rose (allein.)
+     </stage>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ha ha ha! das soll einen Spaß geben! ich will den drey Narren gewis ein Notabene auf den Kopf setzen, daß sie’s nicht vergessen sollen. Richter, Schulmeister und Gerichtsschreiber fein bleiben lassen, den jungen Weibern im Dorfe Fallstricke zu legen, und ihnen an allen Orten und Ecken nachzulaufen, und kommt der Spaß vor die Obrigkeit, je nun, was liegt daran – Die Rathsherren werden die Perücken schütteln, und ich – ich werde sie auslachen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Kaspar (mit einem Laden) Rose.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da seh’ man jetzt, zu was allem man sich verleiten läßt, wenn man ein Weib hat. – So ist’s doch wahr, was ich einmal gelesen hab’, daß man aus Liebe beim lebendigen Leib sterben kann: Rosel! das sag’ ich dir, gescheid – ich bitt’ dich gar schön, gescheid – nur mach’s nicht so, daß ich nießen muß – denn meiner Seel! ich bin um meine Nase verflucht kitzlich – und mit einem einzigen Nießer ist’s ganze Konzept verpfuscht.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sey nur kein Narr! und laß dich nicht alles gleich kitzeln, halt nur den Odem zurück, so lang’s seyn kann.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Aber Weiberl! wenn ich nicht verdien’ Zechmeister zu werden, so thut mir die ganze Zunft unrecht – also soll ich mich wirklich niederlegen?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Niederlegen, todt stellen, dich nicht rühren, und gelassen den Ausgang der Sache erwarten.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Du Weib! wenn du in der Stadt die Ehemänner so weit abrichten könntest, ich glaube, die Frauen schößen zusammen, und gäben dir lebenslängliche Pension –
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       So hör’ nur auf zu plaudern, ich höre ihn schon gehen, nur hurtig!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hörst du ihn schon?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Richtig, er ist’s – das wäre sauber, wenn er dich so anträfe; ich hab’ im ganzen Dorfe ausgesprengt, daß du an einem Liebesbrief von mir erstickt bist.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nu, so sey’s denn! weil da geschrieben steht: das Weib ist des Mannes Schatz, so soll der Himmel nun seine Wohlthaten an mir exerciren. – Komm also her, und hilf mich begraben.
+      </p>
+      <stage>
+       (stellt zwey Stühle, legt den Laden quer über, legt sich darauf, Rose deckt ihn mit einem Leintuche zu, und stellt das Licht zu seinen Füßen. Unter der Zeit hört man Einige leise pochen, sie raft sich zusammen, setzt sich in trauriger Stellung an den Tisch, indessen macht Mauskopf leise die Thüre auf.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Mauskopf, Vorige
+     </stage>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (mit einer Laterne, sieht halb zur Thüre herein)
+      </stage>
+      <p>
+       Bst! bst! ist’s wahr, daß er todt ist?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (stellt sich, als wenn sie ihn nicht hörte)
+      </stage>
+      <p>
+       Hin ist hin, und todt ist todt! und der Witwenstand ist ein gefährlicher, beschwerlicher Stand – ach! wer wird mit itzt beistehen?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (hastig)
+      </stage>
+      <p>
+       I! Mauserl, ich bin schon hier; hab’s mir’s schon vorgenommen, ist meine Pflicht! – der Himmel lasse deinen Mann sanfte ruhen in Ewigkeit! –
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (als ob sie erschrocken)
+      </stage>
+      <p>
+       Ach! um des Himmels willen – sind Sie es Herr Mauskopf? was machen Sie so spät bei mir?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Das ist meine Schuldigkeit! ich als Richter bin der erste schuldig, allen betrübten Wittwen auf meinem Grunde Trost zuzusprechen – Ich komme also auch zu ihr. Und weiß Sie meine liebe Frau Rosel, ich will ihr wachen helfen, damit sie sich bei dem Toden nicht allein fürchten darf.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sie? Herr Richter! – Sie? was würde Ihre Frau dazu sagen? –
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Mein Weib? ha ha ha! Der kann ich bald was vormachen! ha! ha! ha! Visitation g’habt – aufgestöbert – beim Auflauern gewesen – ’s Richteramtl gibt allerhand Ausreden – also Frau Rosel, ich bleib da.
+      </p>
+      <stage>
+       (kneipt sie in die Backen.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (richtet sich auf, und sagt leise)
+      </stage>
+      <p>
+       So! So!
+      </p>
+      <stage>
+       (legt sich aber schnell wieder nieder.)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nun, wenn Ihre Frau nichts dawider hat, wegen meiner – Sie können mir ein Duet weinen helfen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Wollen die Thränen schon stillen – du Zuckergöschchen!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ja könnten Sie meinen Mann lebendig machen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Das verhüte der Himmel! Gott hab ihn selig – aber du sollst froh seyn, daß der Lump todt ist! Der Himmel schenk’ ihm die ewige Ruhe!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (wie oben)
+      </stage>
+      <p>
+       Ich bedank’ mich, bedank mich zu tausendmal!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ach Sie wissen nicht, was das für ein Mann war – das weiß nur ich –
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Das kann seyn, es giebt ja noch mehr Männer in der Welt.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Aber keinen solchen mehr.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Laß das nur gut seyn Närrchen! Alle braven Männer sind nicht ausgestorben, du wirst glücklich seyn, wirst’s recht bald seyn – kommt nur auf deinen Willen an, es heute, es –
+       <stage>
+        (will sie küssen)
+       </stage>
+       es diesen Augenblick zu seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (Nießt.)
+      </stage>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Wer hat genießt?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ach es ist nichts – unser grosser Katter in der Küche nießt ackurat so, wie, der Himmel laß ihn ruhen, mein seliger Mann.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       So? Nu! also was wollt ich denn sagen? Ja Mäuschen! daß du glücklich seyn wirst, wollt ich sagen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich? Lieber Himmel! ohne Mann, wie ist das möglich?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Sorge nicht, wird sich einer finden, soll sich ein wakrer ehrenfester Mann finden – geb’ dir mein Wort.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ach! ach! ach!
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Seufze nicht, weine nicht, sieh mich an Rosel! Rosel! wenn es dir recht wäre.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Und wenn es mir recht wäre?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (Nießt.)
+      </stage>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Du könntest heute noch glücklich seyn.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Du? Ja du! kömmt auf ein Wort an.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       So? – und dies wäre?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (furchtsam)
+      </stage>
+      <p>
+       Er ist doch gewiß tod dein Mann?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Würde ich wohl damit spassen – ey, ich fürchte mich zu sehr vor Gespenstern, sehn Sie ihn an, dort liegt er –
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Ansehen? Nein! Gott bewahre mich – also hör mich an – sieh – du bist jetzt von Jedermann verlassen – hast keinen Freund, der sich deiner annimmt, weist auch Närrchen – weist auch, daß ich Geld habe, daß mein Weib ein altes Sohleder ist – weist auch –
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Aber was denn?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Weißt auch Mauserl, daß ich dich liebe.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Lieben? Sie mich lieben?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O daß ich’s kalte Fieber kriegen möchte, so bald ich dich nur sehe.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Hahaha! Sie machen, daß ich in meinem Wittwenstand lachen muß. Sie lieben mich, und was soll denn das mir nützen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O genug! sobald du nur willst; ich will dir einen Kontrakt machen, daß du’s so gut haben sollst, als manche Frau in der Stadt.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sie! hahaha! itzt gehen Sie? Sie sind ja verheurathet.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Hihihi! darüber laß dir’s nicht bang seyn, ’s ist Kleinigkeit – Kinderey sag dir’s Weiberl, das ist bloße Kinderey! Sieh nur einmal, wollen die Sache ganz gescheid und heimlich traktiren, daß Niemand was davon erfahren soll; wollen’s noch ganz feiner machen – so ganz piano – nimm dir eine ganz andere Wohnung, bezahl deines Mannes Schulden, gieb dir alle Monat ein hübsch Kostgeld, Kleider, Wäsche, was du brauchst, du sagst zu den Leuten, du lebst von deiner Arbeit, und so gehts, daß es kein Teufel merken kann.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (Nießt.)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ja, ja! das wäre freylich alles ganz hübsch gesagt – aber –
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Was hast du noch für Bedenken, du Paradiesapfel meines Herzens – sprich, ich will dir zu Gefallen mich zu allem herablassen, zu was du nur haben willst, und verlangen kannst.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ja, ich meyne nur versprechen ist herrisch, und halten ist bäurisch.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (Indem er seine Perücke schüttelt, und warm wird)
+      </stage>
+      <p>
+       O Schätzchen! ich will dir alles so heilig halten, als wenn’s ein gedrucktes Patent wäre – nur sey du gescheid.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Alles recht, alles gut, aber gesetzt ich wollte mich dazu verstehen – wie wär’s wenn Sie meiner einmal überdrüßig würden.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Uiberdrüßig? Ich – deiner? O! Weiberl, ein Richter kann gar nicht überdrüßig werden.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ja, ja! Worte sind Worte.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Laß uns die Sache mit der Schrift ausmachen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Endlich hab ich ihn
+       <stage>
+        (laut)
+       </stage>
+       Ja, wenn Sie’s schriftlich machen wollen, so –
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O drucken wollt’ ich’s lassen, wenn du mir nur willst gut seyn – gieb her! Feder, Dinte, und Papier, trag ich als Richter immer bei mir, bin im Schnaps damit fertig, nachher meine Unterschrift und Pettschaft, und richtig sind wir.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nun, wenn’s so ist, so seys dann – 
+      </p>
+      <stage>
+       (holt eilig Dinte und Feder – Mauskopf richtet sich komisch zum schreiben, während er schreibt, tritt Rose zu Kaspern, der sich lächerlich aufrichtet, immer aber so, daß er nicht bemerkt wird.)
+      </stage>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (schreibt)
+      </stage>
+      <p>
+       Ich Stephel Mauskopf, geschworner Richter, von dem Dorfe Schweinbursten.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Du wirst mir’s verzeihen, daß ich dir im Tode untreu werde.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Bekenne Kraft dieses meines eigenhändigen aufgesetzten Instruments
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Allein Noth bricht Eisen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Du Rosel gieb Acht, daß es nicht zu weit geht.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Daß ich für alle Schulden des seligen Kaspar Schlauch hafte, bürge und gutsage.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (zu Kasper)
+      </stage>
+      <p>
+       Hörst den Perückenstock?
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Auch anbei soll die Frau Rosel Schlauchinn alle Monate von mir 30 fl. Wittwengehalt erhalten – und diese lebenslängliche Pension, auf meine Grundstücke, Haus und Hof verhaftet seyn soll – Kraft dessen eigenhändige Unterschrift und Pettschaft; Stephel Mauskopf, Richter im Dorfe Schweinbursten. Rosel geschrieben hab ich – und richtig sind wir.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (heimlich)
+      </stage>
+      <p>
+       Hübsch du Weiberl, ich bitt dich, gieb Acht – das könnte alles verderben.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Gut Herr Mauskopf – ich habe nur noch den letzten Abschied von meinem Manne genommen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Weißt du was Rosel, wir tragen deinen Mann in die Kuchel, denn der Tode schickt sich nicht wohl im Zimmer.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nein! aus dem laß ich ihn nicht, ich muß ihm noch seine letzte Treue anthun, werde ihm doch noch diese Nacht das Zimmer vergönnen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Nun, weil du für ihn bittest, so mag er bleiben. – Nun Weiberl, jetzt komm, laß dich küssen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (weicht aus, es wird gepocht.)
+      </stage>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Das dich! wer klopft?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Um’s Himmelswillen, wer ist das?
+      </p>
+     </sp>
+     <sp who="#Spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <stage>
+       (vor der Thür)
+      </stage>
+      <p>
+       He! he! Frau Rosel, Frau Rosel! mach sie auf!
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O der Teufel! das ist der Schulmeister; was will der Kerl um diese Zeit?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       O lieber Herr Richter! verstecken Sie sich nur geschwind.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Wohin denn Sackerlot! wohin denn?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Wissen Sie was, legen Sie sich indessen in’s Bett – und machen die Vorhänge zu, ich will ihn schon abfertigen; aber herein muß ich ihn lassen.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Ins Bett – ins Bett – nun meinetwegen, aber halt ihn nur nicht lange auf!
+      </p>
+      <stage>
+       (steigt ins Bett, Rose schließt die Vorhänge zu, und lauft zu Kasper.)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ein Gimpel ist im Käfig.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gieb nur Acht, daß er nicht entwischt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hast du den Kontrakt?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Da heb’ ihn auf, bis ich mit den andern Beiden fertig bin.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Rose! du bist ein Weib nach allen Regeln der Prophezeyung.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Wer stört meine einsamen Betrachtungen?
+      </p>
+     </sp>
+     <sp who="#Spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <stage>
+       (vor der Thüre)
+      </stage>
+      <p>
+       Mach’ sie nur auf Frau Rosel! es soll ihr bald leichter werden.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (macht auf)
+      </stage>
+      <p>
+       Ey Herr Spitzl! so spät, was will er?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Spitzl (tritt ein,) Vorige.
+     </stage>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Ich komm’ ihr zu gratulieren daß der Tod ihrem Mann das Genick gebrochen hat.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O du Haupt-Schlingel.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Wie, was zu gratulieren.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Ja, ja! gratuliren, denn Frau Rosel – die Frau wird sehen, daß eine hübsche Wittwe immer mehr werth ist, als manche ledige Person.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das ist ein Gelehrter, der versteht die Sache.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Er ist mir ein schöner Tröster?
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Je nun, wir Gelehrte packen die Sache gleich beim rechten Ecke an – ich sage der Tod eines tollen Mannes ist Summum bonum für ein hübsches Weib – ergo ist ihr dazu zu gratuliren – doch ich wette gleich, daß Sie sich schon lange in die Faust gelacht hat.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       O ich bitt ihn Herr Schulmeister, verschon’ er mich mit so etwas.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Hast Recht du dulce objectum, du süsser Gegenstand der Liebe; laß uns die kostbare Zeit nicht mit so Kindereyen verderben, wir haben was gescheiders zu verabreden.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (zum Bett heraus)
+      </stage>
+      <p>
+       Nu Gott verzeih mirs, der traktirt auch.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Was will er denn?
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <stage>
+       (nimmt sich einen Stuhl)
+      </stage>
+      <p>
+       Was ich will? was ich schon oft bei ihr vergebens ansuchte – Gegenliebe, wozu sie jetzt keine Ausrede hat.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bravo! der Zeisig stimmt sein Lied gut an.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       Ritter Simon steh mir bei! zuletzt bin ich der gefoppte.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich versteh kein Wort.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Will’s ihr bald verständlich machen; wir Gelehrte besitzen Facultatem communicandi! also für Sie – ich bin einer von den reichsten Knotzen des Dorfes, und ein raisonabler Mann! Ich habe mich schon lange nach einem hübschen Weib umgesehen – endlich hab’ ich sie gefunden.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Mich? Ist des Herrn sein Weib denn gestorben?
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Du Närrchen! braucht denn deßwegen mein Weib todt zu seyn?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Und also, was will er denn mit mir? –
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Sie glücklich machen, durch Geld.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Und sein Weib?
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       I du Schätzchen! – da wirst du wohl so klug seyn, ihr nichts davon zu sagen, – und ich habe schweigen gelernt.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O lieber Himmel! ich lieg auf lauter Spennadeln.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Aber bedenk er doch.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Was bedenken – was skrupuliren? – Da ist mein Beutel, 400 fl. sind darinnen, und abgehen soll nichts.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Aber bedenken Sie nur, wenn so was Herr Richter erführe.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzl.
+      </speaker>
+      <p>
+       Hahaha! Der Richter! die ewige Nachtperücke, der darf nicht muksen. Also ohne Ziererey geantwortet.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nu in’s Himmel’s Nahmen!
+       <stage>
+        (geht zu Kaspar, und giebt ihm den Beutel)
+       </stage>
+       Da! bewahre ihn, es kömmt noch eine Attaque!
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzel.
+      </speaker>
+      <p>
+       So! jetzt sind wir also richtig?
+       <stage>
+        (es wird gepocht)
+       </stage>
+       War das nicht gepocht?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ja richtig; o Himmel! wenn es etwas gar die Todtenbeschau wäre.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzel.
+      </speaker>
+      <p>
+       Jetzt um die Zeit schauen sie lieber in die Gläser, als zu den Todten; das ist Jemand anderer.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Verbergen sie sich nur.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzel.
+      </speaker>
+      <p>
+       Aber wohin?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Wissen Sie was? steigen Sie da aufs Bett herauf, da können Sie gleich sehen und hören, ohne gesehen zu werden.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzel.
+      </speaker>
+      <p>
+       Und warum denn nicht ins Bett hinein?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nein, da protestire ich – nur hurtig, man pocht schon wieder.
+      </p>
+     </sp>
+     <sp who="#spitzel">
+      <speaker>
+       Spitzel.
+      </speaker>
+      <p>
+       Nun meinetwegen – dir zu lieb wandert meine gelehrte Herrlichkeit aufs Bett.
+      </p>
+      <stage>
+       (steigt hinauf)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (macht die Thüre auf)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      (Katzbalg tritt ein mit einem weissen, blauen oder braunen Mantel, unter demselben hat er einen Bündel, eine Flasche Wein, und eine Laterne.)
+     </stage>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <stage>
+       (heuchlerisch)
+      </stage>
+      <p>
+       Guten Abend! sanft sollen ruhen die Lebendigen, und die Todten!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Wie? Herr Katzbalg! Sie kommen so spät zu mir?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Ich komme den Betrübten Trost zu bringen.
+      </p>
+      <stage>
+       (stellt die Flasche auf den Tisch.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ha ha ha! der tragt den Geist des Trostes bei sich in der Flasche.
+      </p>
+     </sp>
+     <sp who="#mauskopf #spitzel">
+      <speaker>
+       Mauskopf. Spitzel.
+      </speaker>
+      <p>
+       Nicht übel!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sie setzen mich in Erstaunen!
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Warum mein Täubchen? warum?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Was wollen Sie denn mit all’ dem Zeuge?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Was ich will? he he he! was ich will? sieh nur – ich will dir Trost zusprechen, Trost will ich dir zusprechen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Aber bedenken Sie, das wird sich nicht schicken; – ich und Sie allein! – was werden die Leute sagen?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Ei Närrchen! wer weis denn was davon – das ganze Dorf schläft, darüber kümmere dich nicht. Da eine Herzstärkung! trink Weibchen!
+       <stage>
+        (reicht ihr ein Glas Wein)
+       </stage>
+       Das wäre eine kluge Methode, wenn ich sie benebeln könnte.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich trinke nicht Wein.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Nicht? nicht? – he he he! Pfui! Der Wein ist der Vater der Freuden, und der Trost der Herzen – trink welchen – trink!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nicht einen Tropfen.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Nicht? Nun gut – so komm, setz’ dich zu mir, und höre meine Trostgründe an.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Alle Ihre Gründe vermögen über mein Herz nichts – mein Mann ist todt, und diesen Verlust kann mir nichts ersetzen.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Nichts? nichts? he he he! Du verachtest also meine Trostgründe, die doch so manches Weib von mir angehört hat.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Bei mir wird aber alles vergebens seyn.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Nu! das wollen wir sehen! Hör’ Weibchen! ich kanns nicht länger verheelen – will dir nur gerade zu gestehen, daß ich in dich verliebt bin.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sie?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Bin dir wohl schon hundertmal nachgeschlichen; war aber allemal vergebens. – Itzt ist die Zeit erwünscht, dein Mann ist todt, die Nachbarschaft schläft, und meine Reputation schützt mich vor allem Verdacht. – Also –
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Was wollen Sie?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Soll ich dies deutlicher erklären? daß du so dumm warst; kurz Weibchen! willst du die Meinige seyn?
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich ihre? je nu! warten Sie doch, bis mein Mann begraben ist; ist er doch noch kaum kalt; wer wird denn itzt schon an’s Heurathen denken?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Hab’ ich denn davon geredet? heurathen? heurathen? ha!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Sie erschrecken mich! was wollen Sie denn?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Närrchen! sey doch klug! ich kann dich wohl lieben – ohne heurathen; verstehst du mich itzt?
+      </p>
+      <stage>
+       (will sie küssen)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <stage>
+       (weicht ihm aus)
+      </stage>
+      <p>
+       Sachte! sachte! ich glaube der Geist des Trostes betäubt Ihnen das Hirn.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Weibchen! sieh, in dieser Brieftasche findest du des wahren Lebens Trost; nimm sie hin, und sey gefällig.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Recht wohl; mein Herr! Sie sind großmüthig, und ich will Ihr Geschenk annehmen, um meines Mannes Schulden zu tilgen, und als ein ehrliches Weib durchzukommen.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Du bist also zufrieden? – Nu! du wirst mich billig finden.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nun so sey es! ich will Sie als den Trost der Wittwen anerkennen.
+       <stage>
+        (nimmt die Brieftasche, löscht das Licht aus, und giebt sie dem Kaspar)
+       </stage>
+       Jetzt unterhalte deine Gäste; ich gehe und vollende die Komödie.
+      </p>
+      <stage>
+       (geht ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Nu Schätzchen! wo bist du denn? he holla! Weiberl! so komm doch.
+      </p>
+      <stage>
+       (tappt im finstern Zimmer herum, und kömmt endlich ans Bett)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was doch ein Ehemann nicht alles erlebt!
+       <stage>
+        (steht auf, und nimmt das Leintuch über den Kopf.)
+       </stage>
+       Was wollen die drey Hausväter bei meiner abgestorbenen Seele im Zimmer?
+       <stage>
+        (Jeder für sich)
+       </stage>
+       Ich bin des Todes! ein Geist!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gelt? jetzt fallt euch’s Herz in die Hosen! ey freylich ist’s leichter mit einem hübschen jungen Weiberl zu spienzeln, als sich in eine Korrespondenz mit einem Abgesandten aus dem Reiche der Todten einzulassen. Aber heraus mit euch, wenn ihr Courage habt, heraus! macht eure Sündenbündel zusammen, und spaziert mit mir.
+      </p>
+     </sp>
+     <sp who="#gerichtsschreiber">
+      <speaker>
+       Gerichtsschreiber.
+      </speaker>
+      <p>
+       Alle gute Geister!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ey da hilft nichts – ich will dir deinen geistreichen Tröster schon austreiben.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <p>
+       O Decke, nimm du mich in deinen Schutz!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nur Geduld! ich komme schon über den Richter auch, und dem, der mir oben auf dem Bette liegt, will ich auch ein Wörtchen in’s Ohr sagen!
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Appage Satanas! ich bin ein rechtschaffener Mann.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ey! du magst rechts oder links seyn, das ist mir alles eins – du mußt mit mir.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Ach Erbarmen! wo soll ich denn hin?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Zum Meister Hammerl! er hat mich geschickt, ich soll ihn bey dir ansagen.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Und woher kommst du?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Von der grünen Wiese.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Gott steh mir bey! und wie schaut’s denn dort aus?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Recht rar – daß er eine Freude ist. Morgen hat der Fankerl grosse Tafel, und da hat er dabey euch nothwendig.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       O weh!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja seufzet immer zu – wird bald aus seyn.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Aber was will er denn mit mir?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was? – Der Herr wird geselcht, und kommt auf die Zuspeis; der Richter wird statt einem Sponfarkl am Spieß gebratten – und der Schulmeister wird zum Salat mit Essig und Oehl! – Denn die Gelehrten mit Essig und Oehl sind des Luzifers Leibspeis.
+      </p>
+     </sp>
+     <sp who="#mauskopf #katzbalg #spitzel"> <!-- TODO ids korrekt -->
+      <speaker>
+       Alle drey.
+      </speaker>
+      <p>
+       O Himmel! das ist erbärmlich!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kann nicht dafür.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Ist das mein Lohn? – ich kam ja her, dir und deinem Weib Gutes zu thun, und dafür soll ich jetzt fort?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Du bist mir schon der rechte Schlingel mit deinen Gutthaten; also ohne Umstände! nehmt’s von euerm Halse Abschied; denn ich bin da, euch den Kragen umzudrehen.
+       <stage>
+        (bei Seite)
+       </stage>
+       Wenn die Kerls den Spas unrecht verstünden, und mich abkragelten, das wäre so eine saubere Affaire.
+       <stage>
+        (laut)
+       </stage>
+       Nu! seyd ihr reisefertig?
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Warum sagst du denn ihr? sind denn mehrere da?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Freylich sind mehr solche Gaudiebe im Zimmer. Einer liegt im Bett, der andere auf’m Bett, und den dritten will ich indessen anfangen zu kitzeln.
+      </p>
+      <stage>
+       (er nimmt ihn beim Schopf, dieser den Richter, Spitzel will übers Bett, und alle fangen an zitternd heftig zu schreien.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Letzter Auftritt.
+     </head>
+     <stage>
+      Rosel. Trautl. Everl. Vorige.
+     </stage>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nun Frau Nachbarinn? da sind die Vögel alle in einem Nest, kann sich jede den Ihrigen aussuchen.
+      </p>
+     </sp>
+     <sp who="#mauskopf #katzbalg #spitzel"> <!-- TODO ids korrekt -->
+      <speaker>
+       Alle 3 Männer.
+      </speaker>
+      <p>
+       O weh! wir sind geprellt; das ist Spitzbüberey!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Guten heut! Frau Schwägerinn! Kommen just recht; kriegen den Hrn. Richter noch ganz warm.
+      </p>
+     </sp>
+     <sp who="#rose #trautl #everl"> <!-- TODO korrekte ids-->
+      <speaker>
+       Weiber.
+      </speaker>
+      <p>
+       So ihr saubern Zeiserln – haben wir euch ertappt.
+      </p>
+     </sp>
+     <sp who="#trautl">
+      <speaker>
+       Trautl.
+      </speaker>
+      <p>
+       Lieber Himmel! mein Mann in einem Federbett!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja er ist nicht heiklich, ist ihm jedes Bettgewand recht.
+      </p>
+     </sp>
+     <sp who="#mauskopf">
+      <speaker>
+       Mauskopf.
+      </speaker>
+      <stage>
+       (beschämt, heraussteigend)
+      </stage>
+      <p>
+       Schau Weiberl! muß dich nicht verdrüssen, bin nur in der Visitation gewest.
+      </p>
+     </sp>
+     <sp who="#everl">
+      <speaker>
+       Everl.
+      </speaker>
+      <p>
+       Und mein Mann gar da oben?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja! der hat die Fliegen wehren sollen.
+      </p>
+     </sp>
+     <sp who="#trautl">
+      <speaker>
+       Trautl.
+      </speaker>
+      <p>
+       Und der Hr. Gerichtsschreiber auch da?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, das ist der Geist des Trostes; wenn die Frau einmal Wittwe wird, den rekommandire ich.
+      </p>
+     </sp>
+     <sp who="#richter">
+      <speaker>
+       Richter.
+      </speaker>
+      <p>
+       Das ist eine Injurie!
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <stage>
+       (herabsteigend)
+      </stage>
+      <p>
+       Crimen læsæ Authoritatis, scandalum primæ classis.
+      </p>
+      <stage>
+       (trinkt.)
+      </stage>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Nun meine Herren, da stünden wohl alle, wie die Pudeln nach dem Baade; – aber Sie, meine gute Nachbarinnen, Ihnen muß ich doch das Räthsel auflösen. Die 3 Herren haben mich schon lange verfolgt –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, ja! das ist wahr! Sie haben’s nirgends sicher gelassen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Ich beschloß also den Hrn. einen Streich zu spielen; – dazu gab noch unsere dringende Noth Anlaß. Morgen wollen uns die Schuldner alles ausräumen; ich sprengte dahero heute Abends die Lüge von meines Mannes Tode aus – die 3 Hrn. kamen einer nach dem andern, mir zu condoliren, und Trost zu bringen, und bothen mir gute Bezahlung an. Hier Frau Richterinn! Sie können doch ihres Mannes Schrift? Hier ist eine lebenslängliche Verschreibung.
+      </p>
+     </sp>
+     <sp who="#trautl">
+      <speaker>
+       Trautl.
+      </speaker>
+      <p>
+       So wahr ich lebe! meines Mannes eigene Handschrift.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Und Sie kennen doch ihres Mannes Geldbeutel, 400 fl. sind darinn; ist auch zum Ankauf.
+      </p>
+     </sp>
+     <sp who="#everl">
+      <speaker>
+       Everl.
+      </speaker>
+      <p>
+       Der nämliche, aus dem er mir täglich s’ Marktgeld giebt; – o! der Spitzbub!
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Meine liebe Frau Nachbarinn, damit sie sehen, daß ich ein ehrliches Weib bin, so stell’ ich Ihnen das wieder zurück, was uns ohne ihren Wissen und Willen nicht gehören kann; – denn ob uns gleich die Noth drückt, so denk ich doch: Ehrlich währt am längsten.
+      </p>
+     </sp>
+     <sp who="#trautl">
+      <speaker>
+       Trautl.
+      </speaker>
+      <stage>
+       (küßt sie)
+      </stage>
+      <p>
+       Die Frau Rosel ist ein braves Weib! und mein Mann der Schlingel! soll bezahlt werden für seinen Raps! Ich hab kein Kind, bin reich; Der Frau Rosel soll er also halten müssen, alles was er verschrieben hat; das will ich selber ausmachen.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Frau Trautl! das ist großmüthig, und wird der Himmel bezahlen! auf solche Art kann ich das Geschenk ohne Flecken meiner Ehre behalten.
+      </p>
+     </sp>
+     <sp who="#everl">
+      <speaker>
+       Everl.
+      </speaker>
+      <p>
+       Und auch der Geldbeutel soll euer seyn.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Frau Nachbarinn, wo soll ich mit so viel hin?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Greif zu Rosel! greif zu! wird’dir schon sagen, was wir damit machen; aber meine Hrn. Hausfreunde! was machen denn Sie für sauere Gesichter?
+      </p>
+     </sp>
+     <sp who="#richter">
+      <speaker>
+       Richter.
+      </speaker>
+      <stage>
+       (zum Schulmeister)
+      </stage>
+      <p>
+       Du! sollen wir das leiden?
+      </p>
+     </sp>
+     <sp who="#schulmeister">
+      <speaker>
+       Schulmeister.
+      </speaker>
+      <p>
+       Mach’s klüger, wenn du kannst.
+      </p>
+     </sp>
+     <sp who="#trautl">
+      <speaker>
+       Trautl.
+      </speaker>
+      <p>
+       Ohne weiters! – seyd’s froh, daß ihr so durchgewischt seyd.
+      </p>
+     </sp>
+     <sp who="#rose">
+      <speaker>
+       Rose.
+      </speaker>
+      <p>
+       Und nun Hr. Gerichtsschreiber! Ihnen geb’ ich Ihre Allmosen nicht wieder; aber austheilen will ich’s unter die Armen; denn mit dieser Schrift, und diesem Geldbeutel wird keine Kunst mehr seyn, als ehrliche Leute durchzukommen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das ist recht, und löblich! Die Herrn werden sich’s wohl in Zukunft vergehen lassen, hübsche Wittwen ohne Todtenbeschau zu besuchen; also nichts für ungut! ’s war ein lustiger Einfall, und mein Rath wäre, wir nähmen von dem Geist des Trostes
+       <stage>
+        (auf die Flasche zeigend)
+       </stage>
+       einige Tropfen zu uns, und würden wieder gute Freunde – aber so viel ich sehe, so wird der wohl zu wenig werden.
+      </p>
+     </sp>
+     <sp who="#katzbalg">
+      <speaker>
+       Katzbalg.
+      </speaker>
+      <p>
+       Da kann ich helfen: ich habe noch zur Vorsorge eine mitgebracht.
+      </p>
+      <stage>
+       (holt eine Flasche aus dem Mantel hervor.)
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bravo! der Herr hat Provision von Trosttropfen – nu also gute Freunde! –
+      </p>
+     </sp>
+     <sp who="#richter">
+      <speaker>
+       Richter.
+      </speaker>
+      <p>
+       Nu meinetwegen; so solls auch blos als ein Fastnachtsstückel angesehen seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       (zu Rose)
+      </stage>
+      <p>
+       Du Weiberl! dir will ich meinen Dank insbesondere abstatten. So hab’ ich’s halt doch erfahren, daß ein Weib der Schatz eines Mannes ist, und ihm auf die honneteste Art nutzen kann.
+      </p>
+     </sp>
+     <sp who="#richter">
+      <speaker>
+       Richter.
+      </speaker>
+      <p>
+       Frau Rosel! nichts für ungut, denn ich war ein Esel.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Geschwind trinken wir die Gesundheit des Herrn Richters! Er soll leben! und alle Ehemänner, die die Glückseligkeit genießen, die da heißt: glücklich ist der Mann, welcher kennt seine Hausfreunde!
+      </p>
+     </sp>
+    </div>
+    <stage>
+     Ende der Posse.
+    </stage>
+   </div>
+  </body>
+ </text>
+</TEI>

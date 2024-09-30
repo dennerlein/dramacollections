@@ -1,0 +1,3967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Kasper Grünzinger
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl Friedrich Hensler
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1799">
+      1799
+     </date>
+     <date type="premiere" when="1799">
+      1799
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="kasper">
+      <persName>
+       Kasper
+      </persName>
+     </person>
+     <person xml:id="margareth">
+      <persName>
+       Margareth
+      </persName>
+     </person>
+     <person xml:id="guthmann">
+      <persName>
+       Guthmann
+      </persName>
+     </person>
+     <person xml:id="rosine">
+      <persName>
+       Rosine
+      </persName>
+     </person>
+     <person xml:id="steffel">
+      <persName>
+       Steffel
+      </persName>
+     </person>
+     <person xml:id="lisel">
+      <persName>
+       Lisel
+      </persName>
+     </person>
+     <person xml:id="kasperl">
+      <persName>
+       Kasperl
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     KASPER GRÜNZINGER
+    </head>
+    <head>
+     Ein Lustspiel in einem Aufzug
+    </head>
+    <head>
+     [von Karl Friedrich Hensler] [1799]
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Kasper Grünzinger, ein wohlhabender Weinbauer.
+     </castItem>
+     <castItem>
+      Margareth, sein Weib.
+     </castItem>
+     <castItem>
+      Rosine, seine Tochter.
+     </castItem>
+     <castItem>
+      Guthmann, ein reicher Wirth zu Brunn, Rosinens Taufpathe.
+     </castItem>
+     <castItem>
+      Steffel, ein Hausbursche, Rosinens Liebhaber.
+     </castItem>
+     <castItem>
+      Lisel, Kasperls Muhme.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <stage>
+     Die Bühne stellt einen ländlichen Garten vor mit einem Zaun. Auf einer Seite Kasperls Haus, vor demselben ein hoher Baum mit einem ländlichen Tisch und Stühlen. Auf der andern Seite die Thüre in die Presse, vor derselben Butten, Wannen und dergl. In der Entfernung sieht man das Dorf, und unter den Bauerhütten das Schloß des Dorfherrn hervorragen.
+    </stage>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Rosine sitzt an dem Tisch, und bindet einen großen Kranz von Weinlaub und Herbstblumen zusammen. Hernach Steffel, trägt eine Butte, und will vorüber gehen.)
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       So – jetzt wär der Herbstkranz beisammen, den wir morgen unserem Herrn Grafen bringen sollen.
+       <stage>
+        (besieht ihn)
+       </stage>
+       Recht hübsch – er ist mir recht gut gerathen –
+       <stage>
+        (Steffel kommt)
+       </stage>
+       Wenn jetzt nur gleich mein Steffel da wäre, daß er ihn auch sehen könnte –
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Je nun – wenns nur aufs sehen ankommt – da wär ich ja –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (ganz gleichgültig, beschäftigt sich mit dem Kranz, und schielt immer nach Steffel)
+      </stage>
+      <p>
+       So – bist du da? Steffel!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Nun freilich bin ich da!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Du gehst in den Weingarten, wie ich sehe?
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Wenn ich zuvor mit dir eins geplaudert habe – Ja!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Nun – deswegen darfst du dich eben nicht aufhalten – du kannst schon gehen.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Nun – da siehts nicht übel aus, wenn du so redst. Safferment, Madel! was ist dir denn? schaust mich nicht einmal an, und – da ich dich nach 24 Stunden wieder s’erstemal seh, gibst mir den Abschied –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (beschäftigt sich immer)
+      </stage>
+      <p>
+       Eben deßwegen – den ganzen lieben Tag wart ich auf dich, und du lässest dich mit keinem Aug sehen –
+       <stage>
+        (weint in die Schürze)
+       </stage>
+       Das – das – hätt ich auch nicht von dir geglaubt.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Aber so sey nur gscheid, Rösel! wie hab ich denn kommen können, da mich dein Vater gestern hat aus dem Haus prügeln wollen.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ey – hättest du es nur darauf ankommen lassen – er hätt es gewiß nicht gethan – und vom Drohen ist noch kein Mensch gestorben, verstehst mich – aber geh –
+       <stage>
+        (mit ihrer Schürze spielend)
+       </stage>
+       ich weiß schon, es ist dir halt selber mitg’holfen – du – du hast mich halt nimmer lieb – hihihi –
+      </p>
+      <stage>
+       (weint in die Schürze)
+      </stage>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Jezt sey stat, Rösel! oder – ich – ich muß auch flennen. Schau – eben deswegen bin ich da vorbey gegangen, weil ich mir gedacht hab, daß ich dich antreffen werd – und da hab ich dir eine freudige Botschaft bringen wollen – aber du willstsja nicht hören – deswegen will ich meinen Weg weiter gehen.
+      </p>
+      <stage>
+       (will fort)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (freudig)
+      </stage>
+      <p>
+       Eine freudige Botschaft – was ists denn, lieber Steffel!
+      </p>
+      <stage>
+       (hält ihn am Wamms zurück)
+      </stage>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <stage>
+       (lacht beis.)
+      </stage>
+      <p>
+       Nix – nix – gar nix, als mit deinem Göthen, dem Vetter Guthmann hab ich gsprochen – hab ihm alles entdeckt von unserer Lieb – und er hat versprochen, daß er uns beyde will glücklich machen.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (hüpft)
+      </stage>
+      <p>
+       O der liebe Vetter! o der liebe Herr Göth!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Er hat gesagt, daß er mit deiner Mutter reden will.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       O weh – da kommt schon nichts heraus – ja – wenns auf die Mutter allein ankäm – aber der Vater – du weist ja, daß ewiger Krieg und Zwietracht in unserem Hause ist.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Leider Gott! das ewige, unaufhörliche Zanken – über jede Kleinigkeit ein neuer Lärm – was wird am End dabey herauskommen?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Vorige. Lisel aus dem Haus.
+     </stage>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <stage>
+       (freudig)
+      </stage>
+      <p>
+       Lustig, lustig, Kinder! ich bring Neuigkeiten, frohe Nachrichten.
+      </p>
+     </sp>
+     <sp who="#steffel #rosine"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <stage>
+       (äusserst neugierig)
+      </stage>
+      <p>
+       Und was, was denn, liebe Lisel!
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Der Herr Casper und die Frau Margreth – ach –
+       <stage>
+        (weint)
+       </stage>
+       mir gehen vor lauter Herzensfreud schon wieder die Augen über.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       So flenn ein andermal, alte Lisel! und erzähl – du machst ja ein Gsicht wie unsre alte Kaz, wenns donnert –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <stage>
+       (freudig)
+      </stage>
+      <p>
+       Nun so hört nur, Kinder! der Herr Casper und die Frau Margareth sind noch nie mitsammen so gut gwesen, als eben jezt. Mit meinen eigenen Augen und Ohren hab ich g’hört und gsehen, wie sie sich Frieden, Freundschaft und ewige Liebe zugeschworen haben.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Ist das möglich!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Steffel! Steffel! nun wirds mit uns richtig.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Wie liebreich sie sich umarmten. Mit Thränen in den Augen haben sie versichert, daß sie sich nie wieder, und über nichts mehr zerkriegen wollen.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Dem Himmel sey’s gedankt – Rosel! jezt sind wir einmal nahe am Ziele. In 8 Tagen können wir, wills Gott, schon Mann und Weib seyn.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Zweifelt nur nicht, Kinder! das ist schon soviel als richtig. Sie haben über Hals und Kopf um den Herrn Gvatter gschickt –
+      </p>
+     </sp>
+     <sp who="#steffel #rosine"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <p>
+       Habens das – o du liebe Lisel!
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Und haben ihm um Alles in der Welt bitten lassen, eh’ er nach Brunn heimfährt, herzukommen.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <stage>
+       (macht einen Luftsprung)
+      </stage>
+      <p>
+       Richtig ists – alles ist richtig, Juhe! Lisel! für diese Nachricht muß ich dich küssen –
+      </p>
+      <stage>
+       (küßt die Alte)
+      </stage>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Ey du ehrvergeßner, gottloser Mensch! es ist jezt schon über 20 Jahr, daß ich keinen Kuß bekommen habe. Nun der liebe Gott wird dir diese Sünd in Gnaden vergeben,
+      </p>
+      <stage>
+       (Man hört Casperl.)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Still – ich glaube gar – ich hör den Vater –
+      </p>
+      <stage>
+       (Sie gehen zurück)
+      </stage>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Schau nur, Rosel! wie das Vergnügen ihnen aus den Augen heraus leuchtet –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <stage>
+       (faltet die Hände, neigt sich)
+      </stage>
+      <p>
+       Ueber so ein paar Eheleute müssen sich die Bewohner des Himmels freuen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Vorige entfernt. Kasperl, Margareth ohne die andern wahrzunehmen.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (trocknet sich mit einem Sacktuch die Thränen ab)
+      </stage>
+      <p>
+       S’ist – s’ist aber auch wahr – ich weiß nit, Weibel! warum Tag und Nacht das Gezänk und Hadern im Haus seyn muß –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (weint auch)
+      </stage>
+      <p>
+       Wir – wir haben doch ehedem in unsern frühn Jahren so gut zusammen glebt – aber die bösen Menschen –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Weißt du was, Weibel! wenn mir wieder Jemand ins Haus kommt, der uns aufhetzen will, den werf ich ohne Gnad und Barmherzigkeit die Stiegen hinunter, so wahr ich Casper Grünzinger heiß.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (schmeichelt ihm)
+      </stage>
+      <p>
+       Thu das, lieber Casper! ich bitt dich selber drum, so wird doch endlich einmal ein dauerhafter Friede seyn.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       S’ist, s’ist ja n’Schand und n’Spott, wie wir in der Leute Mäuler herumgehen – wie sie über uns schimpfen und lästern.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Denk nur dran, lieber Casperl! was sich Alles die alte Gertrud – aber du kennst schon den Drachen – was sie sich alles untersteht.
+       <stage>
+        (zierend)
+       </stage>
+       Erst gestern, wie sie mich nur von weitem gesehen hat, fragt sie mich so gewiß boßhaft spöttisch: Nun – Frau Margareth! hat sie ihren alten Brummbär – damit hat sie dich gemeint – hat sie ihren alten Brummbär noch nicht gschmeidiger gmacht?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Brummbär? Brummbär? die zahnluckichte Schachtel die! Aber mir, Margreth! mir ist’s vorigen Sonntag im Gmeinwirthshaus kurios gangen. Schau – Ich und der Nachbar Aschebrödel – der Michel Sterz und unser Generalspottvogel, der Kilian Hasenbalg sizen da so ganz ordentlich und ruhig bey unserem 8 Kreuzer Weinl.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Nun – nun – da sind schon die feinen Hechten beisammen gwesen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wir sizen so da – ganz ruhig – und diskuriren so von politikischen Neuigkeiten – aber kaum haben wir uns so n’ 4 5 Pfiff über s’ordinaire geben lassen, so ists auch gleich aufs Sticheln losgangen –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Sags ja – das sind die wahren Ehestörer –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Da nimmt mich dann der Nachbar Aschebrödel bey der Hand, und sagt mir ganz freundschaftlich: Nachbar Grünzinger! es seyds mir ein rechter Simandel. Laßts euch da von eurem Zankeisen – da hat er dich gmeint, liebe Margreth, laßt euch da von eurem Zankeisen so bey der Nas’ herumführen – Bliz und alle Wetter! sagt er – wenn ich Casper Grünzinger wär’ und so n’ Höllriegel zum Weib hätt, längst hätt ichs schon zum Krippel karwatscht, oder in die Kozenfabrik gsteckt –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Was? in die Kozenfabrik? der dörische Blattkopf der, drum – ich sags ja – wo keine Einigkeit ist, schleicht sich die Verläumdung ein – und die Leut haben nie mehr z’reden, als bey Hochzeiten und bey Leichen, und wenn’s hier und da kleine Zwistigkeiten giebt unter den Ehleuten.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       [!] Nun – nun, laß’s jezt gut seyn, Margreth! was vorbey ist, ist vorbey – wir sind ja wieder allianz –
+       <stage>
+        (Rosen und die Andern ersehend)
+       </stage>
+       Ah – seyd’s da, meine Kinder! just recht – Grüß dich Gott, Steffel!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Guten Tag, Vater Grünzinger! guten Tag, Frau Grünzingerin! Heut einmal scheints, daß der Herr Grünzinger recht guten Humors ist – nit wahr?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Hab’s – habs Niemanden als meinem Blizweiberl da z’verdanken.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Und die Frau Mutter hat auch in langer Zeit nit so freundlich ausgschaut.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Habs Niemanden, als mein’m dicken Wampel da z’verdanken
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Heissa – und so solls und wirds künftig alleweil seyn. Mach d’Anstalt, Grünzingerin! der Herr Gvatter Guthmann wird gleich da seyn. Er ist ein Weinkenner, laß mir s’Favoritfassel anzapfen. Wir wollen hier unter der Linde da ewige Vereinigung, Frieden und Victorie zusammentrinken, daß s’stauben soll.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (schmeichelnd)
+      </stage>
+      <p>
+       Ja – mein Wampel, Ja! – Geh, Lisel! Nimm den Heber! Links bey der Kellerstiegen – an der Felsenwand steht s’wahre Fässel –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Kannst nit fehlen. S’ist mit 3 Kreuzeln und einem Krotenfuß gezeichnet.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Wills schon finden –
+       <stage>
+        (will fort)
+       </stage>
+       Vetter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (ruft)
+      </stage>
+      <p>
+       He – Lisel! füll gleich zur Vorsorg unsern g’wöhnlichen Kirtagkrug, so darfst nit öfter laufen – denn, wenn der Gvatter dazu schaut, so gibts ein Loch –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Schon recht – lieber Vetter!
+      </p>
+      <stage>
+       (will fort)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       He – Lisel – zum Zubeissen kannst auch gleich was mitbringen, sonst schadt der Trunk –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Was denn, Frau Mahm!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       S’nächste, beste – was dir halt in der Gschwindigkeit in d’Hand kommt – nicht wahr, Grünzinger!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun freilich! Wer wird da viel haiklicht seyn. Allianz – ein guts Gsicht und ein grechts Glasel Birgwein – das sind halt bey mir die drey Capitalstück – s’übrige ist alles Uebermuth und unnöthige Dalkerey.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Ich werd gleich wieder da seyn.
+      </p>
+      <stage>
+       (sie geht durch die Hausthür ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Vorige ohne Lise.
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Nun – lieber Steffel! jezt wirds wohl wegen uns zum Wort kommen –
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Sey nur still – Rosel! du siehst ja, daß sich der Vater schon auf n’ gscheide Anred gfaßt macht.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (betrachtet Beyde)
+      </stage>
+      <p>
+       Nun – wie stehts also, ihr Bagage! habts einander recht gern – wollts einander heurathen?
+      </p>
+     </sp>
+     <sp who="#steffel #rosine"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <p>
+       Ja – ja – lieber Vater!
+       <stage>
+        (sie küssen ihm und ihr die Hände)
+       </stage>
+       ja, liebe Mutter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun – nun – nun – so nimmts euch halt in Gotts Nahmen!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ich will auch zum Versprechen gleich Anstalten machen –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Pomali. Margreth! nicht so voreilig – die Sach pressirt ja nicht so.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       D’ Officierköchin z’Gablitz soll mir s’Essen kochen, und ich selbst will ihr d’Speisen andiktiren.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Pomali! nur Pomali! was haben wir Weinbauern die Prahlereyen nöthig.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Pfuy, Wampel! wir haben s’einzige Kind, und sollen uns nicht sehen lassen?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ich möcht halt lieber, daß alles so in der Still zugieng.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Aber das mag ich nicht. S’wär ja Schand vor der ganzen Nachbarschaft. Gelt, Grünzinger!
+       <stage>
+        (nimmt ihn am Kinn)
+       </stage>
+       ich hab Recht – Gelt, du thust, was ich will – Geh – sag ja – lieber Casperl!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (mit Zwang)
+      </stage>
+      <p>
+       Nun – meinethalben!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Aber – Frau Grünzingerin! zu was denn die unnöthigen Ausgaben – N’ gute Knödelsupp, n’Stück Rindfleisch – ein Schüssel Sauerkraut mit Blunzen, und dann ein schweines Bratl – dabey kann ja ein Graf heurathen, will geschweigen unser eins –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Halt du dein Maul – da verstehst du den Plunder davon –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Aber – hör, Margreth! von rechtswegen sollt ichs halt doch meinem Bruder auch z’wissen machen, daß er dazu kommt.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Jezt geh – von dem Frißumsonst red mir schon gar nix.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Er ist aber doch mein nächster Blutsfreund –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (böse)
+      </stage>
+      <p>
+       Ich mag ihn aber nicht –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Er ist aber mein Bru –
+      </p>
+      <stage>
+       (erschrickt)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (noch böser)
+      </stage>
+      <p>
+       S’Maul halt mir – mit einem Wort, ich will ihn nicht, und wenn der wieder ins Haus kommt, so marschir ich –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (auch etwas aufgebracht)
+      </stage>
+      <p>
+       Meinethalben geh –
+       <stage>
+        (er fasset sich wieder)
+       </stage>
+       oder bleib er aus.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Aber alle diese Schwierigkeiten, liebe Mutter! –
+      </p>
+      <stage>
+       (beis.)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Sorg dich um was anders; d’Heirath ist deßwegen gleichwohl richtig.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Wenn ich einmal mein Wort von mir geb, so halt ichs –
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <stage>
+       (traurig)
+      </stage>
+      <p>
+       Aber wer weiß wann?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun – nun – Ich denk – n’Monat könnts noch leicht so aushalten? nit?
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Noch n’ ganzen Monat –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Wißt ihr auch, Vater! daß ein Monath 30 Tage hat, das ist ja eine halbe Ewigkeit.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Mein – mein – mein – merkts denn nicht, daß mein Mann nur spasselt. Wie ich gsagt hab, dabey bleibts. Heut noch s’ Versprechen, und morgen die Hochzeit.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (fährt auf)
+      </stage>
+      <p>
+       Das kann gar nit seyn.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (stark)
+      </stage>
+      <p>
+       Und warum kanns nicht seyn?
+      </p>
+      <stage>
+       (fährt eben so auf)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Weil es halt –
+       <stage>
+        (zurückhaltend)
+       </stage>
+       nun ja – weil es halt nit seyn kann. Eine Heirathssach muß erstlich mit aller Vernunft reiflich überlegt werden – und dann – will ich halt nit, und damit ists aus!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Schon wieder das verdammte: Ich will nicht.
+       <stage>
+        (schmeichelnd zu Kasperl)
+       </stage>
+       Schau, mein lieber Wampel! erst z’vor hast mir versprochen, daß du das abscheuliche Wort nie mehr in eine Sach einmischen willst, wo auch ich was z’sagen hab, und doch –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Aber schau, Weibel! das Wort schickt sich recht gut daher, weil in der Sach kein Mensch zu befehlen hat, als wie ich –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Als wie du? hahaha –
+      </p>
+      <stage>
+       (beyde folgende Reden mit auf beyden Seiten steigender Hitze, die endlich in ein lermendes Zanken ausartet)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ists etwa nit wahr – bin ich nicht der Mann, kann ich also nit sagen: ich will oder ich will nit – he!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Bin ich nicht d’Mutter – und dein Weib – kann ich also nit sagen: es muß so seyn, oder es muß nit so seyn – he!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun – nu – nu – jetzt da haben wirs – jetzt lauft s’Haferl schon wieder über.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ists denn a Wunder – willst nicht immer den Herrn über mich spielen?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Fickerwurst und kein End! bin ichs etwa nicht?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (aushöhnend)
+      </stage>
+      <p>
+       O du lederner Herr du! hahaha!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Schau, Alte! mein Gwohnheit ist sonst immer, friedlich z’ seyn. Aber nur dasmal thu mir den Gfallen, und halt dein Maul.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Hahaha – Just in der Hauptsach soll ich nix z’ reden haben – hahaha!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Poz Element! jetzt wird mirs bald z’viel.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Aber Herr Grünzinger –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (leise zu ihm.)
+      </stage>
+      <p>
+       Sorg dich nicht, Steffel! d’Heirath ist deßwegen gleichwohl richtig.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Aber – liebe Mutter!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (leise zu ihr)
+      </stage>
+      <p>
+       Stat sey mir – du kriegst deinen Steffel doch zum Mann.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (spöttisch)
+      </stage>
+      <p>
+       Kriegts ihn? ja – wenn ich will.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       O du armseliger, trauriger Spähnbrenner du! Kurz und gut – ich bin ’s Weib – ich muß in dem Punkt allein z’schaffen haben. Ich bin d’Mutter – und daß dus nur weist, d’Rosel ist mein Kind.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (ausbienzend)
+      </stage>
+      <p>
+       Ah – was du da sagst? Ist sie etwa nit so gut mein Kind, als dein Kind.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Was brauchts denn da die vielen Dicentes. Geh her, Steffel! gib der Rosel die Hand, und wie ich halt gsagt hab, morgen –
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Da bin ich schon, Schwiegermutter!
+      </p>
+      <stage>
+       (Er will Rosen die Hand geben)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (dazwischen)
+      </stage>
+      <p>
+       He he – da muß ich auch dabey seyn. Steffel! du marschirst deiner Weg – du bekommst meine Tochter nicht – ich will keinen Schwiegersohn, der d’Weiber in ihren Bosheiten unterstüzt – verstehst mich –
+       <stage>
+        (zur Rosel)
+       </stage>
+       Marsch mit dir – hinein –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Bleib, sag ich –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Willst marschiren –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Willst da bleiben –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Jetzt troll dich, oder ich wirf dich hinein.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wenn du fort gehst, so dreh’ ich dir drinn den Hals um.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       O mein Gott! was soll ich denn jetzt thun?
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <stage>
+       (zum Kasp.)
+      </stage>
+      <p>
+       Hörts der Herr – jetzt –
+       <stage>
+        (verbissen)
+       </stage>
+       jetzt hab ich gradenwegs gnug – der Herr muß nit glauben, daß ich des Herrn sein Foppnarr bin – hat mich der Herr verstanden?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (wehrt ihm ab)
+      </stage>
+      <p>
+       Sosey nur still, Steffel! du machst die Sach ja immer nur ärger.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       So recht, Steffel! sags ihm nur grad in Bart hinein, dem Brummbärn –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ach du lieber Himmel! wenn ich nur mein Lebstag nit gheirathet hätt.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ach du lieber Gott! wenn ich nur dißmal ein Wittib wär.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Vorige. Lise kommt aus dem Haus mit einem grossen Weinkrug, Guthmann kommt zur Gartenthür herein, und bleibt stehen, ohne von den andern bemerkt zu werden.
+     </stage>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Da bring ich alles, was der Vetter gschafft hat –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Was gschafft? nix hat er z’schaffen – fort – alles wieder hineingetragen.
+      </p>
+      <stage>
+       (sie will sie wieder ins Haus hinein jagen)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Giftsafferment! jetzt wird mirs z’viel – jetzt muß ich –
+      </p>
+      <stage>
+       (er will über Margarethens Haube)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (stellt sich)
+      </stage>
+      <p>
+       Komm einmal – wenn du Courage hast –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (dazwischen tretend)
+      </stage>
+      <p>
+       Ho ho – Frau Gvatterin! Herr Gvatter! ihr stehts ja gegen einander wie ein Paar Truthähne – was ists denn? was solls denn da geben?
+      </p>
+     </sp>
+     <sp who="#steffel #rosine">
+      <speaker>
+       Steffel. Rosine.
+      </speaker>
+      <stage>
+       (zu einander)
+      </stage>
+      <p>
+       Dem Himmel sey Dank – der Vetter ist da!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (in verstellt kläglichem Ton)
+      </stage>
+      <p>
+       Nein – in ganz Ober- und Unterösterreich gibts kein ärmeres, unglücklicheres Weib, als wie ich bin. Jetzt da sieht der Gvatter – ich bin die Geduld selbst – aber mit dem Beelzebub ist ja gar nit ausz’kommen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (zu Kasp.)
+      </stage>
+      <p>
+       Aber – hat sich denn der Gvatter schon wieder vergessen?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Mit Verlaub z’reden –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Eine Mutter vor den Kindern so z’traktiren.
+      </p>
+      <stage>
+       (weint in die Schürze)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Zahn nur – falsche Kaz! mach sich der Gvatter nix draus – ’s seynd lauter Krokodillthränen.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (im weinerlichen Grimme)
+      </stage>
+      <p>
+       Aber – du sollsts sehen, Dampfiger! was ein Weib kapabel ist, wenn man’s scheren, drucken und z’tod zanken will.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Jetzt laß mich der Gvatter aus –
+      </p>
+      <stage>
+       (will auf sie zu)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Meinst etwa, ich soll mich vor dir fürchten, du Bachsimperl du!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Nu – nu – Frau Gvatterin! nu! nu!
+      </p>
+      <stage>
+       (will abwehren)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Oder glaubst etwa, ich soll mich dir zu gfallen ertränken – mir die Gurgel abschneiden?
+       <stage>
+        (sie sticht ihm den Narren)
+       </stage>
+       Guck, Schmalznocken! so blüht in Kroaten der Zwiebel!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Pfui! Frau Gvatterin! pfui!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Es ist mir nit möglich – i muß –
+      </p>
+      <stage>
+       (will auf sie zu, Steffel und Guthmann halten ihn)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Pomali! Pomali! Gvater Grünzinger!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Ich halt ihn schon fest.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Aber schon gut – ich will mich schon an dir rächen. Noch heut soll deine fließpapierne Preß in Flammen stehen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Halts mich fest – oder s’gschieht ein Unglück –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Tausend Sapp – Frau Gvatterin! moderir sie sich ein wenig.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Auf ewig will ich mich von dir scheiden lassen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wanns nur schon wär –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Und dir zum Troz soll mir der Steffel d’Rosel morgen vom Fleckweg heirathen. Du Brummbär du! du Basilisk! du – du Weibermörder du!
+      </p>
+      <stage>
+       (will fort)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (wirft ihr den Hut auf den Buckel)
+      </stage>
+      <p>
+       Du Höllriegel du!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       O weh – o weh! Gott sey mir gnädig –
+       <stage>
+        (sie fällt in eine verstellte Ohnmacht, und mit immer schwächerer Stimme)
+       </stage>
+       Ach – ich sterbe – – mein gottloser Mann – hat mich umgebracht – O weh – o weh!
+       <stage>
+        (sie sinkt der Rosel, dem Steffel und der Lisel in die Arme, sie schleppen sie hinein)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Nun die versteht den Rummel!
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Guthmann. Kasperl.
+     </stage>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Eine böse Frau – Gott gsegne’s dem Gvatter – mag keinen Bissen davon.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Sags jetzt der Gvatter selber, obs mit so einem Drachen ausg’kommen ist.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Wenn die Einigkeit im Ehstand s’ Hauptvergnügen ausmacht, so merk ich wohl, daß der Gvatter noch weit dahin hat.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was soll ich aber anfangen?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (besorgt in seinen Taschen suchend)
+      </stage>
+      <p>
+       Meiner Treu! Gvatter! da ist guter Rath theuer.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       I möcht verzweifeln – oder – wenn ich könnt, auf der Stell durchgehn.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (wie oben, aber für sich)
+      </stage>
+      <p>
+       Der Vogel pfeift schon!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nur dießmal ’n guten Rath, Gvatter! was sucht er denn beständig in seinem Rocksack?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (wie oben)
+      </stage>
+      <p>
+       Je – da will ich g’rad nachsehen, ob man mir nicht mein Geld weggemaust hat, wofür ich Wein kaufen will. 75 Kremnitzer ist ein Geld.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Fünf – fünf und siebenzig Kremnitzer? das ist – das ist so ungefähr 300 Gulden –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ohne l’Age versteht sich.
+       <stage>
+        (er zeigt den Beutel vor)
+       </stage>
+       Aber nein – Gott sey Dank! da sind sie.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Auweh! auweh! mein lieber Gvatter! wie glücklich seyds ihr. Ein alter Junggsell – immer bey Geld – ruhig und ohne Hauskreuz – Aber ich – lieber Himmel –
+       <stage>
+        (seufzt)
+       </stage>
+       auweh!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ihr seyd wirklich in verzweifelten Umständen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ich bitt euch, Gvatter! soll sich ein Ehstandsmartyrer, wie ich bin, nit gradenwegs in Mühlbach stürzen?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Freilich wär das das kürzeste, aber nicht ’s vernünftigste. Laßts gut seyn, Gvatter! es giebt schon noch andere Hausmittel – zum Exempel – ’s Nachgeben.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Habs schon probirt – ’s hilft nix!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Je nun – so wollt ichs einmal mit dem Stöckerl tentiren.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Habs auch schon tentirt – ’s hilft nix – ’s Weib ist mir drauf noch dickköpfiger worden.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Uebel! übel! da wüßt ich wirklich keinen andern Rath, als daß man davon geht, und so lang nit wieder heim kommt, bis sich ’s Weib nimmer z’helfen weiß.
+       <stage>
+        (beis.)
+       </stage>
+       Jetzt hab ich ’s Gift ausglassen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Davon gehen? sitzen lassen – hm! das wär noch z’tentiren.
+       <stage>
+        (laut)
+       </stage>
+       Gvatter! wann ich der Sach gscheid nachdenk, und eure 75 Kremnitzer hätt –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Reden wir lieber von etwas anderem.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nein – jetzt bleiben wir schon beym ersten Diskurs. Gvatter! ich hätt fast Lust, durchz’gehen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ah – ah – ah – was fällt euch ein.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wahrhaftig – ’s ist mein grimmiger Ernst – Wie wärs nun – der Gvatter kennt meine kleine Wirthschaft – ’s Haus ist schuldenfrey – meine Siebenviertel Weingarten seynd eine der beßten in unsrer Gegend –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       ’S ist wahr – kanns mit gutem G’wissen behaupten – ein vortrefflichs Glasel Wein hat der Gvatter.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wie wärs also – wenn ich mein Vermögen in 2 Theile theilte –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Aber Herr Gvatter –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Haus und Hof ließ ich meinem Weib und Kind – d’Weingärten aber wollt i verkaufen, ’s Geld bhalten, und Grünzingen auf immer und ewig verlassen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Hm! – – das ließ sich hören. Die Theilung zeigt sogar seinerseits die größte Billigkeit an.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nit wahr? und da denk i halt, daß mir  der Gvatter dazu am ersten behülflich seyn könnt.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Wie – was – ich? ich sollt Ehleute auseinander trennen helfen? Gott behüt mich – aber Gvatter! so überlegt doch –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Braucht sich da nix z’überlegen. Die Weingärten sind mir einmal feil, obs jetzt der Herr Gvatter oder ein andrer kauft, ist schon ein Taunderlaun.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Nun – nun – so laßt erst hören – wie hoch wollts denn eigentlich damit aus – ihr wißts, Gvatter! ’s baare Geld ist zu der Zeit gar rar – was solltens denn etwa kosten?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ein Spottgeld! Geb mir der Gvatter die 75 Kremnitzer, und die Weingärten sind sein.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Oho! oho!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Herr Gvatter! bey meiner Seel! sie seynd noch einmal so viel werth.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Das weiß i – eben d’rum – ich möcht mir nicht nachsagen lassen, daß ich – als ein Wucherer, sie euch abdruckt hätt.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Flausen – das geht keinen Menschen was an. Wißts was, Gvatter! schlagt ein –
+      </p>
+      <stage>
+       (gibt ihm die Hand)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Je nun – meinethalben – wenn ihrs denn durchaus so haben wollt – da ists Geld! Ich thus aber bloß aus Gefälligkeit, und damit ich euch doch einmal ruhig sehe.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Vergelts Gott, Herr Gvatter!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Jetzt will ich auch gleich mit dem Dorfrichter deßwegen reden, verstehts, Gvatter! damit d’Weingärten beym Grundbuch z’ Hütteldorf umgschrieben werden. Lebt indessen wohl, Gvatter Grünzinger! s’ Geld habts, und die Weingärten sind mein.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein, hernach Lisel. Rosel.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       O du liebes Gold! du hilfst mir auf einmal aus allem Elend. Ohne Kummer und Sorgen, wie ein lediger Mensch werd ich jetzt wieder leben können – des Nachts –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (springt herein)
+      </stage>
+      <p>
+       Um des Himmels willen, Vater!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (erschrickt heftig)
+      </stage>
+      <p>
+       Blizmädel! wie hast mich erschreckt – was ists denn?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ach – die Mutter –
+      </p>
+      <stage>
+       (weint in die Schürze)
+      </stage>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Wenn der Vetter wüßte, was sie alles Uebels von ihm redet.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Scher mich nix mehr drum.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Wie eine Besessene – Gott verzeih mirs, laufts im Haus herum.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (schluchzt)
+      </stage>
+      <p>
+       Ich – ich habs so gut g’meint – bin zu ihr gangen – habs so g’wiß sühnlich betten – aber nein – schnaps! hab ich ein Tachtel ghabt, daß ’s gfeuert hat.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was? g’ohrfeigt hats dich – ohne Ursach? – Nein – Jetzt muß ich fort.
+       <stage>
+        (für sich)
+       </stage>
+       Will nur den Beutel mit meinen Kremnitzer z’erst verstecken – aber hernach will ichs zu guter Letzt trischacken, daß ’s trischackt heissen soll – und morgen mit Anbruch des Tags – gute Nacht Grünzingen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Rosel. Lisel.
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Was meinst wohl, Lisel! jetzt wollt ich fast selber, daß aus unserer Heirath nichts würde.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Bist gscheid? und warum?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ja mein Gott! Wenn ich so nachdenk, daß etwa mein Steffel –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Warum nicht gar?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Aber so überlegs nur. So lang ein paar Verliebte Amurschaft machen, ists nit anders, als wenns einander auffressen wollten – sinds ein paar Jahre beyeinander, so kneipens und zwickens einander, daß es ’n Schand und ’n Spott ist.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Mein! mein! wo stehts denn gschrieben, daß das überall zutreffen muß.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Hast denn nicht ’s leidige Beyspiel an Vater und Mutter!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Vorige. Steffel aus dem Haus.
+     </stage>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Jetzt hab i glaubt, ich treff deinen Vater an, und hab ihm wollen durch demüthige Vorstellungen so auf unsre Seite bringen – da hab ich dann d’ Mutter gfunden – auweh – auweh! die poltert, die haußt –
+       <stage>
+        (Man hört im Haus Fenster und Kuchelgeschirr zerschlagen)
+       </stage>
+       hört nur – Fenster – Häfen – Reinln – Flaschen – Krüge – Gläser – Stühl und Bänk, Alles zerbrichts und zerschlägts – s’ist ein Elend, wies droben aussieht –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Du lieber Gott! wenn nur der Vater nicht dazu kommt –
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Auweh! auweh! – Rosel! das sind traurige Aussichten für uns.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ja wohl, traurig – und ich denk halt immer – aber lieber Steffel! mußt nit harb werden – ich denk halt immer, s’beste –
+       <stage>
+        (weint)
+       </stage>
+       s’beste wär – wir – wir blieben so, wie wir sind –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Guthmann.
+     </stage>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Nun – nun – nun – Jungfer Godel! wo fehlts – schickt sich das auch für a’ Braut, wenns so flennt, daß man d’Windeln unter ihr waschen könnt –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ach – mein lieber Herr Vetter! auf ihn allein setz ich noch mein Vertrauen.
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Der Herr Vetter hat uns freilich versprochen –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Kinder! das, was ich euch versprochen hab, werd’ ich auch halten. Ihr müßt Mann und Weib werden, dabey bleibts – fürs übrige laßt mich sorgen. Ich hab noch ganz andere Sachen im Kopf. Ich will sogar eure Eltern – und zwar auf immer miteinander aussöhnen.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Gott gibs!
+      </p>
+     </sp>
+     <sp who="#steffel">
+      <speaker>
+       Steffel.
+      </speaker>
+      <p>
+       Wenn das der Herr Vetter kann, meiner six! so kann er auch mehr als Birn braten.
+      </p>
+      <stage>
+       (man hört Margareth)
+      </stage>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Hilf Himmel! sie kommt –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Fort – marsch – weichet ihr geschwind aus – sie darf euch nit sehen – wie ich euch sag, ihr dörfts euch drauf verlassen – mit der Heurath ists richtig.
+      </p>
+     </sp>
+     <sp who="#steffel #rosine">
+      <speaker>
+       Steffel. Rosine.
+      </speaker>
+      <stage>
+       (beyde im Abrennen)
+      </stage>
+      <p>
+       Ach ja – lieber Herr Vetter.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ja – ja – ’s wird schon alles gehen, ihr verliebtes Gsindel übereinander!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Guthmann. Margareth.
+     </stage>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (zieht sich zurück)
+      </stage>
+      <p>
+       Hui! meine Frau Gvatterin zählt Geld – drum macht sie das freundliche Feyertagsgsicht –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (mit dem Beutel, den Guthmann zuvor dem Casperl gab, mit einer schadenfrohen Mine)
+      </stage>
+      <p>
+       Aha – hab ich einmal das rechte Ladel gefunden? der Strick hat mir nie ein Wörtel von dem Schazgeld gsagt. –
+       <stage>
+        (wiegt den Beutel)
+       </stage>
+       Aber – wie zum Geyer! hat denn der gottlose Mann zu so vielen Dukaten kommen können!
+      </p>
+      <stage>
+       (sie sieht Guthmann und verbirgt den Beutel)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Guten Tag, Frau Gvatterin! nun – ist der Sturm vorbey – ist wieder alles ruhig?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ruhig? das werd ich wohl nie mehr werden. Aber sag mir der Herr Gvatter – hab ich etwa vorhin nicht Recht gehabt? he!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Vollkommen recht –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Drum! wies halt heißt und auch wahr ist: Ein Knopf ist mein Mann, mit dem man gar nit leben kann, und ausg’macht ists, heut noch will ich von ihm weg.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Gott sey Dank, daß ihr endlich einmal in eurem Leben über eine Sache einverstanden seyd.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wie so?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Nun – der Grünzinger sagt auch, daß er unmöglich länger mit der Frau Gvatterin unter einem Dach leben will.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Desto besser, so kann ich um so leichter mein Concept ausführen. Noch heut zieh’ ich in d’ Stadt, vertrau mich einem gwixten Advokaten an, und laß mich von meinem Mann scheiden.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Scheiden? Hat sie denn auch Hauptursachen dazu?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Tausend für eine. Die größte ist aber die, daß ich ihn nicht mehr so lieb hab, als wie ich ihn geheurathet hab.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Das ist aber nicht recht – sie muß ihn lieben –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wenn ich aber nicht kann.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       So nöth sie sich.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Und dann will er immer den Herrn über mich spielen, und das kann ich nicht gelten lassen, weil ich regieren will.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Da steckt eben der Haas im Pfeffer, – weiß sie aber, daß das nicht seyn soll.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Kurz und gut! ich werd schon von ihm loßkommen – ich laß michs halt brav Geld kosten, und dann wirds schon gehen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Hat d’Frau Gvatterin Geld?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (zeigt den Beutel)
+      </stage>
+      <p>
+       75 Dukaten! damit, denk ich – sollt man doch was anfangen können.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Was seh ich – meinen Beutel? desto besser – auch die sizt mir auf.
+       <stage>
+        (laut)
+       </stage>
+       Ja Frau Gvatterin! auf der Welt ist alles möglich, ob aber alles mögliche auch recht ist, ist n’andre Frag’. Sag sie mir – hat sie sich denn noch Niemand anvertraut?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Noch keinem Menschen!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ich fürcht immer, mit der Zeit könnt noch ein größers Unglück entstehen – und bloß deßwegen hätt ich fast Lust – will sie mir wohl ihre Sache überlassen?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Von Herzen gern –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       So sey’s also – ich will mich ihrer annehmen, da hat sie meine Hand darauf. Ich hab in der Stadt n’ weitschichtigen Vetter – S’ist zwar ein armer Narr – aber ein Redhaus hat er, und ein Auvogel ists, der lauter solche desperate Sachen um ein Spottgeld übernimmt. Will sich d’Frau Gvatterin ein wenig was kosten lassen?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Herzlich gern –
+       <stage>
+        (gibt ihm den Beutel)
+       </stage>
+       Thu der Herr Gvatter damit, was er will. Nur – daß ich längstens innerhalb 8 Tagen von meinem Schrollen loß komm.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Oho – wenns per Posto gehn soll, so kanns vielleicht noch einmal soviel kosten.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Meinethalben! Ich habe Credit und gute Freunde. Ich kann ja z’leihen nehmen. Ich will gleich zu meiner Nachbarin, der Hirschwirthin – die gibt mir, soviel ich brauch. Aber daß ich nnr [!] gewiß und bald durchdring – ums Geld darf sich der Gvatter nicht sorgen.
+      </p>
+      <stage>
+       (lauft ohne Antwort zu erwarten ab)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (ruft ihr nach)
+      </stage>
+      <p>
+       He –he – nicht doch, Frau Gvatterin! so wart sie nur – so hör sie erst. – Fort ist sie –
+       <stage>
+        (Pause)
+       </stage>
+       Hm! wenn ich jezt auch so ein steinernes Herz hätt, wie so mancher Wucherer, mit schönster Manier könnt’ ich zu 7/4 Weingärten kommen, die mich keinen rothen Heller kosteten.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Guthmann. Casperl.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (wüthend aus dem Hause kommend)
+      </stage>
+      <p>
+       Nein! das ist zu arg – das ist zum durchgehen – das ist zum todtschiessen – das Teufelsweib!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Just recht, Gvatter Grünzinger!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Laß er mich aus – Ich kenn’ Niemand – ich kenn mich vor Zorn selber nit. O Weib! du Schlange! du Zuchthaus! du Satanas du!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       So hört mich doch an – ich bin ja euer Gvatter –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ja – ihr habt leicht reden. Meine schöne Weingarten sind jezt euer – Ich Dummkopf – was hab ich gethan – wie abscheulich bin ich angschmiert
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       He – he – Gvatter! so darf er mir nit zweimal kommen; hat er mir d’Weingärten nicht selber feilbothen – hab ich sie ihm nicht baar bezahlt? he!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Leider Gotts! aber der Teufel hat die Dukaten gholt. S’Weib – o du Schandfleck von einem Weib – s’Weib hat mir s’Geld gschnipft – jezt –
+       <stage>
+        (schluchzt)
+       </stage>
+       jezt bin ich wieder der vorige arme Schlucker, der ich ehnder war.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       A – ists um die Zeit! Gut – so ist euch doch endlich das wiederfahren, was ihr schon längst verdient habt. Ja – ja – schauts, wie ihr wollt – es ist nicht anders. Ich muß es dem Gvatter nur recht in Bart hinein sagen. Ihr habt seit einiger Zeit so n’ wilden, unerträglichen Kopf, daß mans eurer Margreth gar nicht verdenken kann.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was – die Diebin hat etwa noch recht?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Vollkommen Recht – Ihr laßt ja d’Wirthschaft völlig zu Grund gehen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wer ist Schuld daran?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ihr – ganz allein ihr!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       So – so redt der Gvatter – ist – ist das auch ein Gvatter, – der – pfui Teufel! der Gvatter sollt sich schamen –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ihr wollt euch ja von Niemand rathen lassen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun – so – so redts – so sagt – was soll ich nach dem verdammten Streich jezt noch anfangen?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Versöhnt euch wieder mit eurem Weib.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was – versöhnen? das kann nit seyn, das ist mir unmöglich; fort will ich – fort muß ich – und dabey bleibts –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       So wünsch’ ich dem Gvatter glückliche Reis – wohin aber ohne Geld – wollts etwa aufs Fechten auswandern?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Das justement nicht. Mir fällt was ein, und der Herr Gvatter könnt mir noch einmal aus der Noth helfen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ich? ich wüßt nicht, wie?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Kauf er mir s’ Haus ab.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (mit verstelltem Schrecken)
+      </stage>
+      <p>
+       S’Haus? euer ganzes Um und Auf. Bedenkt – überlegts Gvatter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (betroffen und gerührt)
+      </stage>
+      <p>
+       Habs – habs schon bedacht – aber was soll ich machen? der Gvatter weiß, hab vorhin so n’ schöne, christliche Theilung g’macht, und der undankbaren Figur s’Haus überlassen wollen. Aber nein – weil mir die Diebin s’Weingartengeld gschnipft und sich selber zahlhaft gmacht hat, so seh ich jetzt s’Haus als mein Antheil an – ich muß es ja verkaufen – wenn ich anders als ein armer Strohwittwer nit betteln gehen will.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ja so – wenn ich die Sach recht überleg – so hat der Gvatter so gar unrecht nicht. Denn gsetzterweiß, d’Frau Gvatterin dringt mit der Scheidung durch –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (betroffen)
+      </stage>
+      <p>
+       Spaß a part – sucht sies an?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Mit dem größten Eifer –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       Nein – das – das hätt ich doch nit von ihr glaubt – und – und der Herr Gvatter hat so was unverantwortliches billigen können?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ey ja wohl – ich hab ihr den Text rechtschaffen herabglesen. Sie ist aber so hartnäckig – sie will mir nix dir nix förmlich geschieden seyn –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       O du Blitzweib du!
+       <stage>
+        (laut)
+       </stage>
+       Da können wir also beyde nach Belieben wieder anderwärts heurathen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Beyleib nicht! Ihr habt nur den Avantaschi –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Brechen wir ab! Wenn ich kein anders Weib nehmen darf, so hust ich auf alle andere Avantaschi. Bleiben wir beym Hausverkauf.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Meinthalben! wie theuer ungefähr?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Seynd euch für Haus, Preß, Keller, Weinvorrath, Einrichtung und übriges Kraffelwerk 1000 Gulden z’viel?
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Hm! 1000 Gulden? wär ein leidentlicher Preis. – Aber bedenkt, Gvatter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was bedenken? Ich will nicht mehr – sagt nur ja –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ja dann – weil ihrs durchaus haben wollt.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Brav – schlagt ein.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Topp!
+       <stage>
+        (sie geben sich die Hände)
+       </stage>
+       Für 1000 Gulden bin ich Mann. – Lebt wohl. Ich geh jezt, s’Geld aufzutreiben, und wünsch Glück zum Verkauf. Lustig, Gvatter Grünzinger! Jezt – habts kein Haus und kein Weib mehr, jezt könnt ihr erst recht glücklich werden. Lebt wohl – schmier sich der Gvatter zur Reis die Stiefeln – he he he – s’Haus gehört mein!
+      </p>
+      <stage>
+       (wie Guthmann abgeht, kommt Lisel, er sagt ihr etwas ins Ohr. ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Kasper. Lisel.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (während dem Spiele der andern)
+      </stage>
+      <p>
+       So gehts – wer Schaden hat, hat auch Spott. Ich muß ausziehen, sonst ist kein Ruh. So oft mir s’Weib in Wurf käm, wird mir d’ Natur aufs neue roglicht. Von mir wegz’begehren? selbst wegz’begehren? – So abscheulich z’lügen – und der Himmel soll zeugen, ob sie n’ einzigen Streich unverdient empfangen hat, und im Unwillen schon gar keinen –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <stage>
+       (schüchtern)
+      </stage>
+      <p> 
+       Solls denn wirklich wahr seyn, lieber Herr Vetter!
+      </p>
+      <stage>
+       (lacht heimlich)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (ohne zu hören)
+      </stage>
+      <p>
+       Auf d’ Ehscheidung z’dringen – Nein höher kann die Keckheit nimmer getrieben werden – aber sie wirds schon bereuen.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Ists denn wahr, lieber Herr Vetter! daß d’Frau Mahm nimmer euer Weib ist?
+      </p>
+      <stage>
+       (lacht)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       So ists recht – In der Leut Mäuler ist d’Schand auch schon.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Ich meyn nur, ob jezt d’ Frau Mahm nimmer d’Frau Grünzingerin, sondern eine wirkliche Wittib seyn soll.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (fährt auf)
+      </stage>
+      <p>
+       Ein Wittib? bin ich denn schon gstorben?
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Aber der Herr Vetter wills ja sizen lassen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Pack dich deiner Weg – du bist ein Dalk.
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Was soll denn hernach ich anfangen?
+       <stage>
+        (weint und lacht beiseite)
+       </stage>
+       d’ Frau Mahm lebt für sich – d’Rosel heurathet – und der Vetter geht durch.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Geh betteln, wie ich. –
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <stage>
+       (mit verstelltem Seufzen)
+      </stage>
+      <p>
+       hi hi hi – Ich armes Waisel! hab ich das zum vergelts Gott für mein guts Herz an dem Herrn Vetter verdient, hi hi hi.
+      </p>
+      <stage>
+       (sie entfernt sich weinend – lacht unter der Hausthüre, ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       S’ist auch wahr – die Lisel, die wir aufzogen haben – die keinen Heller im Vermögen hat, die ihre besten Jahrln bey uns einbrockt hat, die wird, zum vergelts Gott! verstossen. Und ich – muß Haus und Hof verlassen, als wenn ich abgschätzt oder ein Abbrandler wär. Wer weiß, Grünzinger! wie elend dirs noch in deinen alten Tagen gehen, wer dir noch die Augen zudrücken wird – mein
+       <stage>
+        (schluchzend)
+       </stage>
+       mein Weibel und – und mein Rosel gwiß nicht. Wie wärs denn, wenn ich da blieb. Nein – eh geh ich ins tiefste Ungarn hinab. Freilich – wenn ichs überleg – ich bin doch auch ein bißl Schuld daran. S’ Gscheidere hätt nachgeben sollen – jetzt erkenn ichs selber – aber – jezt ists zu spät – der Karren steckt zu tief, und der Teufel mag ihn wieder herausziehen.
+       <stage>
+        (man hört Margarethens Stimme)
+       </stage>
+       Ha – ich hör mein Weib
+       <stage>
+        (er guckt über den Zaun)
+       </stage>
+       Wie tiefsinnig, wie niedergeschlagen sie daherschleicht. Die Gall wird sich wohl gsezt haben.
+       <stage>
+        (er geht der Presse zu)
+       </stage>
+       ich will sie ein bißl abpassen.
+      </p>
+      <stage>
+       (er versteckt sich in die Weinboding)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Margareth. Kasper.
+     </stage>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (mit einem ledernen Geldsackl)
+      </stage>
+      <p>
+       Geld hätt ich freilich kriegt – aber die Gsichter und d’Stichelreden, die ich dabey Spizruthen gloffen bin, gehn mir einmal nit aus dem Kopf. – Das muß mir auch ein feins Muster seyn, die von ihrem Mann weggeht – so hats durch die Bank gheissen – mit Fingern hat Alles auf mich gwiesen – das hab ich jezt in meine Ohren ghört, was werdens mir erst hinteruks für schöne Sachen nachsagen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (streckt den Kopf aus der Boding)
+      </stage>
+      <p>
+       Mir scheint, s’ will wieder gut Wetter werden.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Soll ich d’ Rosel zu mir nehmen – – Nein! s’wird heissen, wie der Baum, so der Apfel. Dem Steffel kann ichs auch nit geben, der könnts sitzen lassen. Laß ichs dem Mann, so krieg ichs vielleicht gar nit wieder z’sehen.
+       <stage>
+        (seufzt)
+       </stage>
+       Ach! –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (wie oben)
+      </stage>
+      <p>
+       Holla! Ein Seufzer!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ach – wenn ich auf meine ersten Jahrln im Ehstand zurückdenk, s’ Herz thut mir bluten.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (schluchzt)
+      </stage>
+      <p>
+       Mir – mir auch.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Hätten wir doch immer so fortgelebt – und s’hätt so leicht seyn können.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Freilich hätts seyn können.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Damals haben wir nur einen Willen mitsammen ghabt.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ein Herz und ein Sinn!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Der Mann bleibt doch immer der Mann – ich hätt ihm doch eins ums andere in der ersten Gäheit nit für übel nehmen sollen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Da wärs freilich gut gangen.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Es ist wahr – er ist hitzig – aber er hat ’s beste Herz von der Welt.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nein –
+       <stage>
+        (stotternd)
+       </stage>
+       jetzt – jetzt kann ichs nimmer halten –
+      </p>
+      <stage>
+       (steigt heimlich heraus)
+      </stage>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Meiner Treu! wenn er jetzt da wär – ich wollt ihm Alles abbitten – ich wollt ihn wieder eben so lieb haben, wie vor 20 Jahrln.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nein, Weibel! jetzt ist mirs nimmer möglich –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       (kniet nieder)
+      </stage>
+      <p>
+       O lieber Kasperl! verzeih mir –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (kniet auch)
+      </stage>
+      <p>
+       Verzeih lieber du mir.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Du hast mich nie beleidigt; aber ich –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nein – Blizweibel! Nur ich – nur ich bin immer der Limmel gwesen –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Schenk mir deine vorige Liebe wieder –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Guthmann, welcher in der Ferne stehen bleibt, und horcht.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Begehr mehr – das ist ohnehin meine verfluchte Schuldigkeit.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Sollt ich über kurz oder lang wieder aufbrausen, so hab halt Mitleiden mit mir, mein Wamperl! und denk, daß ich ein schwaches Weibsbild bin.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Stehen wir auf, Weibel! Laß dich küssen – jetzt bin ich wieder so leicht, wie ein Schneider, der auf d’Wanderschaft geht. Aber sag mir – was werden wir denn jetzt anfangen?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wir wollen, wie ehnder sparsam leben, und unsere Weingarten emsig und fleißig fortbauen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (sich am Kopf kratzend)
+      </stage>
+      <p>
+       Ja mit den Weingarten wärs schon recht – aber – mein Kind! d’Sach hat ’n Hacken.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wie so?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ich hab keine Weingärten mehr.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Keine Weingärten?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Sie sind verkauft. Die Narrheit hab ich leider heut fruh in der Furie, wie ich mit dir im Bruch war, begangen. Ich Rindvieh!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wem hast denn d’ Weingärten verkauft?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Unserm Gvatter –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Weist was? So nehmen wir auf den ersten Satz von unserm Haus Geld auf, und lösen d’ Weingärten wieder ein.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Das geht auch nicht an.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Warum nicht?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Weil wir die Woch vielleicht noch ausziehen müssen.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ausziehen müssen?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       ’S Haus ist auch verkauft.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Warum denn?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Weil du mir’s Weingartengeld gstohlen hast, und ich auch ’n Kreuzer Geld für mich hab haben wollen.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Und wer hat denn ’s Haus kauft?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Unser Gvatter!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Auweh – auweh – jetzt stecken wir recht –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Hör – Margreth! mir fällt noch ein Mittel ein. Das nähmliche Geld, was du mir – du verstehst mich schon –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ich versteh dich schon – aber – lieber Kasperl! bey mir hats auch ’n Hacken.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wie so?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ich hab kein Geld mehr.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Kein Geld mehr?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Leider! ich habs auch heut z’ Mittag in der Furie, wie ich mit dir im Bruch war, auf meinen Scheidungsprozeß darangegeben, ich Stockfisch!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wem?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Unserm Gvatter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       O du verdammter Gvatter! du hast dir unsre Narrheit recht zu Nutzen gmacht.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Guthmann giebt ein Zeichen. Rosel. Steffel. Lisel kommen.
+     </stage>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (tritt zwischen die Ehleute)
+      </stage>
+      <p>
+       Und das freut mich von Herzen. So hab ichs von jeher gmacht – so bin ich reich worden. Wie wollt denn unser eins zu Mitteln kommen, wenns keine Dummköpfe gäb, und man nicht die Einfalt unerfahrner Weinbauern zu nützen wüßt.
+      </p>
+      <stage>
+       (Kasper und Margareth stehen wie versteinert da)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (mit Abscheu)
+      </stage>
+      <p>
+       Pfuy – ist der Herr Gvatter so einer – mag nur nit sagen, was für einer.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (reißt der Margareth den Geldsack aus der Hand)
+      </stage>
+      <p>
+       Her da mit dem geborgten Geld – es ist mein. Ich habs der Nachbarinn und nicht der Frau Gvatterin geliehen. Mit was für einem G’wissen könnts ihr Schulden machen, da ihr nichts mehr zu verschreiben habt. Ihr Bettelleute ihr!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (mit stammelnder Zunge)
+      </stage>
+      <p>
+       Herr – Herr Gvatter! Ich verstaun mich völlig.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Was Gvatter? Sein Weinkeller ist tod, und d’ Gvatterschaft hat ein End. Er wird bald noch mehr verstaunen, wenn er mit Weib und Kind – ohne Freund, ohne Wohnung – ohne Zufluchtsort, brodloß, verschuldet und verachtet im tiefsten Elend, wer weiß wo – verhungern, verschmachten und verlausen wird. Das seynd aber jetzt die saubern Folgen eures ewigen Gezänks –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       Leider Gott! warum – warum war ich so ein Stockfisch! habs aber verdient – habs selbst g’wollt – seynd wir unglücklich, so bin nur ich daran Schuld.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Nein – nein, lieber Kasperl! ich – ich bin einzig und allein die Ursache davon – aber nach mir ists dieser gleißnerische, schadenfrohe, und ungewissenhafte – pfui Teufel! ich mag den Herrn nicht einmal mehr ’n Gvattern heissen.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Lernt mich besser kennen, lieben Leute! ich bin euer Freund – vielleicht wirds wenige meines gleichen geben.
+      </p>
+     </sp>
+     <sp who="#kasper #margareth">
+      <speaker>
+       Kasper. Margareth.
+      </speaker>
+      <stage>
+       (schauen einander an, ohne zu wissen, wo die Sache hinaus will.)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun! nun!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Eure Weingärten und euer Haus gehören euch, und sollen euch bleiben. Gott behüt, daß ich mich auf die Art bereichern soll. Meine Absicht ist erreicht, daß ich euch den Abgrund gezeigt habe, worein ihr durch euern Zank und Hader kommen könntet.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Margreth!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Kasperl!
+      </p>
+      <stage>
+       (beyde voll Verwunderung)
+      </stage>
+     </sp>
+     <sp who="#margareth #kasper"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <stage>
+       (umarmen ihn, küssen ihn)
+      </stage>
+      <p>
+       O der liebe, goldene Gvatter!
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Und nun hört mich, Grünzinger! wollt ihr mir eine Gegengefälligkeit erweisen, so schlagt ein –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Alles – was der Gvatter will –
+      </p>
+      <stage>
+       (reicht ihm die Hand)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <stage>
+       (winkt Rosel und Steffel)
+      </stage>
+      <p>
+       Seht einmal – diese beyde da möcht ich gern glücklich sehen – wollt ihr, Gvatter!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Mit tausend Freuden –
+       <stage>
+        (legt ihre Hände zusammen)
+       </stage>
+       da liebt euch, und heurathet euch – und vermehrt euch wie d’ Schwaben unterm Heerd – Ich bin mit allem zuf –
+       <stage>
+        (auf einmal gegen Marg.)
+       </stage>
+       Es wird dir doch auch recht seyn, Weibel!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Was du willst, ist mir recht, mein liebes Mandel!
+      </p>
+     </sp>
+     <sp who="#rosine #steffel">
+      <speaker>
+       Rosine. Steffel
+      </speaker>
+      <stage>
+       (sie küssen den Eltern die Hände)
+      </stage>
+      <p>
+       Dank – Dank lieber Vater! liebe Mutter!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Wenn meinst denn wohl, Kasperl! daß der Ehrentag vor sich gehen könnt –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Meintwegen heut – meintwegen morgen – wie du willst, mein liebs Weiberl!
+      </p>
+     </sp>
+     <sp who="#rosine #steffel"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <p>
+       Morgen – morgen – wir bitten gar schön – morgen das Versprechen –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Hörts mich, Kinder! Ich meyn, daß ihr euch jetzt gleich die Hand geben, und das als ein Interimsversprechen gelten soll – und wenn ihr denn dreymal verkündt seyds, so soll der Ehrentag auf meine Kösten bey mir z’Brunn am Gebürg recht nobel ghalten werden. Ists euch so recht?
+      </p>
+     </sp>
+     <sp who="#rosine #steffel #kasper #margareth #lisel"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Ja – ja!
+      </p>
+     </sp>
+     <sp who="#lisel">
+      <speaker>
+       Lisel.
+      </speaker>
+      <p>
+       Gott lob, daß einmal d’ Heirath richtig ist –
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Ferner meyn ich, daß es den jungen Ehleuten ein bißl hart fallen wird, wenns mit leeren Händen in den Ehstand tretten sollen – deßwegen hab ich im Sinn, die 75 Kremnitzer, womit ich ’s Herrn Gvatter Weingärten hab kaufen wollen, meiner Gödel da zur Aussteuer mitz’geben –
+      </p>
+     </sp>
+     <stage>
+      Steffel und Rosine (küssen ihm die Hand.)
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Tausend Dank, lieber Herr Göth!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Sapperment! das heiß ich ’n Gvattern – so wird’s wenig in der Welt geben.
+      </p>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Grünzinger! Margreth! gebts einander die Hände. Was geschehen ist, ist vorbey – Aber bey jedem Lärm, Zank oder Hauskreuz denke daran, daß nur Friede und Nachsicht den Ehstand glücklich machen können.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       O du goldener Gvatter –
+      </p>
+      <stage>
+       (will ihn küssen)
+      </stage>
+     </sp>
+     <sp who="#guthmann">
+      <speaker>
+       Guthmann.
+      </speaker>
+      <p>
+       Küß du dein Weib zum Einstand auf eine glückliche Ehe –
+      </p>
+      <stage>
+       (geht ihm auf die Seite)
+      </stage>
+     </sp>
+     <stage>
+      (Sie stehen beyde mit ausgestreckten Händen vor einander, fallen sich in den Arm.)
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       So geh her – alte Mutter!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Geh her – alter Vater!
+      </p>
+     </sp>
+     <stage>
+      Unter dieser komischen Umarmung fällt der Vorhang.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

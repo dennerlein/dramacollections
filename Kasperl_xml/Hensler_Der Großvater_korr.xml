@@ -1,0 +1,7488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Der Großvater oder Die 50 jährige Hochzeitfeyer
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl Friedrich Hensler
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1792">
+      1792
+     </date>
+     <date type="premiere" when="1790">
+      1790
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="niklas">
+      <persName>
+       Niklas
+      </persName>
+     </person>
+     <person xml:id="verwalter">
+      <persName>
+       Verwalter
+      </persName>
+     </person>
+     <person xml:id="emilie">
+      <persName>
+       Emilie
+      </persName>
+     </person>
+     <person xml:id="philipp">
+      <persName>
+       Philipp
+      </persName>
+     </person>
+     <person xml:id="christoph">
+      <persName>
+       Christoph
+      </persName>
+     </person>
+     <person xml:id="kasper">
+      <persName>
+       Kasper
+      </persName>
+     </person>
+     <person xml:id="präsident">
+      <persName>
+       Präsident
+      </persName>
+     </person>
+     <person xml:id="lise">
+      <persName>
+       Lise
+      </persName>
+     </person>
+     <person xml:id="rosine">
+      <persName>
+       Rosine
+      </persName>
+     </person>
+     <person xml:id="hanne">
+      <persName>
+       Hanne
+      </persName>
+     </person>
+     <person xml:id="bernhard">
+      <persName>
+       Bernhard
+      </persName>
+     </person>
+     <person xml:id="marthe">
+      <persName>
+       Marthe
+      </persName>
+     </person>
+     <person xml:id="könig">
+      <persName>
+       König
+      </persName>
+     </person>
+     <person xml:id="röschen">
+      <persName>
+       Röschen
+      </persName>
+     </person>
+     <personGrp xml:id="kinder">
+      <name>
+       Kinder
+      </name>
+     </personGrp>
+     <person xml:id="emilia">
+      <persName>
+       Emilia
+      </persName>
+     </person>
+     <person xml:id="kerkermeister">
+      <persName>
+       Kerkermeister
+      </persName>
+     </person>
+     <person xml:id="seppel">
+      <persName>
+       Seppel
+      </persName>
+     </person>
+     <person xml:id="der kleine">
+      <persName>
+       Der Kleine
+      </persName>
+     </person>
+     <person xml:id="bergverwalter">
+      <persName>
+       Bergverwalter
+      </persName>
+     </person>
+     <personGrp xml:id="bergleute">
+      <name>
+       Bergleute
+      </name>
+     </personGrp>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>
+     DER GROßVATER ODER DIE 50 JÄHRIGE HOCHZEITFEYER
+    </head>
+    <head>
+     Ein Originallustspiel in 4 Aufzügen
+    </head>
+    <head>
+     von Karl Friedrich Hensler 792
+    </head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Der König.
+     </castItem>
+     <castItem>
+      Bergraths-Präsident, Graf Blumenthal.
+     </castItem>
+     <castItem>
+      Bergverwalter Zeller.
+     </castItem>
+     <castItem>
+      Emilie, seine Nichte.
+     </castItem>
+     <castItem>
+      Hanne, ihr Mädchen.
+     </castItem>
+     <castItem>
+      Niklas, ein alter Bergmann.
+     </castItem>
+     <castItem>
+      Lise, sein Weib.
+     </castItem>
+     <castItem>
+      Kasper, Sohn des Niklas.
+     </castItem>
+     <castItem>
+      Marthe, sein Weib.
+     </castItem>
+     <castItem>
+      Rosine.
+     </castItem>
+     <castItem>
+      Philipp.
+     </castItem>
+     <castItem>
+      Mehrere seiner Kinder.
+     </castItem>
+     <castItem>
+      Christoph, ein Findling.
+     </castItem>
+     <castItem>
+      Bernhard, ein Bergmann.
+     </castItem>
+     <castItem>
+      Ein Kerkermeister.
+     </castItem>
+     <castItem>
+      Viele Bergleute. Musikanten.
+     </castItem>
+     <castItem>
+      Gefolge des Königs.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Im Hintergrund ein Bergwerck.)
+     </stage>
+     <stage>
+      (Man sieht oben den Haspel und das Seil, woran die Bergleute Erde und Steine heraufziehen, und sie dann in Karren wegführen, oder wegtragen. Die Arbeit geht fort, bis die Szene verändert wird. Hin und wieder auf dem Berg mehrere Bergknappen und Kinder. – Im Vordergrund der alte Niklas auf der Erde sitzend, neben ihm Röschen mit einem Körbchen voll Brod, Kaspar, Marthe, Philipp, Kinder, Bernhard und mehrere, er schneidet Brod auf und theilt es aus. – (NB. Es ist anbrechender Tag.)
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun wär das Morgenbrod verzehrt, also frisch an die Arbeit!
+       <stage>
+        (steht auf)
+       </stage>
+       Du Mutter! nimm die Kleinen mit nach Haus, kampel’s hübsch durch – und dann schick’s in die Schul, hast mich verstanden?
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Ja, ja, Vater! es ist schon recht; kommts! kommts!
+      </p>
+      <stage>
+       (steht auf)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Herr Vater! thut der Philipp da bleiben?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Der Philipp soll sich nach Hause packen, sag ich.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (bei Seite)
+      </stage>
+      <p>
+       Schon recht, das ist mir lieb, da hat doch der Philipp Gelegenheit, ein bißl nach seiner Hannerl zu schauen.
+       <stage>
+        (laut)
+       </stage>
+       Der Philipp thut nach Haus gehen.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Nun, Glück auf, alter Vater!
+      </p>
+      <stage>
+       (die Kinder geben Niklas die Hände)
+      </stage>
+     </sp>
+     <sp who="#kinder">
+      <speaker>
+       Kinder.
+      </speaker>
+      <p>
+       Glück auf, Glück auf, lieber Großvater!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Lebt wohl!
+       <stage>
+        (küßt ihm die Hand)
+       </stage>
+       lieber Großvater! und wenn ihr nach Hause kommt, so treffet ihr eine herrliche Schüssel geschnittene Nudeln an; lebt wohl.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (mit einem Stück Brod in der Hand)
+      </stage>
+      <p>
+       O Jerum! die geschnittenen Nudeln thut der Philipp auch gern essen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Warte ich will dir geschnittene Nudeln auf dem Buckel geben! Ja – wohl! ehrlich seyn auf der Welt – ein gutes Gewissen und neben dem ehrlich seyn ein gesundes Stück Brod, das man mit Weib und Kindern verzehrt – o! da beneid ich keinen grossen Herrn in der Welt!
+      </p>
+      <stage>
+       (geht an die Arbeit)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Hast recht mein Sohn! Ehrlichkeit ist der kräftigste Schild für uns arme Bergleute. Sind wir nicht täglich und stündlich mit Lebensgefahr umgeben – ist nicht der Tod jedem von uns auf die Stirne gedrückt? und könnten wir ihm so frey unter die Augen sehen, wenn wir uns nicht eines stillen tugendhaften Lebenswandels befleissigten?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Ja, Vater Niklas! ihr habt wohl recht – wenn man so des Abends, ehe man einschläft, darüber nachdenkt, was man den Tag über gethan hat, ob man seiner Pflicht gemäß sein Tagwerk vollendet, dem lieben Gott sein Stückl Brod nicht abgestohlen hat.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Wenn man denn so mit seiner Abrechnung zufrieden ist – sich auf sein Ohr hinlegt, und einschläft – nicht wahr, Vetter Bernhard! da liegt man so gut unter seiner Decke – träumt sich so süß, so nahe hin zu dem guten Gott – ist so zufrieden mit all dem, was er uns zuschickt, und freut sich in die Zukunft des bessern Lebens.
+      </p>
+      <stage>
+       (er trocknet sich eine Thräne ab)
+      </stage>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Eine Thräne quillt euch aus dem Auge? guter Alter! sagt mir die Ursache eures Kummers? seyd ihr nicht glücklich in dem Zirkel euer Familie? Ihr seyd Vater, seyd Großvater; ihr sehet euch geehrt und geschätzt von euren Kindern; Welches Glück könntet ihr noch in eurem Alter erwarten?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Keines, keines mehr, als meinen Pflegsohn versorgt zusehen.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Ihr habt mir das Schicksal des guten Christophs schon öfters erzählt.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       All mein Kummer wäre gehoben, hätt’ ich den Jungen nicht selbst zu höheren Verrichtungen erziehen wollen. Ich schickte ihn in die Stadt, ließ ihn mit vielen Kosten etwas lernen; er kam als Schreiber zu unserem rechtschaffenen, verstorbenen Bergverwalter, dort lernte er Emilie, seine Tochter kennen; Sie liebten sich, und diese unglückliche Liebe ist nun das Grab seiner Ruhe, der Todesnagel zu meinem Sarge, und das gänzliche Unglück meiner Familie!
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Wie das, Vater Niklas?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Der Bergverwalter, Emiliens Oheim stieß meinen Pflegsohn aus dem Haus, da er die Zuneigung beyder Liebenden wahrnahm, will ihn sogar von dem Dorfe verbannen; was bleibt mir anders übrig, als ihn durch alle Mittel der Ueberredung zu seiner vorigen Niedrigkeit zurückzubringen. Ich schickte ihn in die Stadt zu unserem neuen Berg-Präsidenten, der erst vor etlichen Monaten von unserem König ernannt wurde, um dort Gerechtigkeit zu suchen.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Der gute Gott wird ihm das Herz lenken.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Nun droht mir aber noch ein grösseres Unglück, ich bin keinen Augenblick sicher, in den Schuldthurm geworfen zu werden; da ich vor 20 Jahren von Rothenacker hieherzog, um mich hier ansässig zu machen, entlehnte ich bey Emiliens Vater 800 fl. – um mir und meinen Kindern wieder eine Hütte zu bauen, die Helfte habe ich abgezahlt, die andere Helfte bin ich noch schuldig.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Fräulein Emilie wird doch das nicht zu lassen.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Sie wohl nicht, aber ihr kennt ja die Härte des Bergverwalters, ihres Vormunds; gestern drohte er mit Arrest, mit Verpfändung meiner Hütte, drohte mich und meine Kinder und Enckeln aus dem Dorfe zu jagen, und ich guter Bernhard! ein Greiß von 96 Jahren soll noch in meinen letzten Lebenstagen keine eigene Stätte behalten, um ruhig sterben zu können.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Gebt euch zufrieden, Vater Niklas, euer Pflegsohn wird vielleicht in der Stadt Freunde finden, um dieses Unglück zu verhindern; wir feyern ohnehin morgen euer 50 jähriges Hochzeitfest, man sagt sich schon lange heimlich, daß wir vielleicht so glücklich seyn werden, unsern gnädigsten Landesvater, der sich nur einige Meilen von hier auf seinem Lustschloß befindet, bey uns zu sehen. Hier wär so die beste Gelegenheit – –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Vorige, Röschen schnell.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Lieber Großvater! Lieber Großvater!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ey, ey, ey – Röschen! hab dir doch schon oft gesagt, daß du dich nicht so in Othem laufen sollest.
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Ja, das glaub’ ich schon, lieber Großvater! aber wer kann dafür, wenn die Sache so eilt – denkt daran, er ist wieder da, ich hab ihn gesehen –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Nun – und wer denn?
+      </p>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <p>
+       Unser Christoph! da kömmt er schon!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Vorige, Christoph. (in des Alten Arme.)
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Vater! bester Vater!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Glück auf, lieber Christoph! Glück auf zu deiner Rückkehr! und mit welchen Nachrichten kömmst du zurück, lieber Sohn!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Mit den fröhlichsten, die ich euch je überbringen konnte – hier – nichtnur
+       <stage>
+        (übergiebt ihm eine Schrift)
+       </stage>
+       die Erlaubniß von dem Präsidenten, daß ich aufgenommen bin; in die Bergmanns-Zunft, ich erhielt auch die Anwartschaft auf die Bergschreiberstelle; nun sind alle meine Wünsche erfüllt, ich will die Räncke der grossen Welt fliehen, will in eurer stillen friedlichen Gegend wohnen; ihr, mein Vater! sollet bey mir wohnen die letzten Tage eures Lebens – ihr sollet in meinen Armen sterben, ich will euch die Augen zudrücken – und die letzten Worte, die ich von euren sterbenden Lippen höre, sollen Seegen für mich und meine Nachkommen seyn.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       O mein Sohn! es giebt doch noch viele gute Menschen unter den Grossen der Welt!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Da ich ihm erzählte das besondere Schicksal meiner Geburt, daß ihr mich als neugebohrnes Kind gefunden, mich als euren Sohn angenommen mit welcher Aufmerksamkeit, mit welch herablassender Güte er all das anhörte – o mein Vater, es ist ein Vorgefühl der Seeligkeit, wenn man einmal wieder unter den Grossen der Welt einen Menschen findet, der es auf einige Augenblicke vergißt, groß zu seyn.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und das that der Präsident? Gott seegne den guten Mann!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ich sagte ihm auch, daß wird durch die hartherzige Behandlungen des Bergverwalters so sehr gedrückt wären, und denkt nur daran, alter Mann, er versprach mir selber hieher zu kommen, er läßt euch indessen grüssen, und sagte auch dazu, daß er sehr viel Verlangen trage, euch kennen zu lernen.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Mich – mich wünschte er, kennen zu lernen? O gütiger Gott! so ist doch noch ein Theilchen Freude für mich auf dieser Welt aufbewahrt!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Vorige, der Bergverwalter.
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Da kommt der Bergverwalter, laßt euch nichts merken!
+      </p>
+     </sp>
+     <sp who="#bergverwalter">
+      <speaker>
+       Bergverwalter.
+      </speaker>
+      <p>
+       Nun – warum denn so müssig? stehlt dem lieben Gott den Tag ab, ohne euch um die Arbeit zu bekümmern.
+       <stage>
+        (zu Christoh) [!]
+       </stage>
+       Und was macht denn er wieder hier? warum blieb er denn nicht in der Stadt?’ Ich dächte immer, daß er dort sein Glück besser gefunden hätte als hier –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Vielleicht – vielleicht auch nicht. Ich suche mein Glück in stiller, ruhiger Zuriedenheit [!] meiner selbst, und in dem Bewußtseyn, keinen meiner Mitmenschen ohne Ursache zu kränken.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wunderbar? und dieses sollte er gerade nur hier finden können?
+      </p>
+      <stage>
+       (Kasper, der in seiner Arbeit begriffen ist, sieht den Bergverwalter, schleicht sich nach und nach herunter.)
+      </stage>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nur hier, in dem Zirkel meiner Familie, in dem Zirkel guter Menschen!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Er wird sich doch nicht mehr einfallen lassen, seinen albernen Liebesroman mit meiner Nichte fortzusetzen?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Thorheiten begeht ein kluger Mann nur einmal in seinen Leben. –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ich habe mir vorgenommn [!], sie selber zu heurathen.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ich wünsche Ihnen und uns allen Glück, so sind doch unsere Dorfmädchen ein bischen sicher, nicht mehr durch ihre alberne Verfolgungen gekränkt zu werden.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (bey Seite)
+      </stage>
+      <p>
+       Ha, ha, ha! das ist ein herrlicher Kerl! der trumpft ihm auf!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Er wird unverschämt, ich verbitte mir diese Anmerkungen.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (trotzend)
+      </stage>
+      <p>
+       Und sollte ich nicht? da ich überzeugt bin, daß ich Wahrheit rede. Haben Sie meines Pflegvaters Enkel Kaspers Rosinen nicht schon so oft die niedrigsten Anträge gemacht? ist nicht jedes Mädchen in unserem Dorfe in Gefahr, von ihnen entehrt zu werden? Herr! machen Sie nicht;
+       <stage>
+        (klopft ihn auf die Schulter)
+       </stage>
+       daß ich Gott und Menschen zu Zeugen ihrer Schurkereyen aufruffe – es möchte leicht ein höherer kommen, der sie, ahndete, schwer ahndete ein Höherer, der ehrliche Bergleute schützt der auch unter dem Orden, welcher sein schönes Herz ziert, nicht vergißt, Mensch zu seyn, ein Höherer, der die Schurken kennen lernen, und Schurken auch als Schurken behandeln wird!
+      </p>
+      <stage>
+       (mit Rosine ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Vorige, ohne Christoph und Rosine.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (kommt herfür)
+      </stage>
+      <p>
+       Nicht wahr, Herr Bergverwalter! der Mensch spricht gut deutsch?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (in einer Eckstase, nach einer Pause)
+      </stage>
+      <p>
+       Was war das? habe ich recht gehört? mich, den Bergverwalter – einen Mann, der in einem öffentlichen Amt steht, so zu behandeln? Wartet nur, Alter! das soll an euch schwer geahndet werden. Ihr habt den liederlichen Pursch, von dem keine Menschenseele weiß wo er her ist, in unser Dorf gebracht, euch wird die Schuld beygemessen. Morgen am Tag, oder heute noch sollet ihr ins Gefängniß kommen, und da sollet ihr so lange darin schmachten, bis ihr entweder bezahlt, oder krepiret.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Guter Christoph! was hast du angefangen? hast dich durch deine jugendliche Hitze zu weit leiten lassen, Wahrheit zu sagen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun, jetzt kommt die Mutter, die wird auch nicht wissen, aus welchem Eck der Wind bläßt.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Vorige, Lise. (gebückt, an einem Stock daher wankend mit ihren Enkeln.)
+     </stage>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was ist denn geschehen lieber Niklas, geh, sag mirs doch lieber Vater! unseren Christoph muß ja ein Unglück geschehen seyn? er ist nach Haus gerennt, als wenn er von Sinnen wäre.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Warum schickt man denn die Fratzen nicht in d’ Schul, Mutter! das ist n schöne Kinderzucht!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Nun – nun- freylich hab ich d’ Wassersucht; aber das schad’t nix, ich werd dich doch noch überleben. Also was ist denn geschehen? ich hab die Kinder schon hin und her gefragt, aber ich versteh nicht, was sie mir sagen wollen.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ach du mein Gott! gute Lise! Viel, viel ist geschehen,
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ey – mein, mein – warum soll ich denn jetzt schon wieder gehen?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Ha, ha, ha! bey meiner Mutter hat s’ Trommelfell n’ bißl Noth glitten.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ich kann ja noch eben so gut, wie du, frische Luft vertragen, bin ja doch um 7 Jahrl jünger als du.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (lauter)
+      </stage>
+      <p>
+       Wir sind ganz unglücklich.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Und warum nicht schicklich? he! geht mich der Christoph nicht soviel an als dich!
+       <stage>
+        (im Eifer)
+       </stage>
+       warum soll ich nicht auch wissen därfen, was ihm passirt ist! aber es ist schon recht, so gehts wenn man alt wird,
+       <stage>
+        (weint in die Schürze)
+       </stage>
+       da ist man verachtet und verfolgt von jedem Christenmenschen.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Du verstehst mich ja nicht, gute Lise! unser Christoph war in der Stadt.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Nun freylich geht mir’s mit meinem Gehör n’ bißl hart.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Er war bey dem Bergraths Präsidenten.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (schaut ihn aufmerksam an, ohne ihn zuverstehen.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und der wird hieher kommen, um unsere Sachen zu untersuchen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (eben so wie oben.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und so eben hat unser Christoph dem Bergverwalter die Wahrheit so derb in die Ohren gesagt, daß er wie rasend davon gieng, und geschworen hat, sich an uns zu rächen, er wird uns arme Leute noch ganz unglücklich machen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Ha, ha, ha, Ja wohl muß man darüber lachen – ha, ha, ha,
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Warum lachst du denn Lise,
+       <stage>
+        (schreyt)
+       </stage>
+       Du hast mich ja schon wieder nicht verstanden.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Habs schon verstanden –
+       <stage>
+        (lacht)
+       </stage>
+       ha, ha, ha, wegen unserem Enkel, der Rosine? ha, ha, ha, freylich ists zum lachen, wenn der Herr Bergverwalter unser Schwiegersohn werden will.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Man kann nichts mit ihr reden
+       <stage>
+        (laut)
+       </stage>
+        Liebe, gute Lise! geh – geh nach Haus.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ists schon aus? ja! jetzt weiß ich aber noch nichts wegen unserem Christoph?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (lauter)
+      </stage>
+      <p>
+       Das will ich dir alles hernach sagen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       O du alter Schelm du! ist der Mann 96 Jahre alt, und will mich nach Haus tragen. Wie froh dürftest du seyn, wenn du noch so gesund auf den Beinen wärest wie ich, kommts her, meine Enckel! führt mich nach Haus. Vor 60 Jahren giengs freylich noch besser, da hieß es noch oft –
+      </p>
+      <stage>
+        (trillert ein Tänzchen, und tanzt lustig ab.) (Trallala – la!)
+       </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Ein seelengutes Weib – nur Schade, daß sie das Gehör ein bißl verlassen hat.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Mein lieber Bernhard! wenn man 87 Jahre gut gehört hat, so wäre es höchst undankbar, wenn man jetzt im hohen Alter über den Verlust dieses Sinnes murren wollte.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Tausend Fickerment! wer kommt da?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Vorige, Christoph. (in Bergmanns-Kleidung.)
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Hier seht mich an, Vater, dieses Kleid hab’ ich mir in der Stadt gekauft, mit diesem Kleid entsage ich auf ewig jeder Hoffnung aller nur möglichen Ehrenstellen, die noch meiner warten könnten; mit diesem Kleid ziehe ich an die reinen kunstlosen Sitten unserer Bergbewohner – weihe mich ein in die ehrwürdige Zunft guter Menschen rein, und unverdorben wie die Natur – wahr und ohne Falsch wie die ersten Menschen, der Schöpfung – gelobe hiemit öffentlich vor den Augen Gottes und euch – ein ehrlicher Mann zu seyn, Bergmanns­sitte und Tugend durch Fleiß und Ehrbarkeit rein zu erhalten bis in mein Grab! Vater! gebt mir euren Seegen –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (zu allen)
+      </stage>
+      <p>
+       Kommt näher, meine Brüder!
+       <stage>
+        (Sie kommen alle herunter vom Bergwerck, und umgeben den Alten)
+       </stage>
+       Ihr kennt diesen Jüngling, rein und gut ist sein Herz, dafür bin ich Bürge – seyd ihr zufrieden, wenn ich ihn in unsere Bergmanns-Zunft aufnehme? seyd ihr zufrieden, wenn ich ihn einverleibe jenen geheimen Grundsätzen der Kunst, die uns lehrt – die Metalle aus den Eingeweiden der Erde zu holen? Ist jemand unter euch, der ihn nicht gerne Bruder nennen, jemand, der ihm zur Seite nicht gerne sich den Gefahren Preiß geben – sich dem Tod selbst unterwerfen wollte, der nenne seinen Namen!
+      </p>
+     </sp>
+     <sp who="#christoph #kasper #niklas #bernhard"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Er ist unser Bruder!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Glück auf, Vetter Christoph!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Nun wohlan! Hier mit diesem schon seit vielen Jahre bestimmten Talismann weihe ich dich ein, als Aeltester der Zunft, zum Bergmann, zum Mitgenossen unserer Bruderschaft!
+       <stage>
+        (hält ihm einen Hammer und Brecheisen vor, giebt ihm auf jede Schulter einen Schlag, und sagt dabey.)
+       </stage>
+       Vor dem Angesichte des freyen Himmels – im Namen des Landesfürsten – im Namen aller Bergleute!
+       <stage>
+        (Pause)
+       </stage>
+       sieh Jüngling! dort die Sonne, wie sie so schön den Erdkreiß beleuchtet – 96 Jahre bin ich alt, o nur zu früh werde ich mich von dieser schönen Erde entfernen müssen. Vergiß nie, mein Sohn! wenn du an deine Arbeit gehest, daß du diese Sonne vielleicht zum letztenmal scheinen siehest. So oft du in die Schacht trittst, so oft gehest du deinem Tod entgegen. Suche früh, mit ihm bekannt zu werden, betrachte ihn als deinen Bruder, und vergieß nie, daß du seine Freundschaft nur durch Tugend und Rechtschaffenheit erhalten kannst. Küsse mich mein Sohn!
+       <stage>
+        (Christoph umarmt ihn.)
+       </stage>
+       Und nun Brüder! führt ihn hinunter an den Ort seiner Bestimmung, zeiget ihm die Gefahren alle, die ihn umschweben, und lehret ihn Vorsicht, guten Muth, und Stand­haftkeit.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Vater, Brüder! meinen Dank.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Glück auf, du bist unser Bruder.
+      </p>
+     </sp>
+     <sp who="#christoph #kasper #niklas #bernhard"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (Sie geben ihm die Händen)
+      </stage>
+      <p>
+       Du bist unser Bruder!
+      </p>
+      <stage>
+       (Sie führen ihn hinauf, fahren in die Schacht, der Chor beginnt.)
+      </stage>
+     </sp>
+     <sp who="#chorus"><!-- speaker chorus? -->
+      <speaker>
+       Chorus.
+      </speaker>
+      <lg>
+       <l>
+        Glück auf! Glück auf! wohl in die Schacht!
+       </l>
+       <l>
+        Gott ist der Herr, der für uns wacht;
+       </l>
+       <l>
+        Glück auf! Glück auf!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Ein gutes Herz, gesundes Blut!
+       </l>
+       <l>
+        Ist Bergmanns Glück, sein höchstes Gut!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#christoph #kasper #niklas #bernhard"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Drum fahren wir wohl in die Schacht,
+       </l>
+       <l>
+        Gott ist der Herr, der für uns wacht.
+       </l>
+       <l>
+        Glück auf! Glück auf!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      der Vorhang fällt.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Zimmer in des Bergverwalters Haus, Emilie allein, am Tisch sitzend.)
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie
+      </speaker>
+      <p>
+       Noch sind nicht 8 Tage vorüber, die er von unserem Hause entfernt ist, und doch sind mir diese 8 Tage wie eine lange Ewigkeit; daß doch Liebe den Menschen so selten glücklich macht, und sollte sich diese Leidenschaft wie ein blindes Ohngefehr in unser Herz einschleichen?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Emilie, Hanne (schnell.)
+     </stage>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Hilf Himmel! Mamsell! eine Neuigkeit, worüber Sie erstaunen worden [!].
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Was ist denn geschehen?
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Ihr Christoph ist so eben aus der Stadt gekommen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Mädchen! geh – eile – sag ihm, daß er hieher kommen solle, indem ich Sachen von Wichtigkeit mit ihm zu reden hätte.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Aber so bedenken Sie doch, bestes Fräulein! ihr Herr Vormund –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       O daß du auch eines von den alltäglichen Geschöpfen seyn mußt –
+       <stage>
+        (holt ihre Börse)
+       </stage>
+       hier – liebe Hanne! schenk ich dir einen Dukaten.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <stage>
+       (den Dukaten in der Hand haltend)
+      </stage>
+      <p>
+       Und welches Zutrauen könnten Sie auf meine Verschwiegenheit setzen, wenn Sie dieselbe durch einen Dukaten erkaufen müßten. Nein, hier –
+       <stage>
+        (sie legt ihn auf den Tisch)
+       </stage>
+       ich bin von Stunde an ihre theilnehmendste Freundin. Ich gehe zu ihrem Christoph, und wenn ich ihn antreffe, so muß er kommen, und sollt’ ich ihn auf meinen Schultern hertragen müssen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Aufzug. [!]
+     </head>
+     <stage>
+      Emilie, dann der Verwalter.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       O daß er mich verlassen, daß er sich entfernen mußte von dem Ort, dem frohen Zeugen meiner ehemaligen, glücklichen Tage! Wie oft ich ihm hier in diesen Mauern ewige Liebe schwur, wie oft ich ihm die Thränen, die er über sein Schicksal weinte, von seinen schönen Augen wegküßte, Himmel!
+      </p>
+      <stage>
+       (erschrickt.)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (sieht noch, wie sie ihre Thräne trocknet.)
+      </stage>
+      <p>
+       Du erschrickst über meine Gegenwart? wenn ich mich nicht irre, so sehe ich ja gar Thränen in deinen Augen –
+       <stage>
+        (ergreift ihre Hand)
+       </stage>
+       komm her, liebes Nichtchen! sey vernünftig, Du weißt, wovon ich gestern mit dir gesprochen habe?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Unangenehme Ding bin ich immer gewohnt, über die Nacht zu vergessen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Kleine Schelmin du! ha ha, ha! daß du nehmlich heute dein Jawort zu unserer Heurath –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       O verzeihen Sie, ich muß ihnen sagen, daß ich jetzt gar nicht aufgelegt bin, einen Heuraths-Kontrakt zu schliessen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Du weißt doch, was du deinem seeligen Vater geschworen hast?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Was ich ihm in ihrer Gegenwart schwören mußte weiß ich; was ich aber geschworen, habe ich längst wieder vergessen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Die Testaments-Klausel enthält Christoph zu entsagen, mir deine Hand zu geben, oder 4000 fl. an mich zu bezahlen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Herr Vormund! Sie haben das Testament meines seeligen Vaters aufgesetzt; Sie erwarteten sehr klüglich den letzten Zeitpunkt – wo er – halb seiner Sinnen beraubt dieses von Ihnen, zu ihrem Vortheil aufgesetzte Testament unterschreiben mußte. Diese 4000 fl. die sie mir so unrechtmässig von meinem Erbtheil abnehmen wollen, überlasse ich ihnen gerne, mit der einzigen Bedingung, mein Herz und meine Hand nach meinem Belieben dem geben, den ich liebe.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (spottend)
+      </stage>
+      <p>
+       Und wer ist denn der Glückliche, Mamsell Nichte?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Der arme Christoph!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Heute oder morgen werde ich aber gezwungen seyn, den alten Niklas, seinen Pflegvater exequiren zu lassen. Die Leute sind voll Schulden; Wenn ich nicht Vorsicht gebrauche, so verlirest du deine 400 fl. die ihm dein seeliger Vater gelehnt hat.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Thun sie das nicht, Herr Vormund! bey Gott! Sie könnten sich grosse Verantwortung zuziehn.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (lacht hönisch)
+      </stage>
+      <p>
+       Ha, ha, ha! Verantwortung bey einem Bettelvolk.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Christoph wird für seinen Pflegvater bezahlen, auch ohne baar Geld – er wird bezahlen; ich hoffe doch
+       <stage>
+        (sich spöttisch verneigend)
+       </stage>
+       ein bischen berechtiget zu seyn, auch ein Wörtchen dazu reden zu dörfen?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Das darfst du, daß sollst du auch, allein bis zu deiner Majorennität bin ich aufgestellt, dasselbe zu verwalten; von mir wird Rechenschaft gefodert.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Aber nur so lange, bis ich mir einen Mann wähle nach meinem Herz und Willen; Verstehen Sie mich?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Das ist ja eben, was ich wünsche. Der alte Niklas wandert heute noch in Schuldthurm, und seinen Pflegsohn schicke ich in die Stadt. Dein Vater hinterließ dir ein so schönes Vermögen, und ich sollte zugeben, daß dieses in so unnütze Hände geriethe? Nein Nichtchen! wo Geld ist, da muß man trachten, das Geld zu multipliciren: sieh einmal diese Börse mit Dukaten
+       <stage>
+        (nimmt ihren Beutel in die Hand)
+       </stage>
+       welch ein lieblicher schön harmonischer Klang.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (reißt ihm die Börse aus der Hand)
+      </stage>
+      <p>
+       Ha! so wollt’ ich, daß die Berge dieses verdammte Metall in ihrem Busen zurückgehalten hätten; wenn es nur da ist, um uns Menschen unglücklich zu machen. Behalten Sie dieses Geld, Herr! nehmen Sie mir mein ganzes Vermögen, machen Sie mich zur Bettlerin, aber mein Herz lassen Sie mir, denn einen Mann ihrer Art könnt ich nicht lieben, und wenn er Millionen besässe;
+       <stage>
+        (wirft ihm die Börse vor die Füsse)
+       </stage>
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (indem er die Börse von der Erde aufhebt)
+      </stage>
+      <p>
+       Behalt’ du dein Herz, liebes Nichtchen! es ist mir ohnehin mehr um deine Dukaten zuthun, als um dein Herz – denn bey dem Negoz kömmt nicht viel heraus. Wenn nur der Philipp bald käme, und mir Nachricht von seiner Schwester brächte. Ein Mann meinesgleichen muß sich in alle Fälle zu schicken wissen – Ist es da nicht – je nun, so versucht man sein Heil anderwärts – still – wenn er es wäre –
+      </p>
+      <stage>
+       (Philipp steckt den Kopf zur Thüre herein)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Bergverwalter, Philipp.
+     </stage>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Sinds da, g’strenger Herr!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ja – komm nur herein –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Thun’s aber auch allein da seyn – denn der Philipp ist da.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun freylich, was bringst du mir für Nachrichten?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (kommt furchtsam, sieht sich um)
+      </stage>
+      <p>
+       Nachrichten? was für Nachrichten?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun wegen Röschen? du weißt ja was ich dir gesagt habe.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ja, g’strenger Herr! davon thut der Philipp kein Wort mehr wissen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Der dumme Kerl!
+       <stage>
+        (laut)
+       </stage>
+       Hast du mit deiner Schwester nicht gesprochen?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Nun freylich, hat der Philipp g’sprochen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und ihr gesagt, daß ich sie besuchen werde.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Alles gesagt – s’ ist alles richtig – Sie thut ihnen sagen –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und was – und was?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Daß Sie ihr n’ grosse Ehr thun werden –
+       <stage>
+        (mit einem dummen Knicks)
+       </stage>
+       und daß –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und weiter –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Und daß Sie so etwa zwischen 10 und 11 Uhr –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Zu ihr kommen soll? o das ist ja allerliebst, du hast ja deine Bestellung herrlich ausgerichtet.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Ja, das glaub’ ich, wenn nur meine Schwester auch was davon wissen thät,
+       <stage>
+        (laut)
+       </stage>
+       Nun aber – wie ist’s denn mit dem Versprechen, g’strenger Herr – wegen der Jungfer Hanne?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ich werde auch Wort halten, mein lieber Philipp! du sollst von der Stunde in mein Haus kommen dörfen, wenn du willst; nur mußt du mir alles auszuspioniren suchen, was in deinem Haus vorgeht. Apropos! dein Herr Vetter ist ja wieder aus der Stadt zurückgekommen?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ja,
+       <stage>
+        (halb weinerlich)
+       </stage>
+       und der Philipp wollt’, daß der ganze Herr Vetter mit Leib und Seel auf dem Blocksberg bleiben thät.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Warum denn das?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Weil der Philipp den Herrn Vetter nit leiden kann, der Philipp mag thun was er will, so thut der Philipp dem Herrn Vetter nix recht; bald ist der Philipp n’dummer Jung; bald n’kindischer Mensch;
+       <stage>
+        (Verwalter lacht)
+       </stage>
+       und da setzt’s bisweilen von Herrn Vater beym Philipp n’Schilling ab, daß der Philipp oft den Himmel für n’Baßgeige anschauen thut.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und deine Schwester?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Die thut in den Kerl verliebt seyn, wie die Mauß in n’Speck, ja, ja, und z’letzt denk der g’strenge Herr an mich, z’letzt wird er sie auch noch wegfischen thun –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (beiseite)
+      </stage>
+      <p>
+       Wieder eine neue Ursache, warum mir der Mensch verhaßt ist.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Jetzt ist er gar ein Bergmann worden – ja, ja, richtig –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wer? der Christoph? ohne meinen Wissen und Willen?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Jetzt meynt das Mädl, d’Hochzeit sey schon gradewegs vor der Hausthür – aber der Philipp thut schon wissen, wieviels g’schlagen hat – die Fräulein Emilie – ha, ha, ha – der Philipp weiß schon.
+      </p>
+      <stage>
+       (Man hört Hanne vor der Thüre)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       [!] Eben recht; Hanne kömmt; bleib du hier, und ich will mich jetzt durch diese Seitenthüre zu deiner Schwester begeben.
+      </p>
+      <stage>
+       (will fort)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (hält ihn an Rock)
+      </stage>
+      <p>
+       Nein, nein, allein thut der Philipp nicht da bleiben; er thut mitgehn –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun warum denn? du kannst ihr, ja gleich deine Liebe entdecken, ich gehe, aber kein Wort von deinem Munde!
+      </p>
+      <stage>
+       (ab, schliest die Thüre hinter sich zu)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Nein – der Philipp thut sich vie[l], z’viel fürchten, er geht mit;
+       <stage>
+        (allein, weinend)
+       </stage>
+       Jetzt ist der Philipp allein da; o Jemine! wie wird’s gehen, da hinein kann er nicht, und geht er zu der Thür hinaus, so thut ihr der Philipp gerade in die Hände laufen. Wenn der Philipp nur da weg wäre; die Jungfer Hanne gefiel ihm freylich; aber wer kann dafür Sie mag halt den Philipp nit.
+       <stage>
+        (man hört sie)
+       </stage>
+       wenn er sich nur verstecken könnt; wie wärs wenn er unter den Tisch schlupfen thät! richtig, das thut der Philipp –
+      </p>
+      <stage>
+       (er verbirgt sich unter den Tisch)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt. [!]
+     </head>
+     <stage>
+      Philipp. Hanne.
+     </stage>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Nun dem Himmel sey Dank, so hab’ ich es doch durch meine Ueberredungskunst so weit gebracht, daß er hieherkommen wird.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (schaut herfür)
+      </stage>
+      <p>
+       Sie thut den Philipp nicht sehen; ha ha ha!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Aber das Fräulein wird sich verwundern, wenn sie ihn in seiner neuen Kleidung erblickt.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Wenn nur der Philipp mit Gott und Ehren wieder aus dem Zimmer wär!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Was war das?
+       <stage>
+        (leise)
+       </stage>
+       mir war ja, als hört ich eine Stimme; ich werde doch nicht belauscht werden?
+       <stage>
+        (sieht sich um)
+       </stage>
+       Niemand hier; wenn etwa –
+       <stage>
+        (erhebt den Tischteppich)
+       </stage>
+       hier –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (schaut dumm herfür)
+      </stage>
+      <p>
+       Der Philipp thut da seyn, liebs Jungfer Hannerl!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       [!] Wie kommst denn du in dieses Zimmer?
+       <stage>
+        (beyseite)
+       </stage>
+       Ob er vielleicht auf Anstiften des Verwalters – es wird mir wohl ein leichte Mühe seyn, es zu erfahren;
+       <stage>
+        (laut)
+       </stage>
+       Komm herfür, mein lieber Philipp! komm!
+      </p>
+      <stage>
+       (zieht ihn herfür)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Darf ich? thut sie dem Philipp aber nichts!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Wer sollte denn einem so lieben guten Junge etwas zu leide thun – Sag du mir aber –
+      </p>
+      <stage>
+       (schmeichelnd, nimmt ihn am Kinn)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       O Jeckerl! das muß sie nicht thun; denn, wenn ein Mädel den Philipp da angreifen thut, so klappert ihm’s Herz wie eine Papiermühl.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Sag du mir doch, mein lieber Philipp! wer hat dich denn eigentlich hieher gebracht? he!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Wer – wer den Philipp hieher bracht hat? des Philipp seine Füsse!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Nun ja; das glaub’ ich schon; allein die Ursache, warum du eigentlich da bist?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Die Ursache?
+       <stage>
+        (beyseite)
+       </stage>
+       Aha; die thut ausförscheln; aber wegen der Rösel sagt der Philipp kein Wort.
+       <stage>
+        (laut)
+       </stage>
+       Nun; die Ursache ist niemand anders als sie.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Ich?
+       <stage>
+        (beyseite)
+       </stage>
+       da steckt noch etwas anders dahinten.
+       <stage>
+        (laut)
+       </stage>
+       Hast du den Herrn Verwalter nicht gesehen?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Den – den g’strengen Herrn; thut sie sagen?
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Nun ja; den Herrn Verwalter –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ja, ja; der ist eben da fortgegangen zu meiner Schwester.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Zu deiner Schwester? so;
+       <stage>
+        (beiseite)
+       </stage>
+       Ich hab ihn schon auf dem Weg.
+       <stage>
+        (laut)
+       </stage>
+       Nun, nun; ich bin eben nicht neugierig zu wissen, was er dort zu thun hat; allein –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Der Philipp könnt freylich da der Jungfer Hannerl am besten Auskunft davon geben thun, wenn er wollt; aber nein, der Philipp hats versprochen, kein Wörtl zu sagen;
+       <stage>
+        (Pause, leise mit Lachen)
+       </stage>
+       Im Vertrauen, der g’strenge Herr ist abscheulich verliebt –
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <stage>
+       (eben so)
+      </stage>
+      <p>
+       Verliebt? in wen?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       In meine Schwester; ha, ha ha!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Nun, das kann ich mir vorstellen –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Und da bleibt dem Philipp kein anderes Mittel übrig, als den g’strengen Herrn ein bißl zu foppen, er ist heut zwischen 10 und 11 Uhr nach Haus bestellt –
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Der Herr Verwalter nach Haus bestellt?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Nun freylich, aber mein Schwester thut kein Wörtl davon wissen, der Philipp hats nur deßwegen gethan, damit er desto eher daher kommen darf, denn der g’strenge Herr hat mir g’sagt, daß der Philipp nächstens heurathen soll; ha, ha, ha!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Wen? mich vielleicht?
+       <stage>
+        (beyseite)
+       </stage>
+       Ich muß mir die Einfalt dieses dummen Jungens zu nutze machen
+       <stage>
+        (laut)
+       </stage>
+       Nun ja, ich denke, das wird auch keinen Anstand haben –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (voll Freude)
+      </stage>
+      <p>
+       Ist – ist das wahr, O Jerum! was thut der Philipp da anfangen, wenn er so n’schöns Madel zum Weib bekommen thut –
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Jetzt muß ich aber gleich Anstalten machen, dem alten Nicklas diese Nachricht zu hinterbringen.
+       <stage>
+        (laut)
+       </stage>
+       Mein lieber Philipp! leb wohl, ich seh dich bald wieder, ich muß nur geschwinde zu meinem Fräulein –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Nun adieu der Philipp wird schon bald wieder zusprechen thun, adieu!
+      </p>
+      <stage>
+       (küßt ihr die Hand)
+      </stage>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Adieu Mosje Philipp!
+      </p>
+      <stage>
+       (wirft ihm einen Kuß zu, und lachend ab)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Nun, wer hätt sich das vorgestellt, daß es ums heurathen so n’leichte Sach wär, Aber – ha, ha, ha; der Herr Vater wird aufschauen, wenn er erfährt, daß der Philipp heuraten thut, s’g’schieht ihm aber recht, warum sagt er immer, der Philipp thut noch zu jung, seyn und zu talket1, zum heurathen –
+       <stage>
+        (Pause)
+       </stage>
+       Aber lachen, lachen hab’ ich müssen, wie fein s’Madel hat fratscheln2 wollen; sie hat geglaubt, daß man alles so gleich erzählen thut ja anpumpt! wenn man dem Philipp ein Ge-geheimniß [!] anvertraut, ey ja wohl, da muß man früh aufstehen, wenn man was erfahren will; der Philipp thut kein Wort reden
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Christoph, allein. (sieht sich um, nach einer kleinen Pause)
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nun bin ich wieder hier in diesen glücklichen Mauern; meine ganze Seele hängt so fest an ihr, und doch muß ich sie vergessen.
+       <stage>
+        (Emilie schleicht sich heimlich herein)
+       </stage>
+       So oft ich mir vornehme, sie nicht mehr zu sehen, so oft seh’ ich, denk ich nichts, als an sie. Guter Gott! wie unglücklich bin ich, Emilie in den Armen eines andern?
+       <stage>
+        (Pause)
+       </stage>
+       aber, es sey, zum letztenmal will ich sie sehen, meine Mannskraft soll überdie Schwäche meiner Leidenschaft siegen, die zu befriedigen, Familienstolz und Glücks Güter ver­hindern; ja, ich will sie auch jetzt nicht mehr sehen, nicht mehr sprechen; will ihr Bild ganz aus meinem Herzen reissen, auch wenn es sich verbluten sollte.
+      </p>
+      <stage>
+       (will fort eilt gerade in Emiliens Arme.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Christoph, und Emilie.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (mit seelenvollem Blick)
+      </stage>
+      <p>
+       Christoph!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Emilie!
+       <stage>
+        (er windet sich aus ihren Arm)
+       </stage>
+      </p>
+      <stage>
+       (Pause)
+      </stage>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (ihm fest unter die Augen sehend)
+      </stage>
+      <p>
+       Mein Bild aus deinem Herzen reissen, auch wenn es sich verbluten sollte?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Sie liessen mich ruffen, Fräulein!
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (zärtlicher)
+      </stage>
+      <p>
+       Ich weiß eine Zeit, wo sie ungeruffen in meine Arme eilten – doch diese Zeit ist vorüber; warum haben sie so schnell ihre Kleidung verändert?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Um durch meine neue Bestimmung, durch meine neue Laufbahn, die seeligen Stunden zu vergessen, die ich in ihrem Umgang genossen habe.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Und was hindert sie jetzt noch, dieser seeligen Stunden zu geniessen?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (sieht stumm zur Erde)
+      </stage>
+      <p>
+       Emilie?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       O daß ich ihm um den Hals fallen, und seine Schüchternheit durch meine Küsse beleben könnte –
+       <stage>
+        (ergreift seine Hand)
+       </stage>
+       <stage>
+        (laut)
+       </stage>
+       guter Jüngling!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Schone meiner, liebes Mädchen, du machst mich unglücklich –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich dich unglücklich? ja, wenn du es durch meine Liebe werden kannst, so sey ganz unglücklich; du wendest deinen Blick von deiner Emilie, und ehedem fandest du doch so viel Freud in meinem Gesicht; sieh mich an, guter Jüngling!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (vor Ihr auf den Knien)
+      </stage>
+      <p>
+       Emilie! nur eine Bitte – nur eine Bitte gewähre mir –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Rede, Mann meines Herzens! alles sey dir gewähret, was du verlangest –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       So hasse mich; und ich habe doch wenigsten den einzigen Trost, in meinem Unglück, nur mich allein, und dich nicht unglücklich zu sehen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich soll dich hassen?
+       <stage>
+        (hebt ihn auf)
+       </stage>
+       fühle an mein Herz, wie es schlägt – nur für dich – für dich allein, und ich soll dich hassen?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Willst du mich noch elender machen? Bedenke deine Verhältnisse, deine Glücksumstände, ich bin arm –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Und wenn du ein Bettler wärest, du wirst mein Mann!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Englisches Mädchen! die ersten Reize der Liebe sterben so oft nach dem Genusse; willst du dich durch einen einzigen übereilten Schritt einer ewigfortdaurenden Reue in die Arme werfen? Nein, gutes Mädchen, erfülle den Willen deines Vaters; du schwurest ihm blinden Gehorsam, väterlicher Fluch könnte dir nachhallen aus dem Grabe, wenn du ihn nicht erfülltest; sey glücklicher als ich es bin, als ich es nie werde, weil ich dich geliebt habe.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Und doch sagt mir dein Auge, daß du mich noch liebst –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nun so höre es feyerlich, heilig und ernst; Emilie! ich liebe dich nicht mehr.
+      </p>
+      <stage>
+       (schnell ab)
+      </stage>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Ich liebe dich nicht mehr; so sagte er ja? Mich nicht mehr lieben? ha! geh her, liebenswürdiger Betrüger! ich will dir fest unter das Auge schauen, und dann erkühne dich noch, mir die schwärzeste aller Lügen in das Gesicht zu sagen; sprich aus das verwünschte Wort: ich liebe dich nicht mehr: und kannst du das – kannst du das, ha! so entsage ich jedem Gefühl der Menschheit, mache dich vor Himmel und Erde zum Lügner, zum Betrüger, zum Teufel!
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      (Kaspers Zimmer)
+     </stage>
+     <stage>
+      (Rosine allein, steht vor dem Tisch, um denselben zu decken, setzt die hölzernen Teller umher)
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Da sitzt der Vater, da der Großvater, dort die Großmutter, da sitz ich, da der Christoph, und da –
+       <stage>
+        (sieht nach der Thür)
+       </stage>
+       Nun, ich hab geglaubt, es kömmt jemand, so oft ich halt die Thür gehen hör, so meyn ich mein Christoph müß’ hereinkommen –
+       <stage>
+        (zählt wieder)
+       </stage>
+       also da der Vater –
+       <stage>
+        (eben so wie oben)
+       </stage>
+       Nun, schon wieder? s’ist doch ein budelnärrisch Ding um die Liebe; ich weiß gar nicht, wie mir ist; da krippelts, da krappelts oft in meiner Herzkammer, daß ich nicht weiß, wo aus noch ein; also hier ich, und neben mir der Christoph –
+       <stage>
+        (sieht sich um)
+       </stage>
+       Jetzt kommt sicher jemand; Nein, schon wieder nicht; Ja so werd’ ich freylich mit meinem Tischdecken nicht fertig werden.
+      </p>
+      <stage>
+       (Sie macht das Tischtuch zurecht, und wie sie die Thüre öfnen sieht, will sie ihm entgegen, und nimmt das ganze Tischzeug mit Tellern mit)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Rosine, Philipp.
+     </stage>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (kommt in Gedanken, erschrickt über den Fall)
+      </stage>
+      <p>
+       O Jerum! da ist der Teufel los!
+      </p>
+      <stage>
+       (springt gleich in das Nebenzimmer ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Rosine, hernach Christoph.
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Nun da haben wir den Plunder, jetzt liegt alles auf der Erde, Hilf Himmel! wie bin ich erschrocken!
+      </p>
+      <stage>
+       (sie hebt alles auf)
+      </stage>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (kommt, setzt sich auf einen Stuhl)
+      </stage>
+      <p>
+       Nun wär es vorüber, Gott grüß dich, liebes Röschen!
+      </p>
+      <stage>
+       (steht auf)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Nun, steht der Mensch nicht da wie ein Schelm, so will ich eine Hexe seyn, komm her, lieber Christoph!
+       <stage>
+        (ergreift seine Hand)
+       </stage>
+       hast mich denn gar nicht mehr lieb? he!
+       <stage>
+        (weint)
+       </stage>
+       Es ist schon recht! hi hi hi!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Vorige, Kasper.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       He, he! was giebts denn wieder? Was ists Madel! daß du flennst; machst ja in Gesicht wie die Katz, wenns donnert.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (schluchzend)
+      </stage>
+      <p>
+       Da, da hab ich dem Christoph –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (ihr nachäffend)
+      </stage>
+      <p>
+       Da, da hab ich den Christph [!], und was hast?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Dem Christoph gesagt, daß, – nun so red, wenn du’s Herz hast –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Jetzt weiß ich soviel als vorher, so red, du Blizmädel!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Was soll ich es euch verhehlen, guter Mann! eure Tochter liebt mich.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und deßwegen weint’s, der Einfaltspinsel!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Heurathen will er mich nicht, da steckt der Haaß im Pfeffer.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun, nun, nun, was heut nicht ist, ist morgen, er wird dich schon heurathen, wenn er Appetit dazu kriegt –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (weinerlich)
+      </stage>
+      <p>
+       Schon recht, wenn er mich aber heut nicht mag und morgen nicht, so wird er nie mein Mann; weiß er das!
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Kasper, Christoph.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun, und wie ists denn jetzt mit dir? ich dächt halt doch, du solltest dich jetzt auch n’bißl um deine eigene Hauswirthschaft umschauen.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       O mein lieber Kaspar! dazu ist immer noch Zeit genug.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun, nun, soll etwa die Zeit kommen, wenn du die 50 Jahrl auf den Buckel kriegst; glaub, mir, Vetter! s’ist keine so schlimme Sach ums Heurathen, als du etwa glaubst; s’thut einem gut, wenn man so nach überstandener Tageslast nach Haus kommt, und seinen eigenen Heerd antrift.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ihr habt Recht, guter Mann!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wenn einem denn so sein gesundes Weib entgegen kommt mit einem freundlichen Gesicht, an jeder Hand ein Paar Fratzen dem Vater entgegen führt, und alle so in einer Melodie einem zuruffen – Grüß euch Gott, Vater!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Gott! was giebt es für glückliche Menschen!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ha, meiner Six! da kruselts einem durchs Herz, daß man gleich in die ganze Schöpfung n’Juheyschrey werfen möcht, um der Welt zu sagen, wie glücklich man ist.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Gott! wem auch dieses einst beschieden wäre.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Rosine, Philipp hinter ihr.
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (schnell)
+      </stage>
+      <p>
+       Vater – Vater! ein vornehmer Herr aus der Stadt –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Thut geradewegs in unser Haus kommen, führt unsern Großvater am Arm.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Und denk nur daran, lieber Christoph, er hat gar n’rothes Band am Rock hängen –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was sagst du? Mädel! so ein vornehmer Herr kommt aus der Stadt zu uns, tausend sa, sa! was hat das zu bedeuten?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Es wird vielleicht gar schon der Präsident seyn –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wie, wie titulirt man denn so n’Herrn; sag mir’s nur, Christoph!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       O mein lieber Freund! so vornehm der Mann ist, so wenig sieht er auf grosse Ehrenbezeugnngen [!]; man nennt ihn sonst Excellenz –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Excellenz thut man ihn heissen –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun; s’ist ja nur so n’Frag, damit man nicht etwa gar n’Bock macht, oder für n’Grobian passirt; also Ex – Exellenz –
+      </p>
+     </sp>
+     <stage>
+      (Rosine lauert an der Thür)
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Oder geradehin; Herr Graf.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was? also n’Graf ist er auch noch dabey; das muß n’vornehmer Herr seyn.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (springt zurück)
+      </stage>
+      <p>
+       Vater, Vater! ich will eine Hexe seyn, er komt schon –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Richtig, er thut schon kommen –
+      </p>
+      <stage>
+       (macht komische Pantomime)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Nun also in Parade; Fikerment! er macht schon die Thüre auf.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzhenter [!] Auftritt.
+     </head>
+     <stage>
+      Vorige, Präsident. (führt den alten Niklas am Arm herein. Philipp macht seinem Vater alles nach)
+     </stage>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Kommt, guter Alter, kommt; führt mich in eure friedliche Wohnung.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (Pause, stüzt sich auf seinen Stock)
+      </stage>
+      <p>
+       O mein guter Gott! bin so oft die Stiege auf und ab gegangen; und doch noch nie so leicht als heute in meinem 96. Jahr.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Und warum das? guter Mann! gerade heute?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       An dem Arm eines so vornehmen Herrn; o Euer Excellenz! das thut einem alten Manne so gut, wenn man sich noch in seinem hohen Alter geliebt und geehrt sieht; es erinnert einen so gerne an die Vergangenheit der verflossenen Lebenstage.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (tritt vor)
+      </stage>
+      <p>
+       Eure Excelenz, Sie machen uns durch ihre Gegenwart ganz glücklich.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Wie gerne würde ich es wünschen, euch, guten Leute! glücklich machen zu können; hier wenigstens einen Beweiß davon;
+       <stage>
+        (zieht eine Schrift herfür)
+       </stage>
+       Ich komme so eben von dem König, der sich nur einige Meilen von hier auf seinem Lustschloß befindet; Er gab mir die strengste Ordre, die ganze Aufführung des Bergverwalters untersuchen zu lassen; und giebt ihnen einstweilen die Bergschreiberstelle mit 600 fl. Gehalt.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Euer Excellenz! wodurch verdiene ich so viele Gnade –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (will den Präsidenten die Hand küssen.)
+      </stage>
+      <p>
+       Gott soll sie dafür seegnen? gnädiger Herr!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Wem gehören denn diese lieben Kinder?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, 2 Kinder. Rosine, Philipp, Joseph, (alle springen ihren Großvater zu, jedes von den Kleinen ein Stück Brod in der Hand.)
+     </stage>
+     <sp who="#der kleine">
+      <speaker>
+       Der Kleine.
+      </speaker>
+      <p>
+       Sieh einmal lieber Großvater! was mir die Mutter für ein groß Stück Brod gegeben hat.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ey – ey – so seht euch doch einmal um, wer zugegen ist – Neig dich hübsch tief –
+       <stage>
+        (Sie machen alle eine Verbeugung)
+       </stage>
+       vor diesen vornehmen Herrn.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Du Seppel! schau einmal – das ist ein vornehmer Herr, und doch dabey so freundlich.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Das sind ohne Zweifel eure Enkel?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Zu dienen, gnädigster Herr!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Allerliebste Kinder!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (tritt herfür)
+      </stage>
+      <p>
+       Und ich bin – wenn ich so grob seyn darf, der Vater dazu.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Gut – mein lieber Mann! mich freut es sehr euch kennen zu lernen.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und mich desgleichen – Euer hochgräflichen Gnaden! da sehens, einmal an – nicht anders wie die Orgelpfeifen, als wenn sie gedrechselt wär, mein Kronprinz da ist ein bißl ausgrutscht.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ich bin der Philipp –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Es ist ein Mondskind! Euer Exzellenz!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Lise. (mit den 2 kleinsten.)
+     </stage>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ey, ey, –  ey! wart’s nur, ihr kleinen Schelmen! lauft’s mir da davon, und euer Großmutter laßt’s im Stich –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Hier, Euer Exzellenz! meine Pflegmutter.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+        (zu Niklas)
+      </stage>
+      <p>
+       Also eure Frau?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ja, Euer Exzellenz! 88 Jahre sie – und ich 96 – Morgen sind gerade 50 Jahre, daß wir uns verheurathet haben.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Also morgen 50 Jahre – Nun guter Alter! ich werde eurem Hochzeitfest beywohnen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Du – du Niklas – sag mir doch, was, was ist denn das für ein vornehmer Herr?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       So sey nur still, alte Lise! Es ist Sr. Exzellenz der Herr Bergpräsident.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (bey seite)
+      </stage>
+      <p>
+       Nun das wird Müh kosten, bis man das der Frau Mutter wieder expliziren wird.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (sieht ihn an, Pause.)
+      </stage>
+      <p>
+       Ich hab dich nicht verstanden, Niklas!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (giebt ihr die Hand)
+      </stage>
+      <p>
+       Gott grüß euch, liebe, alte Mutter!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (neigt sich)
+      </stage>
+      <p>
+       Sie müssen schon ein bissel lauter reden, ich hab so bisweilen n’ Fluß in den Ohren.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ihr seht ja noch hübsch munter und frisch aus, noch stark und fett.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Das ist eben nix nutz, Euer Exzellenz! Sie laborirt an der Wassersucht.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       An der Wassersucht?
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ey, so müssen Sie mir nicht kommen; ich hab 7 Kinder gebohren und erzogen und es hat sich noch kein Mensch über meine Kinderzucht beklagt.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       So gieb dich nur zufrieden, du hast ja Sr. Exzellenz nicht verstanden.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Das ist doch ein Kreuz und ein Elend, meiner Sex.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (weinend)
+      </stage>
+      <p>
+       Was? und du fürchtest dich nicht Sünden, daß du deine Mutter n’ alte Hex heißt – wart – wart nur, daß will ich unserm Herrn Schulmeister sagen.
+       <stage>
+        (Niklas will ihr durch Pantomime beweisen, daß sie unrecht gehört hat)
+       </stage>
+       Nun – nun es ist ja nicht nöthig, daß du so abscheulich schreyest, man hört ja wohl noch gut. Aber jetzt geh ich grad zum Herrn Schulmeister! Du ehrvergessnes Kind!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (hält sie zurück)
+      </stage>
+      <p>
+       Mutter! so hörte doch nur.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (in vollen Grimm)
+      </stage>
+      <p>
+       Was – was – das unterstehst du dich, mir zu sagen, mir deiner alten leiblichen Mutter; ich sags ja – das hat man davon, wenn man Kinder kriegt.
+       <stage>
+        (weint, neigt sich mit gefalteten Händen)
+       </stage>
+       Der liebe Himmel ist mein Zeuge, ich hab mich immer so ehrbar und züchtig aufgeführt, und das muß ich noch an meinen Kindern erleben.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ihr habt mich ja nicht verstanden Mutter!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Marthe.
+     </stage>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <stage>
+       (eilend)
+      </stage>
+      <p>
+       Der Bergverwalter schickt hieher, und läßt euch fragen, warum ihr nicht an der Arbeit seyd?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Wollen Euer Exzellenz Augenzeuge von den niedrigen Gesinnungen des Bergverwalters werden, so kommen Sie mit mir
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ja – das will ich –
+       <stage>
+        (beyseite)
+       </stage>
+       Ich weiß nicht, welche Anhänglichkeit’ mich an diese guten Leute fesselt, ich folge euch.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Du Roserl! gehst voran, fort – und wenn er dirs zu bunt macht, werd’ ich dir schon zu Hilfe eilen.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Schon recht, Vater!
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Er muß ein böser Mann seyn, der Verwalter?
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ja – Euer Gnaden! er kommt mir nicht anders vor, wie ein ausgelogner Solizitator, der über nichts mehr roth wird.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (hält den Präsidenten am Rock)
+      </stage>
+      <p>
+       Habens was g’sagt – ja – Sie haben Recht, aber ich hab’ Sie schon wieder nicht verstanden.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Kommt – alte Mutter!
+      </p>
+      <stage>
+       (Alle ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      (Bergwerck. Alle Bergleute in der Schacht. Bergverwalter allein, hernach Rosine.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wenn ich mich nicht irre – dort kömmt sie – ja sie ists – Willkomm, willkomm mein schönes Mädchen!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Schön willkomm, g’strenger Herr! was führt denn sie daher um die Mittagsstunde?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun, sie hat mich ja daher bestellt.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Wer hat sie daher bestellt?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun, sie darf sich nicht scheuen – durch den Philipp – es ist nicht nothwendig, daß ihre Eltern etwas davon wissen müssen.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ey das ist wohl nothwendig, meine Eltern dörfen alles wissen, was ich thue, aber sagens, was wollens denn von mir haben?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Hör – ich bin dir von Herzen gut.
+      </p>
+      <stage>
+       (Kasper schaut herfür.)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Da dank ich halt schönstens dafür.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und ich hab dich lieb – und ich will haben, daß du mich auch liebhaben sollst, ja – ja, das will ich –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       So – aber hören Sie – das wird wohl nicht seyn können.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und warum nicht? komm her – laß dich küssen –
+      </p>
+      <stage>
+       (Rosine schreyt, Kasper kommt herfür)
+      </stage>
+      <stage>
+       (Rosine eilt ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      Bergverwalter, Kasper. Einige Bergknappen.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       He! alle Donnerwetter! was giebt es hier? was machen Sie hier ganz allein bey meiner Tochter?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Was – was geht das ihn an, er Grobian!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was? ein Grobian auch noch, Herr! was haben Sie nöthig, mein Mädel da abzuküssen – das will ich wissen?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Hier ist die Antwort.
+      </p>
+      <stage>
+       (schlägt ihn auf die Wange)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Alle Teufel! was ist das?
+       <stage>
+        (die Bergknappen nehmen ihn mit Gewalt, tragen ihn zu dem Haspel und lassen ihn rücklings in die Grube hinunter fallen. Er schreyt.)
+       </stage>
+       Jetzt muß ich die Leute holen. Schau auch einmal zu, Kerl! wie sichs unter der Erde leben läßt.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwanzigster Auftritt.
+     </head>
+     <stage>
+      (Man hört den Bergverwalter rufen. Philipp kommt.)
+     </stage>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Jetzt muß der Philipp doch sehen thun, ob der g’strenge Herr daher kommt.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       He – Leute! kommt mir zu Hilfe – der Schurke –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Was – was hört denn der Philipp? das ist ja der g’strenge Herr – er wird ja nicht gar mit meiner Schwester da hinunter gefallen seyn –
+       <stage>
+        (ruft)
+       </stage>
+       G’strenger Herr! G’strenger Herr!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Bist du es, Philipp? zieh mich herauf.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Wie ist denn aber der g’strenge Herr da hinunter kommen? ha, ha, ha!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       So zieh mich nur herauf am Seil verfluchter Kerl!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Von Herzen gern, wenn der Philipp nur stark genug ist; thu der g’strenge Herr auf den Haspel sitzen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ich sitz ja schon.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (will ziehen, er ist ihm zu schwer.)
+      </stage>
+      <p>
+       Es geh nit, der g’strenge Herr ist zu schwer;
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       So bind das Seil um den Leib, und häng dir ein paar schwere Gewichter an die Füsse.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Das wird der Philipp auch thun.
+      </p>
+      <stage>
+       (er bindet sich 2 Gewichter an die Füsse, das Seil um den Leib, zieht an, er fällt hinunter, schreyt, und der Bergverwalter herauf, er macht sich los.)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Dem Himmel sey Dank, ich bin gerettet!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (schreyt)
+      </stage>
+      <p>
+       G’strenger Herr! G’strenger Herr!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Schrey du, so lang du willst, der g’strenge Herr geht nach Haus.
+      </p>
+      <stage>
+       (ab, Philipp schreyt.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Kasper, Niklas, Rosine. (alle Bergleute.)
+     </stage>
+     <stage>
+      Chorus.
+     </stage>
+     <sp who="#kasper #rosine #niklas #bergleute"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Kommt, Brüder! ihr sollet bald sehen,
+       </l>
+       <l>
+        Was mit dem Verwalter geschehen;
+       </l>
+       <l>
+        Hier liegt er da unten im Schacht,
+       </l>
+       <l>
+        Wir wünschen ihm ruhige Nacht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Zu Hilfe! Zieht mich auf!
+      </p>
+     </sp>
+     <sp who="#kasper #rosine #niklas #bergleute"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (lachen)
+      </stage>
+      <p>
+       Ha! ha! ha!
+      </p>
+     </sp>
+     <sp who="#kasper #rosine #niklas #bergleute"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Hier liegt er da unten im Schacht,
+       </l>
+       <l>
+        Wir wünschen ihm ruhige Nacht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (rittelt am Seil, schreyt)
+      </stage>
+      <p>
+       Zieht auf!
+      </p>
+     </sp>
+     <sp who="#kasper #rosine #niklas #bergleute"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (Sie ziehen ihn herauf)
+      </stage>
+      <p>
+       Was hör ich da unten?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (mit grämmlicher Stimme, weinend)
+      </stage>
+      <lg>
+       <l>
+        Der g’strenge Herr lag drunten,
+       </l>
+       <l>
+        Der Philipp kommt daher allein;
+       </l>
+       <l>
+        Hört inder Schacht erbärmlich schreyn,
+       </l>
+      </lg>
+      <stage>
+       (Alle lachen.)
+      </stage>
+      <lg>
+       <l>
+        Er ruft um Hilf – ich ziehe her und hin;
+       </l>
+       <l>
+        Auf einmal liegt der Philipp drinn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #rosine #niklas #bergleute"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Spaß ist zum lachen,
+       </l>
+       <l>
+        Was wollen wir machen?
+       </l>
+       <l>
+        Spott ist nun sein Lohn,
+       </l>
+       <l>
+        Wir gehen davon!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (sie begleiten ihn unter Lachen nach Hauß.)
+     </stage>
+     <stage>
+      Ende des zweyten Aufzugs.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Dritter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Zimmer in des Bergverwalters Haus. Emilie schreibt, ließt bis zur Unterschrift.)
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+      Du giebst vor, deine Emilie nicht mehr zu lieben, und in dem Augenblick, daß du diese lüg­nerischen Worte aussprachest, laß ich das Ge­gen­theil aus deinen Augen – – – Komm eile in meine Arme, ich habe dir soviel zu entdecken, das ich nur denken, nicht schreiben – nur dir sagen kann.
+     </p>
+     <p>
+      Ich bin ewig deine Emilie.
+     </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (Sie klingelt)
+      </stage>
+      <p>
+       Hanne!
+      </p>
+      <stage>
+       (macht den Brief zusammen.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Emilie, Hanne.
+     </stage>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Hier bin ich schon mein liebes Fräulein!
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Nun hab ich ihm geschrieben – und du wirst sogleich Mittel und Gelegenheit suchen, ihm den Brief zu übergeben.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Ganz recht – es geht in einem hin – Sehen Sie –
+       <stage>
+        (zeigt ein Briefchen, das sie in der Schürze hat.)
+       </stage>
+       ich habe auch ein kleines Briefchen geschrieben. Sie wissen ja, wir müssen durch die Dummheit dieses Jungens, jeden Vorfall zu spionieren suchen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Geh, und hole Licht; um den Brief zuversiegeln.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Ich eile wie der Wind, um zu ihren Diensten zu seyn.
+      </p>
+      <stage>
+       (schnell ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Emilie, dann der Bergverwalter.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Ja – Christoph für mich und sonst keiner mehr! Ha – mein Oheim!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (in vollem Grimm)
+      </stage>
+      <p>
+       Wie ich dir sag, daran bist du Schuld, ich werd’ aber schon Ge[le]genheit finden, mich dafür zu rächen;
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Was ist ihnen denn? was fehlt ihnen, Herr Vormund!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Mich in die Bergschacht zu werfen, mich so zu behandeln? das soll schwer geahndet werden.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       So reden Sie doch, bester Herr Oheim! was ist denn geschehen?
+       <stage>
+        (beyseite)
+       </stage>
+       Himmel! ich zittre.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Heute noch in Arrest – in Arrest mit der ganzen Familie. Hauß und Hof verkauft, und dann fort mit ihnen aus dem Dorf.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich hoffe doch nicht, daß Sie Verdrüßlichkeiten mit den Bergleuten gehabt haben?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Hab’s, freylich hab ich’s gehabt, aber ich schwöre dir, meine Rache soll fürchterlich seyn.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Sie werden doch nicht, lieber Oheim! den armen Niklas in Kerker werfen?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Das werd’ ich, das will ich.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Das werden Sie? das wollen Sie? Wenn Sie das thun, Oheim, so schwör ich Ihnen unversöhnlichen Haß, ewige Feindschaft zu; Ich werde ihre eigene Anklägerin vor dem König werden, ich werde die Armen Leute schützen, und hören Sie Gott und ihr Gewissen nicht, gut! so werd’ ich noch Menschen finden, die die Unschuld schützen’ und ihre Unterdrücker zu Boden stürzen
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ha, ha, ha! geh nur, verliebte Schwärmerin! deine Drohungen achte ich nicht. An der Familie muß ich mich rächen, und wenn ich selbst darüber zu Grunde gehen sollte.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      (Kaspars Zimmer)
+     </stage>
+     <stage>
+      Der Präsident, ein königl. Jäger.
+     </stage>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (ließt einen Brief)
+      </stage>
+      <p>
+       Sagen Sie dem König, daß ich in diesem Augenblick afubrechen [!] werde.
+       <stage>
+        (Jäger ab)
+       </stage>
+       Was mag vorgefallen seyn, daß er mich so eilig verlangt? Ich verlasse ungern diese guten Leute.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Präsident, Niklas und Christoph.
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ein Feldjäger von Sr. Majestät, war bey Euer Exzellenz?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ja, mit dem Befehl, sogleich zu ihm zu kommen.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Jetzt sind wir wieder aufs Neue verlassen.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Nein, guter Alter! entweder morgen oder heute noch bin ich wieder bey euch; Machen Sie Anstalt, Freund!
+      </p>
+      <stage>
+       (Christoph ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Vorige, Bernhard. (mit einem Stock, reisefertig)
+     </stage>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <stage>
+       (ausser Athem, wischt sich den Schweiß ab, sieht sich gleich um einen Sessel um, und setzt sich)
+      </stage>
+      <p>
+       Tausend sa, sa, das heiß ich gelaufen, hab doch nicht geglaubt, daß ich alter Knasterbart noch so gut auf den Beinen bin.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Woher denn? alter Bernhard!
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Woher? woher? wie kannst noch fragen? laß mich nur ein bißl ausschnaufen – von unserem lieben, braven, guten König komm ich her, geradenwegs –
+      </p>
+     </sp>
+     <sp who="#niklas #präsident">
+      <speaker>
+       Niklas. Präsident.
+      </speaker>
+      <p>
+       Vom König?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <stage>
+       (immer noch ohne den Präsidenten zu sehen, zu Niklas)
+      </stage>
+      <p>
+       Nun, nun, ist das nicht eine Verwunderung, glaubt mir, Vater Niklas! hundertmal will ich lieber mit dem König als nur 3mal mit dem Verwalter reden.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und was habt ihr denn aber bey unserm König gethan?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Verklagt hab ich den Verwalter, wie er so diesen Morgen über euch den Bergältesten gescholten und geflucht hat, wie er nicht ein bißl Ehrfurcht vor eurem grauen Kopf gehabt hat, euch mit Arrest gedroht, da gieng mirs Blut über, die hellen Thränen kamen mir in die Augen. Ich hörte von eurem Christoph, daß der König in Ludwigsberg wäre, da gieng ich auf und davon, ich treff’ ihn an im Wald, fall vor ihm auf die Erd, erzähl ihm alles –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und er hat euch angehört, der König?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Angehört? fragt ihr? da seht – 6 Carolins hat er mir gegeben, wie ich ihm gesagt habe daß ich 14 Jahre Feldwäbel unter seines hochseeligen Herrn Vaters Leibregiment war.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Seegen dem guten König!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Ha! daß er dieses hören könnte!
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Und wie ich ihm da erzählt hab daß ihr morgen euer 50 jähriges Ehjubiläum feyertet, so fragte er um euren Namen, schrieb ihn auf.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Wenn meine Ahndung gegründet wäre?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Hörens Euer Excelenz! um meinen Namen hat er gefragt, aufgeschrieben hat er meinen Namen, o der gute König!
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Was ist den das für eine n’Excellenz! Vater Niklas?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ein vortreflicher Herr, eben so gut und leutseelig wie unser gnädigster König. Es ist der neue Herr Bergraths-Präsident.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Vorige, Christoph.
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Euer Exellenz! der Wagen steht vor der Thüre.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       So muß ich euch verlassen. Nun, bis auf Wiedersehn, guter Alter! morgen kom ich wieder zu euch. Lebt indessen wohl.
+       <stage>
+        (giebt Bernhard die Hand)
+       </stage>
+       Vater Bernhard! Feldwäbel unter des hochseeligen Königs Leibregiment waret ihr?
+       <stage>
+        (schüttelt ihm treuherzig die Hand)
+       </stage>
+       Morgen sollet ihr euren alten Hauptmann kennen lernen; Lebt wohl!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Der Himmel führ euer Excellenz wieder glücklich zu uns.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (wendet sich um)
+      </stage>
+      <p>
+       Laßt den Verwalter mit euch unternehmen, was er will; ich bringe euch Hilfe, dafür bin ich Bürge.
+      </p>
+     </sp>
+     <sp who="#niklas #bernhard">
+      <speaker>
+       Niklas. Bernhard.
+      </speaker>
+      <p>
+       Seegen über den guten Herrn!
+      </p>
+      <p>
+       Tausend Grüsse an unsern lieben, braven König!
+      </p>
+      <stage>
+       (Sie begleiten ihn alle ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Kaspar und Philipp aus dem Seitenzimmer.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Jetzt geh her! du Hausverräther!
+       <stage>
+        (schleppt ihn am Arm herbey)
+       </stage>
+       Was hast du alle Tage bey dem Bergverwalter zu thun? das will ich wissen.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       Nun; das – kann – ja der Philipp dem Herrn Vater schon sagen thun; da – da –
+       <stage>
+        (trotzend)
+       </stage>
+       thuts ja nicht soviel Umstände brauchen mit dem Philipp.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wer hat dir denn die Erlaubniß gegeben, den Bergverwalter zu deiner Schwester zu bestellen? he
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Die – die Erlaubniß? die hat dem Philipp kein Mensch gegeben; der Philipp hat halt gedacht, daß er uns n’Ehr anthut, wenn der Herr Bergverwalter bey uns n’Besuch abstatten thut.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       So Spitzbub! wart ich will dir die Ehr auf den Buckel schreiben,
+      </p>
+      <stage>
+       (will auf ihn zu)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Vorige, Lise, Rosine, und Marthe.
+     </stage>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (wie er die Großmutter kommen sieht, versteckt er sich hinter diese)
+      </stage>
+      <p>
+       Frau Ahnel! Frau Ahnel! der Herr Vater thut den Philipp schlagen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was willst mir sagen Philipp! he!
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <stage>
+       (hält Kaspar zurück)
+      </stage>
+      <p>
+       Sey wieder gut, Kaspar!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Der Spitzbub! seine eigene Schwester zu verführen; in die Hände eines solchen Schurkens zu liefern? wenn du mir noch einmal ins Bergverwalters Haus gehst, ich brech dir die Haar’ ab.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Der Philipp thut nimmer dahin gehen, Herr Vater!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wenn du mir noch einmal wegen der Rosine –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Der Philipp thut auch nix mehr wegen der Rosine –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und wenn du mir noch n’einzigen dummen Streich –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Der Philipp thut keinen einzigen dummen Streich –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Was jetzt der Kerl mit seinem Philipp und Philipp immer haben will, das weiß der Teufel! pack dich fort; dummer Junge!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Der Philipp packt sich; der Philipp ist aber kein dummer Junge.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Weib! Weib! wenn ich nicht g’wiß wüßt, daß du n’ehrlichs Weib wärst, so müßt ich glauben, daß sich der Bube auf eine unrechte Art in unsre Familie einquartirt hätt’.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Komm du mit mir, lieber Mann! eine Schwalbe macht keinen Sommer; er wird schon klüger werden, wenn er einmal älter ist.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Ich laß mirs nicht nehmen, der Kerl ist ein Wechselbalg.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Freylich ist er ein bißl ein Talk; aber wer kann dafür; du bist ja sein Vater.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      (Zimmer in des Verwalters Haus)
+     </stage>
+     <stage>
+      Emilie, hernach Hanne.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Noch keine Antwort auf meinen Brief; sollte er etwa denselben gar nicht – ha! ein Gedanke, der mir Gift in meine Seele haucht.
+       <stage>
+        (Hanne kommt ganz langsam und traurig)
+       </stage>
+       Wo bleibst du denn, langsame Zauderin!
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Hier, Fräulein!
+      </p>
+     </sp>
+     <stage>
+      Emilie. (reißt ihr den Brief hastig aus der Hand, ließt die Aufschrift) An Emilie Zeller;
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       ja es ist seine Hand;
+       <stage>
+        (küßt den Brief)
+       </stage>
+       Ich bin begierig wie er seine übereilte Gleichgültigkeit, seine unüberlegte Zurückhaltung entschuldigen wird.
+       <stage>
+        (erbricht das Couvert)
+       </stage>
+       Aber was seh’ ich? mein Brief unerbrochen zurück!
+      </p>
+      <stage>
+       (ließt das Couvert)
+      </stage>
+     </sp>
+     <stage>
+      (Pause, mit verbissenem Grimm)
+     </stage>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Ja, bestes Fräulein! er zauderte lange, ob er ihren Brief erbrechen sollte, endlich schrieb er dieses; und –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (zerreißt das Couvert)
+      </stage>
+      <p>
+       Da bring ihm seine verfluchte Schrift; sag ihm, daß ich ihn hasse, verabscheue;
+       <stage>
+        (trocknet sich eine Thräne)
+       </stage>
+       Der Niederträchtige! wie weit er mich herunter setzt, wie sehr er mich entehret.
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Fräulein! mässigen Sie ihre Leidenschaft –
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (Pause)
+      </stage>
+      <p>
+       Also getäuscht, hintergangen, verachtet;
+       <stage>
+        (verbirgt das Gesicht mit dem Tuch)
+       </stage>
+       O Gott! das Herz bricht mir!
+      </p>
+      <stage>
+       (wirft sich auf den Stuhl)
+      </stage>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Bestes Fräulein!
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (schnell auf)
+      </stage>
+      <p>
+       Das ist zuviel; ja bey Gott! du sollest empfinden, wie sich verachtete Liebe eines Mädchens meiner Art rächen wird.
+       <stage>
+        (Pause, entschlossen)
+       </stage>
+       ja; es seye! ich will mich rächen, will stolz darauf seyn, mich fürchterlich zu rächen!
+       <stage>
+        (Bergverwalter kommt)
+       </stage>
+       Eben zur gelegensten Zeit –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Bergverwalter.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Was ist geschehen? Nichte! was ist dir widerfahren? dein Gesicht glüht; du siehst ja ganz zerstöhrt aus? Rede.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (ruhiger)
+      </stage>
+      <p>
+       Nichts, gar nichts.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun; nun; um nichts und wieder nichts sieht man doch nicht so zerstört aus.
+       <stage>
+        (zu Hanne)
+       </stage>
+       Was machst denn du hier, Naseweises Mädchen! pack dich deine Wege; was hast du nöthig, zuzuhörn, wenn wir zusammen reden?
+      </p>
+     </sp>
+     <sp who="#hanne">
+      <speaker>
+       Hanne.
+      </speaker>
+      <p>
+       Nun so kann ich ja gehen; Sie haben mich gewiß schon wieder in Verdacht, als wenn ich einen Brief oder so etwas gebracht hätte? O die liebe Unschuld, was muß die nicht bey einem Mädchen alles leiden.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ja – ja; die liebe Unschuld, die muß freylich bey euch Stubenmächen oft viel leiden; aber so sag du mir doch, liebe Nichte! du stehst ja ganz in Gedanken?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Ja; es muß seyn.
+       <stage>
+        (laut)
+       </stage>
+       Herr Oheim! wegen den Angelegenheiten mit dem alten Niklas und seinem Pflegsohn habe ich meine Gesinung ganz verändert.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ist es möglich?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich will mir nun Mühe geben, ihn ganz zu vergessen, auch übergebe ich ihnen den Zustand meines Vermögens.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Nun ist der Zeitpunkt der Rache da;
+       <stage>
+        (laut)
+       </stage>
+       ich komme sogleich wieder zu dir, liebes Nichtchen! wichtige Geschäfte – Leb wohl –
+       <stage>
+        (im Abgehen)
+       </stage>
+       Das Sprichwort sagt, man muß Pfeiffen schneiden, wenn man im Rohr sitzt.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Emilie allein.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (wild vor sich hersehend. Pause)
+      </stage>
+      <p>
+       Ja! ich will das süsse Vergnügen geniessen, ihn vor mir kriechen zu sehen,
+       <stage>
+        (Pause)
+       </stage>
+       Wie aber; wenn mein Oheim diese kleine, weibliche Schwachheit benutzte, um durch mich die ganze Familie zu stürzen?
+       <stage>
+        (die Hand ans Herz)
+       </stage>
+       Gott! was war das? wie mein Herz schlägt – wie das Blut in meinen Adern zittert? Was hab ich unternommen? in welches Labirint von Unglück und Verzweilfung stürze ich die ganze Familie
+       <stage>
+        (Pause, die Hände ringend)
+       </stage>
+       O guter Gott!
+       <stage>
+        (mit Thränen)
+       </stage>
+       wie sehr fühle ich jetzt erst in dem fürchterlichen Augenblick, daß ich nur ihn lieben, nur in seinen Armen glücklich werden kann. O Liebe! Liebe! du machst uns Weiber so oft zu Engeln, aber auch öfters zu Teufeln.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      (Zimmer in des Kaspars Haus)
+     </stage>
+     <stage>
+      Niklas, und Rosine.
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Nun ist er fort, der vortrefliche Herr! Mein Gott, wie schön ist es doch wenn, Vornehme so herablassend gegen Geringere sind. Es ist einem so wohl, bey einem solchen Mann; und man erinnert sich dabey an die seelige Zukunft, wo einst im Himmel auch alles gleich seyn wird.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Lieber Großvater! der Bergverwalter mit dem Gerichtsdiener und einigen Soldaten.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Sollte es möglich seyn?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Hilf Himmel! Sie kommen schon, ich hole die Mutter.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechzehnter Auftritt.
+     </head>
+     <stage>
+      Niklas, Bergverwalter, Gerichtsdiener, 2 Soldaten und Christoph.
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (unter der Thüre, will den Verwalter den Zutritt verweigern)
+      </stage>
+      <p>
+       Herr! ich will wissen, wen Sie verlangen, was soll die Wache?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (kalt)
+      </stage>
+      <p>
+       Wozu diese aufbrausende Hitze, junger Mensch? ich verlange in dieses Zimmer.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nicht eher, bis ich die Ursache ihrer Gegenwart gehört habe.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (will Gewalt brauchen)
+      </stage>
+      <p>
+       Das wollen wir doch sehen.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Bei Gott, Herr! Sie kommen nicht hinein, bis ich weiß, was Sie wollen.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Leute! braucht Gewalt!
+      </p>
+      <stage>
+       (sie stürzen herein.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (mit dem Bewußtseyn der Ehrlichkeit)
+      </stage>
+      <p>
+       Sie suchen vielleicht mich? hier bin ich.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Ihr wandert in den Schuldthurm.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Wer? mein Pflegvater in Schuldthurm? Nein, Herr! das geschieht nicht, auf wessen Befehl unternehmen Sie diese schändliche Handlung?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Auf meinen eigenen, und auf Befehl derjenigen, welcher ihr 400 fl. schuldig seyd.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Wie Emilie sollte? unmöglich – seht Herr! euer Schurkengesicht lügt, da ihr dieses saget, Emilie sollte meinen Pflegvater –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Um euch zu überzeugen, seht hier ihre eigene Unterschrift.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Und daß schrieb Emilie? Emilie, die erst heute noch um meine Gegenliebe buhlte, die mir Liebe und Treue so oft vor Gottes unsichtbarem Antlitz schwur? Dies schrieb Emilie? Herr!
+       <stage>
+        (ergreift sein Hand)
+       </stage>
+       euer teuflischer Blick sagt, daß ihr Unwahrheit redet, dies schrieb ein Schurke!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wozu diese Umstände, fesselt ihn
+      </p>
+      <stage>
+       (sie wollen dem Alten die Fessln anlegen.)
+      </stage>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nein, das laß ich nicht geschehen, seht Herr! wenn diese weisse Locken euch keine Ehrfurcht einflössen, so ehre ich sie, legt mir die Fesseln an, ich bin euer Gefangener.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (beiseite)
+      </stage>
+      <p>
+       Desto besser,
+       <stage>
+        (laut)
+       </stage>
+       Er oder ihr, die Gerechtigkeit verlangt ihr Opfer.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Nun so laßt mich das Opfer seyn, diese Fesseln, Herr! vertausche ich in dem Augenblick nicht mit einer Tonne Goldes. Führt mich in Kerker.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Was unternimmst du? was willst du, mein Sohn!
+      </p>
+      <stage>
+       (hält ihn zurück.)
+      </stage>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Vater, Menschenpflicht will ich erfüllen, Dank will ich zollen, den ich euch schuldig bin, lebt wohl!
+      </p>
+      <stage>
+       (küßt ihn)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ich verstehe dich nicht, mein Sohn!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       So geht bey diesem Herrn in die Schule;
+       <stage>
+        (schlägt in [!] auf die Achsel.)
+       </stage>
+       Herr! diese Fesseln, glauben Sie mir, sind leichter, als die Gewissensbisse, die Sie einst vor Gottes Gericht peinigen werden.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Fort mit ihm in den Kerker!
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Mein Sohn, mein Sohn! ich muß ihm nach.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenzehnter Aufzug. [!]
+     </head>
+     <stage>
+      Lise (aus den Nebenzimmer allein.)
+     </stage>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Schaut! schaut, das ist doch wunderlich; es ist mir ja g’weßt, als wenn ich jemand hätt reden hören, und s’ ist doch kein Mensch da. – S’ ist aber ein verzweifelt Ding, daß ich bisweilen nicht gut höre.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Aufttitt. [!]
+     </head>
+     <stage>
+      Lise und der Philipp.
+     </stage>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (in Gedanken, ohne Lise zu sehen.)
+      </stage>
+      <p>
+       Was? und der Philipp soll das leiden thun? den Philipp heissens n’Wechselbalg, der Philipp soll ein dummer Jung seyn. Jetzt weiß der Philipp, schon was der Philipp thut.
+      </p>
+      <stage>
+       (lauft hastig umher und stößt an Lise.)
+      </stage>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was hast denn da mit dir selber g’redt; Philipp! he!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ist d’ Frau Ahnel da, eben recht!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Warum geht ’s dir schlecht, he!
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       Z’ letzt, hi hi hi, werdet ihr noch ’n Spektakel erleben thun am Philipp, der – der Philipp lauft noch auf und davon; ja das thut der Philipp.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Hast was g’sagt, Philipp?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Hört denn d’Frau Ahnel schon wieder nit wohl?
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was hat er dich g’heissen, n’groben Schroll?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Auweh! auweh! das ist ein Elend mit den alten Leuten.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Freylich sind nimmer die alte Zeiten! das ist ja immer mein Sag.
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Ich glaub’, d’ Frau Ahnel hat die Ohren mit Baumwolle verstopft?
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Wer klopft? da muß man halt nachschauen,
+       <stage>
+        (geht an die Thür, öfnet sie)
+       </stage>
+       He! ist wer da? Jetzt hab’ ich sicher geglaubt, es kommt Jemand.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, Rosine.
+     </stage>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (weinend)
+      </stage>
+      <p>
+       O meine liebe Großmutter! seyd ihr da?
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Nun warum weinst denn, Rosine, he! wer hat dir denn was gethan?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Der Bergverwalter, hi, hi, hi, hat unsern Christoph –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was hast g’sagt? ich versteh dich nicht –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Unsern Christoph in – in Arrest –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Freylich wärs das best’, aber dein Vater, und mein Mann sind schon so eigensinnige Kampeln, daß sie ihr Jawort nicht dazu geben wollen. War er denn da, der Herr Bergverwalter?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Freylich war er da, und hat ihn gerade ins Gefängniß –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Nun so laß hören, was für ein Bedingniß?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <stage>
+       (lauter)
+      </stage>
+      <p>
+       Ich sag ja, ins Gefängniß hat er ihn führen lassen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Mein, mein, warum soll er dich deswegen gleich hassen, hast ihm ja weiter nichts leids gethan.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ihr versteht mich nicht, liebe Großmutter!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Marthe mit den übrigen Kindern, alle traurig.
+     </stage>
+     <sp who="#kinder">
+      <speaker>
+       Kinder.
+      </speaker>
+      <p>
+       Der gute Christoph – hi – hi – hi!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Nun, warum weinet ihr denn, ihr Kleinen! ich habs ja gleich gesagt, es wird Verdrüßlichkeiten absetzen. Der Herr Verwalter ist ja ein vornehmer, reicher Herr.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Meynt denn aber die Mutter, daß er unsre Rosine heyrathen würde; nichts anders als verführen will er sie, und dann läßt er sie wieder laufen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       So denk ich auch, und das ist recht, er ist reich, und für’s Geld kann man sich alles in der Welt kaufen.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <stage>
+       (lauter)
+      </stage>
+      <p>
+       Ich sag, er läßt sie laufen. –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ja mit dem Laufen ists jetzt vorbey, ha, ha, ha, wenn du einmal 80 Jahrl zählst, wirst auch nicht mehr viel laufen können.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Man kann mit der Mutter nichts reden,
+       <stage>
+        (schreyt)
+       </stage>
+       weil sie nichts hört.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (aufgebracht)
+      </stage>
+      <p>
+       Wer hört nichts, hör Mensch! komm du mir nit so grob, oder ich werd dir noch in meinen alten Tagen zeigen,
+       <stage>
+        (im Eifer)
+       </stage>
+       daß ich deine Mutter bin, verstehst mich; schaut die Schnabelgans! sagt ich hör nix!
+       <stage>
+        (Die Kleinen lachen.)
+       </stage>
+       Was und ihr lachts mich auch aus, ist das auch erlaubt, euer Ahnel auszulachen?
+      </p>
+     </sp>
+     <sp who="#kinder">
+      <speaker>
+       Kinder.
+      </speaker>
+      <stage>
+       (springen alle an sie hin, und küssen ihr die Hand)
+      </stage>
+      <p>
+       Nein nein, liebe Frau Ahnel! wir lachen ja nicht.
+      </p>
+      <stage>
+       (Sie lachen lauter)
+      </stage>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <stage>
+       (lacht)
+      </stage>
+      <p>
+       Der Philip thut nit lachen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ich sags ja, es ist kein Christenthum mehr in der Welt, ja zu meiner Zeit hätt ich sollen meine Großmutter auslachen, den Hals hätt sie mir umgedreht.
+      </p>
+     </sp>
+     <sp who="#marthe">
+      <speaker>
+       Marthe.
+      </speaker>
+      <p>
+       Komm, liebe Mutter! wir wollen jetzt unsern Leuten das Essen bringen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Was – was umbringen wollts mich – mich umbringen, ihr Bagage ihr! eure alte Mutter wollts umbringen.
+      </p>
+      <stage>
+       (Kinder küssen ihr die Hände.)
+      </stage>
+     </sp>
+     <sp who="#seppel">
+      <speaker>
+       Seppel.
+      </speaker>
+      <p>
+       Nit umbringen, liebe Frau Ahnel! gern haben, lieb haben wollen wir die Frau Ahnel.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       So gehts her, ihr seyd noch meine einzige Freud’ auf der Welt; also wollts mich nit umbringen? s’ wär ja n’ grosse Sünd, ich hoff’ ja immer noch ein Duzend Jahrl zu leben, bis ich hundert alt bin,
+       <stage>
+        (nimmt an jede ihrer Hände ein Kind)
+       </stage>
+       Kommt kommt.
+       <stage>
+        (auf einmal wendet sie sich um.)
+       </stage>
+       Hat wer was g’sagt?
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Kein Mensch, es ist niemand da, geht d’ Frau Ahnel, jetzt wollen wir weiter –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ja ja, du bist schon so n’ Bärnhäuter.
+      </p>
+      <stage>
+       (alle ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und zwanzigster Auftritt.
+     </head>
+     <stage>
+      (Vorige Berggegend.) Man sieht niemand, die Leute sind im Bergwerk.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (in Bauernmädchens Kleidung)
+      </stage>
+      <p>
+       In dieser Kleidung wird mich niemand erkennen; sie soll mir behülflich seyn, die Unternehmungen meines Oheims desto leichter belauschen zu können. Dort kommt des Kaspers Tochter, wenn ich nicht irre! – Vielleicht bin ich so glücklich von diesem Mädchen etwas zu erfahren.
+      </p>
+      <stage>
+       (geht zurück.)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Wenn ich nur meinen Vater fände, damit ich ihm die abscheuliche Geschichte von unsrem Christoph erzählen könnte.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Von ihren Christoph sagt sie?
+      </p>
+      <stage>
+       (kommt herfür.)
+      </stage>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Was ist denn das für ein Mädchen, die hab ich in meinem Leben noch nie gesehen.
+       <stage>
+        (beyseite)
+       </stage>
+       Wenn ich nur s’Herz hätte, sie anzureden. – Wer ist die Jungfer? oder wohin will sie?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich erwarte hier meinen Vetter, Christoph.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Schaut! ist der Christoph ein Vetter von ihr? so ist sie ja auch eine Mahm von mir. – Woher kommt sie denn?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Gerade von dem Haus des Verwalters. –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Und da will ich gerade hin; sag sie mir doch, kennt sie nicht ein Fräulein, die sich Emilie nennt?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Sehr gut, so gut wie mich selber; Aber warum erkundigest du dich denn so sehr nach ihr?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Jetzt denk sie daran; wie unverschämt! sie untersteht sich, mir meinen Geliebten wegzukapern.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Du bist sehr offenherzig, gutes Mädchen!
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Ja, und denk sie daran; jetzt, da er mich heurathen sollt, mag er mich nicht mehr.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Das ist sehr traurig, aber warum denn nicht?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Hört sie’s denn nicht, weil er verliebt ist, der Schelm; aber sag sie selber, ist das schön, einem ehrlichen Mädchen ihren Geliebten abzuschwätzen?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ja [!] nachdem die Umstände sind. Du verlierst also sehr viel an deinem Christoph?
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Nicht nur viel, alles verlier ich, und am Ende werd’ ich wohl noch gar wegen der Stadtmamsell ohne Mann sterben müssen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Dafür wird Emilie sorgen, dein Freundin –
+       <stage>
+        (küßt sie)
+       </stage>
+       die hier vor dir steht.
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Wie – was – Sie Fräulein Emilie!
+       <stage>
+        (Niklas kommt, Rosine ihm entgegen)
+       </stage>
+       Großvater! – lieber Großvater! da seht einmal das gnädige Fräulein in dieser Kleidung.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Die ich anzog, um unerkannt in euer Haus zu kommen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Niklas.
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Aber, bestes Fräulein! was haben Sie gethan?
+       <stage>
+        (will niederknien)
+       </stage>
+       Gnade, Barmherzigkeit für meinen Sohn, er ist unschuldig.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Steht auf, guter Alter! ich verstehe euch nicht.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Er ist zwar nicht mein Kind, aber ich liebe ihn wie meinen Sohn; schenken Sie ihm Freyheit, und Gott wird Sie seegnen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Freyheit? was redet ihr? guter Alter! Christoph! euer Pflegsohn? –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Schmachtet im Kerker; nahm mir die Fesseln von den Händen,  und geht für mich, für mich alten Mann ins Gefängniß.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Euer Pflegsohn?  Christoph im Kerker! Allmächtiger Gott! was hör ich; ha diese graue Locken! was fühle ich bey ihrem Anblick? – Verlaß mich, Alter! ich bin unschuldig an dieser niedrigen Handlung; die bitteren Vorwürfe, die du auf deiner Stirne mitbringst, durchkreuzen wie Furienblicke das Innerste meiner Gebeine. Dein Pflegsohn im Kerker? Geh – geh – Alter! dein Sohn ist frey.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Er ist frey; mein Sohn ist frey! o so erlauben Sie mir Fräulein, daß ich ihre Hand mit meinen Thränen benetzen darf; es sind Thränen eines ehrlichen Mannes, Freudenthränen eines alten zitternden Greisen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (allein)
+      </stage>
+      <p>
+       Christoph im Kerker? Ha was unternahm der Schurke nicht? – Aus Rache stürzt er eine gute, ehrliche Familie ins Verderben; macht einem alten Mann seine wenige Leben noch zu Tagen der Hölle. Ha, Gott! wie dank ich dir, daß ich noch fühle, empfinde – was es heißt, Menschen unglücklich zu machen. Christoph im Gefängniß? und ich kann noch einen Augenblick zaudern, ihn zu befreyen? ihn zu retten? Ja ich will, ich muß zu ihm; will ihn um Verzeihung flehen; will ihn bitten, daß er mir verzeihe, aber meiner Liebe nicht vergesse.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Drey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Kasper, Bernhard, Rosine, einige Bergknappen.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Gift Sapperment! laßt mich, jetzt bin ich toll; wenn ich den Kerl gleich da hätte, ich könnt’ ihn mit meinen Händen – Meinen Vater ins Gefängniß werfen wollen?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Ihr hört ja, daß Christoph statt ihm dahin gegangen ist –
+      </p>
+     </sp>
+     <sp who="#rosine">
+      <speaker>
+       Rosine.
+      </speaker>
+      <p>
+       Vater! Vater! er kömmt, macht euch fort; der Bergverwalter kömmt.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Laßt ihn kommen; und wenn der Teufel und sein höllisches Heer kommt; ich bleibe da stehen wie n’Fels-Mauer.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vier und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Bergverwalter, mehrere Bergknappen
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nun, warum denn so müssig? was steht ihr denn so da, ohne daß ihr euch um die Arbeit bekümmert.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Wir arbeiten von der Stund’ an nichts mehr.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Was! ihr impertinenter Kerl! ihr arbeitet nichts mehr?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Nein, nein; keiner von uns arbeitet nichts mehr, bis Christoph loskommt.
+      </p>
+     </sp>
+     <sp who="#kasper #bernhard #bergleute"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (schlagen in die Hände)
+      </stage>
+      <p>
+       Nein, nein; und ewig nein!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (eben so)
+      </stage>
+      <p>
+       Und ich rühr so lang keinen Hammer mehr an, bis der Teufel den Bergverwalter holt.
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (hebt den Stock)
+      </stage>
+      <p>
+       Wart Kerl!
+      </p>
+     </sp>
+     <sp who="#kasper #bernhard #bergleute"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (umringen ihn)
+      </stage>
+      <p>
+       Was soll das seyn? den Stock nieder! den Stock nieder!
+      </p>
+      <stage>
+       (Verw. will zuschlagen)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Sapperment! jetzt giebts n’Bataille;
+      </p>
+     </sp>
+     <stage>
+      (die Bergleute holen ihre Geräthschaften. Verw. retirirt sich in das Haus und schaut zu dem an der Thüre befindlichen Fensterbalken, woran eine Fallthüre ist heraus.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wartet nur, ihr Pursche! ihr sollt alle arretirt werden.
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (schleicht sich dahin, hält ihm den Kopf. die andern halten die Fallthüre oben fest; so daß er nimmer hinein und heraus kann)
+      </stage>
+      <p>
+       Uns ehrliche Leute zu arretiren?
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Wollt ihr mich los lassen? He! zu Hülfe!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünf und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Alle, Niklas,  Lise, Kinder, lachen.
+     </stage>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       Chorus.
+      </stage>
+      <lg>
+       <l>
+        Willkommen, g’strenger Herr!
+       </l>
+       <l>
+        Was schaffen Sie noch mehr?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Schurken!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Sie sind in unsern Händen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Schlingel!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wir werden Recht schon finden.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Schurken! laßt mich frey.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wir lassen Sie nicht frey.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Lassen Euer Wohlgebohrn!
+       </l>
+       <l>
+        Mein Mädel ungeschor’n!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Christoph obendrein,
+       </l>
+       <l>
+        Muß aus dem Kerker seyn!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Nein – das geh’ ich nicht ein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (wollen fort)
+      </stage>
+      <lg>
+       <l>
+        So bleiben Sie allein
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ich laß euch arretiren!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wir lass’n uns nicht schimpfhiren,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Schurken! laßt mich frey!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas #lise #kasper #bernhard #bergleute #kinder"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Wir lassen Sie nicht frey!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle mit lachen ab.)
+     </stage>
+     <stage>
+      Der Vorhang fällt.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Vierter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Kerker.)
+     </stage>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (sitzt an einem kleinen Tischchen, geschlossen, steht auf.)
+      </stage>
+      <p>
+       Eingekerkert, wie der schwärzeste Bösewicht, an einem Ort wo nur Schurken ihren Satanshandlungen nachdenken, und Diebe und Mörder ihr schändliches Leben verfluchen müssen; an einem Ort, der mich von Gottes guten Geschöpfen absondert, und mir das Tageslicht raubt! – ha! ein fürchterlicher Ort! und doch so ruhig, so harmlos, wenn man sich von Schurkereyen frey weiß, und seine Unschuld durch niedrige Rache verfolget sieht.
+       <stage>
+        (er hört Emilie und den Kerkermeister.)
+       </stage>
+       Gott! was hör’ ich –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Aufzug. [!]
+     </head>
+     <stage>
+      Christoph, Emilie, mit dem Kerkermeister.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (unter der Thüre.)
+      </stage>
+      <p>
+       Auf Befehl des Verwalters –
+      </p>
+     </sp>
+     <sp who="#kerkermeister">
+      <speaker>
+       Kerkermeister.
+      </speaker>
+      <p>
+       Nun – wenn das ist, so geh ich wieder.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (Pause, will ihm ihn die Arme.)
+      </stage>
+      <p>
+       Christ –
+       <stage>
+        (er wendet sich weg.)
+       </stage>
+       Und nicht einmal eines Blickes würdigest du mich?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Sie hier – Fräulein! an einem Ort, den nicht leicht Menschen ihrer Art gern besuchen. Was verlangen Sie?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Dir deine Freyheit wieder geben.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Meine Freyheit? welch unmelodischer Klang führt das Wort in ihrem Munde? Fesseln und Kerker sind reinere, lieblichere Töne für eine so kleine Seele, wie sie besitzen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Christoph! das zu mir – zu deiner
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Zu ihnen – denn dieser Ort verlangt Wahrheit, keine Schmeicheley. Schon mancher Verbrecher bereitete sich hier zu seinem schändlichen Tod – es wäre nicht gut, wenn wir diesen ernsten Ort zu einem Modeplatz umschaffen wollten, wo Lüge statt Wahrheit im Gange ist – wo Schurkerey und Niederträchtig­keit statt Tugend und Menschenliebe ausgeübt wird.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Christoph! ich bin unschuldig – Von deiner oder deines Pflegvaters Gefangennehmung weiß ich kein Wort.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Und unterschrieben doch ihren Namen – um die Urheberin unsers Unglücks desto eher kennen zu lernen.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Meinen Namen unterschrieb ich, – sagst du? ha! welche Bosheit! Christoph! hasse mich – verabscheue mich wie die giftigste Schlange, wenn ich dieser Handlung fähig war. Du beleidigest mich auf das härteste, da du mir meinen Brief zurückschicktest – warum mußtest du mich auch durch deine Gleichgültigkeit kränken?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ich habe Sie nach ihrer Meynung gekränkt, aber ich wollte sie nicht kränken – konnte Sie nicht kränken, weil ich Sie geliebt habe; ihre Liebe – ihre unglückliche Liebe gegen mich, die Sie – die uns beyde zu Schwurbrüchigen machen würde, bringt mich in diese Schurkenwohnung – bringt meinen alten Pflegvater um Ehre und Brod – vielleicht um sein Leben.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Christoph o warum liebtest du mich? warum sagtest du mir so oft, daß du mich liebtest? warum mußt’ ich dich so für deine Liebe belohnen? Ich kann es kaum wagen, dich um Verzeihung zu bitten – könntest du mir vergeben, du wärest noch edler, als ich unglücklich bin.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Ich vergeb’ ihnen – Emilie!
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       O so verlaß mit mir diesen Ort, dessen Mauern von meines Oheims schwarzen, schändlichen Handlungen wiederhallen – komm mit mir, sieh – hier auf meinen Knien –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Emilie! stehen Sie auf, dieser Ort ist zu unheilig, als daß er von ihren Knien berührt werden soll.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Vorige, der alte Niklas.
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Mein Sohn! mein Sohn! du bist frey – Gnädiges Fräulein! Gott soll ihre Güte lohnen –
+      </p>
+      <stage>
+       (Umarmung.)
+      </stage>
+     </sp>
+     <sp who="#emilia">
+      <speaker>
+       Emilia.
+      </speaker>
+      <stage>
+       (beyseite)
+      </stage>
+      <p>
+       Ha! daß ich mein Herz stählen könnte wieder das bittere Andenken dieser Unternehmung – laß dich umarmen, Christoph!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Zum letzenmal, Emilie! du gabest mir Liebe, ich gebe sie dir mit Wucher, mit meiner Seelenruhe zurück; du gabest mir und meinem alten Pflegvater Freyheit, dafür lohne dich der Allmächtige! Leb wohl – sey glücklicher als ich – es bin – und vergiß nicht meiner, der dich – ewig liebt.
+      </p>
+      <stage>
+       (reißt sich von ihr loß.)
+      </stage>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Christoph!
+      </p>
+      <stage>
+       (wie er die Thüre öfnen will, kömmt der Präsident.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Vorige, Präsident, Bernhard.
+     </stage>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Hier muß ich euch finden, gute Menschen! an dem fürchterlichen Ort, der nur zur Strafe der Missethäter bestimmt ist?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ha! nun kömmt durch unsern Schuzgeist die Stunde unserer Erlösung an.
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Euer Exzellenz! diese Fesseln und dabey mein gutes Gewissen, nichts unternommen zu haben, das diese Behandlung verdient.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ich bin nicht so glücklich, Euer Exzellenz zu kennen; aber für die Ehrlichkeit dieser guten Leute bürge ich
+       <stage>
+        (vor ihm auf den Knien)
+       </stage>
+       Retten sie diese arme Familie –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Stehen Sie auf, wer sind Sie?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Die unglückliche Tochter des verstorbenen Bergverwalters Zellers.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Nennen sich Emilie?
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Ja, Euer Exzellenz!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ich weiß ihre ganze Geschichte Sie sollen durch mich glücklich werden. Gehen Sie nach Haus, und holen Sie ihren Oheim, ohne ihm zu sagen, daß ich hier bin und dann erweisen Sie mir eine Gefälligkeit bereiten Sie ein kleines hochzeitliches Mahl zu dem 50 iährigen Hochzeitfest dieses alten Mannes; Ich will demselben beywohnen, und für das ganze Dorf soll heute ein Tag der Freude seyn.
+      </p>
+     </sp>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <p>
+       Euer Exzellenz tragen mir hier ein Geschäft auf, das angenehmste in meinem ganzen Leben;
+       <stage>
+        (küßt ihm die Hand.)
+       </stage>
+       O Christoph! wo es solche Schutzgeister unter den Menschen giebt, da kommt Glück und Seegen über uns.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <stage>
+       (drückt dem Präsidenten die Hand.)
+      </stage>
+      <p>
+       Bey meiner armen Seele! Herr! Sie sind ein wackerer Mann; da wollt’ ich gern arm seyn, wenn es mehr so gute reiche Leute in der Welt gäbe.
+      </p>
+      <stage>
+       (will fort.)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Bleibt, Bleibt, guter Bernhard! auch wir haben noch ein paar Worte zusammen zu reden. Ihr sagtet ja heute, daß ihr Feldwäbel waret unter des hochseeligen Königs Leibregiment? Wie nennt ihr euch?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Bernhard Lotter!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Bernhard Lotter? waret ihr nicht bey er unglücklichen Bataille in Rothenacker?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       War dabey, euer Exzellenz! dort lernte ich ja diesen wackern alten Mann kennen.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Wie ihr seyd aus Rothenacker?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Leider, Euer Exzellenz! mein Weib und ich haben in Rothenaker gewohnt, eine Virtelstunde vor dem Dorf auf der grossen Haide war das Treffen, der Feind brach ein, steckte das Dorf in Brand, wir mußten fliehen –
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Des Morgens bekamen wir Sukkurs; unsere Leute brachten den Feind in die Mitte, umzingelten ihn, fielen ihn an wie reißende Löwen, und brachten ihn zum fliehen –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Aber Rothenacker war verheert – ausgeplündert –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (trocknet sich eine Thräne)
+      </stage>
+      <p>
+       Und ich – verlor dabey das kostbahrste, was ich besaß, meine Gattin.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Was sagen Euer Exzellenz?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Mein Weib und ich giengen zurück in das Dorf, was nicht abgebrannt war, fanden wir zerstört – – aber dieser unglücklichen Nacht habe ich meinen Pflegsohn Christoph, diesen guten Jüngling zu danken.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Was sagt ihr – Alter!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ich und mein Weib giengen über den Schutt, kamen an einen Garten, und hier fanden wir eine Frau liegen auf der Erde –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Eine Frau?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Halb nackend und ein neugebohren Kind neben ihr, in einen Mantel gewickelt –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Was hör’ ich –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Wir gingen dahin, die Frau war tod; das Kind lächelte uns an, ich nahm’ es auf meine Arme, ich bin arm, dacht’ ich, habe 4 eigene Kinder, aber wo 4 essen, soll das 5te auch nicht darben; wir nahmen es mit –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (in sich selbst verlohren)
+      </stage>
+      <p>
+       Ihr nahmet es mit –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Und da fanden wir auf der Brust des neugebohrnen Knaben ein Papier mit Blut geschrieben.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (mit gespanter Neugierde)
+      </stage>
+      <p>
+       Ein Papier?
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Hier – Euer Exzellenz ist mein Taufschein; meine Mutter hatte nicht mehr Kraft genug, ihren Namen zu vollenden.
+      </p>
+      <stage>
+       (giebt ihn das Papier.)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (ließt mit zitternder Hand)
+      </stage>
+      <p>
+       Gott erbarme sich meiner und meines armen Kindes, – „Karoline von Blum“ – Alter! was les’ ich – Karoline von Blumenthal war mein Weib – –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (mit erhobenen Blicke)
+      </stage>
+      <p>
+       Guter Gott! deine Wege sind wunderbar.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Und dieser Jüngling ist das Kind, das du sandest; dieser Jüngling wäre mein Sohn? O mein Gott! wie glücklich bin ich noch! Sohn – Sohn! komm an das Herz deines Vaters!
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (ihm zu Füssen, seine Hand mit Thränen benetzend)
+      </stage>
+      <p>
+       Wäre es möglich – Sie – mein Vater?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Anno 69 verlor ich in dem Treffen bey Rothenacker mein Weib, die hochschwanger war, ich ließ’ alles auf dem Schlachtfelde durchsuchen, und fand sie nicht.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Euer Exzellenz! mein Weib nahm das Kind, ich den todten Leichnahm, seegnete ihn ein, und begrub ihn mit eigener Hand.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (küßt Niklas die Hand)
+      </stage>
+      <p>
+       Alter! heißer Dank noch in dein Grab, und der Vorsicht Seegen über deine grauen Locken; hier – hier – nimm – nimm alles, was ich habe, diesen Ring, diese Uhr, mein Geld, nimm mein Herz; du gabest mir einen Sohn, und machst mich zu dem glücklichsten Vater.
+      </p>
+      <stage>
+       (umarmt seinen Sohn.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ha! welche Wonne, wenn man Menschenpflicht erfüllet!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Mehr als Menschenpflicht! du begrubest mein Weib, nahmest meinen Sohn auf, machtest ihn zum rechtschaffenen Manne, Gott soll dir diese Handlung in das Buch der Vergeltung einschreiben.
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Aber erlauben, Euer Exzellenz! als was stunden Sie  dann unter dem Regiment?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Kennt ihr euren ehemaligen Hauptmann Blumenthal nicht mehr?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Sie! Euer Exzellenz der Hauptmann Blumenthal? der mich einmal, da ich den Rapport1 verlor, 4 Tage in Arrest gab.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Eben der? es ist zwar nicht mein rechter Name, es ist nur der Name meines Wohlthäters, den ich, da er mich zum Erben seines Vermögens einsetzte, annehmen mußte; mein Familienname ist Eberhard Grönner –
+      </p>
+      <stage>
+       (alle staunen.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Eberhard Gröner, so nennen sich Euer Exzellenz?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ja, guter Alter! ich bin aus Sachsen gebürtig.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Aus Sachsen? ihr Vater?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       War, was ihr seyd – ein Bergmann.
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Er ists – er ists Gott!
+       <stage>
+        (fällt ohne Sinne zur Erde)
+       </stage>
+       es ist mein Sohn!
+      </p>
+      <stage>
+       (Pause)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Wie nennt sich der Alte – guter Bernhard!
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Schon 20 Jahre kenne ich ihn nur unter dem Namen Niklas; hat aber oft gesagt, daß er sich habe flüchten müssen, und seinen Namen zu verschweigen, gezwungen wäre.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Niklas? so hieß mein Vater!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (erholt sich, faltet die Hände)
+      </stage>
+      <p>
+       Das ist zu viel – Gott! dein Name sey gelobt! Eberhard –
+       <stage>
+        (streckt die Hände nach ihm aus)
+       </stage>
+       giengest du nicht Anno 56 unter die Soldaten?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (hebt ihn auf – an seinen Hals.)
+      </stage>
+      <p>
+       Ich bin euer Sohn –
+      </p>
+      <stage>
+       (stürzt auf die Knie)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Vorige, König (im Ueberrock, ein Offizier mit ihm)
+     </stage>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <stage>
+       (staunt – Pause)
+      </stage>
+      <p>
+       Was geht hier vor?
+      </p>
+     </sp>
+     <sp who="#bernhard">
+      <speaker>
+       Bernhard.
+      </speaker>
+      <p>
+       Himmel! das ist der König –
+      </p>
+     </sp>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <p>
+       Graf! von was für einem Bild werd’ ich hier Augenzeuge, was seh’ ich –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <stage>
+       (den Alten in seienen [!] Armen – immer noch zur Erde)
+      </stage>
+      <p>  
+       Sire! ein Familiengemälde zwischen Großvater, Vater und Sohn, das nur gesehen, nur empfunden und gefühlt werden kann.
+      </p>
+     </sp>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <p>
+       Was hör’ ich –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Verzeihen Sie, Sire! daß ich ihnen schuldige Hochachtung verleze, und hier vor ihnen – als 50 jähriger Mann, mei- [!] meinen 90 jährigen Vater in den Armen halte – dieser arme Greis – mein Vater fand hier diesen Jüngling meinen Sohn, und ernährte, erzog ihn wie sein eigenes Kind, er fand ihn bey der Schlacht in Rothenacker, da ich meine Gattiin [!] verlor.
+      </p>
+     </sp>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <p>
+       Ha! Graf – um diesen Vorfall beneid ich sie – – Begleiten Sie ihren Vater, der der Ruhe bedarf, nehmen Sie ihren Sohn nach Haus, geniessen Sie die Freude des Wiedersehens in dem Zirkel ihrer Familie – Sie kennen mein Herz – wissen, wie sehr ich Männer ihres Ranges schätze, wenn sie ihre Eltern ehren.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       O Sire! ihre Gnade ist ohne Gränzen – Sie sind ein grosser Fürst – Sire! weil sie so vieles Vergnügen an unserer häußlichen Zufriedenheit nehmen – Kommt – kommt, alter Vater! führt mich in eure Wohnung –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Nicht ich – du mußt mich führen – Sohn! denn diese Freude übermannt meine alten Kräfte!
+       <stage>
+        (kindisch lächelnd)
+       </stage>
+       Ha – ha – ha – einen Sohn – einen so vornehmen Sohn – Was meine alte Lise dazu sagen wird – ha, ha ha!
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Wie! meine Mutter lebt auch noch?
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Sie lebt, ha – ha – ha – frisch und gesund wie ich! da kommt sie ja.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Vorige Lise.
+     </stage>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (schaut sich um)
+      </stage>
+      <p>
+       Nun – du alter Schelm! kommst du denn gar nicht mehr nach Haus?
+       <stage>
+        (macht einige Knickse)
+       </stage>
+       schön willkomm schön willkomm!
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Lise, liebe gute Herzenslise, geh, fall nieder auf die Erde, falt deine Hände, gegen unsern lieben Herr Gott dank’ ihm – wenn du auch nicht mehr beten kannst, so dank ihm mit dem Herzen, dieser vornehme Herr – ist – ist unser Sohn, unser Eberhard –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (weint in die Schürze)
+      </stage>
+      <p>
+       Ja, freylich! wer weiß, ob der noch lebt, unser Eberhard; hi, hi, hi, den werdens schon lang’ erschossen haben, er war ein guter Junge in seiner Jugend, folgsam und gottesfürchtig, ja – das war er –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Sie hört nicht mehr gut.
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Laßt mich in ihre Arme Mutter! Mutter!
+      </p>
+      <stage>
+       (ihr an den Hals)
+      </stage>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (windet sich los)
+      </stage>
+      <p>
+       Ey, ey, was doch die vornehme Herren für gottlose Leute sind, ha, ha, ha, Was wollens denn von mir?
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Ich bin euer Sohn, Mutter!
+       <stage>
+        (Emilie kommt, er hört den Lermen)
+       </stage>
+       Was hör’ ich.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Vorige, Emilie.
+     </stage>
+     <sp who="#emilie">
+      <speaker>
+       Emilie.
+      </speaker>
+      <stage>
+       (schnell)
+      </stage>
+      <p>
+       Euer Exzellenz schon ist alles bereitet, Aber, Himmel! wen seh’ ich –
+      </p>
+      <stage>
+       (Man hört den Bergverwalter, der König geht zurück)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Vorige, Bergverwalter, hinter ihm Rosine und Kaspar.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (in Wuth)
+      </stage>
+      <p>
+       Wo ist der Gefangene? Und warum find’ ich die Thürn des Gefängnisses geöffnet?
+       <stage>
+        (zu Bernhard)
+       </stage>
+       Und was macht ihr hier? und du Nichte! Schämst du dich nicht, dem Laffen hier ins Gefängniß zu folgen –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Gnade, Herr Bergverwalter!
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Nichts; du bleibst hier verwahrt, bis sich jemand findet, der deines Pflegvaters Schulden bezahlt –
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <p>
+       Und der Jemand wird sich auch finden –
+      </p>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <p>
+       Und wer sollte der Jemand seyn, wenn ich fragen darf?
+      </p>
+     </sp>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <stage>
+        (tritt hervor, öfnet seinen Rock)
+       </stage>
+      <p>
+       Der König.
+      </p>
+     </sp>
+     <sp who="#christoph #rosine #kasper #emilie #verwalter"><!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Der König!
+      </p>
+      <stage>
+       (Sie stürzen zu seinen Füssen)
+      </stage>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (wie erstarrt, stürzt vor ihn hin)
+      </stage>
+      <p>
+       Gnade – Sir! Ich will alles bekennen; das Testament meines seeligen Bruders ist falsch; von mir unterschoben – Emilie! dieser Jüngling sey dein Mann –
+      </p>
+     </sp>
+     <sp who="#emilie #christoph">
+      <speaker>
+       Emilie. Christoph.
+      </speaker>
+      <p>
+       Wär es möglich –
+      </p>
+     </sp>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <p>
+       Nicht durch dich, sondern durch mich vereint – Eure Geschichte ist mir bekannt; und du, Schurke! bleibst hier an diesem Ort, den du für unschuldige biedere Menschen zum Strafort wähltest – ich werde deine Handlungen auf das genaueste untersuchen lassen, und nach Bewandtniß der Umstände dir ein besseres Quartier auf der Festung anweisen. Junger Mann! der heutige Tag soll als einer der wichtigsten und glücklichsten unter ihre Nachkommen aufgezeichnet werden. Ich mache Sie zum Oberaufseher meiner hiesigen Bergwerke – tretten Sie in die Fußstapfen ihres würdigen Vaters, und ihre Rechtschaffenheit und Tugend wird auch in ihrem Alter belohnt werden. Nun kommt, lieben Leute! führet mich zu dem Alten
+      </p>
+     </sp>
+     <sp who="#christoph">
+      <speaker>
+       Christoph.
+      </speaker>
+      <stage>
+       (vor ihm auf die Knie)
+      </stage>
+      <p>
+       Seegen dem Land, das einen König hat, der so Rechtschaffenheit belohnet.
+      </p>
+      <stage>
+       (König ab)
+      </stage>
+     </sp>
+     <sp who="#emilie #christoph #kasper #rosine #verwalter"><!--  ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Es lebe unser König!
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Und von 99 Bergverwaltern soll hundert der Teufel holen –
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <stage>
+      (Kerkermeister führt den Verwalter ab)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Garten, illuminirt – Mitten auf einem Postament, das mit Bergmanns Insignien verziert ist, transparent die Worte (Es lebe der König). Alle Bergleute. Mädchen paar und paar mit Blumengirlanden. Nicklas und Lise in hochzeitlichem Anzug mit Kränzen, dann ihre Kinder und Enckel. Im Hintergrunde eine Laube, wobey ein gedeckter Tisch steht. Vor dem Zug Bergknappen Musick.)
+     </stage>
+     <sp who="#niklas #lise #kasper #marthe #rosine #philipp #christoph #bernhard #präsident #emilie #hanne #kinder #bergleute"> <!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       Chorus.
+      </stage>
+      <lg>
+       <l>
+        Es lebe der König!
+       </l>
+       <l>
+        Noch lang’ soll er leben!
+       </l>
+       <l>
+        Mit Kindern und Enckeln,
+       </l>
+       <l>
+        Urenckeln umgeben!
+       </l>
+       <l>
+        Er lebe zur Freude der Bergleute hier,
+       </l>
+       <l>
+        Er ist unser Wonne, der Könige Zier!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <stage>
+       (zieht seine Mütze)
+      </stage>
+      <p>
+       Heute 50 Jahre, Sohn und Enckel gefunden! heute ist ja wohl einer meiner glückseligsten Tage! Aber lieben, guten Leute! wer hätt sich das Glück vorgestellt; mein Sohn Eberhart ein Graf –
+       <stage>
+        (mit erhobnem Blick)
+       </stage>
+       Tausend Seegen über unsern guten König –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Ja, ja; nur noch 20 Jahrl möcht’ ich leben – du hast Recht.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Vorige, der Präsident.
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Da kommt er –
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Hilf Himmel! jetzt lauf ich davon –
+      </p>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Gute Eltern! dieses kleine Fest widme ich unserem guten König, und euch – an diesem für mich so festlichen Tage gönnet mir das Vergnügen, und beyde bedienen zu dörfen, um die Freude des Wiedersehens in vollerem Masse zu geniessen.
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (neigt sich)
+      </stage>
+      <p>
+       Aber du mein Gott! ist’s denn wirklich wahr? sind – oder bist – sie und du unser – ihr Gnaden – Herr Sohn?
+      </p>
+      <stage>
+       (mit offnem Mund)
+      </stage>
+     </sp>
+     <sp who="#präsident">
+      <speaker>
+       Präsident.
+      </speaker>
+      <p>
+       Die Freude übermannt sie –
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (springt dahin)
+      </stage>
+      <p>
+       Sind – oder bist du, Euer Excellenz denn wirklich mein Herr Bruder?
+      </p>
+      <stage>
+       (Umarmung)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Vorige, der König mit Gefolge. (Alle stürzen zu seinen Füssen)
+     </stage>
+     <sp who="#könig">
+      <speaker>
+       König.
+      </speaker>
+      <p>
+       Steht auf, gute Menschen! ich dank’ euch für eure Wünsche –
+       <stage>
+        (zu Niklas und Lise)
+       </stage>
+       Kommt, alten Leute! macht euch lustig; singt – tantzt und springet, und laßt mich den heutigen Tag unter einen der glücklichsten meines Lebens zählen –
+      </p>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Gnädigster König!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (zittert)
+      </stage>
+      <p>
+       O mein Gott! wie ist mir? ich bin schwach – Alter! gieb mir ein Glas Wein –
+      </p>
+      <stage>
+       (der König winckt, die Musik beginnt.)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Alte Liese! wollen wir eins –
+      </p>
+      <stage>
+       (zeigt durch Pantomime, daß er mit ihr tanzen wolle.)
+      </stage>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <stage>
+       (zieht die Füsse an sich)
+      </stage>
+      <p>
+       Es wird sich nimmer thun, lieber Niklas!
+      </p>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <p>
+       Probier’s d’Mutter; s’probiren ist über studiren – Geh’ her, Marthe –
+      </p>
+     </sp>
+     <sp who="#philipp">
+      <speaker>
+       Philipp.
+      </speaker>
+      <p>
+       Wenn der Vater thut, so thut der Philipp auch mit –
+      </p>
+      <stage>
+       (nimmt Hanne)
+      </stage>
+     </sp>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <p>
+       Ha! mein Leben kömmt mir vor wie ein froh durchlebter Erntetag! Gnädigster König!
+       <stage>
+        (nimmt Liese)
+       </stage>
+       den letzten Tanz in meinem Leben – aber keinen andern, als den Großvater-Tanz; komm, gute Lise!
+      </p>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <p>
+       Aber hübsch langsam, sonst kömmt die alte Lise nicht nach.
+      </p>
+      <stage>
+       (Der ganze Kreiß versammelt sich um die Alten her, der gewöhnliche Großvater-tanz beginnt. Anfangs ganz pathetisch, nach und nach lustiger, biß zum lezten Chor.
+      </stage>
+     </sp>
+     <stage>
+      Chor.
+     </stage>
+     <stage>
+      Beyde (tanzen und singen)
+     </stage>
+     <sp who="#niklas">
+      <speaker>
+       Niklas.
+      </speaker>
+      <lg>
+       <l>
+        Als ich noch nicht Großvater war,
+       </l>
+       <l>
+        Da war ich lustig und froh –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lise">
+      <speaker>
+       Lise.
+      </speaker>
+      <lg>
+       <l>
+        Als ich noch nicht Großmutter war,
+       </l>
+       <l>
+        Da gieng es noch; so – so  –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Chor.
+     </stage>
+     <sp who="#kasper #marthe #rosine #philipp #christoph #bernhard #präsident #emilie #hanne #kinder #bergleute #könig"> <!-- ids korrekt?-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (In dem sie in zerschieden Figuren um die Alten herumtanzen.)
+      </stage>
+      <lg>
+       <l>
+        Wir ehren das Alter, es ist unsre Pflicht –!
+       </l>
+       <l>
+        Der Bergleute Sitten – verachten wir nicht!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Erster Chor: Es lebe der König)
+     </stage>
+     <stage>
+      (Gruppe von Allen. der Großvatter mit der Alten Lise; beyde außer Athem stürzen vor den König hin, der König begränzt die Alten – die Uebrigen legen ihre Blumen Girlanden kniend zu seinen Füssen.)
+     </stage>
+     <stage>
+      (Der Vorhang fällt.)
+     </stage>
+     <stage>
+      Ende des Lustspiels.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

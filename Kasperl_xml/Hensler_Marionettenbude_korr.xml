@@ -1,0 +1,5492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Die Marionettenbude,
+     oder
+     der Jahrmarkt zu Grünwald
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl Friedrich Hensler
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1795">
+      1795
+     </date>
+     <date type="premiere" when="1795">
+      1795
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="verwalter">
+      <persName>
+       Verwalter
+      </persName>
+     </person>
+     <person xml:id="impressar">
+      <persName>
+       Impressar
+      </persName>
+     </person>
+     <person xml:id="hellwig">
+      <persName>
+       Hellwig
+      </persName>
+     </person>
+     <person xml:id="kasper">
+      <persName>
+       Kasper
+      </persName>
+     </person>
+     <person xml:id="röschen">
+      <persName>
+       Röschen
+      </persName>
+     </person>
+     <person xml:id="finchel">
+      <persName>
+       Finchel
+      </persName>
+     </person>
+     <person xml:id="susanna">
+      <persName>
+       Susanna
+      </persName>
+     </person>
+     <person xml:id="blumer">
+      <persName>
+       Blumer
+      </persName>
+     </person>
+     <person xml:id="bandoletti">
+      <persName>
+       Bandoletti
+      </persName>
+     </person>
+     <person xml:id="corporal">
+      <persName>
+       Corporal
+      </persName>
+     </person>
+     <person xml:id="chor">
+      <persName>
+       Chor
+      </persName>
+     </person>
+     <person xml:id="casper"><!-- =kasper? -->
+      <persName>
+       Casper
+      </persName>
+     </person>
+     <personGrp xml:id="bauern">
+      <name>
+       Bauern
+      </name>
+     </personGrp>
+     <person xml:id="nürnberger krämer">
+      <persName>
+       Nürnberger Krämer
+      </persName>
+     </person>
+     <person xml:id="recit"><!-- ? -->
+      <persName>
+       Recit
+      </persName>
+     </person>
+     <person xml:id="korporal"><!-- =corporal? -->
+      <persName>
+       Korporal
+      </persName>
+     </person>
+     <personGrp xml:id="schluß chor">
+      <name>
+       Schluß Chor
+      </name>
+     </personGrp>
+     <person xml:id="graf">
+      <persName>
+       Graf
+      </persName>
+     </person>
+     <person xml:id="nürnberger krämer ">
+      <persName>
+       Nürnberger Krämer
+      </persName>
+     </person>
+     <person xml:id="tiroler teppichhändler">
+      <persName>
+       Tiroler Teppichhändler
+      </persName>
+     </person>
+     <person xml:id="oebstlerin">
+      <persName>
+       Oebstlerin
+      </persName>
+     </person>
+     <person xml:id="jude">
+      <persName>
+       Jude
+      </persName>
+     </person>
+     <person xml:id="schlawack">
+      <persName>
+       Schlawack
+      </persName>
+     </person>
+     <person xml:id="tiroler">
+      <persName>
+       Tiroler
+      </persName>
+     </person>
+     <personGrp xml:id="lebzelten mädchen ">
+      <name>
+       Lebzelten Mädchen
+      </name>
+     </personGrp>
+     <personGrp xml:id="mandoletti mädchen">
+      <name>
+       Mandoletti Mädchen
+      </name>
+     </personGrp>
+     <personGrp xml:id="lustiger chor">
+      <name>
+       Lustiger Chor
+      </name>
+     </personGrp>
+     <person xml:id="immerschön">
+      <persName>
+       Immerschön
+      </persName>
+     </person>
+     <personGrp xml:id="poh beyde"><!-- ? -->
+      <name>
+       Poh Beyde
+      </name>
+     </personGrp>
+     <personGrp xml:id="trio finchel"><!-- ? -->
+      <name>
+       Trio Finchel
+      </name>
+     </personGrp>
+     <personGrp xml:id="jubel-chor">
+      <name>
+       Jubel-Chor
+      </name>
+     </personGrp>
+     <person xml:id="krappel"><!-- =krachel? -->
+      <persName>
+       Krappel
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head>DIE MARIONETTENBUDE, ODER DER JAHRMARKT ZU GRÜNWALD</head>
+    <head>Ein komisches Singspiel in zwey Aufzügen</head>
+    <head>von [Karl Friedrich] Hensler 1795</head>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Herr Krappel, Verwalter in Gründwald.
+     </castItem>
+     <castItem>
+      Hellwig, Wirth zum goldenen Lamm.
+     </castItem>
+     <castItem>
+      Susanna, sein Weib.
+     </castItem>
+     <castItem>
+      Röschen, Hellwigs Ziehtochter.
+     </castItem>
+     <castItem>
+      Kasper Pumpf, Hellwigs Vetter.
+     </castItem>
+     <castItem>
+      Zwek, Impressar einer herumstreifenden Komödianten Bande.
+     </castItem>
+     <castItem>
+      Seine Kinder.
+     </castItem>
+     <castItem>
+      Ein Fremder, unter dem Namen Blumer.
+     </castItem>
+     <castItem>
+      Krachel, ein eschappirter Komödiant.
+     </castItem>
+     <castItem>
+      Stöffel.
+     </castItem>
+     <castItem>
+      Süffmann.
+     </castItem>
+     <castItem>
+      Mamsell Immerschön, unter dem Namen Signora Bandoletti.
+     </castItem>
+     <castItem>
+      Mamsell Hartherz.
+     </castItem>
+     <castItem>
+      Corporal Flink, auf dem Commando.
+     </castItem>
+     <castItem>
+      Ein Tiroler Teppichhändler.
+     </castItem>
+     <castItem>
+      Ein Mandoletti Mädchen.
+     </castItem>
+     <castItem>
+      Ein schlawakischer Leinwandhändler.
+     </castItem>
+     <castItem>
+      Ein Nürnberger Krämer.
+     </castItem>
+     <castItem>
+      Ein Bärentreiber.
+     </castItem>
+     <castItem>
+      Marionetten Jungen.
+     </castItem>
+     <castItem>
+      Ein Dudelsackpfeiffer.
+     </castItem>
+     <castItem>
+      Mehrere Käufer und Verkäufer auf dem Markt.
+     </castItem>
+     <castItem>
+      Soldaten, Bauern.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <stage>
+    Ein komisches Singspiel in zwey Aufzügen
+   </stage>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Ein ländlicher Hof vor dem Wirthshaus zum goldenen Lamm. Im Hintergrund ein umzäunter Garten, der über das Gebürg af die Heerstrasse führt. Röschen sitzt vor dem Haus, und spinnt am Rädchen, Kasper sägt Holz, der Verwalter schleicht verstohlen zur Gartenthür herein.)
+     </stage>
+     <stage>
+      Introduction.
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Schnurre, Rädchen! schnurre,
+       </l>
+       <l>
+        Knurre, Spulchen knurre!
+       </l>
+       <l>
+        Mit den Fingern zart und fein
+       </l>
+       <l>
+        Muß das Garn gesponnen seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Knarre, Säge! knarre!
+       </l>
+       <l>
+        Schnarre, schnarre, schnarre!
+       </l>
+       <l>
+        Mit der Säge kurz und klein,
+       </l>
+       <l>
+        Muß das Holz zerschnitten seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihres Rädchens Schnurren,
+       </l>
+       <l>
+        Ihrer Spule Knurren –
+       </l>
+       <l>
+        Und ihr Füßchen winzig klein,
+       </l>
+       <l>
+        Ladet mich zur Liebe ein.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (zu Casper.)
+      </stage>
+      <lg>
+       <l>
+        Dort seh’ ich Herrn Krappel gehen,
+       </l>
+       <l>
+        Leise schleicht er sich zu mir;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#casper">
+      <speaker>
+       Casper.
+      </speaker>
+      <lg>
+       <l>
+        Laß den alten Narren stehen,
+       </l>
+       <l>
+        Röschen! dieses rath’ ich dir.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        Er meint wohl gar, der arme Wicht
+       </l>
+       <l>
+        Ha ha – ha ha, ich seh’ ihn nicht,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        Ach! dürft ich nur, wie wollt’ ich nicht,
+       </l>
+       <l>
+        Ihm gleich zersetzen sein Gesicht.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Verwalter hat sich hinter Röschen hingeschlichen, hält ihr das Rädchen auf.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (springt auf.)
+      </stage>
+      <lg>
+       <l>
+        He da!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Wer da!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Um dich zu sehen, eil’ ich hieher –
+       </l>
+      </lg>
+      <stage>
+       (will sie umfassen.)
+      </stage>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (spottend.)
+      </stage>
+      <lg>
+       <l>
+        Dank für die Ehr, gnädiger Herr
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (hält die Säge in der Hand, tritt zwischen beyde.)
+      </stage>
+      <lg>
+       <l>
+        Was soll das Karessiren?
+       </l>
+       <l>
+        Was soll da das Scharmiren?
+       </l>
+       <l>
+        Herr Krappel! geh’ er seine Weeg,
+       </l>
+       <l>
+        Sonst säg’ ich ihm die Nase weg.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter
+      </speaker>
+      <stage>
+       (drohend.)
+      </stage>
+      <lg>
+       <l>
+        Du Schlingel du! Ha! welch Geschrey!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Man hört Helwig im Hause lärmen.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Still – Still! der Vater eilt herbey.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie ziehen sich zurück.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Vorige, Susanne mit ihrem Mann.
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Was ich will, das muß geschehen,
+       </l>
+       <l>
+        Krappel wird des Röschens Mann.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Nein, das laß ich nicht geschehen,
+       </l>
+       <l>
+        Halt das Maul, du Grobian!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <stage>
+       (sie ausspottend.)
+      </stage>
+      <lg>
+       <l>
+        Seh’ man nur die Alte an!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <stage>
+       (ihm drohend.)
+      </stage>
+      <lg>
+       <l>
+        Ich zerkraze dir’s Gesicht!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Wie sie waidlich kuppeln kann,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Krappel kriegt die Rösel nicht.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      (Man hört in der Ferne einen fröhlichen Chor hinter dem Gebürge.
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Heute hier und morgen dort,
+       </l>
+       <l>
+        Lassen wir uns nieder;
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Bleiben nie an einem Ort,
+       </l>
+       <l>
+        Leben stets als Brüder
+       </l>
+       <l>
+        Lustig und munter und froh,
+       </l>
+       <l>
+        In dulci Jubilo!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar #verwalter #krappel"> <!-- todo ids -->
+      <speaker>
+       Alle 5.
+      </speaker>
+      <lg>
+       <l>
+        Welche Töne froher Lieder
+       </l>
+       <l>
+        Hallen vom Gebürge wieder?
+       </l>
+       <l>
+        Welch’ ein Lärmen, welch’ ein Schreyn!
+       </l>
+       <l>
+        Horcht! was mag wohl dieses seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Der Impressar erscheint auf dem Gebürg, mit ihm seine Komödianten und Komödiantinnen.)
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Viktoria, das Dorf ist da!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar #verwalter #krappel"><!-- todo ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Juhe, Juhe, Juhei sa sa!
+       </l>
+       <l>
+        Das Dorf ist da?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Herren! schön willkommen hier!
+       </l>
+       <l>
+        Ich bitt’ euch, ach! erlaubet mir,
+       </l>
+       <l>
+        Euch unsre Kunst zu produciren,
+       </l>
+       <l>
+        Und unsre Stücke aufzuführen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Zigeuner oder Musikanten?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar #verwalter #krappel"><!-- todo ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Nein! Nein! wir sind Komödianten.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (tief gebeugt.)
+      </stage>
+      <lg>
+       <l>
+        Ich, als der Impressar, bitt’ um Permission
+       </l>
+       <l>
+        Zu der Comödia –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#krappel">
+      <speaker>
+       Krappel.
+      </speaker>
+      <stage>
+       (sich in die Brust werfend.)
+      </stage>
+      <lg>
+       <l>
+        Und diese geb’ ich euch, als unsers Dorfs Patron!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (küßt ihm den Rock.)
+      </stage>
+      <lg>
+       <l>
+        Juhe, Viktoria!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#jubel-chor">
+      <speaker>
+       Jubel-Chor.
+      </speaker>
+      <lg>
+       <l>
+        Juhe! Juhe! viel Dank für die Permission,
+       </l>
+       <l>
+        Vivat des Dorfs Patron!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Mit Trauerspielen und Balleten,
+       </l>
+       <l>
+        Mit Opern und mit Marionetten
+       </l>
+       <l>
+        Sollt ihr bedienet seyn!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar #verwalter #krappel"> <!-- todo ids -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (mit vielen Referenzen.)
+      </stage>
+      <lg>
+       <l>
+        Juhe! viel Dank für die Permission,
+       </l>
+       <l>
+        Vivat des Dorfs Patron!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Impressar. Arie.
+     </stage>
+     <sp who="#impressar"> <!-- todo speaker korrekt -->
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        An mir stirbt einst, glaubt mir! fürwahr
+       </l>
+       <l>
+        Der größte Impressar.
+       </l>
+       <l>
+        Ich spiele Helden in Tragödien,
+       </l>
+       <l>
+        Verliebte Rollen in Komödien –
+       </l>
+       <l>
+        Da hau’ ich um, auf jeden Schritt
+       </l>
+       <l>
+        Nimm ich gleich die Koulisse mit!
+       </l>
+      </lg>
+      <stage>
+       (Kriegerische Musik.)
+      </stage>
+      <lg>
+       <l>
+        Ich spiel den Prinzen Misibom,
+       </l>
+       <l>
+        Und nehme Länder ein;
+       </l>
+       <l>
+        Da heißt’s: Tereng teng ten! bom bom!
+       </l>
+       <l>
+        Der Sieg, der Sieg ist mein!
+       </l>
+      </lg>
+      <stage>
+       (Sanfte Harmonie.)
+      </stage>
+      <lg>
+       <l>
+        Bald wähl ich auch zu meinem Ruhm
+       </l>
+       <l>
+        Die sanften Väterrollen,
+       </l>
+       <l>
+        Da muß das liebe Publikum,
+       </l>
+       <l>
+        Mir manche Thräne zollen.
+       </l>
+      </lg>
+      <stage>
+       (Er trocknet sich die Augen.)
+      </stage>
+      <lg>
+       <l>
+        Bald spiel’ ich auch den König Kristel
+       </l>
+       <l>
+        Bald den Hanswurst im hölzernen Gat,
+       </l>
+       <l>
+        Bald sing’ ich Baß, bald in der Fistel
+       </l>
+       <l>
+        Und kräh’, als wär ich ein Kastrat.
+       </l>
+      </lg>
+      <stage>
+       (Tanzmusik.)
+      </stage>
+      <lg>
+       <l>
+        Bald tanz’ ich kosakisch, nimm s’ Geigel in d’Hand,
+       </l>
+       <l>
+        Und gehts nicht, so werf ich das Geigel an d’Wand –
+       </l>
+       <l>
+        Und tanz tutto solo im Wirbel trapp! trapp!
+       </l>
+       <l>
+        Und streich mir n’ steyrischen wacker herab
+       </l>
+      </lg>
+      <stage>
+       (Er tanzt.)
+      </stage>
+      <lg>
+       <l>
+        Die Musik ist mein Element!
+       </l>
+       <l>
+        Ich spiele jedes Instrument –
+       </l>
+       <l>
+        Violinisten, Flautenisten,
+       </l>
+       <l>
+        Bassetlisten, Oboisten –
+       </l>
+       <l>
+        Posaunisten, Waldhornisten,
+       </l>
+       <l>
+        Klarnetisten, Fagotisten,
+       </l>
+       <l>
+        Tenoristen und Bassisten.
+       </l>
+       <l>
+        Fistulisten und – und – und Altisten
+       </l>
+      </lg>
+      <stage>
+       (außer Athem.)
+      </stage>
+      <lg>
+       <l>
+        An mir stirbt einst, glaubt mir! fürwahr
+       </l>
+       <l>
+        Der gröste Impressar!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        An ihm stirbt einst, glaubt ihm, fürwahr
+       </l>
+       <l>
+        Der gröste Impressar.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Blumer. Arie.
+     </stage>
+     <sp who="#blumer"> <!-- todo speaker korrekt -->
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Das Mädchen schwebt vor meinen Sinnen,
+       </l>
+       <l>
+        Was soll’ ich, Ärmster! doch beginnen?
+       </l>
+       <l>
+        Ha! schöner blüht die Rose nicht,
+       </l>
+       <l>
+        Und reizender als ihr Gesicht.
+       </l>
+       <l>
+        Ihr Auge lacht so rein und milde,
+       </l>
+       <l>
+        Wie über blühende Gefilde
+       </l>
+       <l>
+        Glänzt Gottes schöner Perlenthau,
+       </l>
+       <l>
+        In stiller, grüner Frühlings-Au –
+       </l>
+       <l>
+        Ha! welch’ Entzücken,
+       </l>
+       <l>
+        In ihren Blicken!
+       </l>
+       <l>
+        Ein Kuß von ihr muß süß und rein
+       </l>
+       <l>
+        Im Augenblick der Liebe seyn!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Duett.
+     </stage>
+     <stage>
+      Susanna, Finchel, in französischer Hamlets Karikatur gekleidet.
+     </stage>
+     <stage>
+      Menuet.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Schönste! ich schwöre zu deinen Füssen,
+       </l>
+       <l>
+        Reich mir die weiße Lilienhand;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Gerne möcht ich dich, Schönster! umschliessen,
+       </l>
+       <l>
+        Aber versagt ist schon diese Hand.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna #finchel">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        An dieser Seite, an diesem Arm,
+       </l>
+       <l>
+        Wird mir so wunderlich, wird mir so warm.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Ja! ja! für fünzig baare Gulden,
+       </l>
+       <l>
+        Geb’ ich mich deinem Wunsche Preiß;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Wenn nur mein Mann nicht kömmt, der Arme!
+       </l>
+       <stage>
+        (beis.)
+       </stage>
+       <l>
+        Er liebt mich zärtlich treu und heiß!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Ich schwörs bey meinem Flügelmantel,
+       </l>
+       <l>
+        Bey meinem Schwerd, bey meinem Bart –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna #finchel">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        An dieser Seite, an diesem Arm,
+       </l>
+       <l>
+        Wird mir so wunderlich, wird mir so warm!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#trio finchel"> <!-- id? -->
+      <speaker>
+       Trio. Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Schönste! ach – aus deinen Blicken
+       </l>
+       <l>
+        Strahlt mir seeliges Entzücken –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna #finchel">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Ach! mein Herz schlägt tipiti! tipiti!
+       </l>
+       <l>
+        Tapati – tapati –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#poh beyde"> <!-- id? -->
+      <speaker>
+       Poh. Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Bey Gesang und frohem Scherz
+       </l>
+       <l>
+        Wollen wir jezt lustig seyn;
+       </l>
+       <l>
+        Wein und Liebe frischt das Herz,
+       </l>
+       <l>
+        Ladet uns zur Freude ein –
+       </l>
+       <l>
+        Fünfzig Gulden sind schon dein,
+       </l>
+       <l>
+        [Fünfzig Gulden sind schon] mein,
+       </l>
+       <l>
+        Komm mit mir ins Haus hinein.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie tanzen ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Röschen. Arie.
+     </stage>
+     <sp who="#röschen"> <!-- speaker korrekt -->
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Kupido, du loser Geselle – der spielt
+       </l>
+       <l>
+        Mit Mädchen den bittersten Scherz;
+       </l>
+       <l>
+        Kaum wollen wir schäkern und tändeln, so zielt
+       </l>
+       <l>
+        Der Schelm uns gerade aufs Herz –
+       </l>
+       <l>
+        Da klopfet der Busen, da fliehet die Ruh,
+       </l>
+       <l>
+        Wir lachen, und denken: schieß, Junge! nur zu
+       </l>
+       <l>
+        Du tödtest uns nicht! du tödtest uns nicht!
+       </l>
+       <l>
+        Wir sehen den schönsten und lieblichsten Mann
+       </l>
+       <l>
+        Zur Liebe und Freude gemacht;
+       </l>
+       <l>
+        So fängt auch die Brust uns zu wallen schon an,
+       </l>
+       <l>
+        Da wird eins gescherzt und gelacht.
+       </l>
+       <l>
+        Da denken wir immer: Kupido! schieß zu!
+       </l>
+       <l>
+        Und spanne den Bogen: Wir lachen dazu –
+       </l>
+       <l>
+        Du tödest uns nicht – Mehr sage ich nicht! (ab.)
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Verwalter. Arie.
+     </stage>
+     <sp who="#verwalter"> <!-- speaker korrekt -->
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ein alter Mann, es ist jezt schon der Welt ihr Lauf,
+       </l>
+       <l>
+        Nimmts oft mit einem Jungen auf! –
+       </l>
+       <l>
+        Er gehet zwar bedächtlich her,
+       </l>
+       <l>
+        In manchem schon erfahren;
+       </l>
+       <l>
+        Und hüpft nicht, wie ein junger Herr,
+       </l>
+       <l>
+        Von etwa siebzehn Jahren,
+       </l>
+       <l>
+        Doch langsam bedacht, und langsam gethan,
+       </l>
+       <l>
+        Führt uns zum Ziele auf ebener Bahn!
+       </l>
+      </lg>
+      <stage>
+       Parl.
+      </stage>
+      <lg>
+       <l>
+        Da sieht mans spazieren,
+       </l>
+       <l>
+        Die Gasse einher,
+       </l>
+       <l>
+        Und hörts schwadroniren,
+       </l>
+       <l>
+        Die Kreuz und die Queer –
+       </l>
+       <l>
+        Und sehn sie ein Mädchen,
+       </l>
+       <l>
+        Da heißt es: mein Kind!
+       </l>
+       <l>
+        Darf ich mit nach Hause,
+       </l>
+       <l>
+        Ich eile geschwind;
+       </l>
+       <l>
+        Da gehens am Steken
+       </l>
+       <l>
+        Mit ihr fort am Arm,
+       </l>
+       <l>
+        Und küssen und leken,
+       </l>
+       <l>
+        Daß Gott sich erbarm!
+       </l>
+       <l>
+        Und kommts ans Examen, ist Niemand zu Haus,
+       </l>
+       <l>
+        Da lacht oft der Alte den Jungen brav aus –
+       </l>
+       <l>
+        Ein alter Mann, es ist jezt schon der Welt ihr Lauf,
+       </l>
+       <l>
+        Nimmts oft mit einem Jungen auf!
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      (Zimmer im Wirthshaus zum goldenen Lamm.)
+     </stage>
+     <stage>
+      Duett.
+     </stage>
+     <stage>
+      Impressar. Mamsell Immerschön, unter dem Nahmen Signora Bandoletti.
+     </stage>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        Si, son tua, non dubitar,
+       </l>
+       <l>
+        Che fedel sempre saro.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Guarda ben non mi burlar,
+       </l>
+       <l>
+        Perche poi mi crucciero!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        Caro Sposo!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Cara – Cara Sposa!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti #impressar"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Ben ti puoi di me sidar.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Tu sei –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        – – Quel, che mi diletti –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Tu sei –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        – – Quella – che m’alletti –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Fammi un vezzo – e non tardar –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        Vuoi un vezzo?
+       </l>
+       <l>
+        Io non so, s’ il sapro far.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Cosi?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        Cosi?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Ah ben mio non piu
+       </l>
+       <l>
+        Che mi fai indebolir –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti">
+      <speaker>
+       Bandoletti.
+      </speaker>
+      <lg>
+       <l>
+        Oh che caldo! che mi vien!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bandoletti #impressar"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Par che giusto una caldara
+       </l>
+       <l>
+        Mi sia posta dentro al petto
+       </l>
+       <l>
+        Che comminci a ribollir.
+       </l>
+       <l>
+        Sara effetto del tuo amore
+       </l>
+       <l>
+        Ed io perdo dal’ ardore
+       </l>
+       <l>
+        Gia mi sento rifinir.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechszehnter Auftritt.
+     </head>
+     <stage>
+      Kasper.
+     </stage>
+     <stage>
+      Arie Landlerisch.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Ich liebe nur mein’ Rösel, und d’ Rösel ist mein,
+       </l>
+       <l>
+        Der Rösel, der werd’ ich treu immerdar seyn –
+       </l>
+       <l>
+        Und foppt mich das Madl, so druck’ ichs, daß’s kracht,
+       </l>
+       <l>
+        Und gib ihr ein Bußl, daß s’ Herzl ihr lacht –
+       </l>
+       <l>
+        Da soll mir eins kommen, und spienzeln mit ihr,
+       </l>
+       <l>
+        Poz Wetter dem zeig’ ich das Loch in der Thür.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Ich bin ja dem Madl von Herzen recht gut,
+       </l>
+       <l>
+        Kaum sieh’ ichs, so wackelt der Kopf und der Hut –
+       </l>
+       <l>
+        Da schau’ ich – da guck’ ich – und mach Gloren weit auf,
+       </l>
+       <l>
+        Und tanz mit der Rösel brav landlerisch drauf –
+       </l>
+       <l>
+        Da sag ich halt immer: wär d’ Rösel schon mein,
+       </l>
+       <l>
+        Ich wollt meiner Kinder ihr Vater gern seyn. (ab.)
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      Quartett.
+     </stage>
+     <stage>
+      Verwalter. Röschen. Blumer. Corporal.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Wenn mich die Lieb’ im Herzen sticht,
+       </l>
+       <l>
+        Mein Mund mit dir von Liebe spricht,
+       </l>
+       <l>
+        So drehest du das Rädchen;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Wennmich das Liebesfieber plagt,
+       </l>
+       <l>
+        Husch! Husch! wird s’ Fieber fortgejagt.
+       </l>
+       <l>
+        So machen es die Mädchen.
+       </l>
+      </lg>
+      <stage>
+       (Sie spinnt, und trillert.)
+      </stage>
+      <lg>
+       <l>
+        tralla lala!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Blumer. Corporal öfnen die Fenster über der Kamerthüre.
+     </stage>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Wird der Kerl noch lange stehen,
+       </l>
+       <l>
+        Wird er bald von dannen gehen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <lg>
+       <l>
+        Bleiben sie nur stille stehen,
+       </l>
+       <l>
+        Bald muß er von dannen gehen!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (kniet vor Röschen hin.)
+      </stage>
+      <lg>
+       <l>
+        Seh man nur das Füßchen an!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ey mein Fuß geht ihn nichts an;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Hübsch vom Füßchen bis zum Kopf,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#corporal">
+      <speaker>
+       Corporal.
+      </speaker>
+      <lg>
+       <l>
+        Und er ist ein armer Tropf!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie verbergen sich alle.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ich kann es nicht begreifen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Woher die Stimme schallt;
+       </l>
+       <l>
+        Vielleicht, daß von der Strasse
+       </l>
+       <l>
+        Der Lärmen widerhallt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (ihr die Hand küßend.)
+      </stage>
+      <lg>
+       <l>
+        Schönstes Röschen!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (dräht das Rädchen.)
+      </stage>
+      <lg>
+       <l>
+        tralla – la la!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Diese Finger winzig klein!
+       </l>
+       <l>
+        Könnt’ ich nur die Spule seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er will ihr die Hand küssen, die Perücke bleibt an der Spule hängen, Blumer mit dem Corporal, der sich berauscht stellt, und hin und her wankt.)
+     </stage>
+     <sp who="#corporal">
+      <speaker>
+       Corporal.
+      </speaker>
+      <lg>
+       <l>
+        Poz Bomben, Kreuz Bataillon!
+       </l>
+       <l>
+        Marsch fort, sonst ist der Stock sein Lohn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Was hat denn dieser Lärm zu sagen?
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (indem er seine Perücke sucht.)
+     </stage>
+     <sp who="#corporal">
+      <speaker>
+       Corporal.
+      </speaker>
+      <lg>
+       <l>
+        Nicht raisonirt! Wer will es wagen?
+       </l>
+       <l>
+        Hier ist mein Stock! marsch! fort, mein Herr!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        So gebt nur die Perücke her –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#corporal #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der alte Narr! der alte Wicht,
+       </l>
+       <l>
+        Er findet die Perücke nicht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#corporal">
+      <speaker>
+       Corporal.
+      </speaker>
+      <stage>
+       (wirft die Perücke zum Fenster hinaus.)
+      </stage>
+      <lg>
+       <l>
+        Vor dem Fenster, auf der Gasse,
+       </l>
+       <l>
+        Wird wohl die Perücke seyn!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Die Perücke auf der Strasse?
+       </l>
+       <l>
+        Schrecklich wird die Rache seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Sie jagen ihn fort.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neunzehnter Auftritt.
+     </head>
+     <stage>
+      Bänckelsinger Lied. Finchel trägt ein kleines Kästchen, worauf zerschiedene Figuren tanzen.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Wenn junge Mädchen freyen gehn,
+       </l>
+       <l>
+        Da gehts bald her, bald hin:
+       </l>
+       <l>
+        Da ist gar oft um sie geschehn,
+       </l>
+       <l>
+        Verwirrt ist Herz und Sinn – 
+        <stage>
+         (tanzt.)
+        </stage>
+       </l>
+       <l>
+        Dudeldum! dudeldey!
+       </l>
+       <l>
+        Guck sie mein Hansel und Gretl nur an
+       </l>
+       <l>
+        Wie der Hansel schön tanzen kann.
+       </l>
+       <l>
+        Ey, ey, ey!
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Oft ist der Mann zu groß, zu klein,
+       </l>
+       <l>
+        Und oft zu jung, zu alt;
+       </l>
+       <l>
+        Bald soll er grob, bald höflich seyn,
+       </l>
+       <l>
+        Bald feurig und bald kalt;
+        <stage>
+         (tanzt.)
+        </stage>
+       </l>
+       <l>
+        Dudeldum! Dudeldey!
+       </l>
+       <l>
+        Guk sie mein’ Gretl und Hansel nur an,
+       </l>
+       <l>
+        Wie die Gretl schön tanzen kann;
+       </l>
+       <l>
+        Ey, ey, ey!
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Geh d’Jungfer nicht auf d’Männer Bschau,
+       </l>
+       <l>
+        Der Rechte ist schon z’Haus;
+       </l>
+       <l>
+        Denn wird sie heut des Jägers Frau,
+       </l>
+       <l>
+        Bleibt s’ Ey Pubey nicht aus;
+        <stage>
+         (tanzt.)
+        </stage>
+       </l>
+       <l>
+        Dudeldum, dudeldey!
+       </l>
+       <l>
+        Guck sie mein Hansel und Gretl nur an,
+       </l>
+       <l>
+        Wie der Hansel schön tanzen kann;
+       </l>
+       <l>
+        Ey, ey, ey!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Kasper allein.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Finale.
+     </head>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        He! zu Hülfe! alle Wetter!
+       </l>
+       <l>
+        So macht ihrs mit dem Herrn Vetter?
+        <stage>
+         (parl.)
+        </stage>
+       </l>
+       <l>
+        Zuerst gespienzelt, dann karessirt;
+       </l>
+       <l>
+        Dann wider gepußelt, dann wider scharmirt!
+       </l>
+       <l>
+        Heißt das nicht prostituiren,
+       </l>
+       <l>
+        Und den Bräutigam schimfiren?
+       </l>
+       <l>
+        Das ley’d’ ich nicht, potz alle Wetter!
+       </l>
+       <l>
+        So macht mans nicht mit dem Herrn Vetter.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      (Impressar aus dem Seitenzimmer, schon zur Hälfte als römischer Held gekleidet.
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Was hat der Narr den für ein Lärmen,
+       </l>
+       <l>
+        Was will er denn mit seinem Schreyn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper
+      </speaker>
+      <stage>
+       (ohne zu hören.)
+      </stage>
+      <lg>
+       <l>
+        Zuerst gespienzelt, dann karressirt,
+       </l>
+       <l>
+        Dann wider gepußelt, dann wider scharmirt!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        So wahr ich bin ein Impressar,
+       </l>
+       <l>
+        Der Kerl ist ein gemachter Narr!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper
+      </speaker>
+      <stage>
+       (eben so.)
+      </stage>
+      <lg>
+       <l>
+        Heißt das nicht prostituiren?
+       </l>
+       <l>
+        Und den Bräutigam schimfiren?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (faßt ihn an.)
+      </stage>
+      <lg>
+       <l>
+        So red’ er doch, potz alle Wetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        So macht mans nicht mit dem Herrn Vetter!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Drey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Hellwig.
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Der Teufel hol das Lärmen,
+       </l>
+       <l>
+        Was ist denn hier geschehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Sie sehn, ich wollte eben
+       </l>
+       <l>
+        In die Komedie gehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Was macht er da, Herr Vetter!
+       </l>
+       <l>
+        Im Zimmer ganz allein?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Und schreyt, als wenn er eben
+       </l>
+       <l>
+        Gespiesset müßte seyn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (laut weinend.)
+      </stage>
+      <lg>
+       <l>
+        Herr Vetter! der Komödiant
+       </l>
+       <l>
+        Hat d’Rösel gnommen an der Hand –
+       </l>
+       <l>
+        Hats pusselt aufs Maul, das sah’ ich gleich,
+       </l>
+       <l>
+        Das ist ja ein verdammter Streich!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Das ist ja nur zum lachen,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Wer wird da Lärmen machen,
+       </l>
+       <l>
+        Herr Vetter sey er nur kein Narr,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Pack’ er sich fort, Herr Impressar!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vier und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <stage>
+      (Finchel öffnet das Fenster über der Thür.)
+     </stage>
+     <stage>
+      Kanon.
+     </stage>
+     <stage>
+      (Alle 4. Jedes für sich.)
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Das Ding scheint mit suspekt,
+       </l>
+       <l>
+        Vielleicht wird was entdeckt –
+       </l>
+       <l>
+        Aus Scherz wird Ernst, es könnte gar
+       </l>
+       <l>
+        Das Mädchen kommen in Gefahr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Dem Alten scheints suspekt,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Vielleicht wird was entdeckt –
+       </l>
+       <l>
+        Der Teufel schießt oft auf ein Haar.
+       </l>
+       <l>
+        Da kömm das Mädchen in Gefahr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Hier hab’ ich was entdeckt,
+       </l>
+       <l>
+        Das Ding scheint mir suspekt.
+       </l>
+       <l>
+        Zu rechter Stunde wird wol gar.
+       </l>
+       <l>
+        Vorüber gehen die Gefahr.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Wohin sind sie gegangen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Gerad zur Thür hinaus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Mich soll da wohl verlangen,
+       </l>
+       <l>
+        Was hiebey kömmt heraus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Ich muß mich retiriren,
+       </l>
+       <l>
+        Sie hievon avertiren –
+       </l>
+       <l>
+        Sie könnten bey einander seyn;
+       </l>
+       <l>
+        Da schlüge gleich das Wetter drein!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Hol’ er mir die Laterne,
+       </l>
+       <l>
+        Und leucht er mir voraus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (weinend.)
+      </stage>
+      <lg>
+       <l>
+        Ja! ja! das thu ich gerne,
+       </l>
+       <l>
+        Ich leucht durchs ganze Haus.
+        <stage>
+         (ab.)
+        </stage>
+       </l>
+       <l>
+        Ha! das Ding kann ich nicht leiden,
+       </l>
+       <l>
+        Der Verwalter wird geprellt;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        Gerne möcht’ ich sie begleiten,
+       </l>
+       <l>
+        Um zu sehen, wo es fehlt –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        Ja! Ich fühle schon die Freuden!
+       </l>
+       <l>
+        Wenn der Alte wird geprellt!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #impressar #finchel"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Nein, nein! Nein, nein!
+       </l>
+       <l>
+        Dem muß gleich abgeholfen seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie wollen fort.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Fünf und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <stage>
+      (Kasper mit der Laterne, eilend – fällt über die Thürschwelle.)
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Da bin ich schon, Herr Vetter! (fällt.)
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Da liegt er schon, potz Wetter!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig #impressar #finchel"><!-- ids korrekt -->
+      <speaker>
+       Alle 3.
+      </speaker>
+      <lg>
+       <l>
+        Ich komme noch von Sinnen,
+       </l>
+       <l>
+        Da fällt der Narr herein –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Vor allzustarkem Rennen,
+       </l>
+       <l>
+        Muß ich gestolpert seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Mach’ er sich jetzt auf d’Füß, und leucht’ er mir voraus,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (sich aufraffend.)
+      </stage>
+      <lg>
+       <l>
+        Herr Vetter! ich bin da – ich leucht’ durchs ganze Haus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig #kasper #impressar #finchel"><!-- ids korrekt -->
+      <speaker>
+       Alle zusammen.
+      </speaker>
+      <lg>
+       <l>
+        Nun! Lasset uns eilen,
+       </l>
+       <l>
+        Fort, fort ohne weilen –
+       </l>
+       <l>
+        Die Vögel, die sollen gefangen bald seyn,
+       </l>
+       <l>
+        Dann sperren wir beyde in Vogelkorb ein!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (alle ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Sechs und zwanzigster Auftritt.
+     </head>
+     <stage>
+      (Hof mit dem Wirthshaus – Garten – Der Mond scheint. Susanna aus dem Hause schleichend.)
+     </stage>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Alles, alles mäuselstille,
+       </l>
+       <l>
+        Husch! Husch! in den Garten:
+       </l>
+       <l>
+        Dort wird schon Herr Finchel meiner
+       </l>
+       <l>
+        Lange, lange warten.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter
+      </speaker>
+      <stage>
+       (schleicht auf der Seite herbey.)
+      </stage>
+      <lg>
+       <l>
+        Durch den Hof und dann im Garten,
+       </l>
+       <l>
+        Es rührt sich kein Läubchen;
+       </l>
+       <l>
+        Dort will ich auf Röschen warten,
+       </l>
+       <l>
+        Auf mein liebes Täubchen.
+       </l>
+       <l>
+        Mir wars, als hört ich etwas lispeln,
+       </l>
+       <l>
+        Wenns etwa schon Herr Finchel wär; bst bst!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter
+      </speaker>
+      <stage>
+       (eben so.)
+      </stage>
+      <lg>
+       <l>
+        Mir wars, als hört’ ich etwas wispeln,
+       </l>
+       <l>
+        Wenns etwa schon mein Röschen wär, bst bst!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie finden einander.)
+     </stage>
+     <sp who="#verwalter #susanna"><!-- ids korrekt -->
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Nur einen Kuß auf deinen Mund,
+       </l>
+       <l>
+        Zum Einstand dieser Schäferstund.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie ziehen sich zurück.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Sieben und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Blumer, Röschen.
+     </stage>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Endlich, o Liebe! sind wir alleine,
+       </l>
+       <l>
+        Laßt uns im Garten lustwandeln gehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ach! wie ich zittre! wenn Jemand käme,
+       </l>
+       <l>
+        Himmel! wir würden Wunder da sehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle 4.
+      </speaker>
+      <lg>
+       <l>
+        Nur einen Kuß auf deinen Mund,
+       </l>
+       <l>
+        Zum Einstand dieser Säferstund. [!]
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie ziehen sich zurück.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Acht und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Korporal mit Mamsel Immerschön.
+     </stage>
+     <sp who="#korporal">
+      <speaker>
+       Korporal.
+      </speaker>
+      <lg>
+       <l>
+        Frisch gewagt! bey Tag und Nacht
+       </l>
+       <l>
+        Fürchtet sich kein Held;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#immerschön">
+      <speaker>
+       Immerschön.
+      </speaker>
+      <lg>
+       <l>
+        Wer nichts wagt, wird ausgelacht
+       </l>
+       <l>
+        Hier im offnen Feld –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle 6.
+      </speaker>
+      <lg>
+       <l>
+        Nur einen Kuß auf deinen Mund,
+       </l>
+       <l>
+        Zum Einstand dieser Schäferstund.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie ziehen sich zurück.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Was für Leute in der Nähe
+       </l>
+       <l>
+        Seh’ ich bey dem Hause stehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Wenn es Jemand Fremdes wäre,
+       </l>
+       <l>
+        Soll ich bleiben oder gehen?
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neun und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <stage>
+      (Hellwig mit Kasper, der eine Laterne trägt.)
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Sie sind nirgend anzutreffen,
+       </l>
+       <l>
+        Leucht nur fort, und geh voran!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper
+      </speaker>
+      <stage>
+       (beyseite.)
+      </stage>
+      <lg>
+       <l>
+        Immer tritt er mir auf d’Haxen,
+       </l>
+       <l>
+        Und ich leucht dem Grobian!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (Jedes für sich.)
+      </stage>
+      <lg>
+       <l>
+        Was soll denn hier geschehn?
+       </l>
+       <l>
+        Wenn man uns wird ersehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle
+      </speaker>
+      <stage>
+       (in einem Ausruff.)
+      </stage>
+      <p>
+       Ha!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyßigster Auftritt.
+     </head>
+     <stage>
+      Vorige.
+     </stage>
+     <stage>
+      (Der Impressar kommt mit pathetischem Schritt aus dem Hause, ganz als römischer Held gekleidet, vor ihm tragen seine Buben als Pagen Fackeln; Alle übrigen erschrecken, wie sie sich bey denen Lichtern verrathen sehen.)
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Ich bin der Prinz Heraclius;
+       </l>
+       <l>
+        Betrachtet mich vom Kopf zu Fuß –
+       </l>
+       <l>
+        Ich suche meine Schöne,
+       </l>
+       <l>
+        Prinzessin Melusine.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Seht! Alles steht hier paar und paar,
+       </l>
+       <l>
+        Der Teufel hol den Impressar!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Ha! welche Irrung! ey – ey – ey!
+       </l>
+       <l>
+        Herr Krappel ists bey meiner Treu!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Statt Röschen find’ ich – ey – ey – ey!
+       </l>
+       <l>
+        Die Mutter gar bey meiner Treu!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Das ist doch wunderlich, das kann ich nicht verstehen,
+       </l>
+       <l>
+        Was will der ganze Schwarm? was soll denn hier geschehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Herr Krappel und mein Weib?
+       </l>
+       <l>
+        Was muß ich denn da sehen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Herr Vetter! glaub er mir,
+       </l>
+       <l>
+        Sie wollten fensterln gehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (erblickt Mamsell Immerschön.)
+      </stage>
+      <lg>
+       <l>
+        Die Mamsell Immerschön,
+       </l>
+       <l>
+        Die seh’ ich auch hier stehen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#immerschön">
+      <speaker>
+       Immerschön.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollten promeniren gehn,
+       </l>
+       <l>
+        Da sahen wir die Leute stehn –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (nimmt den Korporal an der Hand.)
+     </stage>
+     <lg>
+      <l>
+       Ich und der Korporal –
+      </l>
+     </lg>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <p>
+       <stage>
+        (geräht in tragische Wuth.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#recit"><!-- id? -->
+      <speaker>
+       Recit.
+      </speaker>
+      <lg>
+       <l>
+        Ha ihr Götter! was seh’ ich?
+       </l>
+       <l>
+        Die Prinzessin an der Hand eines Korporals?
+       </l>
+       <l>
+        Und ihr dort oben zögert noch mit eurer Rache?
+       </l>
+       <l>
+        So habt ihr den keinen Platzregen, keine Blitze, keine Donner mehr,
+       </l>
+       <l>
+        Daß ihr tödtet die Ungetreue vor meinen Augen,
+       </l>
+       <l>
+        Sie schleudert in den Abgrund der Verdammten!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Der Mann ist ja von Sinnen,
+       </l>
+       <l>
+        Was wird er noch beginnen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Ungetreue Melusine!
+       </l>
+       <l>
+        Für dich sterben, welche Lust!
+       </l>
+       <l>
+        Aber ehe ich sterbe – komme
+       </l>
+       <l>
+        Dieser Dolch in deine Brust.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er zieht seinen hölzernen Dolch aus dem Busen, und droht sie zu erstechen. Sie halten ihn Alle zurück.)
+     </stage>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Herr Impressar! Halt er doch ein,
+       </l>
+       <l>
+        Wer wird da gleich ein Mörder seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (will sich loswinden.)
+      </stage>
+      <lg>
+       <l>
+        Laßt mich – ich muß –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Halts ihm die Hand!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (sie entreissen ihm den Dolch.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Wohlan! er ist mein Arrestant!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Jezt wird der Scherz schon Ernst,
+       </l>
+       <l>
+        Still zieh’n wir uns zurück!
+       </l>
+       <l>
+        Oft ändert einen Fall
+       </l>
+       <l>
+        Ein einz’ger Augenblick.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Ein und dreyßigster Auftritt.
+     </head>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (Zu den Bauern, die der Lärmen herbey zieht.)
+      </stage>
+      <lg>
+       <l>
+        Marsch! führt ihn fort!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (sich ganz in seiner Würde fixirend.)
+      </stage>
+      <lg>
+       <l>
+        Wer wagt es, Hand an mich zu legen,
+       </l>
+       <l>
+        Wenn ihr auch mich nicht ehrt, so ehret meine Kron;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Was braucht es da viel überlegen,
+       </l>
+       <l>
+        Auf! führt den Impressar davon!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Den Prinz Heraclius?
+       </l>
+       <l>
+        Den Erbe von Athen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Wie? ihr bedenckt euch noch?
+       </l>
+       <l>
+        Fort! fort! und führet gleich
+       </l>
+       <l>
+        Den Impressar ins Loch!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Wer würd’ für mich in Trauerspiel
+       </l>
+       <l>
+        Den Prinzen heute spielen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter #hellwig">
+      <speaker>
+       Verwalter. Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollen seine Mörderwuth
+       </l>
+       <l>
+        Schon suchen abzukühlen –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Herr Krappel! Gnade für den Mann,
+       </l>
+       <l>
+        Er hat ihm ja nicht Leyds gethan!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Greift an!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Zu Hülfe!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Bauern wollen ihn greifen.)
+     </stage>
+     <lg>
+      <l>
+       Ihr Unterthanen von Athen!
+      </l>
+      <l>
+       Seht hier auf euren Prinzen hin;
+      </l>
+      <l>
+       Ihr Hofherrn! ihr Komödianten!
+      </l>
+      <l>
+       Bediente, Läufer und Trabanten!
+      </l>
+      <l>
+       Erlöset mich von diesem Ungeheuer,
+      </l>
+      <l>
+       Schießt die Kanonen loß, und bläßt Collfoni Feuer!
+      </l>
+     </lg>
+    </div>
+    <div type="scene">
+     <head>
+      Zwey und dreysigster Auftritt.
+     </head>
+     <stage>
+      Vorige. (Die Komödianten eilen zur Hausthüre heraus. Alle in zerschiedenen Ritter und Heldenkleidungen. Sie ziehen ihre Schwerdter und vertheidigen den Impressar. Lärmen untereinander.)
+     </stage>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Welch Lärmen! welch Schreyen! poz Wetter, poz Plunder!
+       </l>
+       <l>
+        Alles geht darüber, und alles geht darunter!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Bauern verkrichen sich hinter die Fässer, der Verwalter reterirt sich auf das Holz. Unter dem Lärmen erscheint Stöffel am Fenster und bläßt mit der gewähnlichen Theatermaschine Colofonium. Die Bauern rufen mit einem Schrey:)
+     </stage>
+     <lg>
+      <l>
+       Feuer! Feuer!
+      </l>
+     </lg>
+     <stage>
+      Hellwig, Susanna ringen die Hände. Blumer sucht Röschen von dem Irrthum zu belehren.
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Ach! ich armer geschlagener Mann;
+       </l>
+       <l>
+        Jezt fängt s’ Hauß zu brennen an.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Die Trommel wird im Marckflecken gerührt, die Feuerglocke tönt, Bauern mit Wassereymern und Feuerspritze – Finchel als Kaminfeger mit einer Leiter, gibt sich Blumer und Röschen zu erkennen, steigt eilend in das Hauß, Kasperl ihm nach – welche Bettzeug und die Komödianten Guarderobbe zum Fenster herauswerfen – Corporal mit Soldaten.
+     </stage>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer #bauern"><!-- ids korrekt -->
+      <speaker>
+       Alle unter diesem allgemeinen Lärmen.
+      </speaker>
+      <lg>
+       <l>
+        Feuer! Wasser! Wasser! Feuer
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        So seyds nur gscheid, und nicht so dumm,
+       </l>
+       <l>
+        Es ist ja nur Colfonium;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (auf dem Holz.)
+      </stage>
+      <lg>
+       <l>
+        Die Leiter her! laßt mich herab,
+       </l>
+       <l>
+        Die Angst, die bringt mich noch ins Grab.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#korporal">
+      <speaker>
+       Korporal.
+      </speaker>
+      <lg>
+       <l>
+        Marsch – fort mit ihm! nicht raisonirt!
+       </l>
+       <l>
+        Marsch, fort – in Schuldthurm ihn geführt.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie umringen den Impressar.)
+     </stage>
+     <sp who="#kasper #hellwig #korporal #immerschön #verwalter #susanna #röschen #blumer"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Feuer, Wasser! Wasser! Feuer!
+       </l>
+       <l>
+        Welch’ eine schreckenvolle Nacht,
+       </l>
+       <l>
+        Das Unglück hätt’ ich nicht gedacht!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Unter diesem allgemeinen Lärmen fällt der Vorhang.)
+     </stage>
+     <stage>
+      Ende des ersten Aufzuges.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      Ländliche Gegend. Im Hintergrund Gebürg. Auf einer Seite der Bühne ein altes Schloß, auf dem Gebürg eine Hütte mit einer Banck, worauf Bauren sitzen und die Sicheln klopfen. Andere Bauersleute ziehen über das Gebürg. Es ist Morgendämmerung – die Sonne geht nach und nach auf.
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Auf! Auf! ihr Bauern! frisch hinaus
+       </l>
+       <l>
+        Zum Aehrenschneiden geht;
+       </l>
+       <l>
+        Da sehet nur die Halmen draus,
+       </l>
+       <l>
+        Wie alles golden steht;
+       </l>
+       <l>
+        Die Sensen streicht,
+       </l>
+       <l>
+        Ganz blanck und leicht –
+       </l>
+       <l>
+        Die Sonne kömmt schon licht und hehr,
+       </l>
+       <l>
+        Dort hintrem fernen Berge her.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie streichen und hammern nach dem Tackt.)
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (öfnet das Fenster.)
+      </stage>
+      <lg>
+       <l>
+        Ach! Alles jubelt groß und klein.
+       </l>
+       <l>
+        Und ich muß hier gefangen seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Wie alles glänzt in Morgenduft,
+       </l>
+       <l>
+        Und wie die Lerche singt;
+       </l>
+       <l>
+        Und wie sie wirbelnd in der Luft
+       </l>
+       <l>
+        Ihr Morgenliedchen bringt.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie streichen und hämmern.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <stage>
+       (mit einer kleinen Leiter in der Ferne.)
+      </stage>
+      <lg>
+       <l>
+        Der arme Mann hat wohl die Nacht.
+       </l>
+       <l>
+        Ganz ohne Schlaf dahin gebracht.
+       </l>
+      </lg>
+      <stage>
+       (Die Bauern versameln sich auf dem Gebürg, und ziehen ab.)
+      </stage>
+      <lg>
+       <l>
+        Nun zieht aufs Aehrenfeld hinaus,
+       </l>
+       <l>
+        Daß jede Sense klingt,
+       </l>
+       <l>
+        Und jeder unserm Herrgott draus,
+       </l>
+       <l>
+        Sein Morgenliedchen bringt.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Dieser Chor wird immer in der Ferne gehört, bis er sich allmälig verliert.)
+     </stage>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Nun will ich mich näher schleichen,
+       </l>
+       <l>
+        Und auch nicht von dannen weichen,
+       </l>
+       <l>
+        Bis der Mann gerettet ist –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Um das Hauß seh’ ich wen schleichen,
+       </l>
+       <l>
+        Könnt ich nur von hinnen weichen,
+       </l>
+       <l>
+        Sag – und rede, wer du bist?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Stille! Stille nicht ein Wort,
+       </l>
+       <l>
+        Bald kömmt er aus diesem Ort –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Der Himmel sorgt für mich, dieß seh’ ich sonnenklar,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        So red’ er nur kein Wort – still! still! Herr Impressar!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Verwalter.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Wenn’s keinen Mann im Dorfe gäb,
+       </l>
+       <l>
+        Von Kenntniß und Talenten,
+       </l>
+       <l>
+        So wär der Staat, so wahr ich leb,
+       </l>
+       <l>
+        In bösen, bösen Händen;
+       </l>
+       <l>
+        Die Bauern schlügen wacker drein,
+       </l>
+       <l>
+        Der Teufel möcht’ Verwalter seyn;
+       </l>
+       <l>
+        Drum heißt’s Respekt, Herr Rusticus!
+       </l>
+       <l>
+        Ich bin Persona publicus!
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Fährt mir nur einer über’s Maul,
+       </l>
+       <l>
+        Potz Blitz! der muß es büssen;
+       </l>
+       <l>
+        Da rühr’ ich mich, und bin nicht faul,
+       </l>
+       <l>
+        In Kotter ihn zu schliessen.
+       </l>
+       <l>
+        Ihr Kerls; ich hab das Jus studirt,
+       </l>
+       <l>
+        Drum habt Respeckt, nicht raisonirt
+       </l>
+       <l>
+        Ihr sollet hängen, daß ihr’s wißt,
+       </l>
+       <l>
+        Ich kenne, was quid Juris ist.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Blumer.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Sollt ich mich nicht glücklich nennen?
+       </l>
+       <l>
+        Ohne meinen Stand zu kennen,
+       </l>
+       <l>
+        Liebt sie mich so heiß und rein,
+       </l>
+       <l>
+        Ladet mich zur Liebe ein;
+       </l>
+       <l>
+        Unverdorben, rein und helle,
+       </l>
+       <l>
+        Wie im Thal die Silberquelle
+       </l>
+       <l>
+        Durch die Fluren schleicht, so lacht
+       </l>
+       <l>
+        Ihr Gesicht in Sommernacht;
+       </l>
+       <l>
+        Ja! das Glück will ich genissen,
+       </l>
+       <l>
+        Sie in meine Arme schliessen –
+       </l>
+       <l>
+        Jeder Tag, den sie erlebt,
+       </l>
+       <l>
+        Sey’ mit Rosen eingewebt!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Impressar.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Die böse Welt hört oft die Klage,
+       </l>
+       <l>
+        Die allgemein bekannt;
+       </l>
+       <l>
+        Die Weiber sind der Männer Plage
+       </l>
+       <l>
+        Im lieben Vaterland,
+       </l>
+       <l>
+        Man sagts:
+       </l>
+       <stage>
+        (Pause)
+       </stage>
+      </lg>
+      <lg>
+       <l>
+        Doch ich – ich sag’ es nicht;
+       </l>
+       <l>
+        Ich kenne meine Pflicht –
+       </l>
+       <l>
+        Es ist auf dieser Welt ein schönes Weib,
+       </l>
+       <l>
+        Der angenehmste Zeitvertreib.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Man sagt: sie brennen oft voll Feuer
+       </l>
+       <l>
+        Von Stolz und Übermuht;
+       </l>
+       <l>
+        Und tanzt man nicht nach ihrer Leyer
+       </l>
+       <l>
+        Fliegt gleich die Hand an Hut;
+       </l>
+       <l>
+        Man sagts:
+       </l>
+       <stage>
+        (Pause)
+       </stage>
+       <l>
+        Doch ich – ich sag’ es nicht;
+       </l>
+       <l>
+        Ich kenne meine Pflicht –
+       </l>
+       <l>
+        Wer schöne Weiber haßt, der ist kein Mann,
+       </l>
+       <l>
+        Den schau’ ich über d’Achsel an.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Ein Weib ist, wie wir Alle wissen,
+       </l>
+       <l>
+        Des Schöpfers Meisterstück;
+       </l>
+       <l>
+        So mild und gut, und wenn wirs küssen
+       </l>
+       <l>
+        Blüht unser aller Glück;
+       </l>
+       <l>
+        Ich sags:
+       </l>
+       <stage>
+        (Pause.)
+       </stage>
+       <l>
+        Doch ich, ich nicht allein,
+       </l>
+       <l>
+        Es stimmen alle ein –
+       </l>
+       <l>
+        Nicht wahr? ein schönes Weibchen in dem Arm,
+       </l>
+       <l>
+        Macht öfters uns bald kalt, bald warm.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Verwalter. Kasper. Finchel als Barbier.
+     </stage>
+     <stage>
+      Sextett.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <stage>
+       (mit vielen Bücklingen.)
+      </stage>
+      <lg>
+       <l>
+        Servus, servus humillimus,
+       </l>
+       <l>
+        Ad omnia, stri tissimus!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ich kenn’ ihn nicht, wer ist der Herr?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Herr Streicher schicket mich hieher,
+       </l>
+       <l>
+        Er kann nicht selber kommen,
+       </l>
+       <l>
+        Denn er hat eingenommen.
+       </l>
+       <l>
+        Ich bin deßwegen hier, die Herren zu serviren,
+       </l>
+       <l>
+        Und stante pede gleich die Bärte zu rasiren.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er packt seinen Geräthschaften aus.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (Caspar beys.)
+      </stage>
+      <lg>
+       <l>
+        Den Menschen hab’ ich nie geseh’n,
+       </l>
+       <l>
+        Was soll denn nun gescheh’n?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        Ich will euch eine Nase drehn,
+       </l>
+       <l>
+        Ihr sollet Wunder sehn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (setzt sich einen Stuhl)
+      </stage>
+      <lg>
+       <l>
+        Ich muß als Bräutigam zu erst rasieret seyn.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <stage>
+       (setzt sich auf des Verwalters Stuhl.)
+      </stage>
+      <lg>
+       <l>
+        Die Ehr gehöret mir als Vetter nur allein.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie zanken sich um den Stuhl.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Fort! fort!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Nein! Nein!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasper #verwalter">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Ich muß zu erst bedienet seyn!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel
+      </speaker>
+      <stage>
+       (setzt zwey Stühle.)
+      </stage>
+      <lg>
+       <l>
+        Ich bitte, setzen sie sich nieder,
+       </l>
+       <l>
+        Ein jeder soll bedienet seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (er sucht in seinen Säcken die Seife.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        So mag es gehn, ich setz mich nieder,
+       </l>
+       <l>
+        Den Rang laß ich ihm nicht allein.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie setzen sich mit den Stühlen gegeneinander.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Nur hurtig! ohne sich besinnen,
+       </l>
+       <l>
+        Ich werd nicht lange warten können.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Sie kommen gleich aus meinen Händen,
+       </l>
+       <stage>
+        (leise)
+       </stage>
+       <l>
+        Wenn ich nur könnt’ die Seife finden.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#casper">
+      <speaker>
+       Casper.
+      </speaker>
+      <stage>
+       (für sich, gegen den Verw.)
+      </stage>
+      <lg>
+       <l>
+        Der Grobian!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (eben so gegen Casper.)
+      </stage>
+      <lg>
+       <l>
+        Der Dummrian!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <stage>
+       (für sich.)
+      </stage>
+      <lg>
+       <l>
+        In meinen Säken find’ ich nichts,
+       </l>
+       <l>
+        Als hier ein Stückel Stiefelwix
+       </l>
+       <l>
+        Jetzt seif ich sie mit diesem ein,
+       </l>
+       <stage>
+        (laut)
+       </stage>
+       <l>
+        Sie sollen gleich bedienet seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er seift beyde abwechselnd ein.) Beyde schielen nach einander.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ein Spaß von Röschen, ohne Zweifel.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#casper">
+      <speaker>
+       Casper.
+      </speaker>
+      <lg>
+       <l>
+        Der Kerl sieht aus, als wie der Teufel.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Vorige. Röschen kömmt.
+     </stage>
+     <stage>
+      (Beyde stehen auf.)
+     </stage>
+     <sp who="#verwalter #kasper">
+      <speaker>
+       Verwalter. Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Ach! schönes Röschen!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Ha ha! ha ha! ha – welch Gesicht!
+       </l>
+       <l>
+        Vor Lachen kann ich reden nicht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter #kasper">
+      <speaker>
+       Verwalter. Kasper.
+      </speaker>
+      <stage>
+       (jeder heimlich zu ihr.)
+      </stage>
+      <lg>
+       <l>
+        Das ist ein Narr – er weiß es nicht,
+       </l>
+       <l>
+        Wie schwarz er ist in dem Gesicht.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Vorige, Hellwig, Susanna.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Jetzt werd ich mich wohl retiriren? (zieht sich der Thüre näher.)
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Was giebt’s denn hier zu spioniren?
+       </l>
+      </lg>
+     </sp>
+     <sp who=" #verwalter #kasper #finchel #röschen #hellwig #susanna"><!-- ids korrekt -->
+      <speaker>
+       Alle 6.
+      </speaker>
+      <lg>
+       <l>
+        Das ist ein Spaß! weiß keiner nicht,
+       </l>
+       <l>
+        Wie schwarz er ist in dem Gesicht.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Finchel.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Ein Mensch, der die Kunst wohl zu leben versteht,
+       </l>
+       <l>
+        Kommt überall gut durch die Welt;
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Es glückt ihm, wenns drunter und drüber auch geht,
+       </l>
+       <l>
+        Wenn er an die Weiber sich hält.
+       </l>
+       <l>
+        Man lachet, wenn etwas ein Weibchen belacht,
+       </l>
+       <l>
+        Dieß alles bewirkt ihre schöpferische Macht.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Hat einer ein Weibchen liebreizend und hold,
+       </l>
+       <l>
+        So ist er bald Jedermanns Freund;
+       </l>
+       <l>
+        Ihm fehlt nichts an Freuden, an Ehre und Gold,
+       </l>
+       <l>
+        Weils Alt und Jung gut mit ihm meint.
+       </l>
+       <l>
+        Man liebet, man ehret – man schätzet den Mann,
+       </l>
+       <l>
+        Da sieht man, wie viel so ein Weibchen nicht kann.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Drum streb ich nach Allem, was Weibern gefällt,
+       </l>
+       <l>
+        Dann hab’ ich gewonnenes Spiel;
+       </l>
+       <l>
+        Durch sie wird man glücklich und froh in der Welt,
+       </l>
+       <l>
+        Auf Weiber verlaß ich mich viel –
+       </l>
+       <l>
+        Denn Alles, was gut ist, schaft unserem Glück,
+       </l>
+       <l>
+        Ihr freundliches Lächeln, ihr zaubrischer Blick.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechszehnter Auftritt.
+     </head>
+     <stage>
+      Hellwig.
+     </stage>
+     <stage>
+      Romanze.
+     </stage>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Es war einmal im Bayerland,
+       </l>
+       <l>
+        Ein Mädchen jung und schön;
+       </l>
+       <l>
+        Im Dorf’ und Städtchen wohl bekannt,
+       </l>
+       <l>
+        Die wollte grasen gehn.
+       </l>
+       <l>
+        Da kam zu ihr ein Edelmann,
+       </l>
+       <l>
+        Er lächelte, und sah sie an:
+       </l>
+       <l>
+        Mein Kind sprach er – komm – küsse mich,
+       </l>
+       <l>
+        Komm her, mein Schaz! ich küsse dich.
+       </l>
+      </lg>
+       <lg>
+       <l>
+        Nein, nein! mein Herr! das kann nicht seyn,
+       </l>
+       <l>
+        Ich kenn die Männer schon;
+       </l>
+       <l>
+        Folg mir – es wird dich nicht gereun,
+       </l>
+       <l>
+        Ich geb dir Lieb zum Lohn.
+       </l>
+       <l>
+        Und husch, husch – husch! giengs mit ihr fort,
+       </l>
+       <l>
+        Und was geschah’ am stillen Ort?
+       </l>
+       <l>
+        Das sag’ ich nicht – es denkt sich schon,
+       </l>
+       <l>
+        Der Unschuld Täubchen flog davon.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achtzehnter Auftritt.
+     </head>
+     <stage>
+      Blumer. Röschen.
+     </stage>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        O dem Liebenden blüht Wonne,
+       </l>
+       <l>
+        Ihm nur lacht die goldne Sonne
+       </l>
+       <l>
+        Auf beblümter Flur;
+       </l>
+       <l>
+        Jauchzend und mit neuem Seegen.
+       </l>
+       <l>
+        Lacht dem Liebenden entgegen
+       </l>
+       <l>
+        Schöner die Natur.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Liebe läßt auf grüne Auen,
+       </l>
+       <l>
+        Gottes Seegen niederthauen,
+       </l>
+       <l>
+        Und das Blümchen blüht;
+       </l>
+       <l>
+        Liebe läßt die Nachtigallen,
+       </l>
+       <l>
+        Durch die Haine widerhallen,
+       </l>
+       <l>
+        Daß das Herze glüht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Die Liebe macht, daß Alles lebt.
+       </l>
+       <l>
+        Und Kraft in unsern Pulsen bebt.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Die Liebe weihet Flur und Hain.
+       </l>
+       <l>
+        In fröhliches Entzücken ein;
+       </l>
+      </lg>
+     </sp>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Sie ist der Gottheit Bild –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen">
+      <speaker>
+       Röschen.
+      </speaker>
+      <lg>
+       <l>
+        Sie macht uns gut und mild –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#röschen #blumer">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        O Liebe, Liebe! deine Freuden
+       </l>
+       <l>
+        Genießet jede Kreatur;
+       </l>
+       <l>
+        Ja! Engel müssen uns beneiden,
+       </l>
+       <l>
+        Wir folgen deiner Gottheit Spur.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Impressar.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Zufriedenheit würzet die Freuden des Lebens
+       </l>
+       <l>
+        Wenn Kinder uns lächeln so schön;
+       </l>
+       <l>
+        Denn ohne sie fließen die Tage vergebens
+       </l>
+       <l>
+        Im Taumel der Liebe dahin –
+       </l>
+       <l>
+        Ein Weibchen im Arme, im Hause kein Kind –
+       </l>
+       <l>
+        Da bleibet die zärtlichste Liebe ja blind.
+       </l>
+      </lg>
+      <lg>
+       <l>
+        Sie machen durch ihre unschuldigen Spiele
+       </l>
+       <l>
+        Die schöne Welt zum Paradiß;
+       </l>
+       <l>
+        Und schenken den Eltern der Freuden gar viele.
+       </l>
+       <l>
+        Und machen das Leben so süß –
+       </l>
+       <l>
+        Ein Mann, der die Welt nicht mit Menschen vermehrt,
+       </l>
+       <l>
+        Der ist auch des Glückes der Liebe nicht wehrt. (ab.)
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Drey und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Kasper.
+     </stage>
+     <stage>
+      Arie. Landlerisch.
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Es giebt ja der Madeln noch viel auf der Welt.
+       </l>
+       <l>
+        Was ists denn, wenn einen ein Madel auch prellt;
+       </l>
+       <l>
+        Kaum guckt man ja einer nur freundlich ins Gsicht,
+       </l>
+       <l>
+        So heißt’ gleich: mein Schazerl! geh – willst du mich nicht.
+       </l>
+      </lg>
+       <lg>
+       <l>
+        Und greift man nur einer ans Handel und Kinn,
+       </l>
+       <l>
+        Da strekens das Goscherl zum Pusseln gleich hin –
+       </l>
+       <l>
+        Da schlagen’s zum Kapituliren gleich ein,
+       </l>
+       <l>
+        Und fragen, wenn soll denn die Hochzeit schon seyn.
+       </l>
+      </lg>
+       <lg>
+       <l>
+        Ihr Madeln! ihr Madeln! nimmts euch wohl in Acht,
+       </l>
+       <l>
+        Der Krieg hat viel Männer ums Leben schon bracht,
+       </l>
+       <l>
+        Jezt zählt man drey Weibeln schon auf einen Mann,
+       </l>
+       <l>
+        Z’lezt sterbt ihr als Jungfern – kommts keine mehr dran!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vier und zwanzigster Auftritt.
+     </head>
+    </div>
+    <div type="scene">
+     <head>
+      Finale.
+     </head>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Herr! was soll das raisoniren?
+       </l>
+       <l>
+        Und was soll das fulminiren,
+       </l>
+       <l>
+        Hier in meinem Haus?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Was mich so prostituiren,
+       </l>
+       <l>
+        Mir das Mädchen fortzuführen?
+       </l>
+       <l>
+        Das halt ich nicht aus.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <stage>
+       (schadenfroh zu ihrem Mann.)
+      </stage>
+      <lg>
+       <l>
+        So ist es recht, nur zu, nur zu!
+       </l>
+       <l>
+        Da siehst es nun, du Gimpel du!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (geht aufgebracht umher.)
+      </stage>
+      <lg>
+       <l>
+        Den Verwalter zu prellen,
+       </l>
+       <l>
+        Einen andern zu wählen –
+       </l>
+       <l>
+        Ihr Lumpenpak! das ley’d ich nicht,
+       </l>
+       <l>
+        Das ist ja wider Ehr und Pflicht.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Was? Lumpenpak? jetzt ists genug –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Da hast du’s nun, Hans Superklug!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Schlingel!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Er Bengel.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Was? die Obrigkeit ein Bengel?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Herr! ein Gastwirth ist kein Schlingel –
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Ihr Grobian!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Jetzt ists genug,
+       </l>
+      </lg>
+     </sp>
+     <sp who="#susanna">
+      <speaker>
+       Susanna.
+      </speaker>
+      <lg>
+       <l>
+        Da hast du’s nun, Hans Superklug!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünf und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Kasper mit Weinen.
+     </stage>
+     <lg>
+      <l>
+       Die Rösel – die ist eschappirt,
+      </l>
+      <l>
+       Der Jäger hats in d’Stadt fortgführt –
+      </l>
+      <l>
+       Das Madel war n’gute Haut,
+      </l>
+      <l>
+       Jezt wird sie gar des Jägers Braut.
+      </l>
+     </lg>
+     <sp who="#verwalter #kasper #susanna"><!-- ids korrekt -->
+      <speaker>
+       Alle 3.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollen sie suchen die Kreutz und die Quer,
+       </l>
+       <l>
+        Und finden wirs – bringen wir Beyde daher.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Und sperren sie beyde in Kotter gleich ein,
+       </l>
+       <l>
+        Dort sollen sie lernen, geduldig zu seyn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle ab. Man hört auf der Strasse die Trommel rühren.)
+     </stage>
+     <sp who="#kasper">
+      <speaker>
+       Kasper.
+      </speaker>
+      <lg>
+       <l>
+        Jetzt lauf ich, was ich lauffen kann,
+       </l>
+       <l>
+        Jezt fangt schon die Komödi an!
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechs und zwanzigster Auftritt.
+     </head>
+     <stage>
+      (Die Bühne verwandelt sich in einen freyen Plaz. Auf beyden Seiten Krämerbuden. Mitten im Hintergrund die Marionetten Bude. Viele Käufer und Verkäufer. Bauern und Mädchen.)
+     </stage>
+     <sp who="#lustiger chor">
+      <speaker>
+       Lustiger Chor.
+      </speaker>
+      <lg>
+       <l>
+        Heisa! Juhe – hop sa sa!
+       </l>
+       <l>
+        Seht! der Jahrmarkt ist schon da!
+       </l>
+       <l>
+        Alt und Junge, groß und klein,
+       </l>
+       <l>
+        Kaufts von unsern Waaren ein –
+       </l>
+       <l>
+        Heisa! Juhe – hop sa sa!
+       </l>
+       <l>
+        Seht! der Jahrmarkt ist schon da!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#mandoletti mädchen">
+      <speaker>
+       Mandoletti Mädchen.
+      </speaker>
+      <lg>
+       <l>
+        Gute Pasteten.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#nürnberger krämer">
+      <speaker>
+       Nürnberger Krämer.
+      </speaker>
+      <lg>
+       <l>
+        Trommeln u. Schlegeln!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lebzelten mädchen">
+      <speaker>
+       Lebzelten Mädchen.
+      </speaker>
+      <lg>
+       <l>
+        Kauffts Wiener Pußeln!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#nürnberger krämer">
+      <speaker>
+       Nürnberger Krämer.
+      </speaker>
+      <lg>
+       <l>
+        Kugeln und Kögeln!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#tiroler">
+      <speaker>
+       Tiroler.
+      </speaker>
+      <lg>
+       <l>
+        Kaufts Teppich!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#schlawack">
+      <speaker>
+       Schlawack.
+      </speaker>
+      <lg>
+       <l>
+        Guiti Laiwit!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#jude">
+      <speaker>
+       Jude.
+      </speaker>
+      <lg>
+       <l>
+        Nix zu schachern?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#oebstlerin">
+      <speaker>
+       Oebstlerin.
+      </speaker>
+      <lg>
+       <l>
+        Kaufts Weixeln! s’ Nagel für n’ Groschen!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#mandoletti mädchen #lebzelten mädchen #schlawack #nürnberger krämer #tiroler #jude #oebstlerin"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Zerreiß sich d’Jungfer nicht die Goschen!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Allgemeiner Lärmen. Impressar guckt zur Kortine heraus.)
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <lg>
+       <l>
+        Still! still! damit man hören kann,
+       </l>
+       <l>
+        Bald fangt ja die Komödi an.
+       </l>
+      </lg>
+      <stage>
+       (Alle bieten ihre Waaren feil.)
+      </stage>
+      <lg>
+       <l>
+        Alt’ und Jung! Groß und Klein,
+       </l>
+       <l>
+        Kaufts von unsern Waaren ein.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sieben und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige. (Ein Mann mit einem Tanzbären nebst 2 Jungen, welche auf einer Querpfeife und Trommel musiziren.)
+     </stage>
+     <sp who="#mann">
+      <speaker>
+       Mann.
+      </speaker>
+      <lg>
+       <l>
+        Drom! Drom!
+       </l>
+       <l>
+        Schaut doch meinen Bären an,
+       </l>
+       <l>
+        Wie mein Thierchen tanzen kann;
+       </l>
+       <l>
+        Hußa! dreh’ dich um und um,
+       </l>
+       <l>
+        Hußa! tanz’ im Kraiß herum!
+       </l>
+      </lg>
+      <stage>
+       (Impressar guckt oben zur Bude heraus.)
+      </stage>
+      <lg>
+       <l>
+        So seyd nur einmal still; ich armer Mann!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles versammlet sich zur Marionetten Bude.)
+     </stage>
+     <sp who="#mandoletti mädchen #lebzelten mädchen #schlawack #nürnberger krämer #tiroler #jude #oebstlerin #mann"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Still! still! fang’ er nur die Komödi an.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Kortine rollt hinauf. Dir Impressar spielt mit seinen Kindern, als Marionetten – Komödie. Die darinnen vorkommende Charaktere sind Odoardo, als Vater der Fräulein Rosalie – Hanswurst, Bedienter. Ein lustiger Dudelsackpfeifer unterbricht die Aufmerksamkeit der Zuschauer, und alles verläßt die Bude.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Acht und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Dudelsakpfeifer.
+     </stage>
+     <sp who="#chor"> <!-- id korrekt -->
+      <speaker>
+        Chor.
+       </speaker>
+      <lg>
+       <l>
+        Heisa Lustig! trick track, trum!
+       </l>
+       <l>
+        Madeln! dreht euch dreimal um –
+       </l>
+       <l>
+        Hindri, firi, auffi, abi!
+       </l>
+       <l>
+        Tschiri, tschari, gribi, grabi!
+       </l>
+       <l>
+        Hußa! Hußa! trik, trak, trum!
+       </l>
+       <l>
+        Madeln! dreht euch dreymal um!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles kommt wieder unter einander, und rufft seine Waaren feil.)
+     </stage>
+     <sp who="#tiroler teppichhändler">
+      <speaker>
+       Tiroler Teppichhändler.
+      </speaker>
+      <lg>
+       <l>
+        Kaufts Teppich!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#nürnberger krämer ">
+      <speaker>
+       Nürnberger Krämer.
+      </speaker>
+      <lg>
+       <l>
+        Trommeln und Schlegeln!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      u.s.w.
+     </stage>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (ruft von oben herab.)
+      </stage>
+      <lg>
+       <l>
+        Der Teufel soll’ euch alle holen,
+       </l>
+       <l>
+        Ihr Lumpen! wollt ihr euch nicht drollen?
+       </l>
+       <l>
+        Schreyt ja um euren Kreuzer her,
+       </l>
+       <l>
+        Als wenn der Teufel in euch wär.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles nähert sich wider der Marionetten Bude.)
+     </stage>
+     <sp who="#impressar #mandoletti mädchen #lebzelten mädchen #schlawack #nürnberger krämer #tiroler #jude #oebstlerin"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Still! still! wir wollen ruhig seyn,
+       </l>
+       <l>
+        Still! still! sonst schlag ich selber drein!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Komödie beginnt wieder – wird endlich unterbrochen durch herbeyeilende Bauern, welche durch ihre Nachricht auf allen Gesichtern Schrecken verbreiten.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Neun und zwanzigster Auftritt.
+     </head>
+     <stage>
+      Vorige, Bauern.
+     </stage>
+     <sp who="#bauern">
+      <speaker>
+       Bauern.
+      </speaker>
+      <lg>
+       <l>
+        Zu Hülfe! zu Hülfe!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar #mandoletti mädchen #lebzelten mädchen #schlawack #nürnberger krämer #tiroler #jude #oebstlerin"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Was ist denn geschehn?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#bauern">
+      <speaker>
+       Bauern.
+      </speaker>
+      <lg>
+       <l>
+        Der Bär ist losgekommen! ach! lauffet davon,
+       </l>
+       <l>
+        Fort! rettet euch – Leute! dort kömmt er auch schon!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie retten sich zur Marionetten-Bude. Alles untereinander.)
+     </stage>
+     <sp who="#impressar #mandoletti mädchen #lebzelten mädchen #schlawack #nürnberger krämer #tiroler #jude #oebstlerin"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Welch Lärmen, welch Schreyen! wo aus und wo ein,
+       </l>
+       <l>
+        Hier wird man, ich glaube – am sichersten seyn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles geht untereinander, die Körbe werden zusammen geworfen – die Marionetten-Bude wird gestürmt – der Bär verfolgt von seinem Herrn retirirt sich dahin. Unter diesem Tumult kommen der Verwalter, mit Amts-dienern, wel-welche [!] Blumer und Röschen in der Mitte haben. Allgemeine Ruhe.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyßigster Auftritt.
+     </head>
+     <stage>
+      Hellwig, Susanna, Korporal.
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Nur her, mit beyden Deserteurs,
+       </l>
+       <l>
+        Ihr sollet Wunder sehn!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#hellwig">
+      <speaker>
+       Hellwig.
+      </speaker>
+      <lg>
+       <l>
+        Du schämst dich nicht, du Schelmin du!
+       </l>
+       <l>
+        Mit dem da durchzugehn.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alles schleicht sich nach und nach herfür)
+     </stage>
+     <lg>
+      <l>
+       Was ist denn hier geschehen? nur nicht gelacht!
+      </l>
+      <l>
+       Nur still! und keinen Lärm gemacht!
+      </l>
+     </lg>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (will Blumer den Mantel wegreissen.)
+      </stage>
+      <lg>
+       <l>
+        Den Mantel weg!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Ach! Gnade mir!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <stage>
+       (winkt den Schergen.)
+      </stage>
+      <lg>
+       <l>
+        Fort – fort! du Schurcke! fort mit dir!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie wollen Gewalt brauchen.)
+     </stage>
+     <stage>
+      (Blumer wirft seinen Mantel ab, und steht als Offizier da.)
+     </stage>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Halt ein! Halt ein!
+       </l>
+       <l>
+        Ich bin der Graf von Brandenstein
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (eilt herfür.)
+      </stage>
+      <lg>
+       <l>
+        Der Graf von Brandenstein!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle fallen auf die Knie.)
+     </stage>
+     <sp who="#verwalter">
+      <speaker>
+       Verwalter.
+      </speaker>
+      <lg>
+       <l>
+        Der Graf von Brandenstein!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#blumer">
+      <speaker>
+       Blumer zu Hellwig.
+      </speaker>
+     </sp>
+     <sp who="#recit"><!-- id? -->
+      <speaker>
+       Recit.
+      </speaker>
+      <lg>
+       <l>
+        Alter! dieses Mädchen ist die Tochter meines Oheims,
+       </l>
+       <l>
+        Durch sie bin ich der Erbe dieses Gutes –
+       </l>
+       <l>
+        Alles sey Vergessen! Seyd lustig und froher dinge,
+       </l>
+       <l>
+        Morgen wird dieses Mädchen meinen Gemalin [!]!
+       </l>
+      </lg>
+      <stage>
+       (Alle in wilder Freude.)
+      </stage>
+      <lg>
+       <l>
+        Wir tanzen und jubeln – Juheisa – Juhe!
+       </l>
+       <l>
+        Der Graf und die Gräfin soll leben – Juhe!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#blumer">
+      <speaker>
+       Blumer.
+      </speaker>
+      <lg>
+       <l>
+        Ewig blühen unsre Freuden.
+       </l>
+       <l>
+        Ferne sey’n des Lebens Leiden,
+       </l>
+       <l>
+        Liebe lohne unser Glück!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Lezter Auftritt.
+     </head>
+     <stage>
+      Vorige. Finchel.
+     </stage>
+     <sp who="#finchel">
+      <speaker>
+       Finchel.
+      </speaker>
+      <lg>
+       <l>
+        Aus der Stadt kömmt die Staffete,
+       </l>
+       <l>
+        An Sie, gnädiger Herr!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#graf">
+      <speaker>
+       Graf.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <lg>
+       <l>
+        Das Looß der grossen Lotterie
+       </l>
+       <l>
+        Gehöret mein fürwahr.
+       </l>
+       <l>
+        <stage>
+         zum Impr.
+        </stage>
+        Milchbrüderchen! dieß schenck’ ich dir
+       </l>
+       <l>
+        Als meinem Impressar.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#impressar">
+      <speaker>
+       Impressar.
+      </speaker>
+      <stage>
+       (außer sich vor Freude.)
+      </stage>
+      <lg>
+       <l>
+        Wohl mir! nun ist mein Glück gemacht!
+       </l>
+       <l>
+        Der Tag hat Freude mir gebracht;
+       </l>
+       <l>
+        War gestern noch ein armer Narr,
+       </l>
+       <l>
+        Der Glücklichste bin ich fürwahr –
+       </l>
+       <l>
+        Ha! wär’ das gnäd’ge Publikum,
+       </l>
+       <l>
+        Mit uns zufrieden um und um –
+       </l>
+       <l>
+        Wir wollten heut beym Gläschen Wein,
+       </l>
+       <l>
+        Auf aller Wohlseyn uns erfreun –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Alle schwingen die Hüte,) (tanzen und jubeln.)
+     </stage>
+     <sp who="#schluß chor">
+      <speaker>
+       Schluß Chor.
+      </speaker>
+      <lg>
+       <l>
+        Wir wollten heut beym Gläschen Wein,
+       </l>
+       <l>
+        Auf Aller Wohlseyn uns erfreun;
+       </l>
+       <l>
+        Hoch lebe Alles um und um,
+       </l>
+       <l>
+        Vivat das gnäd’ge Publikum!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Ende des Singspiels.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

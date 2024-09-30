@@ -1,0 +1,6872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Der unruhige Wanderer, oder Kasperls lezter Tag
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl Friedrich Hensler
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1796">
+      1796
+     </date>
+     <date type="premiere" when="1796">
+      1796
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="kasperl">
+      <persName>
+       Kasperl
+      </persName>
+     </person>
+     <person xml:id="chara">
+      <persName>
+       Chara
+      </persName>
+     </person>
+     <person xml:id="mongogul">
+      <persName>
+       Mongogul
+      </persName>
+     </person>
+     <person xml:id="florina">
+      <persName>
+       Florina
+      </persName>
+     </person>
+     <person xml:id="evana">
+      <persName>
+       Evana
+      </persName>
+     </person>
+     <person xml:id="lulla">
+      <persName>
+       Lulla
+      </persName>
+     </person>
+     <person xml:id="sambukko">
+      <persName>
+       Sambukko
+      </persName>
+     </person>
+     <person xml:id="seros">
+      <persName>
+       Seros
+      </persName>
+     </person>
+     <person xml:id="zamor">
+      <persName>
+       Zamor
+      </persName>
+     </person>
+     <person xml:id="laurita">
+      <persName>
+       Laurita
+      </persName>
+     </person>
+     <personGrp xml:id="alle">
+      <name>
+       Alle
+      </name>
+     </personGrp>
+     <person xml:id="königinn">
+      <persName>
+       Königinn
+      </persName>
+     </person>
+     <person xml:id="geist">
+      <persName>
+       Geist
+      </persName>
+     </person>
+     <person xml:id="hassina">
+      <persName>
+       Hassina
+      </persName>
+     </person>
+     <person xml:id="gargantas">
+      <persName>
+       Gargantas
+      </persName>
+     </person>
+     <personGrp xml:id="chor">
+      <name>
+       Chor
+      </name>
+     </personGrp>
+     <person xml:id="gigri">
+      <persName>
+       Gigri
+      </persName>
+     </person>
+     <person xml:id="zimbalo">
+      <persName>
+       Zimbalo
+      </persName>
+     </person>
+     <person xml:id="akasia">
+      <persName>
+       Akasia
+      </persName>
+     </person>
+     <person xml:id="hirtenjunge">
+      <persName>
+       Hirtenjunge
+      </persName>
+     </person>
+     <person xml:id="azzina">
+      <persName>
+       Azzina
+      </persName>
+     </person>
+     <person xml:id="königin">
+      <persName>
+       Königin
+      </persName>
+     </person>
+     <personGrp xml:id="alle weiber">
+      <name>
+       Alle Weiber
+      </name>
+     </personGrp>
+     <person xml:id="azina">
+      <persName>
+       Azina
+      </persName>
+     </person>
+     <person xml:id="laura">
+      <persName>
+       Laura
+      </persName>
+     </person>
+     <person xml:id="mechmet">
+      <persName>
+       Mechmet
+      </persName>
+     </person>
+     <person xml:id="sanga">
+      <persName>
+       Sanga
+      </persName>
+     </person>
+     <person xml:id="tichmar">
+      <persName>
+       Tichmar
+      </persName>
+     </person>
+     <person xml:id="miramud">
+      <persName>
+       Miramud
+      </persName>
+     </person>
+     <personGrp xml:id="die schwarzen">
+      <name>
+       Die Schwarzen
+      </name>
+     </personGrp>
+     <person xml:id="kakadu">
+      <persName>
+       Kakadu
+      </persName>
+     </person>
+     <person xml:id="ticera">
+      <persName>
+       Ticera
+      </persName>
+     </person>
+     <personGrp xml:id="chor">
+      <name>
+       Chor
+      </name>
+     </personGrp>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head/>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Evana, Königinn in Termodonien. 
+     </castItem>
+     <castItem>
+      Lulla, eine gefangene Fürstentochter.  
+     </castItem>
+     <castItem>
+      Florina, Lullens Vertraute. 
+     </castItem>
+     <castItem>
+      Laurita, Hassina, Akasia, Ticera, Gefährtinin der Königinn.
+     </castItem>
+     <castItem>
+      Mehrere kriegerische Mädchen.
+     </castItem>
+     <castItem>
+      Samor, ein junger Abentheuerer. 
+     </castItem>
+     <castItem>
+      Zimbalo, sein Waffenknecht. 
+     </castItem>
+     <castItem>
+      Mechmet, ein reisender Araber. 
+     </castItem>
+     <castItem>
+      Ibra, ein Kalands Bruder. 
+     </castItem>
+     <castItem>
+      Seros, ein alter Greis.
+     </castItem>
+     <castItem>
+      Miramud, Tichmar, Sanga, Reisende.
+     </castItem>
+     <castItem>
+      Viele Reisende von verschiedenen Nazionen.
+     </castItem>
+     <castItem>
+      Sambukko, Gargantas, Gözendiener.
+     </castItem>
+     <castItem>
+      Mongogul, ein Mohr, Aufseher der gefangenen Männer.      
+     </castItem>
+     <castItem>
+      Mohren zur Leibwache der Königinn.
+     </castItem>
+     <castItem>
+      Genien.
+     </castItem>
+     <castItem>
+      Chara, die Beschüzerinn der Menschenfreuden. 
+     </castItem>
+     <castItem>
+      Gigri, ein kleiner Schuzgeist. 
+     </castItem>
+     <castItem>
+      Kasperl, ein reduzirter Hofnarr. 
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Angenehme Flur. Auf der Seite eine Binsenhütte, nahe dabey eine Quelle. Vor der Hütte sitzt Kasperl auf einer Bank als ein eisgrauer Mann in der Kleidung eines Bergbewohners. Er ist sanft eingeschlaffen.)
+     </stage>
+     <stage>
+      Introduktion.
+     </stage>
+     <sp who="#chor von hirtenkindern">
+      <speaker>
+       Chor.
+      </speaker>
+      <stage>
+       Chor von Hirtenkindern beyderley Geschlechts.
+      </stage>
+      <lg>
+       <l>
+        Schlummre, Liebling der Freude!
+       </l>
+       <l>
+        Friedlich und süß;
+       </l>
+       <l>
+        Du erwachest nun heute
+       </l>
+       <l>
+        Fröhlich gewiß.
+       </l>
+      </lg>
+      <stage>
+       (Es erscheint ein ländlich gedecktes Tischchen aus der Versenkung. Mitten darauf ein irrdener Topf. Die Kinder legen ihre Früchte unter dem Chor auf den Tisch.)
+      </stage>
+      <lg>
+       <l>
+        1. Laßt uns nun den Alten wecken!
+       </l>
+       <l>
+        2. Ich will ihn ein wenig necken;
+       </l>
+       <l>
+        3. Zieht ihn an dem Ohr, am Fuß,
+       </l>
+       <l>
+        4. Ich weck’ ihn mit einem Kuß.
+       </l>
+      </lg>
+      <stage>
+       (Sie necken Kasperl auf verschiedene Art. Wie er auf die Stirne geküßt wird, beginnt er zu erwachen.)
+      </stage>
+     </sp>
+     <sp who="#chor von hirtenkindern">
+      <speaker>
+       Alle.
+      </speaker>
+      <lg>
+       <l>
+        Seht nur! schon ist er erwacht,
+       </l>
+       <l>
+        Was er für Geberden macht!
+       </l>
+       <l>
+        Kommt! laßt ihn allein – entflieht,
+       </l>
+       <l>
+        Eh’ uns noch sein Auge sieht.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie schleichen ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein, (gähnt, streckt sich aus.)
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ha, ha, ha! da heist’s wohl, s’kann einem nicht närrischer träumen! Nun ja!
+       <stage>
+        (er will aufstehen, zittert, setzt sich wieder)
+       </stage>
+       da haben wir’s! es geht nimmer! die Füße! die Füße! wenn ich ihnen auch noch so gute Worte gäb, es wär kein Tanzl mehr aus ihnen heraus z’holen!
+       <stage>
+        (Pause, lacht mit innerer Zufriedenheit)
+       </stage>
+       ha, ha, ha! wie ich immer sag, wenn man lang lebt, so wird man alt, und wenn man alt wird, so werden einem d’Spazierhölzer zu eng, und wenn’s auch im obern Stockwerk noch so lustig aussieht, was hilfts! wo der Hausmeister logirt,
+       <stage>
+        (deutet auf die Füsse)
+       </stage>
+       da singt man s’Lamentabile s’ganze Jahr!
+       <stage>
+        (Er steht mit Mühe auf, lehnt sich auf seinen Knotenstock, und nähert sich dem Tischchen)
+       </stage>
+       Der Appetit ruckt auch schon wieder an – ich muß doch nachschauen, was mir die Frau Fee aus ihrer Hofkuchel bescheert hat. –
+      </p>
+     </sp>
+     <stage>
+      (Er öffnet den Topf, eine blaue Flamme lodert aus demselben. Posaunen-Akkord. – Charas Stimme.)
+     </stage>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Dich labt nicht mehr, wie sonst, ein köstlich Mahl,
+       </l>
+       <l>
+        Bewirthet wardst du heut zum Letztenmahl!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was hab’ ich da gehört? die Kost wird mir aufg’sagt? nun brav! jetzt schaut’s gut mit mir aus. So will ich mir wenigstens aus der Quell da frisches Wasser schöpfen – ist vielleicht ohnehin mein letzt’s Labetrankl auf der Welt – denn ich – ich
+       <stage>
+        (schluchzt laut)
+       </stage>
+       merks ohnehin, mit mir alten Kerl wird sichs nimmer lang thun –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Kein Labetrunk löscht deinen Durst dir mehr,
+       </l>
+       <l>
+        Du findest jede Quelle wasserleer.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er will in seine Mütze Wasser schöpfen, die Quelle verwandelt sich in ein Felsenstück. Voriger Posaunen-Akkord. Charens Stimme).
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       O – o – o ich armer Teufel! nix zu essen, nix zu trinken – nicht einmal ein Tröpfl Wasser, daß ich mich in meiner letzten Lebensstunde noch laben könnt.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      (Zum drittenmal Posaunen-Akkord, verbunden mit einem schrecklichen Donnerschlag. Das vorige Felsenstück theilt sich, und Chara kommt heraus, als altes, zitterndes Mütterchen, an einem Stab daherwankend, eben so gekleidet wie Kasperl, er stürzt vor Angst zu Boden.)
+     </stage>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (Ganz in dem Ton eines alten Weibes).
+      </stage>
+      <p>
+       Schönen, freundlichen guten Tag, liebes Männchen!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (schaut auf – sieht sich um)
+      </stage>
+      <p>
+       Schaut! schaut! wie kurios! wo kommt denn ihr her, altes Mütterchen!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Aus dem Gebürge! hab dich ja vor deinem Ende noch einmal heimsuchen müssen, hi, hi, hi. Kenn dich ja schon sehr lange – haben oft zusammen gekoßt und geliebelt
+       <stage>
+        (nimmt ihn am Kinn)
+       </stage>
+       – Bin dir auch jetzt noch gut – ja! ja! das bin ich – du liebes Herzensmännchen!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Auweh! auweh! jetzt will die Alte mit mir noch anbandeln. Wißts was? Lassen wir uns gleich durch den Todtengraber kopuliren – denn so viel ich merk, wird sich die Welt mit uns beyden nicht mehr viel hocus pocus versprechen können.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Was machst du denn hier, lieber Fremdling!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was ich da mach? Ich wart auf einen von meiner Blutsfreundschaft, er hat mir versprochen, daß er mich mit seiner Diligence da abholen will.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Hi, hi, hi! Einer von deiner Blutfreundschaft?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ja! gar ein galanter Mann! er transportirt einen oft aus der Welt, ohne zu fragen, obs einem auch recht ist, oder nicht. –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Du meinst den Tod? o dieser gute Freund hat jetzt ganz andere Geschäffte; aber sag mir doch, liebes Männchen! bewohnest du diese Hütte schon lange?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Seit dem sie mich von Hof verjagt haben.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Von Hof? woher bist du denn gebürtig, lieber Fremdling!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Aus Tirol – war ehedem Hofnarr – wie ich aber das Project g’macht hab, daß alle Ehemänner, die ihren Weibern ungetreu sind, rothe Perücken tragen sollten, so haben sie mir die Schellenkapp um den Kopf geschlagen, und mich aus dem Land gejagt.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Armer Mensch!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Jetzt bin ich hier, um den Weg übers Gebürg zu weisen. Eine Fee hat mich bis daher gespeißt – aber nur eins – nur eins ist mir indeß abgangen.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Ey! und was denn?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (bricht in lautes Weinen aus)
+      </stage>
+      <p>
+       Kein – kein Tröpfl Wein darf ich mehr trinken – und das – das muß freylich einen ehrlichen Kerl meines gleichen schmerzen –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Das will ich dir glauben.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Denn wo ich ehedem gelebt hab, war die ganze Gegend mit Weinreben bepflanzt.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Das ist grausam von deiner Wohlthäterinn; und du hast wohl in deinem Leben Manches zum Vergnügen deiner Mitmenschen beygetragen?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das muß ich erst hören, wenn ich werd g’storben seyn; denn bey mir z’Haus ist’s Mode, daß man die Leute erst recht schimpft oder lobt, wenn sie im Grab liegen.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Reich mir deine Hand, Fremdling! ich hab dich zu einer grossen, wichtigen Unternehmung erkohren? –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Mich? zu einer grossen, wichtigen Unternehmung?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Ich hatte einst einen Sohn – ein holder Jüngling, von der Natur mit all den Vorzügen ausgerüstet, die sie ihren Lieblingen in vollem Maaße darreicht; er wandert durch die Welt, um ein Gelübde zu erfüllen, das er den Göttern beschworen hat.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Eine kuriose, alte Mutter! ha, ha,ha!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Dieser Jüngling verirrte sich auf eine Insel, wo das Gesetz jeden fremden Wanderer als Gefangenen aufbewahrt, und alle Männer verurtheilt, eine Jahresfrist zu spinnen, bis sie erlößt werden.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (in äusserster Verwunderung)
+      </stage>
+      <p>
+       Was? spinnen müssen die Männer!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Die Qualen dieser Unglücklichen in der Ferne zu erblicken, sey dir einstweilen von dem Schicksale vergönnt! Blicke auf – betrachte jenen Fremdling, der unter den übrigen seinen Blick trostlos zur Erde heftet.
+      </p>
+      <stage>
+       (sie winkt.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      (Die Kortine rollt auf. Man sieht durch einen Schleyer einen marmornen Saal. – Zamor steht mit umschlungenen Armen in der Mitte. Mechmet. Ibra. Viele Fremdlinge von allerley Nazionen. Ritter und Waffenträger spinnen an Kunkeln).
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Wir sind verdammt zu dieser Plag,
+       </l>
+       <l>
+        Und liefern wir nicht jeden Tag
+       </l>
+       <l>
+        Die uns bestimmte Fädenzahl,
+       </l>
+       <l>
+        So martart [!] uns des Hungersqual!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Kortine rauscht plötzlich wieder herab).
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Au weh! was hab ich da g’sehen! In dem Spinnhaus hats ja Leute von allerley Nazionen gegeben?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Lauter unglückliche Reisende – die, so bald sie das feste Land betretten, entwaffnet, und an jenen Ort gebracht werden, woraus keine Erlösung möglich ist, bis jeder von ihnen 10000 Fäden gesponnen hat.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wer kann denn aber die Männer zwingen, daß sie spinnen müssen? –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Jene Insel beherrscht die stolze Königinn des Nektarlandes – ein barbarisches Gesetz macht dort alle Weiber zu erklärten Feindinnen der Männer – schließt sie alle von männlichen Verrichtungen aus, und erniedriget sie, Fremde und Einheimische zur niedrigsten Weiberarbeit.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das ist ja eine verdammte Einrichtung!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Die Weiber selbst kennen keine andere Belustigung als ritterliche Waffenübungen – sie vertheidigen ihre Rechte mit dem heldenmüthigsten Tod; und selbst die Natur beschützte ihre weibliche Schwäche dadurch, daß durch den Rebensaft, den ihre Gefilde zeugen, die Männer zur Unterwürfigkeit angelockt, ihre Rechte vergessen müssen, womit sie die Natur zu Herrn der Schöpfung krönte. – Blicke dahin, und betrachte jene kriegerische Weiber-Kolonie –
+      </p>
+      <stage>
+       (Sie winkt).
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      (Die vorige Kortine rollt wieder hinauf. Man sieht durch den vorigen Schleyer eine mit Logen gezierte Stechbahn mit Schranken. – Im Hintergrund ein Thron, worauf die Königinn sitzt. Alle Weiber mit ihrem Fähnchen und Schildern auf beyden Seiten getheilt. Laurita und Hassina turniren unter dem Chor mit Schild und Lanze).
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Kämpfet um die Lorberkrone,
+       </l>
+       <l>
+        Die am Ziele hängt,
+       </l>
+       <l>
+        Die die Siegerinn zum Lohne
+       </l>
+       <l>
+        Sich durch Muth erringt!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Kortine rauscht plötzlich wieder herab).
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (stürzt angstvoll zur Erde)
+      </stage>
+      <p>
+       Au weh! was hab ich da g’sehen – Die Weiber stechen ja auf einander los, als wenns b’sessen wären.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Fürchte dich nicht – du sollst mich näher kennen lernen. Willst du nun meinen Auftrag besorgen, zu dessen Werkzeug dich das Schicksal erkohren hat?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ein – Ein Auftrag?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Willst du jenen holden Jüngling aus der Gefangenschaft befreyen? das Werkzeug werden zur Vertilgung jenes grausamen Gesetzes? der Rächer der männlichen Rechte – der Wohlthäter des Menschengeschlechts?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weinerlich)
+      </stage>
+      <p>
+       Aber so – so bedenkt nur ums Himmelswillen! wie soll ich alter Kerl so eine gefährliche Sach unternehmen können; da müßt’ ich mir ja mein ganz Fußwerk renoviren lassen.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Traue auf meine Hülfe – empfange hier die Hälfte dieser goldenen Kugel, der Besitzer der andern Hälfte wird dich als seinen Retter erkennen. Vor allen Dingen aber hüte dich auf deiner Wanderschaft vor Liebe.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun da wirds keine Noth haben, denn s’verliebt seyn ist schon lang bey mir aus der Mode kommen.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Auch vermeidest du auf deiner Wanderschaft jeden Tropfen jenes gefährlichen Rebensaftes, der ihren Gefilden entquillt, und dessen geringster Genuß alle meine Plane zernichten würde.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ihr wollt mich als Ambassadeur nach dem Nektarland schicken, und ich soll keinen Wein trinken?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Enthaltsamkeit von Liebe und Wein – mitten in dem Kreise der liebenswürdigsten Weiber, mitten in einem entfernten Erdstrich, den die Natur mit all ihren Reizen begabte – macht dich der Ehre des Nachruhms unter deinen Mitbürgern würdig, macht dich zum Liebling der Götter. – Auf! Fremdling! vollführe meinen Plan!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (laut weinend)
+      </stage>
+      <p>
+       Aber so bedenkt doch – mein hohes Alter – das schlechte Fußwerk.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Auch dafür will ich sorgen. Ich will dir einige Tropfen aus der Wunderquelle des Lebens schöpfen – damit du umgeschmolzen werdest im grossen Tiegel der Natur – dein Geist und Körper sich verjünge.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wie? was? renovirt soll ich also werden? das wär nicht übel – ich hab ohnedieß noch viel in meinem Leben nachzuholen. –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Gestalt und Kleidung – Alter und Gesinnung sollen sich umwandeln, sobald du aus der Schale des Lebens getrunken hast. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Hab z’Haus auch immer so einen liquor vitæ g’habt, aber jünger bin ich halt doch nicht worden.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (winkt, ein Kästchen erscheint).
+      </stage>
+      <p>
+       Dann empfängst du von mir dieses Kästchen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was soll ich denn mit dem Kastl da machen?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       In deiner ehemaligen Tirolertracht ziehest du an den Hof jener stolzen Königinn – dieses Kästchen enthält Geheimnisse der Natur, welche die weibliche Neugierde reitzen, und derer geringster Genuß Herz und Sinne umwandeln. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Aber liebs Mütterl! da stechen mich ja die Weiber tod, noch eh’ ich mit meinem Waarenlager hausiren geh.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Eben deßwegen soll dich Gigri, mein kleiner Schutzgeist unsichtbar begleiten.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Kasperl. Chara. Gigri.
+     </stage>
+     <stage>
+      (Gigri mit einer Narrenmütze, woran oben ein Glöckl angebracht ist.)
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was will denn das kleine Zaunschlupferl mit der Schellenmütze da?
+      </p>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <stage>
+       (Schellt)
+      </stage>
+      <p>
+       Schellen! Schellen, wenn du dumme Streiche machen willst.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       O diese Mütze ist für dich das unentbehrlichste Möbel auf deiner Wanderschaft. Dieses Glöcklein hat die Kraft, dich vor jeder unklugen Handlung zu warnen, die du zu unternehmen beginnst.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das Glöckl da – wird also schellen, wenn ich einen dummen Streich machen will?
+       <stage>
+        (nimmt Gigri an der Hand)
+       </stage>
+       Wir bleiben schon beyeinander! du kleines Baggatellerl!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Den Klang dieser silbernen Glocke vernehme ich auch in der weitesten Entfernung; ihr Ruf wird mich zur Hülfe wecken.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun – du lieber Himmel! das wird eine Schellerey geben.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Sey vorsichtig, Fremdling! und erfülle den Willen des Schicksals – dieß allein kann deine Lebenszeit verlängern. Vor allem aber hüte dich vor Liebe und Wein!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Eben das – das sind zwey Artikel, die nicht leicht ein ehrlicher Kerl lang entbehren kann.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (zärtlich)
+      </stage>
+      <p>
+       Dafür sollst du auch höchlich belohnt werden durch meine zärtliche Liebe.
+      </p>
+      <stage>
+       (Sie ergreift schmeichelnd sein Kinn)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Durch – durch eure Liebe? –
+       <stage>
+        (beis.)
+       </stage>
+       fangt schon wieder an – die Alte!
+      </p>
+      <stage>
+       (Chara verfolgt ihn, er weicht ihr aus).
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       Arie. (im alten Weiberton.)
+      </stage>
+      <lg>
+       <l>
+        Laß dich herzen, dich umarmen,
+       </l>
+       <l>
+        Stürze dich an meine Brust,
+       </l>
+       <l>
+        Du bist meines Lebenslust!
+       </l>
+      </lg>
+      <stage>
+       (Diese Melodie verändert sich auf einmal in majestätische Musik). –
+      </stage>
+      <lg>
+       <l>
+        Heil dir, beglückter Erdensohn!
+       </l>
+       <l>
+        Ich weihe dich zum schönen Lohn
+       </l>
+       <l>
+        In dem der Freude heil’gen Hain
+       </l>
+       <l>
+        Zu aller Menschen Wonne –
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Hier geschieht mitten im Takt ein Donnerschlag. Kasperl stürzt vor Angst zur Erde. Chara steht vor ihm als Fee, in jugendlicher Schönheit. Die ganze Bühne verwandelt sich in einen Hain, mit einer Quellenpyramide, woraus Wasser strömt.
+     </stage>
+     <sp who="#genien-chor">
+      <speaker>
+       Genien-Chor.
+      </speaker>
+      <lg>
+       <l>
+        Jauchzt der Göttinn der Freude
+       </l>
+       <l>
+        Heute im duftenden Hain,
+       </l>
+       <l>
+        Den zum Tempel sie weihte,
+       </l>
+       <l>
+        Schöpfrinn des Glückes zu seyn!
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Vorige. Kasperl auf den Knien.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (mit zitternder Stimme)
+      </stage>
+      <p>
+       Au weh! au weh! jetzt weiß ich nicht, bin ich schon bey lebendigem Leib im Paradies, oder ist das erst die Antichambre davon.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Entsetze dich nicht – ich bin deine Wohlthäterinn! Ich habe als altes Mütterchen deine Gesinnungen geprüft, dich schon Jahre lang in jener Hütte verpflegt, wo du den Letzten deiner Lebenstage erwarten solltest.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       O tausend Dank, beste Frau Fee! aber heut – heut habt ihr euch schlecht eingestellt – nichts zu essen, und nicht einmal ein Tröpfl Wasser, will geschweigen einen Wein, um meinen Durst zu löschen. –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Gigri! schöpfe aus der Wunderquelle des Lebens – und reiche die goldne Schale diesem alten Manne, daß sein Geist und Körper sich verjünge, und er Macht und Kraft erhalte, den Plan auszuführen, den die Götter über ihn beschlossen haben.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beiseite)
+      </stage>
+      <p>
+       Ein Wasser zum Verjüngen! Das wär ein Artikel, wo man bey mir zu Land reich werden könnt.
+       <stage>
+        (weinerlich)
+       </stage>
+       Wenns – wenns etwa gar ein Gifttrankl wär.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Frevler! Scheint dir dieser Ort der Aufenthalt einer Giftmischerin zu seyn? Auf! mache dich zu deiner Reise fertig!
+      </p>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <p>
+       Trink! alter Vater! trink!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was soll ich?
+      </p>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <p>
+       Trinken! Trinken!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun! ins Himmels Nahmen! was einem so ein unschuldiges Kind giebt, kann ja nicht schaden!
+      </p>
+      <stage>
+       (er trinkt). (Musik)
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Meine Macht bringe dich an Ort und Stelle, vollführe meinen Plan! –
+      </p>
+     </sp>
+     <stage>
+      (Die Genien machen einen Kettentanz um ihn, so wie er trinkt, entfällt ihm das Gewand, und er steht als ein Tirolerbauer da. Das Quellenbaad verwandelt sich in einen Wolkenwagen, worüber ein Adler schwebt. Kasperl hängt sein Kästchen um, setzt seine Mütze auf.
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Zur Wonne und Scherzen erkohren,
+       </l>
+       <l>
+        Erschuf dich die Mutter Natur;
+       </l>
+       <l>
+        Zum zweytenmahl bist du gebohren,
+       </l>
+       <l>
+        Drum folge der lachenden Spur.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie tanzen im Kreise um ihn, und er fliegt aus ihrer Mitte davon.)
+     </stage>
+     <stage>
+      Der Vorhang fällt.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Eine Felsengrotte mit einem unterirrdischen Baad. Eine Quelle, die sich in eine Muschelbecken ergießt – die Königinn. Weiblicher Hofstaat.)
+     </stage>
+     <sp who="chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Umflossen von kühlender Luft,
+       </l>
+       <l>
+        Umfächelt vom Blumengeduft
+       </l>
+       <l>
+        Entsteigst du dem Grunde der frischenden Wellen,
+       </l>
+       <l>
+        Wir baden uns täglich zur Stärkung in Quellen.
+       </l>
+       <l>
+        Zu löschen im Busen die Gluth,
+       </l>
+       <l>
+        Zu kühlen das feurige Blut!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <stage>
+       (empfängt von einigen ihres Gefolges Schild und Lanze)
+      </stage>
+      <p>
+       Herrlich und schön beglänzt die Morgensonne den feyerlich heiligen Tag, unserem Götterfeste geweihet! – woran wir die Bestätigung unserer gesetzlichen Staatsverfassung beschwören, woran wir das Gelübde erneuern, mit freyer Seele zu vertilgen jedes Gefühl für Sklavensinn jener gebietherischen Geschöpfe, die wir Männer nennen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      (Vorige, Lulla verschleyert, geführt von Sambukko und Gargantas. – )
+     </stage>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Erhabenste Königinn! deinem Befehl gemäß haben wir die Prinzessinn in den Geheimnissen deiner Gesetze unterrichtet;
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Ehrwürdig sind ihr die jungfräulichen Pflichten, fest liegt der Vorsatz in ihrem Busen, eher zu sterben, als die strengen Gesetze dieser Insel zu verletzen.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Lulla! die du heute dein 14tes Jahr erreichtest – eben das Jahr, das dich nach dem Willen unserer Gottheit fähig macht, unsern erhabenen Gelübden einverleibt zu werden; du bist meine Gefangene – dein königlicher Vater blieb im Treffen – ich schenke dir Freyheit und jede goldenen Rechte derselben, wenn du mit freyer Seele dich entschliessest, zu entsagen jedem emporstrebenden Gefühl von Leidenschaft in deinem Busen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <stage>
+       (stürzt auf die Knie)
+      </stage>
+      <p>
+       Königinn! ehrwürdig seye mir jedes Gelübde, das ich nach deinem erhabenen Beyspiel beschwören soll.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Lulla! rein und unverdorben erhielt’ ich deine Seele bis auf diesen Augenblick. Sambukko! dir übergeb ich sie – Vollende dein Werk! dein hohes Alter, deine bewährten Grundsätze bürgen mir für die Aechtheit deines Unterrichts. –
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Ich gehorche, gnädigste Königinn!
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Und du, Gargantas! folgst mir, daß ich Anstalt mache zu dem morgigen Opfer. Freyheit der Seele ist das Diadem, das meine Krone schmückt. Hier empfange aus meiner Hand zum erstenmal Lanze und Schild – vertheidige mit deinem Leben die Rechte dieser Freyheit, und hoher Lohn wartet deiner in dem Wohnsitze der Götter!
+      </p>
+      <stage>
+       (ab mit allen, bis auf Lulla uud [!] Sambukko.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      Lulla. Sambukko.
+     </stage>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <stage>
+       (nähert sich Lullen, und bedeckt ihr Haupt mit einem Kranz)
+      </stage>
+      <p>
+       Heil euch, schöne Königstochter! Heil mir, der ich erkohren bin, euch vorzubereiten zu den wichtigsten eurer jungfräulichen Pflichten.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Ehrwürdiger Greiß! das wird wohl etwas recht erschreckliches seyn, was ich beschwören soll?
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Fürchtet euch nicht, holde Prinzessinn! – Treue für die Tugend, Entsagung der Männer ist Alles, was das Gelübde von euch fordert.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Der Männer! – Bist du auch ein Mann?
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Ja!
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Und giebt es noch mehrere solche Männer auf dieser Insel, wie du bist? –
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Wohl giebt es noch mehrere. –
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Und sehen die Männer alle so aus, wie du? –
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Nicht ganz – holde Prinzessinn!
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Denn sieh – wenn alle Männer auf dieser Insel so aussehen wie du und Gargantas – oder wie der garstige Mongogul – so wird es mir gar nicht schwer fallen, den Männern zu entsagen.
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Es giebt gar holde Jünglinge unter ihnen – aber fliehet ihren Anblick, erhabene Königstochter! je reitzender, desto gefährlicher – je blühender, desto tödtender das Gift, das sie in eure Seele hauchen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Du machst mir bange, alter Mann! da werd’ ich wohl davon laufen müssen, wenn mir ein solch holder Jüngling begegnet; nicht wahr?
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       All jene Fremdlinge sind hier strenge verwahrt, um nach Jahresfrist wieder unsere Gegend zu verlassen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Die armen Männer! Jammerschade, daß wir sie nicht hier behalten dürfen.
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Zur gerechten Strafe ihrer Neugierde sind sie verurtheilt, so lange zu spinnen, bis eine gewisse Anzahl Fäden vollendet ist – die –
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <stage>
+       (neugierig)
+      </stage>
+      <p>
+       Und giebt es viele solche Männer hier? ehrwürdiger Greiß!
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Sehr viele!
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Und wenn sie aber nicht spinnen wollen?
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       O dafür ist gesorgt – der Hunger treibt jeden an, seine Pflicht zu erfüllen.
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Um Trank und Speise zu gewinnen,
+       </l>
+       <l>
+        Da müssen hier die Männer spinnen.
+       </l>
+       <l>
+        Der Türk vergißt den Muhamet,
+       </l>
+       <l>
+        Und trinkt verbotnen Wein,
+       </l>
+       <l>
+        Calender feyern kein Gebet
+       </l>
+       <l>
+        Und schenken wacker ein.
+       </l>
+       <l>
+        Der Ritter läßt sein Schwert in Ruh,
+       </l>
+       <l>
+        Er spinnt, und macht: glu! glu! glu! glu!
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Lulla. (allein)
+     </stage>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Die armen Männer! eingesperrt eine ganze Jahresfrist – welche traurige Bestimmung!
+       <stage>
+        (sie setzt sich auf einen Rasen)
+       </stage>
+       Ach! wenn ich nur einen solchen schönen Mann aus der Sklaverey retten könnte
+       <stage>
+        (Eine weisse Taube hat ein Bild im Schnabel, und läßt dasselbe in Lullas Schooß fallen. Lulla erschrickt, – steht auf)
+       </stage>
+       Ihr Götter! was seh ich? das Bild eines Mannes? wie reitzend! wie holdlächelnd seine Miene ist.
+      </p>
+      <stage>
+       (Charens Stimme).
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Ein edler Jüngling ist für dich gebohren,
+       </l>
+       <l>
+        Den seine Mutter früh zum Tod erkohren!
+       </l>
+       <l>
+        Zum Sklavendienst ist er verdammt – rett’ ihn aus seiner Feinde Hand,
+       </l>
+       <l>
+        Und folge ihm mit Muth ins ferne Vaterland.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Was hab’ ich gehört? welch unsichtbarer Schutzgeist überrascht mich mit dieser freudigen Bothschaft?
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Lulla. Florina, hernach Mongogul.
+     </stage>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Prinzessinn! die Königinn verlangt eure Gegenwart. –
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <stage>
+       (ihr das Bild zeigend)
+      </stage>
+      <p>
+       Schwester! o laß mich dich so nennen – siehst du, welch ein Bildniß mir der Zufall in meine Hände gab?
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ihr Götter! es ist das Bildniß jenes holden Jünglings, den ich gestern zu den übrigen Unglücklichen führen sahe.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (läuft voll Unwillen umher)
+      </stage>
+      <p>
+       Nein! das mag der Teufel aushalten aber ich nicht. Wenn mir unsere gnädigste Königinn nicht Vollmacht giebt, die Fremdlinge zu züchtigen, wie ichs für gut befinde, so mag der Teufel Gefangenwärter seyn, aber ich nicht.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Woher kömmst du denn so eilend, Mongogul!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Wo werd ich herkommen! – aus der Spinnstube! die Kerls toben und fluchen, als wenn alle Liebesgötter in sie gefahren wären. Der junge Ritter, denn wir erst gestern bekommen haben – –
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Nun! nun! rede, lieber Mongogul! der junge Ritter –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Der hat den Teufel im Leib! nie, schwur er, soll meine Hand, die nur gewohnt ist, das Schwert zu heben, zu einer so niedrigen Weiberarbeit herabsinken.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <stage>
+       (entzückt)
+      </stage>
+      <p>
+       So sprach der junge Ritter! Florina! hörst du, welcher Muth diesen Jüngling beseelt.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Aber laßt nur mich machen! wenn er nichts zu essen bekömmt, als was er sich durchs Spinnen verdient, bis morgen wird der Vogel schon anders pfeifen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Ha! welche Empfindung von Mitleid bemächtiget sich meiner Sinne! Florina! ich gehe zur Königinn – ich muß für die Freyheit dieses Jünglings flehen – und habe ich sie erbethen, so soll sein stiller Dank meine Belohnung seyn
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Mongogul. Florina.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Was hör ich? nun das Jüngferchen wird schön ankommen bey unserer gnädigsten Königinn, wenn sie die Freyheit eines Mannes erbitten will. –
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Du scheinst mir aber auch gar zu grausam zu seyn? lieber Mongogul!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Grausam? ich grausam? Wer hieß die jungen Lecker auf unsere Insel anländen? he! da würde was schönes bey euch Weibern herauskommen, wenn die Männer freyen Ein- und Auslaß hätten – nein! spinnen müssen sie – und dann nach einem Jahre über die Gränze transportirt!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (schmeichelnd)
+      </stage>
+      <p>
+       Ach – lieber Mongogul! ich war dir auch immer so gut.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Mir? gut –
+       <stage>
+        (beis.)
+       </stage>
+       alle Teufel! was soll da herauskommen?
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (eben so)
+      </stage>
+      <p>
+       Ich wollte dich auch – wenn du nur nicht gar so häßlich wärest, ich wollte dich auch recht lieb haben. –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (auffahrend)
+      </stage>
+      <p>
+       Häßlich? ich – hört einmal die naseweise Hexe! Ich häßlich?
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ich wollte mich sogar dazu entschliessen, dir einen Kuß zu geben, wenn du mir vergönnen wolltest, den jungen Ritter zu sprechen.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Jüngferchen! an eurem Schmeicheln, Liebhaben und Kußgeben liegt mir den Teufel – versteht ihr? Nennt mich einen häßlichen Kerl, einen Pavian – beohrfeigt mich wie ihr wollt, daran liegt mir nichts – ich denk’ immer, daß es besser ist, wenn ich von euch beohrfeigt, als um einen Kopf kürzer gemacht werde.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Grausamer Mann! Schade, wenn dich die Natur nicht in ihrer Gabe verwahrlost hätte, um dich zum Mittelding ihrer Vollkommenheit zu brandmarken!
+      </p>
+      <stage>
+       (ab).
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Schimpft, wie ihr wollt! ich weiß am besten, warum ich gegen das Weibergeschlecht so grausam bin. Ist doch nichts verdrüßlicher in der Welt, als wenn man die Weiber nur so angaffen darf. – – Die Insel mit den schönsten weiblichen Geschöpfen bepflanzt – und mitten unter diesen schönen Weibern der einzige Mongogul – der
+       <stage>
+        (schüttelt den Kopf)
+       </stage>
+       Kurios! Kurios! –
+      </p>
+     <stage>
+      Lied.
+      </stage>
+      <lg>
+       <l>
+        Man denke sich! man denke sich,
+       </l>
+       <l>
+        Die Lage ist doch ärgerlich!
+       </l>
+       <l>
+        Auf mir liegt Zentnerschwer die Pflicht,
+       </l>
+       <l>
+        Die Weiber zu bewachen –
+       </l>
+       <l>
+        Das ist fürwahr zum Lachen!
+       </l>
+       <l>
+        Wenn man sie liebt’ – – und darf doch nicht,
+       </l>
+       <l>
+        Das sind verwünschte Sachen! –
+       </l>
+       <l>
+        In meinem Sklavenwächter-Stand
+       </l>
+       <l>
+        Ist Liebe immer kontraband –
+       </l>
+       <l>
+        Das halt der Teufel aus, ich nicht; –
+       </l>
+       <l>
+        Die schönsten Weiber sehen,
+       </l>
+       <l>
+        Das ist ja zum vergehen!
+       </l>
+       <l>
+        Ein schöner Mund – ein hold Gesicht – –
+       </l>
+       <l>
+        Und alles das nur sehen!
+       </l>
+      </lg>
+      <stage>
+       (ab).
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      (Garten) Laurita. Hassina. Florina. Alle Mädchen.
+     </stage>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       So kommt nur mit mir – was ich gesehen habe, was ich erzählen werde, übersteigt alle eure Erwartung.
+      </p>
+     </sp>
+     <sp who="#hassina #florina #akasia #ticera"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (versammeln sich um Lauriten)
+      </stage>
+      <p>
+       Was denn? was denn? so sprich doch, Laurita!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Als ich vorhin Pomeranzen pflückte neben der grossen Bucht –
+      </p>
+     </sp>
+     <sp who="#hassina #florina #akasia #ticera"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (äußerst neugierig)
+      </stage>
+      <p>
+       Nun! nun!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Da sah ich –
+      </p>
+     </sp>
+     <sp who="#hassina #florina #akasia #ticera"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Und was? was?
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Hoch in der Luft –
+      </p>
+     </sp>
+     <sp who="#hassina #florina #akasia #ticera"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       In der Luft –
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Auf einem Adler daher reiten –
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Doch wohl keinen Mann!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Einen Mann – einen leibhaften Mann!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ach – ihr Götter! bald wird unser Spinnhaus zu klein werden, um alle diese Unglücklichen aufzubewahren.
+      </p>
+     </sp>
+     <sp who="#akasia">
+      <speaker>
+       Akasia.
+      </speaker>
+      <p>
+       Ein Mann in der Luft? welch ein wunderbares Phänomen!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Ach! und wie er mich erblickte, warf er mir Küsse zu. –
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Was? Küsse! der Unverschämte!
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Laßt ihn nur kommen – er soll für seine Frechheit gezüchtiget werden. –
+      </p>
+      <stage>
+       (Ein Kakadu flattert von einer Seite zur andern, und lacht).
+      </stage>
+     </sp>
+     <sp who="#akasia">
+      <speaker>
+       Akasia.
+      </speaker>
+      <p>
+       Welch ein wunderbarer Vogel! wie buntschekicht sein Gefieder aussah –
+      </p>
+      <stage>
+       (der Kakadu flattert wieder vorüber)
+      </stage>
+     </sp>
+     <sp who="#ticera">
+      <speaker>
+       Ticera.
+      </speaker>
+      <p>
+       Hört ihrs! – was ist dieß für eine Erscheinung! –
+      </p>
+     </sp>
+     <sp who="#kakadu">
+      <speaker>
+       Kakadu.
+      </speaker>
+      <p>
+       Ein Mann!
+      </p>
+     </sp>
+     <sp who="#hassina #florina #akasia #ticera #laurita"> <!-- ids korrekt? -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Ein Mann! Ein Mann! ha, ha ha!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ach – ihr Götter! wenn sich zuletzt die Männer in Kakadu verwandeln, so können wir nicht länger mehr widerstehen!
+       <stage>
+        (Man hört die Töne einer mistischen Musik)
+       </stage>
+       Horcht! welche Töne!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Vorige. Kasperl mit seinem Kästchen.
+     </stage>
+     <sp who="#kasperl"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       Lied.
+      </stage>
+      <lg>
+       <l>
+        Jungfern! kaufts ein!
+       </l>
+       <l>
+        Ich bin der Wundermann,
+       </l>
+       <l>
+        Der euch kuriren kann.
+       </l>
+       <l>
+        Ueberall nah und fern,
+       </l>
+       <l>
+        Kauft man die Waaren gern,
+       </l>
+       <l>
+        Hier ein Remedium1,
+       </l>
+       <l>
+        Hier ein Specificum
+       </l>
+       <l>
+        Von ganz besonderer Kraft,
+       </l>
+       <l>
+        Das euch bald Männer schaft –
+       </l>
+       <l>
+        Jungfern! kaufts ein!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Also der ists? ein lustiger Mensch! Jammerschade, daß er ein Mann ist.
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Desto besser! so wird er recht gut zum Spinnrocken taugen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nicht übel! ihr Jungfern gefallt mir – sie viel ich merk, muß die Insel da sehr ergiebig an schönen Madeln seyn. –
+       <stage>
+        (er will Lauriten an der Hand nehmen)
+       </stage>
+       Geh einmal her, du kleine –
+       <stage>
+        (die Glocke schellt – er erschrickt – )
+       </stage>
+       Nun! was ist das?
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Armer Fremdling! wie bist du denn auf unsre Insel gekommen?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Herg’flogen bin ich – da schickt mich eine gewisse –
+       <stage>
+        (die Glocke schellt)
+       </stage>
+       <stage>
+        (beis.)
+       </stage>
+       pfui Teufel! das muß ein dummer Streich seyn, weil sich mein Glöckl meldt.
+      </p>
+      <stage>
+       (Die Weiber sehen sich nach dem Ton der Glocke um.)
+      </stage>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Schwestern! woher kommt der Ton dieser Glocke?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Müßt euch nicht darüber aufhalten – von mir? War ehedem Hofnarr – und da ist mir an meiner Müze noch ein Glöckl hängen geblieben.
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Hofnarr! Ha, ha, ha! –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ja – ja – Hofnarr! und jetzt bin ich ein Apothecker. –
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Apothecker aus einem Hofnarren –
+      </p>
+      <stage>
+       (Alle lachen)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das ist gar nicht zum lachen – als Hofnarr hab ich auf die Seelen der Menschen gewirkt, als Apothecker wirk’ ich auf ihren Körper. Kaufts mir was ab, ihr Jüngferchen!
+       <stage>
+        (er öffnet sein Kästchen)
+       </stage>
+       allerley Neumodewaare – Wunderbalsam – Pillen – Gesundheitswasser. –
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Vorige Mongogul
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Aha! wieder so ein Simpel, den ich ins Spinnhaus transportiren muß. Welch ein Unglücksstern hat denn dich auf unsere Insel gebracht, närrischer Kerl!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (ihn auf allen Seiten betrachtend)
+      </stage>
+      <p>
+       Alle Wetter! wenns da keine so schöne Weiber gäb, ich müßte glauben, ich wäre auf eine Affeninsel gerathen; – Was habt ihr denn da für einen schwarzen Pavian?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       He – he! Herr Naseweiß! nicht so unhöflich – oder ich werde dich in meinem Territorium da Mores lehren
+       <stage>
+        (macht Miene zum prügeln.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun brav! das ist g’wiß der Portier bey euch, der die fremden Passageurs gleich mit einem höflichen Einstand willkommen heißt.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Du mußt ihm nichts zu leide thun, - vielleicht weiß dieser Fremdling noch nichts von unserer löblichen Einrichtung. –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Daß unsre weise Königinn keinen Mann auf ihrer Insel duldet, der frey herumgehen darf.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und das nennt ihr eine löbliche Einrichtung? pfui Teu –
+       <stage>
+        (die Glocke schellt)
+       </stage>
+       Hab schon wieder z’viel g’redt –
+       <stage>
+        (die Weiber hören den Ton, sehen sich darnach um, – laut)
+       </stage>
+       Also kein Mann darf unter euch frey herumgehen?
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <stage>
+       (mit einem Seufzer)
+      </stage>
+      <p>
+       Keiner!
+      </p>
+     </sp>
+     <sp who="#laurita #florina #mongogul #azzina"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (traurig)
+      </stage>
+      <p>
+       Gar keiner!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das ist ein trauriger Umstand! da seyd ihr junge Madeln übel daran!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ehedem war es uns freylich erlaubt, unser jährliches Götterfest in der Gesellschaft jener gefangenen Fremdlingen zu feyern.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun! aber jetzt –
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Hat auch die Königinn dieses Gesetz aufgehoben. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und warum?
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ehedem wurden alle Knaben in die See geworfen, und nur die Kinder weiblichen Geschlechts zur Fortpflanzung unserer Kolonie erzogen. – Auch die Königinn ließ vor 20 Jahren ihren erstgebohrnen Prinzen dieses grausame Schicksal fühlen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was? den Prinzen hats ersäuft? o du – du – Rabenmutter du! –
+       <stage>
+        (schellt)
+       </stage>
+       Habs schon g’hört? s’ist schon so gut –
+      </p>
+      <stage>
+       (Mongogul schaut nach dem Ton)
+      </stage>
+     </sp>
+     <sp who="#azzina">
+      <speaker>
+       Azzina.
+      </speaker>
+      <p>
+       Nun prophezeyte uns das Orakel, daß dieses Reich noch in die Hände eines rechtmässigen, männlichen Erbens fallen würde – und um dieses zu verhindern, darf selbst an diesem Götterfeste kein männliches Geschöpf mehr unserem Opfer beywohnen.
+      </p>
+      <stage>
+       (Man hört Trompetenschall.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <p>
+       Was hat denn das zu bedeuten!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Die Königinn mit ihrem Hofstaat.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+       <stage>
+       (mit Lermen)
+      </stage>
+      <p>
+       Sie kömmt! Sie kömmt! unsere gnädigste Königinn! Beuge deine Knie – falle nieder auf dein Antlitz – küsse den Staub –
+      </p>
+      <stage>
+       (Mongogul stürzt zur Erde)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (ihn nachäffend)
+      </stage>
+      <p>
+       Beuge deine Knie – fallt nieder auf dein Antlitz – küsse den Staub – warum soll ich denn den Staub küssen?
+       <stage>
+        (Mongogul stößt ihn nieder)
+       </stage>
+       Er liegt schon! er liegt schon!
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <stage>
+       (stolz)
+      </stage>
+      <p>
+       Was ist das Begehren dieses Fremdlings? – Wer ist er?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Ein neuer Kandidat zum Spinnrocken – gnädigste Königinn.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Steht auf, Fremdling! wer bist du?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (auf den Knien)
+      </stage>
+      <p>
+       Ein armer Tiroler – der jetzt hausiren geht – war ehedem Hofnarr.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Hofnarr? wenn du kein Mann wärest, du müßtest diese Stelle an meinem Hof begleiten.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Könnt gar nicht seyn! denn ihr ließet mich am ersten Tag gleich aufhängen.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Und warum?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Schaut – ich bin ein Mensch, der gern so redt, wie’s ihm ums Herz ist, das thät zwischen uns Beyden nit gut. –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (leise)
+      </stage>
+      <p>
+       Kerl! ich schneid dir die Zunge aus dem Hals.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ihr seyd alle so schöne, junge Weiber – und ihr wißt ja gar nicht, warum ihr auf der Welt seyd.
+       <stage>
+        (Die Glocke schellt)
+       </stage>
+       Hab schon wieder z’viel g’redt!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (eben so)
+      </stage>
+      <p>
+       Spitzbube! willst du deine Lästerzunge zähmen.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Sprich weiter, kühner Frevler!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ihr wohnet in einem so schönen Land – ein Weinl – ein Weinl soll bey euch wachsen wie ein Provanzer-Oehl – und gerade das, wodurch einem der Wein so recht behaglich hinunterrutscht, jagt ihr von eurer Insel fort –
+       <stage>
+        (schellt)
+       </stage>
+       das verdammte Glöckl – zuletzt wärs nöthig, daß ich mir das Maul verleimen ließ. –
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Verwegener! und das wäre. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Etwas – das euch und allen euren Weibern, wie sie da stehen – so ganz unentbehrlich ist – ein Mann –
+       <stage>
+        (schellt)
+       </stage>
+       Ey so schell du und der Teufel –
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Frevler! fliehe vor meinem Blick, oder meine Rache soll dich zernichten. Mongogul! führe den Verbrecher zu den Uebrigen – er soll büssen für seine Frevelthat – spinnen soll er, bis sein Tagwerk vollendet ist, oder sey der Hungertod die Strafe seines Vergehens.
+      </p>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Vorige, ohne die Königinn.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Nun hast du’s gehört – also marsch – fort mit mir ins Spinnhaus!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das ist eben, was ich will – denn dort find’ ich das, warum ich da bin –
+       <stage>
+        (er will sein Kästgen auf den Rücken nehmen – die Glocke schellt.)
+       </stage>
+       Schon wieder – daß ich doch das verdammte Plaudern nicht lassen kann.
+      </p>
+       <stage>
+       (Die Weiber umringen ihn.)
+      </stage>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       So harre nur noch ein wenig!
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Wir möchten gar zu gerne etwas von deinem Kram haben.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nichts! es ist mir gar nichts mehr feil.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Nur einige Tropfen von deinem Schönheitswasser.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weicht ihnen aus, will immer zu seinem Kästgen)
+      </stage>
+      <p>
+       Wo keine Männer geduldet werden, brauchen die Weiber auch keine Schönheit.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Ey! ihr Damen! was haben wir nöthig, mit dem Schuft da so viele Umstände zu machen –
+       <stage>
+        (zu den Schwarzen)
+       </stage>
+       Greift ihn, und führt ihn in das Spinnhaus. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So gebt mir nur mein Kastl.
+      </p>
+     </sp>
+     <sp who="#die schwarzen">
+      <speaker>
+       Die Schwarzen.
+      </speaker>
+      <p>
+       Fort! fort!
+      </p>
+      <stage>
+       (führen ihn mit Gewalt weg.)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Wollen gleich sehen – was darinn ist –
+      </p>
+      <stage>
+       (Er öffnet das Kästchen, Gigri kommt als Tirolerbübchen, eben so gekleidet, wie Kasperl heraus.)
+      </stage>
+     </sp>
+     <stage>
+      Liedchen.
+     </stage>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <lg>
+       <l>
+        Liebe Mädchen! höret mich,
+       </l>
+       <l>
+        Alles liebt und paaret sich.
+       </l>
+       <l>
+        Jugend und ein schön Gesicht,
+       </l>
+       <l>
+        Nutzt euch ohne Liebe nicht.
+       </l>
+       <l>
+        Alles liebt in der Natur,
+       </l>
+       <l>
+        Fragt die Blümchen auf der Flur.
+       </l>
+       <l>
+        Fragt die Vögel in dem Hain,
+       </l>
+       <l>
+        Und ihr wollt die Liebe scheu’n?
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Welch ein liebenswürdiges Kind!
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Und es war noch dazu ein Knabe!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (kommt eilend zurück. Sie versammeln sich alle um ihn.)
+      </stage>
+      <p>
+       Mein Kastl kann ich nicht zurücklassen – das muß ich bey mir haben.
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Woher hast du denn das hübsche Kind, das du in deinem Kästchen herumträgst.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ein Kind! meint ihr etwa, ich trag meine Kinder auf dem Buckel durch die Welt.
+      </p>
+      <stage>
+       (er nimmt sein Kästchen)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (fällt vor ihn hin)
+      </stage>
+      <p>
+       Holder Fremdling! ich will dir auch deinen Aufenthalt bey uns auf jede Art erleichtern –die köstlichsten Leckerbissen – der edelste Neckar soll deinen Gaumen kitzeln –
+       <stage>
+        (bittend)
+       </stage>
+       aber das Kind.
+      </p>
+     </sp>
+     <sp who="#mongogul #hassina #lauritta #florina"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Ja – ja – das Kind!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ich weiß nicht, was ihr wollt!
+       <stage>
+        (er öffnet den Deckel)
+       </stage>
+       in meinem Kastl hab ich allerley Wunderarzneyen – da seht –
+      </p>
+      <stage>
+       (er öffnet den Deckel, und nimmt es auf den Rücken.)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (zu den Weibern)
+      </stage>
+      <p>
+       Der Kerl ist ein Zauberer!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun geh her, schwarzer Käfer! und führ mich in die Spinnstube.
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <stage>
+       (zu den übrigen)
+      </stage>
+      <p>
+       Welch ein sonderbarer Mann.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (schleicht dahin, öffnet neugierig den Deckel, eine schwarze Fratze, Mongogul ganz ähnlich, schaut heraus)
+      </stage>
+      <p>
+       Ihr Götter! was seh’ ich . –
+      </p>
+     </sp>
+     <sp who="#hassina #lauritta #florina"><!-- ids korrekt -->
+      <speaker>
+       Alle Weiber.
+      </speaker>
+      <p>
+       Welch ein Fratzengesicht! –
+      </p>
+      <stage>
+       (Sie entfliehen)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Mein lebendiges Ebenbild! –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (nimmt Mongogul am Arm)
+      </stage>
+      <p>
+       Geh her, schwarzer Beelzebub! wir gehen ins Spinnhaus.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (zitternd)
+      </stage>
+      <p>
+       Geh du in die Hölle! den Kerl hat der Teufel auf unsere Insel gebracht. O! O! O!
+      </p>
+      <stage>
+       (Kasperl zieht ihn mit Gewalt ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      (Saal)
+     </stage>
+     <stage>
+      Alle Fremdlinge sitzen auf Stühlen, und spinnen an Kunkeln. – Zamor steht allein auf der Seite, ein Bild betrachtend.
+     </stage>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <lg>
+       <l>
+        Gleich einer himmlischen Gestalt
+       </l>
+       <l>
+        Mit lieblichen Geberden,
+       </l>
+       <l>
+        So reizend, wie mein Mädchen, wallt
+       </l>
+       <l>
+        Wohl keines mehr auf Erden.
+       </l>
+       <l>
+        Das schönste Bild in der Natur!
+       </l>
+       <l>
+        Sie gleicht der Frühlings-Rose,
+       </l>
+       <l>
+        Auf der verjüngten Blumen-Flur
+       </l>
+       <l>
+        In ihrem grünen Schoose.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Spinner-Chor.
+     </stage>
+     <sp who="#zimbalo">
+      <speaker>
+       Zimbalo.
+      </speaker>
+      <lg>
+       <l>
+        Auf! rasch gesponnen, die Spindeln gedreht!
+       </l>
+       <l>
+        Daß uns die schleichende Zeit schnell vergeht.
+       </l>
+       <l>
+        Nach Arbeit wird Wein,
+       </l>
+       <l>
+        Uns alle erfreun.
+       </l>
+       <l>
+        Mit Spinnen quälet man täglich uns hier,
+       </l>
+       <l>
+        Um Wein zu trinken – da spinnen auch wir.
+       </l>
+       <l>
+        Harm, Grillen und Pein
+       </l>
+       <l>
+        Verjaget der Wein.
+       </l>
+      </lg>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dreyzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Mongogul mit Kasperl.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       So ists recht! wenn ihr hübsch fleissig seyd, könnt ihr singen, so lang ihr wollt.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (sieht sich um)
+      </stage>
+      <p>
+       Was seh’ ich, da ist ja eine ganze Niederlage von Spinnern.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Lulla verschleyert, bringt einen goldenen Becher und Früchte.
+     </stage>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Herr Ritter! aus besonderem Gefühl des Mitleidens schickt euch eine unbekannte Person diese Früchte und diesen Labetrank – nehmet ihn an – er wird euch Hofnung einer baldigen Erlösung gewähren.
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Diese Gnade kann ich nicht annehmen. Sagt jener unbekannten Wohlthäterin: Sklaverey entehre zwar den Freysinn eines Ritters – aber ein unwiederrufliches Gelübde bände mich, eher den Tod zu dulden, als auf meiner Wanderschaft mich jenes Getränkes zu bedienen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <stage>
+       (für sich)
+      </stage>
+      <p>
+       Er ists! –
+       <stage>
+        (laut)
+       </stage>
+       so mögen euch die Götter retten! –
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wie – Herr Ritter! ihr dürft also auch keinen Wein trinken? – kennt ihr die Hälfte dieser goldenen Kugel?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Was seh’ ich
+       <stage>
+        (er zeigt ihm die andere Hälfte)
+       </stage>
+       Einst, wenn ich die Hälfte dieser Kugel fände, so sprach das Orakel – werde ich an dem Ziel meiner Wünsche seyn – wer bist du – Fremdling! und wie führt dich das Schicksal hieher?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (mit einer Kunkel zu Kasperl)
+      </stage>
+      <p>
+       Wozu das lange Plaudern, guter Freund! hier ist deine Kunkel – setz dich an die Arbeit und spinn’ –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Also, spinnen soll ich – und was thust denn du? spinnst du nicht auch?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Mein Amt ist nachzusehen, ob täglich die gehörige Anzahl von Fäden gesponnen wird.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wer also bey euch nicht arbeitet, kriegt auch nichts zu essen? –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Dieser junge Herr hat seit gestern nichts gesponnen, also auch nichts gegessen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wär Jammerschad, wenn so ein junges Blut verhungern müßt.
+      </p>
+      <stage>
+       (schellt. Ein Credenztisch mit Speisen erscheint. Alles steht von der Arbeit auf.)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Ihr Götter! da gehen schreckliche Dinge vor –
+       <stage>
+        (ruft)
+       </stage>
+       Wache! Wache! das muß ich unserer gnädigsten Königinn melden.
+      </p>
+      <stage>
+       (eilt ab)
+      </stage>
+     </sp>
+     <sp who="#miramud">
+      <speaker>
+       Miramud.
+      </speaker>
+      <p>
+       Unbegreiflicher Mensch! wer bist du?
+      </p>
+     </sp>
+     <sp who="#tichmar">
+      <speaker>
+       Tichmar.
+      </speaker>
+      <p>
+       Welche Zauberkraft!
+      </p>
+     </sp>
+     <sp who="#sanga">
+      <speaker>
+       Sanga.
+      </speaker>
+      <p>
+       Er wird uns unsere Freyheit wieder geben. –
+      </p>
+      <stage>
+       (Die Moslemims und Kalandsbrüder fallen vor Kasperl auf die Erde)
+      </stage>
+     </sp>
+     <sp who="#mechmet">
+      <speaker>
+       Mechmet.
+      </speaker>
+      <p>
+       Sey mir gesegnet, Sohn des Alla! du mußt ein Abkömmling des Muhamets seyn, sonst könntest du nicht solche Thaten verrichten.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Jetzt laßt mich aus – ich bin weder ein Sohn des Alla – noch ein Abkömmling des Muhamets – sondern nichts mehr und nichts weniger als ein reduzirter Hofnarr!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfzehnter Auftritt.
+     </head>
+     <stage>
+      Vorige. Die Schwarzen bewaffnet, dringen ein – mit Mongogul – hinter ihnen die Weiber ebenfalls bewaffnet.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Da seht ihr nun selber das ganze Spektakel, gestrenge Hofdamen! hier ein wohlbesetzter Tisch – wer ihn hergepflanzt hat, weiß der Teufel!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Unbegreiflich!
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       Schwestern! unserer Verfassung droht ein gänzlicher Umsturz. Bindet diesem Verwegenen Hände und Füsse.
+      </p>
+     </sp>
+     <stage>
+      (Die Schwarzen wollen ihn haschen. Kasperl schellt. Alle bleiben auf einmal im Hintergrund bezaubert stehen. Die Weiber brauchen Gewalt.)
+     </stage>
+     <stage>
+      Musik.
+     </stage>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Zurück – Weiber! dieser Fremdling soll unser Retter werden.
+       <stage>
+        (zu Allen)
+       </stage>
+       Wer hat Muth?
+      </p>
+     </sp>
+     <stage>
+      (Alle Männer nehmen ihre Spinnrocken, vertheidigen sich gegen die Weiber. Alles ausser jenen Schwarzen wird Handgemeng. Nach diesem kurzen Kampf geschieht ein Donnerschlag. Pause in der Musik. Chara erscheint in Wolken. Die Männer haben Spieß und Schild, die Weiber die Spinnrocken in den Händen. Alles auf einen Augenblick in einer stummen Attitude. Auf einmal sitzen alle Weiber auf den Stühlen, und spinnen wacker darauf los. Die Männer stehen vor ihnen in drohender Stellung mit Schild und Lanze. Unter all diesem wird Mongogul in der Mitte der Bühne hoch erhoben, vor sich eine grosse Kunkel.)
+     </stage>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Es schickt sich für Mädchen
+       </l>
+       <l>
+        Nicht Lanze und Schwert,
+       </l>
+       <l>
+        Drum werden die Spindeln
+       </l>
+       <l>
+        Von Weibern gedreht!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#chor von allen">
+      <speaker>
+       Chor von Allen.
+      </speaker>
+      <lg>
+       <l>
+        An Kunkeln zu schwitzen
+       </l>
+       <l>
+        Entehret den Mann!
+       </l>
+       <l>
+        Drum  (sollen wir | sollet ihr) sitzen’,
+       </l>
+       <l>
+        Und spinnen daran!!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Die Weiber und Mongogul spinnen hurtig fort – die Männer bleiben in ihrer angenommenen Gruppe. – Zu Ende des Chors kommt die Königin – sie entsetzt sich heftig – Alles bleibt.)
+     </stage>
+     <stage>
+      Der Vorhang fällt.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Dritter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Hain mit Urnen) Lulla schläft in einer Rosenlaube.
+     </stage>
+     <stage>
+      Terzett.
+     </stage>
+     <stage>
+      Sambukko. Gargantas. Beyde schleichen zu verschiedenen Seiten her, ohne einander zu sehen. – In der Ferne Chara)
+     </stage>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Sambukko. Gargantas.
+      </speaker>
+      <lg>
+       <l>
+        Ja! in der Welt ist alles eitel;
+       </l>
+       <l>
+        Nur Liebe nicht – mit grauem Scheitel
+       </l>
+       <l>
+        Rührt sich bey mir noch die Natur.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Ja! hart ist es, der Liebe Freuden
+       </l>
+       <l>
+        Das ganze Leben durch zu meiden,
+       </l>
+       <l>
+        Zu fliehen jedes Mädchens Spur.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <stage>
+       (Lullen erblickend.)
+      </stage>
+      <lg>
+       <l>
+        Ihr Götter! welch ein holdes Bild.
+       </l>
+       <l>
+        Wie? Lulla hier? so sanft und mild!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <lg>
+       <l>
+        Wie wird mir Armen! welche Lust,
+       </l>
+       <l>
+        Welch Feu’r belebet meine Brust.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        So ein Mädchen könnt’ dem Leben
+       </l>
+       <l>
+        Neuen Reiz im Alter geben.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Vergesset nicht die heil’ge Pflicht,
+       </l>
+       <l>
+        Die euch befiehlt des Schicksals Schluß.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        O dürft’ ich nur – wie wollt ich nicht,
+       </l>
+       <l>
+        Vergebt mir, Götter! einen Kuß.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Mitten in der Musik hält alles inne. In diesem Augenblick erkennen sie einander. Lulla springt auf mit einem Schrey der Angst. –
+     </stage>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Ihr Götter! wo bin ich? –
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <stage>
+       (zitternd.)
+      </stage>
+      <p>
+       Sam –
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Gar –
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       bukko!
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Gargantas!
+       <stage>
+        (spottend)
+       </stage>
+       Welch ein wichtiges Geschäft treibt denn euch an diesen einsamen Ort?
+       <stage>
+        (beis.)
+       </stage>
+       Das ist ein Gauner!
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Die schöne Lulla wollt’ ich zum heutigen Opfer vorbereiten.
+       <stage>
+        (beis.)
+       </stage>
+       Das ist ein Spitzbub!
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Ehrwürdige Diener unserer Gottheit! O daß ich wieder zurückkehren dürfte in die Gefilde meiner Heimath, wo Liebe kein Verbrechen ist, und kein barbarisches Gesetz die Triebe der Menschen fesselt. –
+      </p>
+     </sp>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Sambukko. Gargantas.
+      </speaker>
+      <p>
+       Ihr Götter! was hör ich – Liebe kein Verbrechen?
+      </p>
+     </sp>
+     <stage>
+      Arie.
+     </stage>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <lg>
+       <l>
+        Liebe ist des Lebens Lust,
+       </l>
+       <l>
+        Sie beseelet jede Brust –
+       </l>
+       <l>
+        Liebe wohnt im Hüttenthal,
+       </l>
+       <l>
+        Liebe herrscht im goldnen Saal.
+       </l>
+       <l>
+        Liebe ward’ auch mir zu Theil,
+       </l>
+       <l>
+        Sie gewährt mir Freud’ und Heil –
+       </l>
+       <l>
+        Reichthum – Glück und Ueberfluß,
+       </l>
+       <l>
+        Und der Wonne Vollgenuß.
+       </l>
+      </lg>
+      <stage>
+       (ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      (Mongogul zerrt Kasperln herein, der sein Kästchen auf dem Rücken trägt.)
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Hab ich dich noch erwischt, Spitzbube? nicht wahr? spinnen willst du nicht, aber schimpfen kannst du wie ein Rohrsperling.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So laß mich nur aus, du schwarzer Unhold! was willst du denn von mir haben?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Zur Königinn werd’ ich dich bringen; gezwickt, geschunden, um einen Kopf kürzer mußt du gemacht werden, Gauner du!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Aber – so sey nur vernünftig! was hab ich denn gethan, daß du mir solche Ehren erweisen willst?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Du kannst noch fragen? Hast du nicht gemacht, daß alle unsere Hofdamen haben spinnen müssen? he!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wer ich? – nun da kann man sehen, was nicht der unschuldige Mensch alles leiden muß.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Und was der Spitzbub erst mit mir für hocus pocus getrieben hat. – Nein! Bursche! ich liefere dich aus, –du mußt gehenkt werden.
+       <stage>
+        (faßt ihn an.)
+       </stage>
+       fort.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So laß mich nur fort – ich will dir auch meine ganze Feldapothek im Versatz da lassen – und –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Deine – deine Feldapothek? –
+      </p>
+      <stage>
+       (läßt ihn schnell aus.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Und wenn du wüßtest, guter Freund! welch einen Schatz von Wunderbalsam mein Kastl enthält.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (in höchster Verwunderung)
+      </stage>
+      <p>
+       Wär das möglich?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wenn du damit nach Hof gehst, so wirst du der glücklichste Mensch auf dem ganzen Erdboden –
+       <stage>
+        (lacht beis.)
+       </stage>
+       ha, ha, ha!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Ich
+       <stage>
+        (beis.)
+       </stage>
+       Wenn ich wüßte, daß ich dem Kerl trauen könnte – das wär so eine Speculation!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (leise ihm ins Ohr)
+      </stage>
+      <p>
+       In dem Kastl giebts Ingredienzen für die Weiber, so bald sie davon naschen, werden sie so freundlich wie ein Maylüftl –
+       <stage>
+        (beis.)
+       </stage>
+       Nun wart – Spitzbube!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (betrachtet ihn lange)
+      </stage>
+      <p>
+       Du bist ein kurioser Mensch! – ha, ha, ha!
+       <stage>
+        (er nimmt ihm das Kästchen ab)
+       </stage>
+       Auf gute Allianze! – Da geh her – Wir wollen gute Freunde seyn – sollst auch von meinem Götterwein da kosten – er ist von dem köstlichsten Nektar, der auf Termodoniens Gebürgen wächst. –
+      </p>
+      <stage>
+       (reicht ihm die Kürbisflasche, die er an sich hängen hat.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Also Wein hast du da? Wein! laß doch einmal –
+       <stage>
+        (er nimmt die Flasche, die Glocke schellt, er giebt sie gleich zurück)
+       </stage>
+       – Da – da – da! s’ist wahr – nein, ich dank – bin kein Liebhaber von Wein –
+       <stage>
+        (beis.)
+       </stage>
+       O pfui Teufel!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Nun! nun! so kost nur – es ist dir von Herzen gegönnt. –
+      </p>
+      <stage>
+       (will ihm die Flasche aufdringen.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (sträubt sich)
+      </stage>
+      <p>
+       Wie ich dir sag, guter Freund! ich – ich kann gar kein Tröpfl Wein trinken – es ist wider mein Naturell – ich, ich –
+       <stage>
+        (greift immer darnach, die Glocke schellt – beiseite)
+       </stage>
+       O du verdammts Glöckl! und dursten thuts mich ganz erschrecklich.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       So mach doch keine Umstände – er wird dir gewiß schmecken.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (greift darnach)
+      </stage>
+      <p>
+       Nun das will ich schon glaub –
+       <stage>
+        (die Glocke schellt)
+       </stage>
+       hinweg du verführerisches Getränk! apage, Satanas!
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Warum willst du denn auf unserer Insel diese köstliche Göttergabe verachten!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Weil – weil –
+       <stage>
+        (greift darnach, nähert sich dem Mund, die Glocke schellt)
+       </stage>
+       Nun ja – s’ hat halt alles in der Welt sein Nisi –
+       <stage>
+        (bricht in lautes Weinen aus)
+       </stage>
+       Schau, liebes Brüderl! ich will dirs nur bekennen, ich darf gar kein Tröpfl Wein trinken.
+       <stage>
+        (Die Glocke schellt)
+       </stage>
+       Nun ja – sag ich –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Armer Teufel! so werden wir dich wohl auf unserer Insel begraben müssen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <p>
+       Begraben? und warum begraben?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Weil alles bey uns Wein trinken muß – das Wasser tödtet jeden in dem ersten Augenblick des Genusses.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beiseite)
+      </stage>
+      <p>
+       Nun brav! da siehts gut mir mir aus.
+       <stage>
+        (laut)
+       </stage>
+       Ihr werdet aber doch euern Wein mit Wasser vermischen?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Die Götter bewahren uns vor diesem Gedanken – das hiesse bey uns die Natur verhunzen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       So müßt ihr ja alle Tage betrunken seyn.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Dieser Necktar hat bei uns nicht die Kraft, die Menschen ihrer Sinne zu berauben.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nicht – ey so gieb –
+       <stage>
+        (er greift hastig nach dem Fläschchen, damit an Mund – es schellt)
+       </stage>
+       Gerad von dem Maul schellt mirs den Trunk weg – das verdammte Glöckl!
+       <stage>
+        (laut)
+       </stage>
+       aber eure Weiber werden doch den Wein mit Wasser mischen, sonst werden sie ja gar zu lustig.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Im Gegentheil! der Wein raubt ihnen jedes Gefühl für Liebe, und erhebt ihre Empfindungen vielmehr zu kriegerischen Thaten. – Nun leb wohl, guter Freund! ich laß dich frey –
+       <stage>
+        (er hängt das Kästchen um)
+       </stage>
+       aber hüte dich, daß du nicht unter die Augen unserer Königinn geräthst; sie ist erschrecklich aufgebracht über dich, und wenn sie dich erwischt, ich schwör dirs bey dem grossen Zahn unsers Cluna – sie läßt dich lebendig spiessen.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Hu! das ist eine kuriose Einrichtung auf dieser Insel! den Wein trinken die Weiber wie Wasser. – Die Männer sperren sie ein zum Spinnen – und von der Lieb’ und vom Ehestand wissen sie gar nichts. – Nun! so bin ich doch auch n meinem Leben in keinem so närrischen Land gewest.
+      </p>
+      <stage>
+       Lied.
+      </stage>
+      <lg>
+       <l>
+        Man träumt sich wahrhaftig so närrisch kein Land,
+       </l>
+       <l>
+        Wo Weiber nichts wissen vom eh’lichen Stand.
+       </l>
+       <l>
+        Ein Weib ohne Mann ist ja wider den Lauf,
+       </l>
+       <l>
+        Denn alle gesellige Freude hört auf.
+       </l>
+       <l>
+        Den Mann braucht das Weibchen zum Küssen und Spiel,
+       </l>
+       <l>
+        Ein Weib schaft dem Manne der Freuden gar viel.
+       </l>
+       <l>
+        Drum paart euch! so will es die liebe Natur,
+       </l>
+       <l>
+        Bei Weibern und Männern erfreut man sich nur.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      (Lulla, mit ihr Chara, in einem weissen Pilgerkleid.)
+     </stage>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Was verlangst du von mir, Pilgrinn! hier sind wir sicher vor jedem lauschenden Späher deiner Geheimnisse. Woher kömmst du?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Aus Egypten, edle Königstochter!
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       Wie? – du kennst mich?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Ihr seyd die Tochter Seros, Königs von Argenien – euer Vater bekriegte einst diese Insulanerinninn, und ihr wurdet gefangen hiehergebracht, um heute noch ein Gelübde zu beschwören, euer Neigung und euren Gesinnungen zuwider – was traget ihr denn hier für ein Bildniß an eurem Busen?
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       O daß ich ihn befreyen könnte den liebenswürdigen Jüngling, dessen Bild ich durch so wunderbare Schickung erhielt, und dessen Züge sich so tief in meine Seele gruben
+      </p>
+      <stage>
+       (sie zeigt ihr das Bild).
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (Pause)
+      </stage>
+      <p>
+       Ritter Zamor wird euch dafür lohnen.
+      </p>
+     </sp>
+     <sp who="#lulla">
+      <speaker>
+       Lulla.
+      </speaker>
+      <p>
+       So nennt er sich! wie? du kennst diesen holden Jüngling, und vermagst ihn nicht zu retten?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Nur Erfüllung seiner ritterlichen Pflicht – Enthaltsamkeit von Liebe und Wein macht ihn deines Besitzes würdig.
+      </p>
+      <stage>
+       Romanze.
+      </stage>
+      <lg>
+       <l>
+        Einst ritt ein junger Ritter
+       </l>
+       <l>
+        Ins ferne Land.
+       </l>
+       <l>
+        Er suchte sich ein Liebchen
+       </l>
+       <l>
+        Zum Eheband.
+       </l>
+       <l>
+        Er zog umher bald her, bald hin,
+       </l>
+       <l>
+        Fand nichts nach seinem Liebessinn –
+       </l>
+       <l>
+        Da schwur er – was? der Liebe Hohn,
+       </l>
+       <l>
+        Und ritt ganz mißvergnügt davon.
+       </l>
+       <head>
+        2.
+       </head>
+       <l>
+        Und als er Nachts verirrte
+       </l>
+       <l>
+        In einem Wald.
+       </l>
+       <l>
+        Ist ihm ein Weib erschienen,
+       </l>
+       <l>
+        Die rief: Halt! Halt!
+       </l>
+       <l>
+        Ich suchte was, das mir behagt,
+       </l>
+       <l>
+        Doch jetzt hab ich der Lieb entsagt!
+       </l>
+       <l>
+        Entsagt? ey ey! wo ist der Mann?
+       </l>
+       <l>
+        Der wohl der Lieb’ entsagen kann.
+       </l>
+       <head>
+        3.
+       </head>
+       <l>
+        Laß dir, mein Sohn! doch rathen,
+       </l>
+       <l>
+        Ich führe dich
+       </l>
+       <l>
+        Zu einem holden Mädchen,
+       </l>
+       <l>
+        Komm! trau’ auf mich!
+       </l>
+       <l>
+        Gott schuf ins Herz der Liebekraft,
+       </l>
+       <l>
+        Die Mann und Weib Vergnügen schaft.
+       </l>
+       <l>
+        Drum nimm ein Weib (zu ihr) du einen Mann,
+       </l>
+       <l>
+        Weil Liebe nur beglücken kann.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (beyde ab)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Die Königinn. Florina. Alle Mädchen.
+     </stage>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Schwestern! schreckliche Dinge gehen auf unserer Insel vor. Es halten sich Fremdlinge bey uns auf, die durch höhere Macht begabt unserer freyen Verfassung den Untergang drohen.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ein Zauberer hat sich zu uns geschlichen, um Unruhe bey einem friedlichen Volk zu stiften, und Empörung in unsern Herzen zu erregen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Vorige. Sambukko. Gargantas, stürzen vor sie hin.
+     </stage>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Gnädigste Gebietherin! wir küssen den Staub, den deine Füsse betreten. –
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       [!] Vergieb – Erhabenste! aber wir sind unschuldig!
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Was ist geschehen! Diener des großen Cluna! bange Unruhe ist auf eure Stirne geschrieben.
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Ihr wisset, erhabne Königinn! daß ich immer einer eurer getreuesten Diener war.
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Ehrwürdig war mir das Gesetz – noch nie drang sich der Gedanke in meine Seele, ein Weib zu besitzen.
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <stage>
+       (schrecklich aufgebracht)
+      </stage>
+      <p>
+       Und jetzt!
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Bin ich verliebt!
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <stage>
+       (zu Sambukko)
+      </stage>
+      <p>
+       Und du?
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Auch ich bin verliebt.
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Ihr Götter! was hör ich – Frevler! in wen?
+      </p>
+     </sp>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Sambukko.  Gargantas.
+      </speaker>
+      <p>
+       In euch Alle –
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Stoßt sie nieder, die Verräther!
+      </p>
+      <stage>
+       (die Weiber heben ihre Spiese)
+      </stage>
+     </sp>
+     <stage>
+      (Sie stehen alle unbeweglich nach einem Donnerschlag.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      Vorige. Chara als ein junger Ritter gekleidet, führt Lullen vorüber.
+     </stage>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (zur Königinn)
+      </stage>
+      <p>
+       Haltet ein! Ich führe dieß Mädchen in die Arme der Liebe.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <stage>
+       (Sie kommen alle zu sich)
+      </stage>
+      <p>
+       Wo bin ich? welch ein holder Jüngling!
+      </p>
+     </sp>
+     <sp who="#laura">
+      <speaker>
+       Laura.
+      </speaker>
+      <p>
+       Wie ist mir?
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       War das nicht Lulla, die gefangene Königstochter?
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Ihr Götter! welch ein Strafgericht habt ihr über unsere Insel verhängt. Auf! laßt uns Cluna Opfer bringen. – Hundert Lämmer werden ihm geschlachtet, daß wir ihn versöhnen, und er den Zauberer in unsere Hände liefere.
+      </p>
+     </sp>
+     <stage>
+      (Alle ab, bis auf Gargantas)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Siebenter Auftritt.
+     </head>
+     <stage>
+      Gargantas allein.
+     </stage>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Welch nie empfundenes Gefühl strebt in meinem Busen empor! zu unterdrücken versprach ich jede Empfindung von Leidenschaft – und doch schlägt mir mein Herz stärker bey dem Gedanken an Liebe. –
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Du schönstes Opfer der Natur,
+       </l>
+       <l>
+        Gefühl der reinen Liebe!
+       </l>
+       <l>
+        Du führst uns auf der Gottheit Spur,
+       </l>
+       <l>
+        Schafts Menschen sanftre Triebe.
+       </l>
+       <l>
+        Du machest sie so mild und gut,
+       </l>
+       <l>
+        Erhebest Sinne, Herz und Muth –
+       </l>
+       <l>
+        Und leitest sie mit froher Hand
+       </l>
+       <l>
+        Beglückend zu dem Rosenband.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein, ängstlich hereineilend. Hernach ein Hirtenjunge mit einem Milchhüttchen.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       O ich armer Teufel! nirgends hab’ ich eine bleibende Stätte – die Weiber machen Jagd auf mich, und wenn sie mich erwischen, so spiessen sie mich an ihre Fahneln.
+       <stage>
+        (laut schluchzend)
+       </stage>
+       S’ g’schieht mir – s’ g’schieht mir aber recht – warum hab’ ich in meinen alten Tagen noch solche Kindereyen anfangen müssen.
+       <stage>
+        (lauter schluchzend)
+       </stage>
+       Keinen Wein soll ich auch nicht trinken, vom Wasser stirbt man – und dürsten thut michs, wie – wie –
+      </p>
+     </sp>
+     <sp who="#hirtenjunge">
+      <speaker>
+       Hirtenjunge.
+      </speaker>
+      <p>
+       Hast du Durst – da trink – Milch von unsern Lämmern, genährt auf unsern fetten Fluren – sie wird dir köstlich schmecken – trink!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Jetzt geh mit deiner Milch – bring mir lieber Wein.
+      </p>
+     </sp>
+     <sp who="#hirtenjunge">
+      <speaker>
+       Hirtenjunge.
+      </speaker>
+      <p>
+       Das kann ich nicht – um deinen Durst zu stillen – da trink!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ich mag nicht – bin mein Lebstag kein Liebhaber von Milch g’west.
+      </p>
+     </sp>
+     <sp who="#hirtenjunge">
+      <speaker>
+       Hirtenjunge.
+      </speaker>
+      <p>
+       Du weißt nicht, was dir gut ist, – guter Freund! Milch ist die erste Labung des unmündigen Kindes – und der Mensch – wenn hohes Alter seine Stirne runzelt, – was wird er alsdann wieder? – ein Kind.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Kasperl. allein. Hernach Florina, als Geist.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Milch! Milch! – so lang du mir keinen Wein – –
+       <stage>
+        (er erblickt die Flasche von Mongogul),
+       </stage>
+       Alle Wetter! was seh ich da – da wär freylich so etwas, womit man den Durst – wenn nur mein verdammtes Glöckl nicht wär –
+       <stage>
+        (er nimmt die Mütze ab)
+       </stage>
+       ich – ich würde –
+       <stage>
+        (er sieht immer nach dem Glöckl)
+       </stage>
+       ich würde trinken –
+       <stage>
+        (er nimmt die Flasche)
+       </stage>
+       Nun! nun! – rührt sich nichts? ich trink –
+       <stage>
+        (Pause)
+       </stage>
+       ich trink –
+       <stage>
+        (wie er ansetzen will, kommt Florina mit einer Eulenlarve, er erschrickt heftig).
+       </stage>
+       O pfui Teufel! nein! vor solch einer Dienerschaft bedank’ ich mich.
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Unglücklicher! was beginnst du? willst du den Geistern jener verstorbenen Jungfrauen, derer Asche hier in diesen goldenen Urnen aufbewahrt ist, durch deine Frevelthat ihre Ruhe rauben?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was? in den goldenen Urnen da ist Jungfernasche aufbewahrt?
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Hier hausen die Geister jener unglücklichen Jungfrauen, welche sich einst freventlich wider das Gesetz vergiengen, und welche nur durch einen unschuldigen Menschen erlöst werden können.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Durch einen unschuldigen Menschen? Und – warest du vielleicht auch eine von denen Jungfrauen, die –
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Ach ja – Leider!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun brav! wenn bey mir zu Haus alle Jungfrauen, die auf diese Art freveln, so herumlaufen müßten – da gäbs eine Eulenkompagnie.
+      </p>
+      <stage>
+       (Posaunen-Harmonie)
+      </stage>
+     </sp>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Wer frevelnd das Gesetz entehrt.
+       </l>
+       <l>
+        Und Unrecht thut;
+       </l>
+       <l>
+        Der büsset für die Lasterthat
+       </l>
+       <l>
+        Mit seinem Blut.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker><stage>
+       (stürzt zitternd zur Erde)
+      </stage>
+      <p>
+       O – o – ihr armen Kinder! so viel ich merk, giebts hier eine ganze Schaar, die sich wider das Gesetz vergangen haben.
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Nur du allein kannst mich erlösen, Fremdling!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (springt schnell auf)
+      </stage>
+      <p>
+       Wer – ich – nein! in die Geschichte laß ich mich nicht ein – das sag ich gleich.
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <stage>
+       (verfolgt ihn)
+      </stage>
+      <p>
+       Wenn ich dich aber bitte –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weicht ihr aus)
+      </stage>
+      <p>
+       Es kann nicht seyn, sag ich – du mußt mir auch in deinem Leben ein rechtes Musterl gewesen seyn. –
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Warum?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Weil man dir einen Kopf von so einem garstigen Vogel aufg’setzt hat.
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Die Eule ist der Vogel der Weisheit. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Da will ich lieber ein Gimpel seyn – aber – was müßt man denn thun, wenn man dich erlösen wollt?
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Küssen, einen Kuß geben!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       O pfui Teufel!
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <p>
+       Ein einziger Kuß von dir giebt mir meine vorige Gestalt wieder. –
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Meinethalben bleib die Jungfer unerlöst, so lang sie will, ich erlös nichts
+       <stage>
+        (wie er fort will, wird er durch eine Flamme zurückgehalten – schreyt)
+       </stage>
+       Nun da bin ich in einer saubern Wäsch drinn.
+      </p>
+     </sp>
+     <sp who="#geist">
+      <speaker>
+       Geist.
+      </speaker>
+      <stage>
+       (geht ihm nach)
+      </stage>
+      <p>
+       Lieber, holder Fremdling!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weinend)
+      </stage>
+      <p>
+       Wenn ich nur wüßt, wie ich aus dem Jungfernnest da hinauskäme.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Z’letzt – z’letzt werd’ ich mich doch dazu resolviren müssen –
+       <stage>
+        (entschlossen)
+       </stage>
+       Courage – ich unternehm das grosse Werk als ein Held –
+      </p>
+       <stage>
+       (er küßt, die Eulenlarve verschwindet).
+      </stage>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Holder Fremdling!
+      </p>
+      <stage>
+       (in seine Arme)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Was für ein herrliches Gesicht! – ein schönes, ein liebes Mädel! Komm du mit mir
+      </p>
+      <stage>
+       (er will mit ihr fort. Chara erscheint. Florina verschwindet.)
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Halt! Leichtsinniger! was beginnst du? So befolgst du meinen Willen?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       O weh! die Frau Fee!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Ich hüllte mich in die Gestalt jenes schönen Mädchens, um deine Standhaftigkeit auf die Probe zu stellen. Wo hast du die Mütze mit deiner Warnungsglocke?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Dort liegts?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Unbesonnener! sagte ich dir nicht, daß sie dich vor allem Unfall warnen würde, so lang du dieselbe auf deinem Kopf trügest.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (setzt sie schnell auf)
+      </stage>
+      <p>
+       G’schwind damit hinauf.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Nun komme ich nicht mehr, um dich vor Thorheit zu warnen. Verlässest du noch einmal meinen Rath, so wirst du sterben, und unstät und flüchtig wird dein Geist auf der Erde herumwandern – bis dich nach langer Frist durch ein Ungefähr wieder rufen wird die Stimme eines unschuldigen Kindes aus dem Grabe der Verwesung
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nun jetzt da haben wir’s! s’ist – s’ist aber auch wahr – ich hab mir ja gleich eingebildet, daß die Glocke Dienste bey mir bekommen wird – denn es ist nicht anders, als wenn ich die dummen Streich in Pacht genommen hätt. – Also keinen Wein und kein Madl! Auweh! das sind ein paar harte Sachen für mich!
+      </p>
+      <stage>
+       (ab).
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      (Waldgegend. Mongogul mit dem Kästchen, hinter ihm die Frauen und die Schwarzen).
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       So laßt mich nur aus, ihr Damen! ich will euch ja gern von Allem Red’ und Antwort geben.
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Woher hast du das Kästchen? Schurke!
+      </p>
+     </sp>
+     <sp who="#laurita #florina #azzina #hassina #akasia"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (drohen mit ihren Lanzen)
+      </stage>
+      <p>
+       Gieb Antwort?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (stotternd)
+      </stage>
+      <p>
+       So! so laßt mich nur zu Wort kommen. –
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Du mußt wissen, wo der Mann sich aufhält, dem das Kästchen zugehört.
+      </p>
+     </sp>
+     <sp who="#azzina">
+      <speaker>
+       Azzina.
+      </speaker>
+      <p>
+       Du bist vielleicht mit ihm verstanden.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Nein! nein! das bin ich nicht – ich wollt vielmehr, daß ich den Kerl verbrennen sähe.
+      </p>
+     </sp>
+     <sp who="#hassina">
+      <speaker>
+       Hassina.
+      </speaker>
+      <p>
+       So red –bekenn! –
+      </p>
+      <stage>
+       (drohend).
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Ich wollt ja gern bekennen, wenn ich nur etwas wüßt.
+      </p>
+     </sp>
+     <sp  who="#laurita #florina #azzina #hassina #akasia"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Wir durchstossen dich mit unsern Lanzen.
+      </p>
+      <stage>
+       (Alle über ihn)
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (schreyt)
+      </stage>
+      <p>
+       He! he! ihr werdet mich ja durchlöchern, daß mich die Sonne durchscheint.
+      </p>
+     </sp>
+     <sp who="#akasia">
+      <speaker>
+       Akasia.
+      </speaker>
+      <p>
+       Wie erhieltest du das Kästchen?
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (mit bebender Stimme)
+      </stage>
+      <p>
+       Meine gnädigsten Hofdamen! ihr – ihr werdet euch erinnern, als wir alle zusammen spinnen mußten.
+      </p>
+     </sp>
+     <sp  who="#laurita #florina #azzina #hassina #akasia"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Schurke! der du bist –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Und wir wieder zu uns selbst kamen, war der Kerl verschwunden – nun find’ ich sein Kästchen – und weil es so gar köstliche Sachen enthalten soll, wollt’ ichs zu unserer gnädigsten Königinn bringen.
+      </p>
+     </sp>
+     <sp  who="#laurita #florina #azzina #hassina #akasia"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Oeffnen wir das Kästchen.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Das könnt ihr – aber mich müßt ihr dabey ungehudelt lassen; hab mit den Männern genug zu thun, wenn ich auch noch unter die Hände der Weiber geriethe.
+      </p>
+     </sp>
+     <sp who="#akasia">
+      <speaker>
+       Akasia.
+      </speaker>
+      <p>
+       Sieh da – Wunderbalsam!
+      </p>
+     </sp>
+     <sp who="#azina">
+      <speaker>
+       Azina.
+      </speaker>
+      <p>
+       Lebensessenz!
+      </p>
+     </sp>
+     <sp who="#laurita">
+      <speaker>
+       Laurita.
+      </speaker>
+      <p>
+       Pillen in Wein genommen, vermehren die Schönheit der Weiber.
+      </p>
+     </sp>
+     <sp  who="#laurita #florina #azzina #hassina #akasia #mongogul"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Was! was! die Schönheit der Weiber. Wenn wir nur gleich Wein da hätten.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Dafür will ich sorgen – ich hole die Becher,
+       <stage>
+        (beiseite)
+       </stage>
+       das wär noch eine herrliche Mautheinrichtung, wenn auf unserer Insel die Liebe aufhörte, kontraband zu seyn.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#azzina">
+      <speaker>
+       Azzina.
+      </speaker>
+      <p>
+       Wenn nur der Wein schon da wäre!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ja! ja! Wein! da wollen wir gleich die Wunderkraft dieser Pillen probiren.
+      </p>
+     </sp>
+     <sp who="#chor-genien">
+      <speaker>
+       Chor von Genien.
+      </speaker>
+      <stage>
+       (Sie bringen goldene Becher.)
+      </stage>
+      <lg>
+       <l>
+        Der Trank wird ohne Schaden seyn,
+       </l>
+       <l>
+        Er ladet zum Genuß euch ein –
+       </l>
+       <l>
+        Benuzt der Götter Freundlichkeit,
+       </l>
+       <l>
+        Er schaft der Liebe Seligkeit!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie trinken und werden alle nach und nach lustig. –
+     </stage>
+     <sp who="#chor allgemein">
+      <speaker>
+       Allgemeiner Chor.
+      </speaker>
+      <lg>
+       <l>
+        (Schwestern! | Brüder!) hüpft im bunten Kreise,
+       </l>
+       <l>
+        Weil uns noch der Frühling blüht.
+       </l>
+       <l>
+        Freut euch auf der Lebensreise
+       </l>
+       <l>
+        Weil das Herz noch feurig glüht.
+       </l>
+       <l>
+        Trinket aus der Freude Schale,
+       </l>
+       <l>
+        Denn das Leben ist so süß.
+       </l>
+       <l>
+        Auf! genießt beym Wonnemahle,
+       </l>
+       <l>
+        Liebe führt ins Paradieß!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Mongogul, Sambukko und Gargantas kommen unter dem Chor.) (Sie nehmen sie in die Mitte, und eilen mit ihnen ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Chara als junger Ritter mit der Königinn (Sie wird noch Augenzeuge von dieser Handlung.)
+     </stage>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Ihr Götter! von welchem Unfug werd’ ich Augenzeuge! Jüngling! wohin brachtest du Lullen – und wohin führst du mich – wer bist du?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Der Freund deines Herzens! Edle Königinn! der paradiesische Aufenthalt, den du bewohnest, wird dem Menschen ohne Liebe zur Wüsteney. Löse das Gelübde, das dich und deine Weiber an ein Gesetz feßelt, das dem Willen der wohlthuenden Mutter Natur entgegen strebt.
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Was hör’ ich – welche Kühnheit! Wer du auch seyn magst, du sollst sterben. –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Schon haftet ein Mord schwer auf deiner Seele – Königinn! du hattest einst einen Sohn.
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Wer bist du?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Der Retter weiblicher Rechte! Blicke dahin! Alle deine Gefangene sind frey!
+      </p>
+     </sp>
+     <stage>
+      (die Bühne verwandelt sich in ein Wolkentheater – Im Hintergrund liegt Zamor vor Lullen auf den Knien, von Genien umgeben. Die gefangenen Fremdlinge sind frey. Die Weiber und die Vorigen eilen herbey.)
+     </stage>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <lg>
+       <l>
+        Die Waffen, Mädchen! weggelegt,
+       </l>
+       <l>
+        So will es die Natur;
+       </l>
+       <l>
+        Dem Trieb, der sich im Herzen regt,
+       </l>
+       <l>
+        Folgt auf der Liebe Spur!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Sie werfen Schild und Lanze weg, und eilen in die Arme der Fremdlingen.)
+     </stage>
+     <sp who="#chor allgemein">
+      <speaker>
+       Allgemeiner Chor.
+      </speaker>
+      <lg>
+       <l>
+        Ja entsaget dem Gelübde,
+       </l>
+       <l>
+        Huldiget der Liebe nun;
+       </l>
+       <l>
+        Glücklich sind nur die Verliebte,
+       </l>
+       <l>
+        Selig ist der Liebe Lohn!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      Unter dieser Gruppe fällt der Vorhang.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Vierter Aufzug.
+    </head>
+    <div type="scene">
+     <head>
+      Erster Auftritt.
+     </head>
+     <stage>
+      (Seegegend. – Mondlicht. – Ein Lichtchen schwebt auf dem Wasser, diesem folgt ein Schiff, worinn Seros mit seinem Gefolge ist. Alle als Kalandsbrüder vermummt.)
+     </stage>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Auf! muthig, folget nur
+       </l>
+       <l>
+        Des Zauberlichtes Spur.
+       </l>
+       <l>
+        Es führt des Schicksals Hand,
+       </l>
+       <l>
+        Das Schiffchen hier ans Land.
+       </l>
+      </lg>
+      <stage>
+       (Sie steigen aus.)
+      </stage>
+      <lg>
+       <l>
+        Das Schiffchen eilt davon,
+       </l>
+       <l>
+        Vertheilt euch alle nun –
+       </l>
+       <l>
+        Hierhin – dorthin – fort – fort! –
+       </l>
+       <l>
+        Durchsuchet jeden Ort.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Einige rechts, die andern links ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zweyter Auftritt.
+     </head>
+     <stage>
+      Zamor. Zimbalo, hernach Seros.
+     </stage>
+     <sp who="#zimbalo">
+      <speaker>
+       Zimbalo.
+      </speaker>
+      <p>
+       Und ihr wollt noch länger an diesem verwünschten Ort bleiben, Herr Ritter! ihr werdet nicht ruhen, bis man uns wieder aufs neue einsperrt, um zu spinnen, oder mit schönster Manier Hunger zu sterben –
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Umsonst! hier fand ich das Ideal meines Bildes, hier will ich harren auf dieser Insel, bis mir jenes unbekannte Wesen, das mich umgiebt, meine Geliebte wieder zuführt.
+      </p>
+     </sp>
+     <sp who="#zimbalo">
+      <speaker>
+       Zimbalo.
+      </speaker>
+      <p>
+       Eilen, wir lieber zum Gestade – schon graut der Morgen – Vielleicht finden wir ein Schiffchen – Lasset uns fliehen.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <stage>
+       (ferne)
+      </stage>
+      <p>
+       Ich höre Fremdlinge. – Sie reden von Fliehen – ich muß hier Kundschaft einziehen
+       <stage>
+        (nähert sich Zamor).
+       </stage>
+       Die Götter seyen mit euch, holde Fremdlinge!
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Woher des Weges, alter Greiß!
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Gerade von Kurdistan. Bin ein unglücklicher Wallfahrer nach Lima – haben uns auf der See verirrt – und das Schicksal brachte uns an dieses Gestade. Wo befinde ich mich denn, holder Jüngling?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Auf der Insel der Königinn Evana –
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Evana!
+       <stage>
+        (beis.)
+       </stage>
+       Dank euch, ihr Götter!
+      </p>
+     </sp>
+     <sp who="#zimbalo">
+      <speaker>
+       Zimbalo.
+      </speaker>
+      <p>
+       Ja! ihr habt wohl Ursache zu danken, daß ihr nicht einige Tage früher angelandet seyd.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Und warum?
+      </p>
+     </sp>
+     <sp who="#zimbalo">
+      <speaker>
+       Zimbalo.
+      </speaker>
+      <p>
+       Weil ihr sonst auch, wie wir – ins Spinnhaus wäret transportirt worden.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Und wie seyd denn ihr daraus errettet worden?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Durch die Macht eines höheren Wesens! – schon Jahrelang wandere ich umher, um eine Geliebte aufzusuchen, derer Bild mir von einem höheren Wesen übergeben wurde.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Und du fandest sie hier?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Ich fand sie – alter Greiß! so abgestorben dein Auge auch seyn mag, wer könnte bey dem Anblick dieses Bildes gleichgültig bleiben.
+      </p>
+      <stage>
+       (zeigt ihm das Bild.)
+      </stage>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Götter was seh’ ich? – dieses Bild! diese Züge –
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Was ist dir Alter!
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Dank euch, mächtige Beschützer der Tugend! – und das Mädchen – sie nennt sich?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Lulla –
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Und dieses Mädchen ist hier?
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Hier – gefangen in den Händen dieser grausamen Königinn; ihr Vater blieb im Treffen – getödtet durch die Hände jener weiblichen Ungeheuer.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Und du liebst dieses Mädchen, Jüngling!
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Ich liebe sie.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Verlangst sie zur Gattinn – willst lösen ihre Sklavenfesseln.
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Lösen das fürchterliche Gelübde, das man heute noch abdringen will ihrem schuldlosen Herzen – dieß schwör ich dir bey der Allmacht der Götter.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       O so sey mir gesegnet, holder Fremdling!
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <stage>
+       (in seinen Armen)
+      </stage>
+      <p>
+       Wer bist du, alter Greiß!
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <stage>
+       (entlarvt sich)
+      </stage>
+      <p>
+       Lullens unglücklicher Vater – König von Argenien.
+      </p>
+     </sp>
+     <sp who="#zamor">
+      <speaker>
+       Zamor.
+      </speaker>
+      <p>
+       Wie? du lebst?
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Ein Pfeilschuß stürzte mich zur Erde – aber das Schicksal heilte meine Wunde, um mir alten Manne noch hohe Freude zu gewähren. In dieser Vermummung zog ich aus, um meine einzige Tochter aufzusuchen. Folge mir, Jüngling! laß uns sie retten, und dann ziehe mit mir. – Mein Thron sey das Lösegeld meiner Tochter – frohe Unterthanen, das Glück das deiner harret – und mein Segen – der Segen eines glücklichen Vaters!
+      </p>
+      <stage>
+       (beyde ab.)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Dritter Auftritt.
+     </head>
+     <stage>
+      (Zimmer der Königinn.)
+     </stage>
+     <stage>
+      Mongogul mit dem Kästchen.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Alles geht bunt über ecks – unsere Hofdamen sind des Teufels – so gar meine Herrn Kollegen laufen umher, als wenn ihnen der Kopf brennte. Mein Spinnhauß ist leer – und nun wird die Frau Königinn ihre Rache über mich auslassen. Wenn ich nur den verdammten Kerl, dem das Kästchen zugehört, erwischen könnte! Ich hab freylich gemerkt, daß ihm das Weintrinken verboten ist, wie – wenn?
+       <stage>
+        (Pause)
+       </stage>
+       Richtig! das wollen wir versuchen. Eines unserer schönsten Mädchen soll ihre Kunst an ihm probiren – Florina – die schöne muntre Florina –
+       <stage>
+        (öffnet das Kästchen)
+       </stage>
+       Wunderbalsam, sagte der Schuft, soll es enthalten, wär doch begierig –
+       <stage>
+        (nimmt ein Fläschchen, riecht daran)
+       </stage>
+       Hm! wie das so wohlthätig einem in die Nase riecht! welche Kraft! welche Substanz!
+       <stage>
+        <stage>
+         (kostet)
+        </stage>
+       </stage>
+       wie stärkend – wie labend –
+       <stage>
+        (kostet)
+       </stage>
+       wie das so wohlthuend hinunterfließt – wie – wie –
+       <stage>
+        (trinkt es aus)
+       </stage>
+       köstlich – herzerquickend – Leib und Seele erhebend,
+       <stage>
+        (er fängt an zu stottern)
+       </stage>
+       Ja – ja – Frau Königinn! den Kerl werd’ ich schon erwischen – denn, wenn ich ihn nicht erwisch – so erwischt ihn Niemand.
+       <stage>
+        (er steht auf, wankt)
+       </stage>
+       Nun – nun!
+       <stage>
+        (sucht umher)
+       </stage>
+       wo – wo hab ich denn meinen Kopf – ist mir doch so wundersam auf den Beinen – es juckt! – es – es hüpft –
+       <stage>
+        (umhängt das Kästchen)
+       </stage>
+       Nun – nun! bin ich denn berauscht – sollte etwa gar – dieser Balsam –
+       <stage>
+        (taumelt, lacht)
+       </stage>
+       ha, ha, ha! Richtig – das Kastl bring ich zu unserer Frau Königinn – ha, ha, ha! das Weiber-Regiment herrscht zwar in der ganzen Welt, ist auch nichts anders als billig – aber über was sollen sie denn hier herrschen, wenn keine Männer auf der Insel geduldet werden.
+      </p>
+      <stage>
+       Lied.
+      </stage>
+      <lg>
+       <l>
+        Ein jedes Weib regiert den Mann,
+       </l>
+       <l>
+        Es mach es anders, wer da kann –
+       </l>
+       <l>
+        Denn wenn ein schöner Mund nur lacht,
+       </l>
+       <l>
+        Wird gleich der Mann kaput gemacht.
+       </l>
+       <head>
+        2.
+       </head>
+       <l>
+        Und wenn ihr Auge schmachtend blickt,
+       </l>
+       <l>
+        Ist schon des Mannes Herz entzückt,
+       </l>
+       <l>
+        Ein Weiberblick kehrt Welten um,
+       </l>
+       <l>
+        Und bringt uns ins Elisium.
+       </l>
+       <head>
+        3.
+       </head>
+       <l>
+        Ein jedes Weib regiert den Mann,
+       </l>
+       <l>
+        Es mach es anders, wer da kann.
+       </l>
+       <l>
+        Das ist schon einmal in der Welt,
+       </l>
+       <l>
+        Die Herrschaft ist fürs Weib bestellt.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Vierter Auftritt.
+     </head>
+     <stage>
+      Evana. Chara, mit ihr Seros.
+     </stage>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       So soll ich denn zerstört sehen das seit undenklicher Zeit blühende Gesetz, das unsere Herzen stählte vor den Empfindungen der Liebe –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Königinn! hier bringe ich einen Mann vor deine Augen, der aus deinen Händen das Kostbarste, was ihm die Götter verliehen, zurückverlangt.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Und das wäre?
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <stage>
+       (entlarvt sich)
+      </stage>
+      <p>
+       Meine Tochter!
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Ihr Götter! was seh’ ich? Seros! du lebst?
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Gieb mir meine Tochter zurück, und ich vergebe dir Alles.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Ha! das ist schrecklich! Getäuscht durch das Schicksal, so wie noch keines der sterblichen Geschöpfe getäuscht war. – Ja! deine Tochter soll dir werden – aber dann fliehe von meinem Gestade, oder mein Fluch begleitet dich bis zu deinem Thron.
+      </p>
+     </sp>
+     <sp who="#seros">
+      <speaker>
+       Seros.
+      </speaker>
+      <p>
+       Meine Tochter in meine Arme – und ich beneide keinen König um seine Krone.
+      </p>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Königinn! Freude harret noch deiner in diesen reizenden Gefilden. Die Götter schufen das Weib zur Liebe – überlaß jene kriegerische Tugenden den Männern, welche die Natur schuf aus schwererem Stoff zum Kriegsgetümmel und Schlachtgetöne.
+      </p>
+      <stage>
+       Arie.
+      </stage>
+      <lg>
+       <l>
+        Weg mit der Lanze und dem Schild.
+       </l>
+       <l>
+        Dich reizet nicht Trompetenschall.
+       </l>
+       <l>
+        Und nicht des Nachruhms Wiederhall,
+       </l>
+       <l>
+        Zum Krieg bist du zu sanft und mild.
+       </l>
+       <l>
+        Empfänglich ist des Weibes Brust
+       </l>
+       <l>
+        Für Scherze und für Liebeslust –
+       </l>
+       <l>
+        Ihr Weiber sieget nur im Feld,
+       </l>
+       <l>
+        Wo euch ein Mann zur Beute fällt.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Fünfter Auftritt.
+     </head>
+     <stage>
+      Evana. Sambukko. Gargantas.
+     </stage>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Verloren! Alles verloren! Selbst verspottet durch die Diener unserer Gottheit – jede Hofnung gerissen aus meinem Herzen, die ich entfernt ahndete durch die Fürsprache dieser Verräther –
+       <stage>
+        (sie kommen)
+       </stage>
+       Und ihr erkühnt euch noch? Frevler! Auf! bringt den Zauberer vor meinen Thron, daß ich ihm sein Todesurtheil spreche.
+      </p>
+     </sp>
+     <sp who="#sambukko">
+      <speaker>
+       Sambukko.
+      </speaker>
+      <p>
+       Ihr Götter! was hör’ ich? Soll Blut fliessen an einem Ort, der zur Freude der Menschen geweiht ist? an einem Ort, wo die Natur Ueberfluß ausspendete, um ihre Kinder glücklich zu machen.
+      </p>
+     </sp>
+     <sp who="#gargantas">
+      <speaker>
+       Gargantas.
+      </speaker>
+      <p>
+       Und du könntest, erhabenste Königinn! einen der wohlthätigsten des Menschengeschlechts zum Tod verdammen?
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Wie? ihr vertheidiget diesen Frevler? nennt ihn einen Wohlthäter des Menschengeschlechts? Er ist ein Zauberer – er verdient den Tod.
+      </p>
+     </sp>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#sambukko #gargantas">
+      <speaker>
+       Sambukko. Gargantas.
+      </speaker>
+      <lg>
+       <l>
+        Wer mit den Fröhlichen sich freuet,
+       </l>
+       <l>
+        Der Leiden Bitterkeit versüßt.
+       </l>
+       <l>
+        Und unter Dornen Rosen streuet,
+       </l>
+       <l>
+        Jn aller Herzen Wonne gießt.
+       </l>
+       <l>
+        Der ist der Menschheit Achtung werth,
+       </l>
+       <l>
+        Weil er ihr Glück und Wohl gewährt.
+       </l>
+       <l>
+        Wer Liebe giebt, und Lieb’ empfindet,
+       </l>
+       <l>
+        Der kennt die wahre Zauberkraft.
+       </l>
+       <l>
+        Weil Freude sich auf Liebe gründet,
+       </l>
+       <l>
+        Und alle Menschen glücklich schaft.
+       </l>
+       <l>
+        Wer Liebe giebt, und Freude übt,
+       </l>
+       <l>
+        Der wird von Göttern selbst geliebt.
+       </l>
+      </lg>
+      <stage>
+       (ab)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Sechster Auftritt.
+     </head>
+     <stage>
+      (Grotte. Nebenbey eine Felsenquelle) Florina mit Kasperl.
+     </stage>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (mit einem goldenen Becher)
+      </stage>
+      <p>
+       So komm nur mit mir, liebes Goldmännchen! hier ist der Ort, wo wir, ohne belauscht zu werden, uns vertraulich unterhalten können.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       S’ist – s’ist alles schon recht – wenn nur –
+       <stage>
+        (sieht sich angstvoll um)
+       </stage>
+       Alle Wetter! das ist ein köstliches Madel – wenn ich nur s’Courage hätte.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Ach! wie ich mich auch von einem Mädchen so lange könnte einladen lassen!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Ja! wegen dem Einladen hätts seine geweißten Wege – wenn ich nur –
+       <stage>
+        (beis.)
+       </stage>
+       auweh! auweh! das wird eine Schellerey geben.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (schmeichelnd.)
+      </stage>
+      <p>
+       Wenn ich nur wüßte, wie ich mich dir, liebes Männchen! gefällig zeigen könnte.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (seufzend)
+      </stage>
+      <p>
+       Ja! ich wüßt es schon, wenn – wenn nur z’trauen wär.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       So komm doch näher zu mir.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das näher kommen wär schon recht, wenn –
+       <stage>
+        (für sich)
+       </stage>
+       Jetzt – jetzt gebts Acht – ich darfs’ Madel kaum aufrichtig bey der Hand nehmen, so wird wieder ’s Spektakel angehen –
+      </p>
+      <stage>
+       (ergreift ihre Hand.)
+      </stage>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       So komm doch näher!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Da bin ich ja schon –
+       <stage>
+        (geht zu ihr hin.)
+       </stage>
+       <stage>
+        (Die Glocke schellt)
+       </stage>
+       hab mirs ja einbildt – da habts den Teufel –
+       <stage>
+        (laut)
+       </stage>
+       Hinweg von mir, du falsche – du meineidige Verführerinn meiner Tugend!
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       So! so sprichst du mit mir? ha – hab ich das um dich verdient?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (laut schluchzend)
+      </stage>
+      <p>
+       Nein! du hast gar nix um mich verdient – aber so – so sey nur vernünftig – ich darf ja nicht. –
+       <stage>
+        (beis.)
+       </stage>
+       O du verdammtes Glöckl! da wär jetzt die rareste Gelegenheit, und ich Esel darf nicht davon profitiren
+       <stage>
+        (Florina will seine Hand ergreifen)
+       </stage>
+       Bleib mir vom Leib, sag ich – oder s’ g’schieht ein Unglück – von weitem will ich dir ja recht gut seyn.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Nur von weitem, nicht in der Nähe?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wenns auf mich ankäm, so wärs mir auch in der Nähe recht.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Nun – so wähle!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Alles in der Welt muß seinen Anfang haben – gieb mir also nur von weitem deine Hand.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (reicht sie ihm, die Glocke schellt)
+      </stage>
+      <p>
+       Nun hier!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Wie ich sag – es ist kein Fried – ey so wollt ich, daß die Glocke bey mir zu Haus auf dem Kirchthurm hänge.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (ergreift seine Hand mit Gewalt.)
+      </stage>
+      <p>
+       Komm doch her, Schätzchen! trink von diesem Becher – unser Nektar wird dir Muth geben – trink!
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Das schon gar nicht – denn sieh – ich –ich wollt gern –
+       <stage>
+        (er greift darnach, schellt.)
+       </stage>
+       Nun ja – hat der Teixel das Geplämper schon wieder da.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Warum trinkst du denn nicht?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Es geht nicht! es geht nicht! ich hab so einen kuriosen Hofmeister bey mir, so oft ich trinken will, zupft er mich an der Nase.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <p>
+       Wo? ich sehe nichts.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Da oben im obern Stock logirt er in meiner Mütze.
+      </p>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <stage>
+       (nimmt ihm die Mütze vom Kopf)
+      </stage>
+      <p>
+       So lege diesen unzeitigen Mahner auf die Seite, und freue dich des Weins und der Liebe.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Meinthalben! wenn aber ein Unglück geschieht, will ich nichts davon wissen.
+      </p>
+     </sp>
+     <stage>
+      Duett.
+     </stage>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <lg>
+       <l>
+        Trinke! das Getränk ist süße!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Ja! wenn ich den Wein geniesse
+       </l>
+       <l>
+        Macht das Glöckl: Kling! Kling! Kling!
+       </l>
+      </lg>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <lg>
+       <l>
+        Acht nicht auf das dumme Ding.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Soll ichs wagen?
+       </l>
+      </lg>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <lg>
+       <l>
+        Es wird schweigen.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <lg>
+       <l>
+        Auf gut Glück – es wird sich zeigen.
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er trinkt, setzt ab – trinkt, setzt wieder ab.)
+     </stage>
+     <sp who="#kasperl #florina">
+      <speaker>
+       Beyde.
+      </speaker>
+      <lg>
+       <l>
+        Keinen Ton nicht! Alles stille,
+       </l>
+       <l>
+        Sonderbar ist doch das Ding.
+       </l>
+       <l>
+        Es ist ja der Götter Wille,
+       </l>
+       <l>
+        Sonsten machte es: Kling! Kling!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Er trinkt, bekommt lange Ohren.)
+     </stage>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <l>
+       Ha, ha, ha! das steht dir fein!
+      </l>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <l>
+       Wie du lachst? was soll das seyn?
+      </l>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <l>
+       Greif nur nach den langen Ohren,
+      </l>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (erschrickt)
+      </stage>
+      <l>
+       Weh! jetzt bin ich auch verloren!
+      </l>
+     </sp>
+     <sp who="#florina">
+      <speaker>
+       Florina.
+      </speaker>
+      <l>
+       Ha, ha, ha! – du armer Tropf!
+      </l>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <l>
+       O ich dummer Eselskopf!
+      </l>
+     </sp>
+     <stage>
+      (Sie geht mit Lachen ab.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Achter Auftritt.
+     </head>
+     <stage>
+      Kasperl allein, hernach Gigri.
+     </stage>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (geht weinend umher.)
+      </stage>
+      <p>
+       Nun jetzt – jetzt hab’ ich s’Spektakel auf meinem Kopf sitzen –
+       <stage>
+        (weinend.)
+       </stage>
+       Ich – ich sags ja, wenn man auch noch so standhaft ist, schick man nur ein schönes Madel über einen, aller guter Vorsatz geht zum Teufel.
+       <stage>
+        (Er will eilend die Mütze von der Erde aufnehmen, ein schwarzes Ungeheuer schlägt ihn mit einer Ruthe auf die Hand)
+       </stage>
+       Geschwind meine Müze auf den Kopf! –
+       <stage>
+        (er schreyt)
+       </stage>
+       He! nun der hat einen saubern Fliegenwadl – auweh! auweh! nur ein paar Tröpfl, und so ein abscheulichs memento meiner Dummheit – wenn ich jetzt erst den ganzen Becher ausgetrunken hätt.
+      </p>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <lg>
+       <l>
+        Ha – ha –ha – Seht doch da!
+       </l>
+       <l>
+        Du hast den Verstand verloren,
+       </l>
+       <l>
+        Drum trägst du so lange Ohren.
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Jetzt schauts! das kleine Zeiserl da lacht mich noch aus –
+      </p>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <p>
+       Geschieht dir schon recht – Schäm dich – schon so alt, und nicht gescheidt – warum hast du dich denn verlieben müssen?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weinerlich)
+      </stage>
+      <p>
+       Nun, wenn alle, die die Madeln gern sehen, Eselsohren kriegen, so gäbs zuletzt keine andern Ohren mehr in der Welt –
+      </p>
+      <stage>
+       (Man hört Mongogul).
+      </stage>
+     </sp>
+     <sp who="#gigri">
+      <speaker>
+       Gigri.
+      </speaker>
+      <p>
+       Hörst du? deine Feinde kommen! – Ich überlasse dich deinem Schicksal – aber deine Ohren sollen verschwinden.
+      </p>
+      <stage>
+       (Sie berührt ihn – Gigri nimmt die Mütze, und eilt ab).
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       He! he – meine Müz – mein Glöckl – auweh – jetzt kommt mein Todfeind – jetzt werd’ ich wohl spinnen müssen – wenn ich mich nur verstecken könnte. –
+       <stage>
+        (Er will sich zur Grotte flüchten, diese verwandelt sich in eine Eremitage, worinn Kasperl als Tiroler sitzt. – Er erschrickt heftig)
+       </stage>
+       O – O – O weh – was seh’ ich – mein leibhaftes Ebenbild – der Kasperl in natura! – Sie kommen –
+      </p>
+      <stage>
+       (er weicht ihnen aus)
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Neunter Auftritt.
+     </head>
+     <stage>
+      Kasperl. Mongogul, mit ihm die Schwarzen.
+     </stage>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <stage>
+       (gegen die Figur)
+      </stage>
+      <p>
+       Hab ich dich endlich erwischt, Spitzbube! nun sollst du mir auch nicht wieder entkommen.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beis.)
+      </stage>
+      <p>
+       Nun gut! jetzt führens den unrechten ein, und mich lassen sie laufen.
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Heraus mit dir, Schuft! der Prozeß wird bald zu Ende seyn – gespießt mußt du werden, und dann über die Gränze mit dir.
+      </p>
+      <stage>
+       (Die Schwarzen erblicken Kasperl.)
+      </stage>
+     </sp>
+     <sp who="#die schwarzen"><!-- ids korrekt -->
+      <speaker>
+       Alle.
+      </speaker>
+      <p>
+       Da – da ist er ja –
+      </p>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Wo ist er?
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Nein – nein! ich bins nicht – führt nur meinen Kameraden ein – der ist an allem Schuld.
+      </p>
+      <stage>
+       (Die Grotte schließt sich wieder. Sie überfallen ihn).
+      </stage>
+     </sp>
+     <sp who="#mongogul">
+      <speaker>
+       Mongogul.
+      </speaker>
+      <p>
+       Bindet ihn – wir führen ihn zur Königinn.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (weint)
+      </stage>
+      <p>
+       Ich bin ja der Unrechte! – O die – die verdammten Madeln! ich hab mir’s ja gleich eingebildet, daß mich die dummen Streiche ums Leben bringen werden.
+      </p>
+     </sp>
+     <stage>
+      (Sie führen ihn ab).
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Zehnter Auftritt.
+     </head>
+     <stage>
+      (Palmenwald) Evana. Chara als Pilgrinn.
+     </stage>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Nun bist du in meiner Gewalt – vertheidige dich vor meinem Richterstuhl, oder der schmerzlichste Tod seye dein Loos.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Unmächtiges Weib! wie solltest du dieß vermögen?
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Wo ist der fremde Ritter, dessen Göttermacht jene Männer beseelte, um meine Gespielinnen zur Verletzung unsers Gesetzes zu reitzen?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Jener fremde Ritter war ich –
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       So gieb mir jenen Zauberer Preiß, daß ich ihn vor meinen Augen tödten sehe, um die Götter zu versöhnen.
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Wisse – jener Unschuldige, dessen Blut du verlangst, ist kein Zauberer – er ist nur das Werkzeug meiner Rache.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Er soll sterben!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Meine Macht soll ihn schützen. Freyer Wille ist ihm zu Theil – überschreitet er mein Gebot, so ist er verurtheilt zu einem schrecklichen Strafgericht, das die Götter über ihn verhängten.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       So will ich an dir die Rache meiner verletzten Rechte vollziehen.
+       <stage>
+        (ruft)
+       </stage>
+       Wache!
+       <stage>
+        (die Schwarzen kommen)
+       </stage>
+       Greift dieses Weib, und führt sie als Gefangene in den Kerker. –
+      </p>
+      <stage>
+       (Chara winkt – die Schwarzen müssen tanzen.)
+      </stage>
+     </sp>
+     <sp who="#chor">
+      <speaker>
+       Chor.
+      </speaker>
+      <lg>
+       <l>
+        Wir greifen schon! wir greifen schon!
+       </l>
+       <l>
+        Denn dem Befehl gehorchen wir,
+       </l>
+       <l>
+        Sie flieht gewiß uns nicht davon –
+       </l>
+       <l>
+        Wir greifen schon! fort – fort mit ihr!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (tanzen ab).
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Eilfter Auftritt.
+     </head>
+     <stage>
+      Evana. Chara.
+     </stage>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Ha! welche feindliche Macht umgiebt mich!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Nun – wozu bist du entschlossen, Königinn!
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Treu zu verbleiben dem Gesetz – alle meine Unterthanen aufzubieten, durch ihr Blut – mit den Waffen in der Hand die Rechte meiner Freyheit zu vertheidigen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Zwölfter Auftritt.
+     </head>
+     <stage>
+      Vorige. Mongogul mit Kasperl. Wache.
+     </stage>
+     <sp who="#evana #chara"><!-- ids korrekt -->
+      <speaker>
+       Alle Weiber.
+      </speaker>
+      <stage>
+       (stürzen zu den Füssen der Königinn)
+      </stage>
+      <p>
+       Königinn! Gnade! –
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Ha! nun bin ich gerochen – Mongogul! vollziehe meinen Befehl – er soll sterben –
+      </p>
+      <stage>
+       (die Schwarzen wollen ihn durchstossen.)
+      </stage>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (schreyt)
+      </stage>
+      <p>
+       Zu Hülfe – Frau Fee!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Unbesonnener! zu spät flehest du um Hülfe – die Zeit deiner Prüfung ist vorüber – ich habe dich treulich gewarnt, und du hast meine Warnung verachtet – hast dich dem Wein und der Liebe ergeben.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Aber ich bitt euch ums Himmelswillen! wie ist’s denn möglich, daß ein ehrlicher Kerl ohne Wein und Liebe gedeihen kann –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Diese Prüfung verlangte das Schicksal – du bist verurtheilt zum Tode –
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Er soll sterben!
+      </p>
+      <stage>
+       (winkt Mongogul.)
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Nicht durch dich – in dem Buche des Schicksals stehet sein Ziel geschrieben! durch meine Macht gehe er ein zur Ruhe, bis er wieder nach kurzer Frist erwachen wird zum neuen Versuche seiner Prüfung.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <p>
+       Also – also muß es wirklich gestorben seyn?
+       <stage>
+        (weinend)
+       </stage>
+       Also ist wirklich der heutige Tag mein letzter Tag?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Geniesse der Ruhe, des Glückes fröhlicher Menschen, damit du einst vorsichtiger vollendest deine zweyte Wallfahrt auf Erden.
+      </p>
+     </sp>
+     <sp who="#kasperl">
+      <speaker>
+       Kasperl.
+      </speaker>
+      <stage>
+       (beginnt zu senken)
+      </stage>
+      <p>
+       Wenn – wenn ich halt noch einmal auf die Welt kommen soll, so bitt ich mir wieder so ein Glöckl aus – will – will mich hernach schon gescheiter aufführen –
+      </p>
+     </sp>
+     <sp who="#königinn">
+      <speaker>
+       Königinn.
+      </speaker>
+      <p>
+       Mongogul! vollziehe deine Pflicht! 
+      </p>
+      <stage>
+       (Mongogul erhebt seine Keule – Kasperl verschwindet. Es erscheint ein Grabhügel. Donnerschlag.)
+      </stage>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (zu Mongogul, der in seiner Stellung versteinert wird)
+      </stage>
+      <p>
+       Du aber sollst leblos diesen Grabstein bewachen, zum ewigen Wahrzeichen dieses unruhigen Wanderers.
+      </p>
+      <stage>
+       (Musik)
+      </stage>
+     </sp>
+     <sp who="#königin #evana #kasperl"><!-- ids korrekt-->
+      <speaker>
+       Alle.
+      </speaker>
+      <stage>
+       (stürzen zur Erde)
+      </stage>
+      <p>
+       Welche Macht! welche Zauberkraft!
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Und nun folge mir, Königinn! ich führe dich aus dieser Trauerstätte an einen Ort, der Freude mit Liebe vereiniget.
+       <stage>
+        (Mongogul verschwindet mit dem Grabmal)
+       </stage>
+       Ueberall in der ganzen Natur ist des Menschenglückes so viel ausgesäet – aber todt ist alles darinn ohne Liebe – Ich führe dich zu Lullen und ihrem Geliebten – ein holder Jüngling! – Königinn! 20 Jahre hat er gelebt, und kaum erblickte er das Licht dieses Lebens, so gab seine grausame Mutter den Befehl, ihn zu ermorden – das Schicksal rettete ihn aus den Fluthen –
+       <stage>
+        (ergreift ihre Hand)
+       </stage>
+       Königinn! kennst du diese grausame Mutter?
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Ihr Götter! was hör’ ich –
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <p>
+       Dieser holde Jüngling – Lullens Gelieber ist dein Sohn. – Auf Mädchen! verlasset eure menschenfeindlichen Gesetze – huldiget der Liebe – nur Liebe macht die Menschen glücklich.
+      </p>
+     </sp>
+     <sp who="#evana">
+      <speaker>
+       Evana.
+      </speaker>
+      <p>
+       Unbegreifliches Wesen! wer bist du?
+      </p>
+     </sp>
+     <sp who="#chara">
+      <speaker>
+       Chara.
+      </speaker>
+      <stage>
+       (sich umwandelnd)
+      </stage>
+      <p>
+       Chara – die Beschützerinn der Menschenfreuden! – –
+      </p>
+     </sp>
+     <stage>
+      (Die Bühne wird ein Neben- und Rosen-Hain, mit Altären, der Liebe und Freude geweyht!) Lulla und Zamor liegen vor König Seros auf den Knien. Alle Männer eilen den Mädchen in die Arme.
+     </stage>
+     <stage>
+      Final-Chor.
+     </stage>
+     <sp who="final-chor">
+      <speaker>
+       Final-Chor.
+      </speaker>
+      <lg>
+       <l>
+        Die Liebe schaft Freuden,
+       </l>
+       <l>
+        Drum huldiget ihr –
+       </l>
+       <l>
+        Seyd ihre Geweihten,
+       </l>
+       <l>
+        Und macht es, wie wir!
+       </l>
+      </lg>
+     </sp>
+     <stage>
+      (Unter dieser allgemeinen Gruppe fällt der Vorhang.)
+     </stage>
+     <stage>
+      Ende des ersten Theils.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

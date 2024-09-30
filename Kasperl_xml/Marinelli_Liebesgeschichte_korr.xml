@@ -1,0 +1,6576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main">
+     Die Liebesgeschichte in Hirschau, oder Kasperle in sechserley Gestalten
+    </title>
+    <title type="sub"/>
+    <author key="pnd:11656640X">
+     Karl von Marinelli
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor"/>
+    <idno type="URL"/>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+    <idno type="wikidata" xml:base="https://www.wikidata.org/entity/"/>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="originalSource">
+     <title/>
+     <date type="print" when="1780">
+      1780
+     </date>
+     <date type="premiere" when="1780">
+      1780
+     </date>
+     <date type="written"/>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particdesc>
+    <listperson>
+     <person xml:id="kilian">
+      <persName>
+       Kilian
+      </persName>
+     </person>
+     <person xml:id="kaspar">
+      <persName>
+       Kaspar
+      </persName>
+     </person>
+     <person xml:id="jackel">
+      <persName>
+       Jackel
+      </persName>
+     </person>
+     <person xml:id="partlme"><!-- partelme -->
+      <persName>
+       Partlme
+      </persName>
+     </person>
+     <person xml:id="denckner">
+      <persName>
+       Denckner
+      </persName>
+     </person>
+     <person xml:id="bonaventura">
+      <persName>
+       Bonaventura
+      </persName>
+     </person>
+     <person xml:id="margreth"><!-- =margereth? -->
+      <persName>
+       Margreth
+      </persName>
+     </person>
+     <person xml:id="pomgratz">
+      <persName>
+       Pomgratz
+      </persName>
+     </person>
+     <person xml:id="margareth"><!-- =margereth? -->
+      <persName>
+       Margareth
+      </persName>
+     </person>
+     <person xml:id="partelme">
+      <persName>
+       Partelme
+      </persName>
+     </person>
+     <person xml:id="margereth">
+      <persName>
+       Margereth
+      </persName>
+     </person>
+     <person xml:id="kasp"><!-- =kaspar? -->
+      <persName>
+       Kasp
+      </persName>
+     </person>
+    </listperson>
+   </particdesc>
+   <textClass>
+    <keywords>
+     <term type="genreTitle"/>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <listChange>
+    <change when=""/>
+   </listChange>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="front">
+    <head/>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Personen
+     </head>
+     <castItem>
+      Hr. Kilian,
+     </castItem>
+     <castItem>
+      Jungfer [Margreth] *Bonaventura*, seine [Tochter] Braut
+     </castItem>
+     <castItem>
+      Margereth, ihre Magd.
+     </castItem>
+     <castItem>
+      *Pomgratz* Hr. [Kilians] *Denckners* Freund.
+     </castItem>
+     <castItem>
+      Hr. Denckner, Stadt Lieutinant.
+     </castItem>
+     <castItem>
+      Kaspar, ein Scheerenschleiffer.
+     </castItem>
+     <castItem>
+      Jackel, Denckners Diener.
+     </castItem>
+     <castItem>
+      Partelme, Kilians Schreiber.
+     </castItem>
+     <castItem>
+      Stadts-Knechte.
+     </castItem>
+     <castItem>
+      Die Handlung geht in Hirschau vor.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <stage>
+    ein Lustspiel in drey Aufzügen
+   </stage>
+   <div type="act">
+    <head>
+     Erster Aufzug.
+    </head>
+    <stage>
+     Gasse.
+    </stage>
+    <div type="scene">
+     <head>
+      1ster-Auftritt.
+     </head>
+     <stage>
+      Kasper, hernach Jackel.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       schreit
+      </stage>
+      <p>
+       Scherr – Scherr – Scherrnschleifen! – hat dann kein Mensch was zu schleifen.|Barbier Messer, Feder Mesßer, Taschenmeßer, Kuchelmeßer, Transchier Messer|Pfriemen, Beißzangen, Hobelklingen. Scherr – Scherr – Scherrschleifen –|Es giebt keine Arbeit. Es will kein Mensch was schleiffen lassen. Die Zungen seyn|jezt das schneidenste Instrument, womit einer dem andern die Ehre abschneidet,|und man braucht keinen Schleiffer dazu. Auweh! wie viel Pfuscher giebts bey|meinen Handwerck, und ich darf mich nicht beklagen. [Und] solang das Sprichwort|aufgekommen: Auweh! [Backts] Zieht Euch, wie ein Strudelteich! Ihr traut euch nicht zu|trincken, ihr traut euch nicht zu spielen, weil ihr keine Schneid habt. Seyt dem|verwünschten Wort traut sich kein ehrlicher Mensch schleiffen zu lassen. Und von|was soll ich als Schleifer leben? Bringt’s Scherr¬ z’schleifen!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Scheerschleifer! Versteht Er sein Handwerck? Ich bring ihm eine Arbeit.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ist wohl gut. Sonst wär’ noch meine Gurgel vor lauter schreyen ausgetrocknet, wie|mein Schleifstein, weils keine Arbeit giebt. – [da bring ich ihm eine große] *was solls dann seyn?*
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Da bring’ ich ihm ein großes Meßer, das muß so scharf geschliffen werden, das es Eisen|schneidet.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O das ist noch keine Kunst. Ich hab schon manchen Wirthen Meßer geschliffen, die auf einen|jeden Rabisch doppelt geschnitten haben.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Das will ich ihm gern glauben. Wann kann ich mein Meßer haben?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       In Vierzehn Tagen, oder längstens in Vier Wochen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ey da nehm ich mein Meßer zurück. Ich brauch’s gleich.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das kann nicht seyn. Ich hab den Schleifstein zwey Stund weit von hier versetzt. Wegen|einen Meßer kann ich nicht soweit gehn. Krieg’ ich keine andre Arbeit, so muß ich|dieß Meßer versetzen, um das ich ein Brod krieg.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ja, da dürft’ ich freylich lang auf mein Meßer warten: aber seine Aufrichtigkeit gefallt|giebts denn gar so wenig zu thun?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       {a}h! Mahn’ er mich gar nicht an mein Elend. Ich hab mich so verschl{issen}, daß meine Jahr aus […]|[eine fehlende Zeile]
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Armer Teufel! So muß ich ihm was schencken.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nur her damit. So kriegt¬ doch wenigstens meine Stockzähne was zu kieffeln. Ich hab schon|in 14 Tagen, ausser zwey Scheerfuterallen nichts warmes gefressen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ey lüg, daß du erstickst. Nu, wann mein Meßer gut geschliffen wär’, wollt’ ich ihm eine|gute Mahlzeit bezahlen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Geb’ er mir’s her! Ich wetz’ ihms gleich an der Schuhsohle{n}
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ey da wurd’s so scharf nicht werden, wie ichs brauche.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Zu was braucht ers dann, wann ich fragen darf?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich kann ihms wohl sagen: Ich möchte gern in eine Thüre ein so großes Loch schneiden, daß ich das|Schloß ohne Schloßer heraus nehmen kann.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       So ist er salva Venia gar ein Dieb, oder ein Beutelschneider? Ich bedank’ mich vor der|Kundschaft.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      2ter-Auftritt.
+     </head>
+     <stage>
+      Denckner eilig.
+     </stage>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Jakob! Jakob! – was machst du hier?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Da red’ ich mit dem Scheerenschleiffer:
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Was soll das? Meine Geschäfte seyn dringend, und du bist so läsig.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       [Just] umgekehrt. Gerade ihrentwegen hab’ ich mit dem Schleifer gesproch¬ Hh. Lieutina[nt]
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja just haben wir vom Schleiffen geredet. Soll ich vielleicht dem Herrn eine Courage am|Degen schleiffen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Wer ist der vermeßne Schlingel?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr gehorsamer Diener, der um ihre Kundschaft bittet.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Hr : Stadtlient: der Kerl ist närrisch, den könnten wir zu unsrer Sache brauchen
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       [Müssen sich just nicht an meine Kunst binden.] Wann sie gut essen, trincken, und richtig zahlen|so bin ich ihr Mann. Müssen sich just nicht an meine Kunst binden: es giebt ohnedem zu viele Brod-|Dieb, die mein Handwerck verderben. Die Weiber haben ein Maulwerck das man|sagt, die hat ein Göscherl, als wanns gsch[l]iffen wär’, und ich hab doch keinen Kreutzer davon:|hernach wissen auch die Wirthe ihre Weine so köstlich zu pflastern, daß man freylich|sagt, der Wein hat eine Schneide, aber wies dem andern Tag mit dem Kopf, und mit|dem Goldbeutel aussieht: ja, da kann ich nichts dafür.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Der Pursche scheint findig genug –
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich bitt nehm¬ Sie ihn an. Es kennt ihn hier kein Mensch, und Sie können ihrer Sache desto ge-|schwinder gewiß werden.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Du Kerl! Wie wär’s, {wann} ich dich in Dienste nehme.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da wird’s schlecht aussehen. ich laß mich lieber [bedienen] mit Fressen, und Sauffen bedienen u[nd]|brauch’ nur einen, der’s Geld dazu giebt.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       [Du] Scheerenschleiffer! sey g’scheid. Du könntest dir ein nahmhaftes Stück Geld verdienen|wann sich der Heer Stadtlientinant deiner erbarmet.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       [Ich] Will nicht viel Wesens machen. Wenn du dich zum schicken, und Posten tragen gebrauch¬|läst, will ich dich gut zahlen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ists Brieferl tragen, und ’s Komplimenten ausrichten auch mit einverstanden, so bin ich|ihr Mann aber Nota bene. Ich muß wissen, daß’s auf eine Heurath angesehen ist.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Deine Erinnerung, obschon Sie überflüßig, gefällt mir. Ja. Ich bin in heuraths Umstände|verflochten. [hxx] hab [ich] hie und da Eigensinn, und Thorheit zu bekämpfen, doch ist keine|Minute zu versäumen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Fickrement! da wollen wir geschwind dazu helfen. [Ich] bin sonst immer ein findiger Jüngling|gewesen, und zur Schelmerey bin ich geschickter, als Einer.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich werd dich unterrichten, und dir alles sagen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Hier ist sich nicht zu verweilen. Man weiß bereits, daß ich alles anwende, und so nahe|an der Behausung meiner Geliebten könnten wir Verdacht erregen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       I Potztausend! So nahe muß man das Bandl nicht beysammen treffen. Ich schrey|unterdessen Scherren schleiffen! Schreiben sie geschwind einen Brief und|wann ich gut unterrichtet bin, will ich ihn sicher bestellen. Scherr – Scherr –|Scherr schleiffen – Barbier Meßer!
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Herr Lientinant! an den Kerl haben wir eine gute Eroberung gemacht.|Bedencken Sie sich *nicht* lang. Wir wollen unsern Schelmereyen den Anfang machen
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Zu äusserster Verlegenheit helfen die äussersten Mittel. Es ist auf keinen|Betrug, oder schlechte Handlung angesehen, um desto dreister will ich in meinen|Unternehmungen seyn […]|[eine fehlende Zeile]
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Courage! Courage! Courage! Wer einen alten Gecken die Braut wegfischt, der|ist ein gescheider Kerl, und die gantze Welt hilft ihn lachen.
+       <stage>
+        folgt nach
+       </stage>
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      3ter-Auftritt.
+     </head>
+     <stage>
+      Kilian, und Partelme aus des ersteren Haus letzterer tragt ein Protocoll.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Alles muß vor meiner Heurath in Ordnung gebracht werden.
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Schon gut, Hr: Kilian. Es wird nichts fehlen. Mein Protocoll wirds klar weisen.|Alles ist &lt;specifice&gt; aufgeschrieben, und &lt;summarisch&gt; zusammen getragen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Was meint er Partlme soll ich meine Braut mitnehmen den Mayerhof zu besichtig¬?
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Schlackerloth! Die wird’ eine Freud haben, wann Sie die Lieben Ochsen, Küh, Kälber,|Schweine, und Schaafe als des Hrn: Kilian liebe Zöglinge in solcher Menge, und|Schönheit begucken wird – aber unmaßgeblich sollen wir die Ställe, und die|Zimmer erst allein [sauber machen], reinigen, das Vieh säubern, und vor ihren|Ehrentag ihre lieben Angehörigen, wie eine Armee in Schlacht Ordnung stellen,|und paradiren lassen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Recht hat er Partlme! So muß geschehen! – Aber geh’ ich mit ihm auf den|Meyerhof so ist kein Mensch zu Hause, der mir auf meine Braut acht hat, und|ich förchte, es giebt böse Leute, sie könnte mir abgeredet werden.
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Wohl klug, Hh. Kilian, es seyn noch nicht alle Hexen, und Teufelskünstler verbrennt|worden. Ich mags nur nicht laut sagen, es giebt hier bey Uns noch welche.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Und hernach giebt’s auch gewiße Schadenfroh, die nur auflauern, Fried, und Ruhe|in einen Hause zu zerstöhren. Ich irre mich nicht. Ich seh schon einige Tage einen|jungen Herrn um mein Haus herum schleichen.
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Richtig ists! Die Margareth die Spitzbübinn schwätzt der Jungfer Bonaventura soviel|von jungen Mannsleuten vor, und da lachen’s, und kuddern’s miteinander.|Ich hab Sie schon einigemal belauscht.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Er macht mir angst, und bang. Wann ich meiner Braut von Liebe vorrede, so hört|Sie mich nicht an. Was gilt’s, Sie mag mich nicht.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Getroffen, Hh: Kilian! wann ich rathen darf, so machen Sie ihr{e} Vermählung bald richtig.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja. was ist jetzt zu thun! Soll ich mitgehn, oder zu Hause bleiben.
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Kommen Sie mit. Wir wollen uns fussen, nicht lang verweilen, daß wir schleinig|wieder zurückkehren können.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja. ja. Wann mich meine Bonaventura verachtet, so leg’ ich mich zu Grabe. 
+      </p>
+      <stage>
+       geht fort
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ey bey Leibe, Hr. Kilian! nur gelassen, gelassen, es wird sich geben.
+      </p>
+      <stage>
+       folgt nach.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      4ter-Auftritt.
+     </head>
+     <stage>
+      Bonaventura sieht sorgfältig aus dem Hauß hernach [Kaspar und] Jackel [wechselweise]
+     </stage>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Geht nur, ihr Plaggeister! So kann ich einmahl frische Luft schöpfen. Soll’s nicht|möglich seyn, mich von diesen Ueberlästigen los zu machen. Geldsüchtige Freunde!|Könnt’ ihr es verandworten, mir einen Mann aufdringen zu wollen, bey dem [xxx] Dum m-|heit, und Wucher die vorzüglichsten Tugenden seyn. Ist mir nicht möglich, kann mich ohne|Abscheu seiner nicht errinern. Warum soll mich sein Andencken martern. Ich|werd’ nach Billigkeit, und nach Vergnügen wählen.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ihr Diener, Jungf: Bonaventura! Ein schönes Kompliment hab’ ich von Hrn. Stadtlient. Denckner|abzulegen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Mich freut’s, wenn er an mich denckt. Kann ich ihn sehen, und sprechen?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wann er Sie zu finden weiß, wird er gleich gegenwärtig seyn. Ich hab’ ihnen nur sagen|wollen, daß mein Herr einen fremden Purschen angenohmmen, damit ich, und er uns|befleissen, den Hr: Kilian eine Nase zu drehen!
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      5ter-Auftritt.
+     </head>
+     <stage>
+      Kilian zurück, und hernach Kaspar.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Was giebts da von Kilian? Und Nasen drehen? Wer ist der Schlingel?
+      </p>
+     </sp>
+     <stage>
+      Jackel ist entsprungen.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Dich Schurcken muß ich einhohlen!
+      </p>
+      <stage>
+       eilt Jackel nach.
+      </stage>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       So muß der Unglücksstern den Verdrüßlich¬ Mann so geschwind zurückführen! Ey dürft’|ich ihn gar nicht mehr sehen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       eilig.
+      </stage>
+      <p>
+       Seyn Sie Jungfer Bonaventura? Mich erfreuts Sie zu sehen, und zu kennen. Ich bin|ein Scheerenschleifer, und von Herrn Stadtlient: angenohmen ihnen Brieferl zu überbring¬
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       […] | [eine fehlende Zeile]
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       schreit.
+      </stage>
+      <p>
+       Scheerr – Scheer – Scheer – schleiffen!
+      </p>
+      <stage>
+       entspringt!
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Du Schelm! du Tagdieb!      
+      </p>
+      <stage>
+       ihm nach.
+      </stage>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Nu, Nu, was wird da daraus werden? Wenigstens hab’ ich Hofnung von meiner|Quaal befreyt zu werden.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Freudig! Jungfer Bonaventura. Wir wollen Hrn: Kilian so viel Gall machen, daß er vor den|Hochzeittag stirbt!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       zurück.
+      </stage>
+      <p>
+       Ja, Spitzbub! Meinst du so?
+      </p>
+      <stage>
+       Jackel entspringt, Kilian ihm nach.
+      </stage>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ey Geck, und kein Ende! bist du nicht zu belachen!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       zurück.
+      </stage>
+      <p>
+       Es ist gut, daß ich Sie kenne. Ich werd Sie öfter sprechen, und förcht’ nicht vor dem|Quacksalber.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ihr Halluncken! Habt ihr euch beredet, mich zu Tode zu plagen. – Und Sie Jungf: B[onaventura]|kennen so gelassen hier bleiben, und von den Schlingeln das Schnickschnack anhören.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Weiß nicht, wie Sie mir vorkommen! Haben Sie sie gesendet? oder spielen Sie das Haschen|mit Ihnen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey das ist nur Verstellung! Sie wissen gar gut woher diese Nachrichten kommen. Ich mag|nicht zancken, ich liebe Sie zu sehr; aber mein Herz, was machen Sie dann auf der Straße
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Nu, werd’ ich immer in vermoderten Zimmern bleiben sollen?
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      6ter-Auftritt.
+     </head>
+     <stage>
+      Margarethe aus dem Hause.
+     </stage>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Seyn Sie da, Jungf: Bonaventura? Ich hätte Sie bey Hrn: Pomgratz gesucht.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Was soll Sie dann bey Herrn Pomtgratz?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ist er nicht ihr Freund? War Sie nicht durch ihren Vetter an ihn gewiesen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nun aber ist Sie mir übergeben, was soll also der Vorwand?
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ich erwarte durch Hrn. Pomgratz Briefe von meinen Vetter, und darnach wollt’ ich mich erkund[igen]
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Dacht’ ich doch, Sie wären schon dort. Weil ich jezt meine Häuslichen Geschäfte verrichtet|habe, wollt’ ich Sie dort abhollen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja denckt Sie, ich weiß es nicht, daß Sie durch ihr albernes Geschwätze mir die Jungf: Bonav:|abreden, und dadurch ins Unglück stürzen will?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ey Pfui! was fehlt ihnen bey. Ja, wir wissen beßer, was das für ein Glück sey einen Mann|zu erhalten, der so posierlich und so nett, als wenn er von der feinsten Seide zusamm|gezupft wäre.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Warte Sie nur, Sie meint’s doch falsch mit mir!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Behütte! das dürfte sichrer zutreffen, daß ich der Jungf: Bonaventura neidig wäre.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nu, Nu, schon gut. – Jungf: Bonavent: bleiben Sie doch bey mir!
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ich muß aber nothwendig die Briefe –
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Damit also das Liebes Paar nicht getrennt werden darf, so will ich bey Hrn. Pomgratz|nach Briefen sehen.
+      </p>
+      <stage>
+       winckt Bonavent:
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja, ja, Margareth, geh Sie hin.
+       <stage>
+        zu Bonav:
+       </stage>
+       Nicht wahr, mein Engerl! wir bleib¬ indess¬ zu Hause.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       die Marg: gewuncken
+      </stage>
+      <p>
+       Nun, wenns doch seyn muß. – Margrethe vergesse Sie nichts
+      </p>
+      <stage>
+       geht […]
+      </stage>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       Unbesorgt! ich werde nichts vergessen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       ängstlich.
+      </stage>
+      <p>
+       Was soll Sie denn nicht vergessen?
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Nun die Briefe, bey Hhrn. Pomgratz!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Margreth! Sey Sie auf meiner Seithe! ich bitte! Verlangs nicht umsonst
+      </p>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       Sparren Sie alle Worte. Ich mein’s gut mit Ihnen, und ihrer Ruhe.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Dancke, Dancke schönstens. Ach! wie sehr wird mein Hertz geänstiget – Ich sollte auf|den Meyerhoff zu meinen Schreiber, und traue nicht von meiner Herzensbesitzerin|mich zu entfernen. Sie – geht allen vor. Ich bleib zu Hause. Margreth|komm Sie bald zurück, und unterstütze Sie meine Zärtlichkeit geg¬ Bonavent:
+      </p>
+      <stage>
+       Geht nach ins Haus.
+      </stage>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Uh über die graue Zärtlichkeit! Die läst dem Jüngling besser, als Einen für das|Grab reifen Klotz! doch solche Narren müssen geschraubet werden, damit Sie die|Folgen ihrer Thorheit einsehen lernen. Ich eile zu Hrn. Pomgratz, und den will ich|selbst anstiften, daß er den Hrn: Stadtlientinant in seiner Liebe unterstützt
+      </p>
+      <stage>
+       geht fort
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      7ter-Auftritt.
+     </head>
+     <stage>
+      Pomgratz, und Denckner.
+     </stage>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Freund! Unterstütze mich! für mich wirds sich Bonaventura besßer schicken als für Kilian
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Soll ich dir zum Liebes Unterhändler dienen dir Vortheil verschaffen und Hrn. Kilian […]|[fehlende Zeile]
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Glaub mir! Glück, und Segen, wirst du davon haben. Ich bin überzeugt, Bonavent: haßt Kilian, und liebt mich!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Aber ihr Vetter, der Herr von Schweinburg hat Sie aus dieser Ursache hiehergesendet,|um Sie mit Kilian zu verheurathen. Da hab’ ich eben einen Brief –
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Laß alle Briefe, und helf mir, oder ich erkenn’ dich nicht mehr für meinen Freund!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Geduld! Geduld! Will einmal hören, was Bonaventura spricht; denn will ich leicht|Rath schaffen. Bey der Braut braucht der Ausspruch, und daß ich dein Freund sey, will ich|dich überzeugen!
+      </p>
+      <stage>
+       geht in Kilians Hauß
+      </stage>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Ich verlasse mich darauf, und doch trau ich nicht recht. – Hätt’ ich selbst ein Schreiben|an [Bon] meine Geliebte zu bestellen, aber bey dem Zweifler könnt’s übel ange-|bracht seyn. Muß schon durch meine Leute das wichtigere besorgen.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      8ter-Auftritt.
+     </head>
+     <stage>
+      Jackel:
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wo seyn Sie dann, Hh. Lientinant? der Kaspar, und ich haben dem Hrn: Kilian schon um|hundert Gulden Verdruß gemacht. Geschwind einen Brief her. Wir wollen unsre|Kunst höher bringen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Der Brief wär’ schon da. Ich habe ernstlich, und dringend geschrieben. Was hilft ein weiterer|Verzug, und eine längere Beratschlagung. [Rom ging über die lange Beratschlagung] *Weil die Herrn im Rath waren gieng Rom*|zu Grunde.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Was brauchts da viel. Nur der Brief her. Es ist ja nur darum zu thun, daß wir einen|altfränckischen Bräutigam auf die Seithe lehnen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Da hast! tracht’s richtig zu übergeben. Es ist viel daran gelegen. Entweder muß|ich heute meines Sieges gewiß seyn, oder ich laß mich begraben. – Nur mein|Schreiben halt’ dir bestens anempfohlen. – Bring bald Andwort.
+      </p>
+      <stage>
+       geht fort
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Was die Herrn, wann’ sie’s e{rn}stlich meinen, den kleinsten Umstand für ein großes|Gewicht geben können. Das ist halt auch ein Brief, wie jeder andre, wie ich schon viel|hundert in mein Leben getragen habe: – und was seh ich? – Nun jetzt merck’|ich, daß mein Herr wahrhaft verliebt ist – Hat vergeßen, den Brief zu versigeln|bin doch begierig, was er für zärtliche Ausdrücke gewählt hat. – *liest*. „Wertheste, liebste|Freundinn! Seyn Sie hiemit überzeugt, daß ich ohne Sie nicht leben kann. Auch dürft’|ich mir schmeicheln, sie wären eben so gut für mich gesinnt, so würde noch der heutige|Tag, der Tag unsrer vereinigten Wünsche, und unsers Untrennbahren Glücks seyn.|Ach verrachten Sie mich nicht, holde Freundinn!
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      9ter-Auftritt.
+     </head>
+     <stage>
+      Margreth hat schon eine Weile zugehört, geht hier hervor, und zerreist Jackel den Brief.
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       erschrocken.
+      </stage>
+      <p>
+       He! He! was geschieht! Ums Himmelswillen, Margreth, was machst du?
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       So Schelm! Meinst du’s mit mir? Du schreibst an andre, und mich willst du vergessen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Nein! Hör mich nur, der Brief –
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Der Brief war an eine holde Freundinn! Red’ kein Wort, weist du, was du mir versproch¬?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich weiß’s; aber der Brief geht dich nichts an.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Eben, weil er mich nichts angeht, hab ich ihn zerrißen, du Lugenschmid.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Thu mir nicht unrecht, oder meine Galle wird aufkochen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       So redst du mit mir, grober Schroll!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Du must wissen, daß ein Mannsbild ein Mannsbild ist, und daß ich mich nicht, wie|einen Fußhadern tracktiren lasse. Der Brief war von meinem Herrn!
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Ey du lieber Affe! Ist dir die Lug geschwind beygefallen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Nein, keine Lug, Wahrheit sag ich. Der Brief war an deine Jungfer, und du hast mir|ihn zerrißen: Mein Herr ist jezt im Stand, und zerreißt mich.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       An meine Jungfer war der Brief.
+       <stage>
+        langt nach den Stücken, und sieht darnach
+       </stage>
+       Ja, Wahrhaftig!|Ey! Ey! Ey! da hab ich freylich gefehlt.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Und wie gefehlt! Ich hätte gute Lust, wann ich dich nicht so gern hätte, ich trette dich|mit Füssen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       So du Grobian! willst du meine Liebe vergelten.
+       <stage>
+        weinerlich
+       </stage>
+       Würd’ ich wohl den Brief|zerrissen haben, wann ich nicht eifersüchtig mit dir wäre.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       weinerlich.
+      </stage>
+      <p>
+       Du sollst aber nicht so blind drein gehn. Ohne zu wissen, warum?
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <stage>
+       weint stärcker.
+      </stage>
+      <p>
+       Ich habs gut gemeint. Wie soll mir einfallen, daß du deines Herrn Briefe liest?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       weint stärcker.
+      </stage>
+      <p>
+       Laß’s nur gut seyn, und weine nicht, oder du brichst mir das Herz.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      10ter-Auftritt.
+     </head>
+     <stage>
+      Kaspar.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Jackel! was stehst du da? Ich glaub’, du hast gar auf mich vergessen.|was fehlt dir? Ich mein, du weinst.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Gedenck’, was mir für ein Streich geschehen ist, meine Margareth hat meines Herrn|Brief zerrißen.
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Ey? was brauchst du dann unsre Angelegenheit jeden Lumpen zu sagen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Staat ein wenig! Ich bin kein Lump. Ich bin ein Scheerenschleiffer!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Mein Herr hat ihn angenohmmen, [daß] weil wir ihm zu unsrer Sache brauch¬ können.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das soll Sie mir gleich ansehen, daß ich ein ausgestochenes Köpfel bin.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Das ist, was anders. Das hab ich auch nicht gewust.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Rath mir Kaspar, was soll ich thun. Der Brief, der an meines Herrn Liebste gehört|hat ist zerrissen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da ist kein anders Mittel, als man muß ihn wieder zusammen leimen.
+      </p>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       Das ist wahr. Ich kann ja meiner Jungfer den Irrthum benehmmen, und will geschwind|einen Papp hohlen.
+      </p>
+      <stage>
+       läuft ins Hauß.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Brav! das wird nicht übel werden, wann die Geliebte einen mit Schusterbech verpicht¬|Brief kriegt.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Was ist anders zu machen. Mir ist angst, und bang. Mein Herr hat mir den|Brief so streng anempfohlen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Vielleicht brauchen wir den gantzen Brief nicht. Ich hab einen andern Gedancken.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <stage>
+       mit den Papp zurück.
+      </stage>
+      <p>
+       Da bin ich schon. Macht nur hurtig. Ich will auf den Brief|warten.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein! Jungfer! das ist nicht nöthig. Ich werd ihr einen gescheidern Einfall sagen.|Ich will meinem Herrn Gelegenheit verschaffen, mit seiner Liebsten persönlich zu|sprechen. – Nach einer Viertlstund stellen Sie sich, als ob ihr gantzes Haus in|Brand stund. Fur das übrige lassen Sie uns sorgen!
+      </p>
+     </sp>
+     <sp who="#margareth">
+      <speaker>
+       Margareth.
+      </speaker>
+      <p>
+       Nu, so will ich meine Jungfer [geschwind] unterrichten: Und damit wir nicht verdächtig|werden, mich geschwind davon machen; denn unser Alter schleicht sich herein,|wie ein Fux.
+      </p>
+      <stage>
+       geht ins Hauß.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Was wird [das] werden, wanns mein Herr weg¬ den Brief erfährt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was wird werden? du kriegst halt Prügel, und da ist’s gar.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich bedanck mich schönstens. Da wär’s mir doch lieber, wir brächten den Brief so gut, als|möglich zusammen, und meine Margreth könnt’ ihn der Jungfer Bonav: übergeben.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das auch. Nur her damit. Wir wollen ihn gleich zusammlegen, und zusammen {schmieren}
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      11ter-Auftritt.
+     </head>
+     <stage>
+      Kilian kommt aus seinem Hause geschlichen, und naht sich heimlich um zu sehen, was sie machen
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Hab nur gut acht, daß du kein Wort verpappest, das man lesen muß.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Sorg’ dich nicht. Keine Sylbe soll verlohren gehn.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       heimlich.
+      </stage>
+      <p>
+       Merckst du was Kaspar? Wir werden ausspionirt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Jezt laß mich machen. Ich will ihm den Vorwitz vertreiben.
+      </p>
+      <stage>
+       verschmirt den ganz¬ Brief
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Was machst du dann? da kann man ja keine Sylbe lesen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das will ich haben. Jezt leg’ ich ihn geschwind in die Ofenröhren, damit er trocknet.
+      </p>
+     </sp>
+     <stage>
+      Kilian hat sich immer näher geschlichen. Kaspar picht ihn den Brief ins Gesicht, und entspringt nebst Jack[el]
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       schreyt.
+      </stage>
+      <p>
+       O ihr Schelmen Diebsleut. Mir mein Gesicht zu verpicken. O ihr Schurcken!|könnt’ ich euch ertappen.
+      </p>
+      <stage>
+       Eilt in sein Haus.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      12ter-Auftritt.
+     </head>
+     <stage>
+      Denckner. Hernach Kaspar.
+     </stage>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Zwischen Furcht, und Hofnung muß ich abwarten, ob mir auf meinen|Antrag eine günstige, oder abschlägige Andwort {ertheilet} wird. Nichts|ist beschwerlicher, als in Ungewißheit sein Glück [erwarten] vor Augen sehen, und|doch nicht erhalten können. Bin ich der Gunst meiner Geliebten gewiß, was hab|ich dann zu besorgen? Einen eifersüchtigen Gecken, der mir sein ungegründetes|Recht abtretten muß.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Unterthäniger Diener – Seyn Sie da? Ich hab Sie schon gesucht – unterthäniger Diener|
+      </p>
+      <stage>
+       mit den Komplimenten stößt er die Schüssel mit dem Papp fort.
+      </stage>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Was sollen die Komplimente? Was bringst du? Hast du Jakob nicht gesehen?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja! ich hab ihn gesehen, und hab mit ihm gesprochen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Nun, was sagt Er? Wie stehts mit meinen Brief?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ihr Brief? – der ist zerrißen!
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Zerrißen? Und wer hat ihn?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich hab ihn dem alten Herrn aufzuheben *ge-*geben.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Treib keinen Spaß, Kerl! oder –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Werden Sie nur nicht böse. Ich will ihnen den gantzen Spaß erzehlen. Des Jakobs|Liebste hat den Brief aus Eifersucht zerrißen, ich hab ihn wieder zusammen pappen|wollen, da ist der gewiße alte Herr dazu gekommen, hat uns belauschen wollen.|
+       <stage>
+        lacht.
+       </stage>
+       Ich hab alle Buchstaben verschmirt, und hab den Spion die Guggerl sauber verpicht.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Was hab ich von der gantzen Posserey? Was für Vermessenheit meinen Brief|zu zerreissen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Seyn Sie nur gut. Ich versprech’ mehr auszuwircken, als ihr Brief. Sie sollen sogar|mit ihrer Liebsten sprechen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Wie soll das möglich seyn?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Lassen Sie mir die Sorge. Ich will Veitl heissen, wann ich nicht Wort halte.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Aber wie denn? Wie?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, das müssen Sie abwarten. Wann Sie den Jakob verzeihen, will ich ihnen mehr|sagen. Kommen Sie nur geschwind mit.
+      </p>
+      <stage>
+       eilt fort.
+      </stage>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Dencke ihr Schurcken habt mich alle beyde zum Besten.
+      </p>
+      <stage>
+       folgt nach.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      13ter-Auftritt.
+     </head>
+     <stage>
+      Pomgratz mit Kilian aus seinem Hause.
+     </stage>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Ja. Lieber Freund! Ich kann da nicht helfen. Sie verlangt durchaus zu ihrem Vetter|zurück, oder seine Ankunft zu erwarten, bis Sie sich ernstlich zu was entschlüssen|wird.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       O wie viel verliehr’ ich bey diesen Verzug. Ich kann dich versichern Freund, daß|ich Bonaventuren von der Seele gut bin. Wenn Sie nur indessen förmlich|mit mir versprechen möchte!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Auch das will Sie nicht. Der lezte Brief des Hrn: von Schweinburg hat ihre Sinnen|gantz zerrittet.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Könntest du denn nicht machen, Freund! daß Hr. v. Schweinburg seine Reise zu|uns beschleinigte?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Wie soll ich einen kräncklich¬, und dabey eigensinnigen Mann dahin bringen,|daß er uns Zugefallen eilen solle? Er wird sich so wenig hiezu verstehen,|als du zum warten. Zu dem thut er sich viel darauf zu gut, daß er es|durch seinen Schweinhandl so hoch gebracht, daß man ihm Hr: von nennt.|Er wäre wohl im Stande, wenn man nicht auf seinen [Gelegxxx] Willen|[nicht ab]wartet, sein Wort zurück zu nehmen, und die Heurath zu vernichten.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ums Himmelswillen! Nur dieses nicht. – Lassen wirs lieber dabey bewenden.|Wenns nur nicht so viele böse Menschen hier gäbe, die einem das gute|Glück beneiden! Hast du nichts endteckt, wie Bonaventura für mich denckt?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Hast du nicht selbst so viele Einsicht, das zu errathen?
+       <stage>
+        lacht.
+       </stage>
+       Seh dich nur im|Spiegl.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja, ja! ich weiß, daß es mir an Reitzungen noch nicht fehlt. Ich bin zwar nicht|nach der lezten Mode, aber noch ziemlich munter, und meine Freundlichkeit|geht über alles.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Wenn du das überzeugt bist, hast du nichts zu besorgen. Verstatte der Braut|immer einen kleinen Verzug: wenn sie’s aufrichtig mit dir meint, wird|sich ihre Neigung vermehren. Ist aber das gerade Wiederspiel, so hilft weder|Verzug noch Eile. Leb wohl.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da haben wirs. Jetzt weiß ich so viel als zuvor, und meine Sorgen vermehren|sich, weil Bonavent: statt mich liebreich anzublicken, zur Erde sieht! aber vielleicht|geschieht dies aus angewohnter Sittsamkeit. – Bin nur froh, daß Sie sich in meinem|Hause befindet. Sie soll mir kein junges Mannsbild zu sehen kriegen, und soll|mein Haus Tag, und Nacht versperren.
+      </p>
+     </sp>
+     <stage>
+      Inwendig ruffen die Frauenzimmer Feuer! Feuer! Der Lärm vergrößert sich.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       erschrocken.
+      </stage>
+      <p>
+       Wie? Feuer in meinen Hause? Ich sincke zur Erde. Was mach ich? Ich|muß um Hilfe rufen. Hr! Steht mir bey! Feuer! Feuer ist in|meinem Hause.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      14ter-Auftritt.
+     </head>
+     <stage>
+      Jackel, Denckner, Kaspar als Rauchfangkehrer gekleidet. Einer nach den andren.
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wie? Was? Feuer! Feuer! Wo brennts?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       [Denckner.]*Kilian.*
+      </speaker>
+      <p>
+       Zu meinem Hause! Nur geschwind zur Hilfe! Zur Hilfe!
+      </p>
+      <stage>
+       Stößt Jakob in sein Haus.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie froh bin ich, daß nur wenigstens ein Rauchfangkehrer bey Handen. Ich weiß mir|nicht zu rathen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Wo? Wo? wo ist Feuer?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hier! Hier! Nur geschwind! geschwind.
+       <stage>
+        Stoßt Denckner gleichfalls ins Hauß.
+       </stage>
+       O weh|kann vor Schröck fast nicht mehr auf den Peinen stehn. Das Unglück wird doch nicht|so groß seyn, will nachsehen. 
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ein Feuer, ein Wasßer! Ein Wasßer, ein Feuer! Wo brennt’s? Die gantze {Stadt}|steht in Flamen, es brennt alles zusammen. Feuer her! Ein Feuer! das|Waßer muß löschen. 
+      </p>
+      <stage>
+       springt rings herum.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       Eilt ihm nach.
+      </stage>
+      <p>
+       Nur hieher! hieher! Rauchfangkehrer. Seine Kammeraden seyn|schon zur Hilfe da.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wie? bey ihm brennts! Und er verbrennt nicht mit? Das muß die Obrigkeit|wissen. Ich marschir’ zur Obrigkeit, zur Obrigkeit!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       hält ihn, fällt ihn zu Füssen.
+      </stage>
+      <p>
+       Rauchfangkehrer! Ich bitt ihn! Hab’ er Mitleiden. Eil er|zu helfen. Es ist wegen der Nachbarschaft.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gut! das Hauß will ich löschen, aber ihn hernach anzünden.
+      </p>
+      <stage>
+       eilt ins Hauß.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       O ich armer Mann! Wie muß dann das Unglück entstanden seyn?|Auweh! Auweh! Will wenigstens meine Schriften retten.
+      </p>
+      <stage>
+       geht geg¬ das Hauß|Kasp. schlägt die Thür zu.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       He! warum versperrt ihr dann das Haus?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Daß das Feuer nicht hinaus lauft.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       O wohl klug, und vorsichtig. Das geringste Lüftchen vergrößert die Flammen.|Nicht wahr: es wird so gar arg nicht seyn? brennt’s noch!
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      15ter Auftritt.
+     </head>
+     <stage>
+      Partlme.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Bin fix, und fertig, Hr: Kilian! Wo fehlts? Was machen Sie?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Gut, daß er hier ist Partlme! Nehm’ er das Unglück in meinem Hause ist Feuer.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Wie? was? Feuer! Warum eilen Sie nicht zu löschen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Bin mir nicht mächtig genug. Die Rauchfangkehrer haben das Hauß verschlossen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ey das geht nicht an. Man muß den Schorrsteinfeg{er}n Waßer zutragen.|Sie seyn ja Hausherr! Sie gehts am Meisten an. He da! aufgemacht!|wann mir nur mein Neues Kleid nicht verbrennt.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      16ter Auftritt.
+     </head>
+     <stage>
+      Denckner aus dem Hause mit verstellter Stimme.
+     </stage>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Narren Volck übereinander! Lärmen um nichts zu machen. Keine Kohlen|brennt, und doch mich sammt meinen Gesellen herzusprengen? Hätte gute|Lust euch den Besen zwischen die Ohren zu schlagen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       He! he! langsam! Was können dann wir dafür. Wer hat dann den Lärmen|angefangen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Die Frauenzimmer haben aus allen Kräften Feuer geschrien.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Bonaventura und Margreth? Da steckt sicher eine Schelmerey dahinter. Sehen Sie nach.
+      </p>
+     </sp>
+     <stage>
+      Kasp. und Jackel kommen mit zwey Schaff Waßer.
+     </stage>
+     <sp who="#kaspar #jackel">
+      <speaker>
+       Kaspar und Jackel.
+      </speaker>
+      <p>
+       Ihr Schelmen! wollt ihr die Leute foppen.|Feuer ruffen, und einen Brand im Kopf haben. Wir werden euch löschen|
+      </p>
+      <stage>
+       bespritzen Kilian und Partlme mit Wasser und entspringen.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       He! he! Seyd ruhig. Ich will gern zahlen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was sind das für Possen, uns [mit] wie die Stockfische einzuwäßern. Gebt […]|oder ich schlag drein, wie das Donnerwetter.
+      </p>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Zweyter Aufzug.
+    </head>
+    <stage>
+     Die Scene bleibt.
+    </stage>
+    <div type="scene">
+     <head>
+      1ster-Auftritt.
+     </head>
+     <stage>
+      Kilian, und Partlme.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Nein Herr! das leid ich nicht. Uns über Tunders Gewalt im kalten Baad ertrencken zu|wollen, ist nicht erlaubt. Werd mich beym *die* Rauchfangkehrer beym Bürgermeister verklagen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Mach er mir nur durch seinen Lärm das Uebel nicht ärger. Ich könnte in Strafe fallen|obschon kein Feuer in meinem Hause gewesen. Muß unrecht gehört haben, denn die|Frauenzimmer wollen nichts wissen, daß Sie Feuer geruffen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Freude! Freude! haben Sie gesungen sagen Sie, und da haben Sie verstanden, Feuer, Feuer|aber wann auch. Ist das Lebensart die Leute zu behandeln? die Kleider muthwillig|zu verderben!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Laß ers nur gut seyn. Ich schenck ihm ein Kleid von mir. Mach er mir nur den Strei[ch]|nicht, und lauf er mir zur Obrigkeit. Ich mag nichts von P{roc}essen wissen. Will selbst|zum Rauchfangkehrer hingehen, und ihn ersuchen, er möchte den Irthum nicht weiter|erzellen. Es giebt nur Rederey in der Stadt, und die will ich vermeiden.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Nun, wie Sie meinen: Lassen wirs dabey bewenden.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Bleib er nur entzwischen zu Hauß. Hab er mir wohl acht, was die Frauenzimmer reden.|Er kanns in m{ein} Zimmer hören, ohne daß Sie ihm sehen. Setz er mir zuegleich einen|Brief auf an Hrn: von Schweinburg in Schweinau; in welchen ich ihm ersuche: er möchte|mir die Ehre seines Besuchs gönnen, [und mich für] Ich ließ ihn um seine Freundschafts bitten.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Versteh’s! versteh’s! Ein Komplimenten Brief! den will ich recht hochteutsch schreiben|An den hochgebohrnen, Edllesten etc: etc:
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Es ist nur viel an der Gunst dieses Mannes gelegen. Er ist Jungfer Bonaventurens Vetter|sehr reich, und da –
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Könnte die Baase brav erben. Will schon g’scheid und schön schreiben.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ich werd so lang nicht ausbleiben. Denn wollen wir uns auf den ausgestandnen Schröck recht|lustig machen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Erdäpfel, Schwammen, und Schnecken will ich fressen, daß mir die Zähne krachen. Ich|empfehle mich entzwischen gar höflich.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Vergeß’ er nicht, was ich ihm wegen der Frauenzimmer gesagt – Weiß nicht, wie […] [Sie]|mir kommen. Wenn ich wegsehe, lachen Sie, und mir ins Gesicht seyn Sie mürrisch.|Will nur bald wieder nach Hause trachten.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      2ter-Auftritt.
+     </head>
+     <stage>
+      Kaspar, und Jakob haben ihn fortgehn gesehen. Hernach Denckner, und Pomgratz.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Da geht unser Baadmandel! Jetzt soll unser {Freu}de seyn. Es wär die schönste Gelegen-|heit ins Hauß zu kommen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich will nicht lang herum springen, so werd’ ich ihn finden.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bleib da! Er kommt eben her mit noch einen Herrn.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Der ist sein guter Freund, tretten wir ein wenig auf die Seithe.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Ich mag nicht mehr auf meine [Verantworten] Rechnung nehmen, als was ich verandworten|kann. Wäre das nicht betrügerisch gehandelt – Bonaventurens Freunde wollen die|Heurath mit Herrn Kilian: zu mir hat man das Zutrauen die Verbindung zu|schlüssen, und ich soll verkehrte Wirthschaft treiben und Kilians Braut dir zubringen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Gilt nicht der Braut Wille mehr, als alle übrige Einwendungen. Ich hab vor Kurzen mit Bonavent:|gesprochen, und Sie hat versichert, daß Sie nie ihr Jawort zur Verheurathung mit Kilian|von sich geben wird.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Da bist du [schon wieder] mit deinen Zucker süssen Vorstellungen die Ursache. Hab nur Geduld|will noch einmal recht ernstlich mit Bonaventuren sprechen, und mich alsdenn für ihre Parth[ei]|erklären.
+      </p>
+      <stage>
+       geht fort in Kilians Haus.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Mercken Sie denn nicht, Herr Patron. Geben Sie ihm geschwind ein halb Dutzend Dukaten.| […] wird hernach gleich auf ihrer Seithe seyn.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Mir scheint’s selbst so: an meiner Erkenntlichkeit soll’s nicht fehlen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Versäumen Sie keine Zeit. Gehen Sie ihm nach. Jezt ist die schönste Gelegenheit ihr|Versprechen in Richtigkeit zu bringen. Ihr guter Freund muß Zeuge seyn. Hr:|Kilian ist nicht zu Hause.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       [Ich wills wagen, und in] O Glück für mich! Ich wills wagen, und in Pomgratz Gegenwart mit|Bonaventuren noch einmal ernstlich sprechen. – He! bleibt hier stehen! und|wann ihr Hrn: Kilian von weiten seht, so gebt ein Zeichen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Schon recht, wann er kommt, so mach’ ich bst! bst!
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       springt zurück.
+      </stage>
+      <p>
+       Kommt Jemand?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein. Ich habs probiert, wie ichs machte, wenn Hh: Kilian komme.
+      </p>
+      <stage>
+       wird nocheinmahl widrhollt
+      </stage>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Spaart die Possen, und habt lieber sorgfältig acht! – Ich will Bonaventuren bereden, daß|Sie mir ihr schriftliches Jawort ertheilt.
+      </p>
+      <stage>
+       geht in Kilians Hauß.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Die Sach’ geht gut. Wann wir unsers Herrn Liebes Roman glücklich zustande bringen, so|darfen wir uns eine Belohnung versprechen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Mir ist’s nicht leid. Ich hab noch meinen größten Spaß dabey, so haben die Leut doch ein Hirschauer|Stückel mehr zu erzellen.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      3ter-Auftritt.
+     </head>
+     <stage>
+      Margreth aus Kilians Hause.
+     </stage>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Dacht’ ichs doch, daß ich euch hier treffen würde. Wir haben viel mitsammen zu verabreden
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nur geschwind heraus damit, so können wir uns auf eine Schelmerey gefaßt machen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ists etwas nothwendiges?
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Freylich! Ich muß euch sagen, daß Jungfer Bonav: je geschwinder, je lieber von Hrn. Kilian|loskommen will.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das wird leicht seyn. Unser so viele werden wohl einem furchtsamen Hasen ein Weibsbild abschre-|cken können.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Hr. Denckner wird, wie ich hoffe, Jungf. Bonaventuren behaupten, weil sogar Hr: Pomgratz|auf seiner Seithe ist. Jezt kommts nur darauf an, unsren Alten alle Liebes-Ge-|dancken zu vertreiben, und ihm alle Hofnung zu benehmen jemahls einen günstig¬|Blick erwarten zu dürfen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Da laß du nur uns, und unsren Herrn sorgen.
+      </p>
+     </sp>
+     <sp who="#kasp">
+      <speaker>
+       Kasp.
+      </speaker>
+      <p>
+       Wann’s darauf ankommt, so giebt man Hrn: Kilian eine Mixtur von Weinstein, Schada[…]|Terpentin Oehl und Schuhnägel ein, was gilts er denckt an keine Liebe mehr.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Nur bescheiden! Ich will euch andre Mittel vorschlagen. Die einzige Stüze, worauf sich Hr. Kilian|bezieht, ist Hr: v: Schweinburg, [der] *ein* Vetter der Jungf: Bonaventura, der sie erzieh¬ laßen,|und der den Liebeshandel mit Hrn: Kilian angesponnen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Kennt Kilian den Hrn von Schweinburg?
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Nein. Ihre Bekanntschaft entstund aus einen Briefwechsel.
+      </p>
+     </sp>
+     <sp who="#kasp">
+      <speaker>
+       Kasp.
+      </speaker>
+      <p>
+       Nu, so kann ja ich mich vor den Hrn: v. Schweinpeltz ausgeben, ich werd so ziemlich|Schweinern aussehen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Richtig! ein Gedancke von diesem Schlag muß ausgeführt werden. Ich will euch genauer|unterrichten. – Es kommt jemand.
+      </p>
+      <stage>
+       [dazu] entspringt dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      4ter-Auftritt.
+     </head>
+     <stage>
+      Partelme [aus] *unter* Kilians Hause.
+     </stage>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       He! he! Ihr Leute kommt her! Ich hab euch was zu sagen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Warum? was will Er?
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Wer seyd Ihr?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich bin meines Vaters sein Sohn, wann ers wissen will.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Möcht’ er mir nicht den Gefallen thun, und nach die Stadtknechte laufen?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wie? sieht er mich für einen Schergen an. Er muß wissen: ich bin ein Scheerenschleifer,|und wann mein Kunst nicht wär’, so könnt’ man nicht einmahl einen Braten transchirn
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Geht mich alles nichts an. Wir haben Schelmen im Hause, und da muß ich zuschlüssen und|nach meinen Herrn, und nach der Wache laufen.
+      </p>
+      <stage>
+       versperrt das Haus, will geschäftig fort.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       Der in der Entfernung gestanden, hält Partlme den Fuß unter, daß dieser darüber stolpert.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Nu! was seyn das für Bübereyen. Tölpel hat er nicht Platz genug.
+      </p>
+      <stage>
+       eilt fort.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Daß du keine Wache bekommst, da will ich dafür sorgen. Kaspar! ruff’ unsern Herrn|entspringt.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Jakob! Jakob! Ich hab ihm noch was zu sagen. – Ich muß ihm nacheilen.
+      </p>
+      <stage>
+       folgt nach
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nun das wird war werden, wann mein Herr, als Stadt-Lientinant eingeführt wurd.
+      <stage>
+       […] stet, und klopft ans Haus.
+      </stage>
+      Es meldet sich kein Mensch! Es wird am klügst¬ seyn | Ich lauf auch davon.
+      </p>
+      <stage>
+       entspringt.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      5ter-Auftritt.
+     </head>
+     <stage>
+      Kilian hernach Partlme.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       für sich in Gedancken.
+      </stage>
+      <p>
+       Kein Rauchfangkehrer will etwas davon wissen, daß in meinem|Hause ein falscher Feuerlärm war. Wie geht das zu? Soll etwann eine|Betrügerey dahinter stecken? Ey! die will ich nicht hoffen, und was [hätt’ ich]|wären für Ursachen hiezu. Diebe können es nicht gewesen seyn. Ich müste|doch etwas vermisset haben. Will doch noch einmahl nachsehen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <stage>
+       schnaubend.
+      </stage>
+      <p>
+       Hr. Kilian! Hr. Kilian! gut, daß ich Sie treffe! Ich hab schon auf|ihren Namen Wache begehrt.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       <stage>
+        erschrocken.
+       </stage>
+       Warum dann Wache?
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Betrüger haben sich in ihr Haus geschlichen. Ich hab Sie aus ihren Zimmer mit der|Jungfer Bonaventura reden gehört, aber keinen sehen, und kennen können.|Sie schwäzten von Lieb, von Heurath, und von Kontrackt aufsetzen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nicht möglich? Seyn Sie noch im Hause?
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Natürlich! Ich hab’s Hauß verriegelt, und versperrt, bin in einen Flug nach ihnen|und nach der Wache gelauffen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Gut, gut: Wenn wir Sie nur noch finden.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Lassen Sie mich aufsperren. Wir müssen Sie treffen, oder Sie müßen beym Rauch-|fang ausgeflohen seyn. Die Wache wird mir gleich nachfolgen. Sie sperr¬ auf.|dazu
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      6ter-Auftritt.
+     </head>
+     <stage>
+      Pomgratz ihnen entgegen.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <stage>
+       hält ihn.
+      </stage>
+      <p>
+       Da haben wir schon Einen!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       He! he! was soll das? Warum last du mich anhalten Bruder Kilian?
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Richtig! der war dabey! Ich kenn’ ihn aus der Sprache.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       He! he! laß Er ihn los, der ist mein Freund.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <stage>
+       verwundernd.
+      </stage>
+      <p>
+       Ihr Freund?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja freylich mein Freund! Was bringst du mir Bruder Pomgratz?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Mich wundert diese Begegnung. Was hast du denn? das Hauß war versperrt, haltet|ihr mich vor einen Dieb?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ganz und gar nichts. Mein Schreiber meldete mir: es wären verdächtige Leute in|meinem Hause, die mit Bonaventuren von Lieb, und Heurath sprächen.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Nu, wenn dir dieß mißfällt, kann ich auch ausbleiben. Ich fragte Bonaventura|um ihren Entschluß, und ob Sie wohl sich [sich entsch] die deinige werden wollte.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Da haben wir die verliebten Schnacken! fehlt keine Sylbe.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Schweig Er – Es thut mir Leyd, Bruder Pomgratz. Mein Schreiber hat dich nicht|gekennt, und deine Bemühung falsch ausgelegt.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ey ja wohl übel verstanden. Ich hörte noch einen Herrn schwätzen!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Es müste nur des Bräutigams Geist gewesen seyn. Weil du so eifersüchtig|bist, will ich mich wohl hütten, künftig in dein Hauß zu kommen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hör’ mich nur, Bruder Pomgratz! Nehm’ mir’s nicht übel. –
+       <stage>
+        zu Partlme.
+       </stage>
+       Aber|er Einfaltspinsel! was hat er angefangen. Der Mann ist mein Freund, und|nun hab’ ich ihn erzörnt.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Mich soll die Erde verschlingen, wenn keine Schelmerey dahinter verborgen. – Sehen|Sie selbst nach. Es muß noch Jemand im Haus verborgen seyn.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      7ter-Auftritt.
+     </head>
+     <stage>
+      Margreth in einem Chemise eingehüllt mit einem Mannshut, hinter ihr Kaspar als Korporal|[hernach] Jackel als Stadtknecht, und noch ein paar Mann.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Auf dem Platz ist Hrn: Kilians Haus. Da hier ist die gantze Wache.
+      </p>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       geht geschwind in Kilians Haus.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ich bin Kilian, den sie suchen. Mein Schreiber hat ohne meinem Wissen Wache begehrt| – wer war dann der Hh, der ins Haus gegangen?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Unser Hh. Stadtlieutinant muß dabey seyn, wann wir geruffet werden.|Was giebts also? Sollen wir das gantze Haus arretiren?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Behütte! – Nur durchsuchen, ob sich Niemand verdächtiger darinn [find] vorfindet.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gut also. Schlüßt Euch, ihr Leute! folgt mir nach.
+      </p>
+      <stage>
+       Schleudert Pomgratz weg, und mag mit seinen Leuten in Kilians Hause.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ich geh mit, muß zusehen, ob Sie genau Visitiren. Hh: Kilian bleiben Sie vorm|Hause, daß uns Niemand entwischen kann.
+      </p>
+      <stage>
+       geht nach.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Der unvorsichtige Mensch kann [uns] mich in neue Ungelegenheit bringen. Sein|Eifer mir zu dienen mag ihn bethört haben. Ey! Ey! wär’ ich zu Hause|gewesen, hätt’ ich mir keine Wache verlangt, sondern andre Mittel vorgekehrt.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      8ter-Auftritt.
+     </head>
+     <stage>
+      Denckner in den nemlich¬ Chemise, den vorher Margereth umgehabt, Kaspar und die Wache|bringen Partlme zurück.
+     </stage>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       im heraustretten.
+      </stage>
+      <p>
+       Korporal! Ihr wüßt schon, was ihr zu thun habt!
+      </p>
+      <stage>
+       geht fort und|*Jackel folgt ihm*
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Sehr wohl mein Herr Stadtlientinant. – Wir haben keinen verdächtigeren|Menschen gefunden, als das Schiarraffengesicht, das uns hieher gesprengt hat|Also Marsch mit ihm! schlüßt ihn Kreutzweiß, und Morgen stellt man ihn auf den|Pranger.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <stage>
+       weinend.
+      </stage>
+      <p>      
+       Hh. Kilian! Hören Sie, was man mit mir machen will.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hh. Korporal! Seyn Sie nicht so streng. Es war so arg nicht gemeint.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Herr! Er versteht den Teufel, was das sagen will, eine gantze Hauptwach herzusprengen.|Das ist keine Kleinigkeit: Einer ist ein Stricker, der andere ein Schuster, Schneider|oder Strumpfflicker. Wie viel Stich seyn indessen versaumt worden: also nur|mit mit den Arrestanten!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hr: Kilian! haben Sie Barmherzigkeit! Was ich gethan, geschah blos um Ihrentwillen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Schrey er nicht so, oder ich laß ihm vors Maul ein Schloß anlegen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Entlassen Sie mir den unschuldigen Menschen. Ich will gern erkenntlich seyn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ey was! das brauchts nicht. Es ist unser Schuldigkeit, wir müssen gehn, wann um|Wach’ geruffen wird aber ich rath dem Herrn: find er sich ab, oder es wird|übel mit dem Arrestanten aussehen.
+      </p>
+      <stage>
+       legt die Hand rückwärts.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Lassen Sie sich sagen. Mein armer Tropf, der Schreiber meints gut mit mir, und er|meinte, es hätten sich schlechte Leute in mein Haus geschlichen, und um derentwillen|gieng er nach Wache.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das hilft alles nichts. Wer weiß, ob der Kerl nicht betruncken ist, und sollen wir seine|Narren abgeben. – Nur fort mit ihm, oder find’ sich der Herr ab! –
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hh. Kilian! Lassen Sie mich doch mit der Wach nicht fortschleppen, oder ich muß aus|Furcht verrecken.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ihr Herrn! da ist ein Thaler auf ein Glaswein.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       nimmt ihn hastig.
+      </stage>
+      <p>
+       Ey! was schirrt mich das. Herr mit solch¬ Kleinigkeiten muß er nicht|angezogen kommen, und noch dazu laut reden, daß es alle Welt hören kann.|Doch damit er sieht, wie viel Achtung wir vor dem Herrn haben, so wollen wir |ihn nicht einsperren, sondern gleich hier abstraffen. Bringt geschwind einen |frischen Bund Stroh, wir geben ihm 25 aus der Kassa!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hr. Kilian! man will mich schlagen, und ich hab nichts gethan
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       heimlich.
+      </stage>
+      <p>
+       Hr. Korporal! da wär noch auf einen Schmaus für Sie.
+      </p>
+      <stage>
+       giebt ihm ein¬ Thaler
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       nimmt ihn hastig.
+      </stage>
+      <p>
+       Ey was! so muß mir der Herr nicht kommen. Es ist ja unsre|Schuldigkeit, daß wir patrouliren gehn müssen. – Doch ich mercks schon: der|andere Herr hat sich ein wenig übereilt. Ich will ihn dießmahl in Ansehung ihrer|höflichen Bitte hier lassen, aber ein andersmahl hütten Sie sich den Kern der|Mannschaft herzu sprengen! – Last den Arrestanten! Ihr Leute! folgt mir! Marsch.
+      </p>
+      <stage>
+       Sie geh¬
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hr. Kilian, wie ist mir geschehen? Ich war vor Schrecken ausser mir.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Er alberner Tropf hat mich in unnöthige Kosten gestürzt. Was hat er angefangen|die Stadtsknechte herzuhohlen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Es geschah, um ihm zu dienen. Das Wispeln von Ehepakten war mir verdächtig.|Mannspersonen hört’ ich schwätzen, ich wollt’s also in Zeiten fangen und meinem|Herrn verrathen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Seine Meinung war gut, doch hier war sie übel angebracht. Er soll bescheiden seyn, mein lieber Partlme, und meine Freunde nicht verdächtig machen. Hrn|Pomgratz hab’ ich mir hiemit auch zum Feind gemacht.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ich hörte {f}aseliren mit Mannsbildern, und aus Eifer für Sie hab ich alles gethan
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      9ter-Auftritt.
+     </head>
+     <stage>
+      Bonaventura, und Margereth.
+     </stage>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Hr. Kilian! was treiben Sie. Wollen Sie mich bey der Stadt in üblen Ruf bring¬|Sie lassen ihr Haus mit der Wache durchsuchen, und man schont nicht|einmahl meines Zimmers.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wieder meinen Befehl, mein Engerl!
+      </p>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       Wenn Sie Schelmen, Diebe, und schlechte Leute aufhalten, oder verbergen,|so haben wir unter ihrem Dache nichts mehr zu suchen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nein! Nein! Es war nicht so bös gemeint: es war ein Irrthum.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+      Und zu wie vielen Auslegungen kann dieser Irrthum bey der Stadt|Anlaß geben? – Steht es ihnen zu, meine Ehre zu kräncken.
+      <stage>
+       weinerlich.
+      </stage>
+      Werd’|bey meinen Freunden diese mir zugefügte Unbild zu ahnden wissen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nein! Nein! Nein! Mein Herzensschätzchen – Ich bin gantz ohne Schuld! mein|verwünschter Schreiber hat den Eselsstreich begangen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Da haben wir die Bescherung, und ich meins so gut [mit]
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Halt er seine Gosche zum Schweinstro[ch]g verwünschter Kerl! Was hat er mir durch seinen|Unsinn für Verdruß verursachet!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Nun schon recht! Ich muß schweigen. aber Sie werden die Wahrheit doch erfahren.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       die stets geweint.
+      </stage>
+      <p>
+       Keinen Augenblick bleib’ ich länger in einem Hause, wo man mir|wie der größten Uebelthäterinn auflauert. Was werden meine Anverwandten|dencken, wenn Sie erfahren, daß man meinetwegen bemüßigt war, Wache|[ins Hau] zur Untersuchung zu schicken.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Die Sache ist gantz anders. Mein Schreiber hat –
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Da braucht keine Ausflucht. Wo die Diener Dummköpfe, und der Herr ein Narr|ist, kann man sich nichts beßers vermuthen. Gleich will ich Hrn. Pomgratz|alles endtecken. Er muß uns ein sichreres Quartier anweisen.
+      </p>
+      <stage>
+       lauft fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Margreth! Margreth! bleib Sie da! Partlme! lauf er nach, halt er Sie auf!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Das laß ich bleiben. Sie ist ein böser Drachenkopf von einem Weibsbild, und könnt’|mich zwicken, und beissen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Hh. Kilian! ich will keine Gewalt hoffen. Habe zur Zeit meinen freyen Willen zu unter-|nehmen, was mir beliebt. Margreth hat gleiches Recht sich über ihr unbilliges Ver-|fahren zu beklagen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nu, Nu, mein Engerl! besänftigen *Sie* sich. Es soll nicht mehr geschehen. Ich bin ja der|beste Mann. Halten Sie sich durch diese Uebereilung nicht beleidiget, und bleiben|Sie bey mir. Sind da am besten aufgehoben. Bitte, bitte, gar schön.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Gut. Ich will mich nur insolange besänftigen, bis ich einen Ausweeg gefunden,|mich gantz von ihnen zu befreyen.
+      </p>
+      <stage>
+       geht ins Hauß.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da haben wirs! daran ist Er Schuld, Er Verwirrungs-Rath!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hh Kilian! Seyn Sie bescheiden! Ich bin ein armer Teufel, aber ein {o}hrlicher|Kerl. Haben Sie gut acht auf meine Worte, es steckt doch eine Spitzbüberey|dahinter.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie Ers versteht. Das will ich glauben, daß die ausgestoßene Drohung Bonavent:|nicht Ernst sey. Sie muß mich doch ein wenig lieben, wie würde ihr sonst|die Beleidigung so zu Herzen gegangen seyn.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Schlecht gertoffen! aber was Sie dencken, ist mir [auch] *alles* recht.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nur das verricht’ Er, was ihm befohlen wird, oder ich jag’ ihm zu allen Henkern!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Fein gegeben! aber ich will mirs mercken.
+      </p>
+      <stage>
+       dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      10ter-Auftritt.
+     </head>
+     <stage>
+      Jackel als Kammerdiener gekleidet.
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       <stage>
+        trillert für sich
+       </stage>
+       Das ist ein Hundenest! Man darf zehn Menschen ansprechen, und keiner|giebt Andwort. – he! – wo wohnt der Hr: Kilian?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hier! – ich bins selbst.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Gehorsamer Diener! Mich freut’s, Sie so geschwind gefunden zu haben. Ich muß ihm meines Herrn Ankunft vermelden.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Um Vergebung! wer ist Ihr Herr?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Der Herr von Schweinburg, der erst angelangt.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie? der Hh. von Schweinburg? Mein bester Freund! Wie erfreut’s mich|daß ich einmahl die Ehre haben werde ihn von Person zu kennen. War[um]|ist der gnäd: Herr nicht bey mir abgestiegen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Entschuldigen Sie! Mein Herr ist auf der Reise gar bequehm. Er ist stets|kräncklich, und wann er sich zu reisen entschlüßt, muß so zu sagen jedes|Klied in Baumwolhe eingewickelt werden. Er läßt sich eben auspacken
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       So will ich zu ihm meine Ergebenheit zu bezeigen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Das ist nicht nöthig. Er hat mich voraus gesendet seine Gegenwart zu|melden, und sobald ihn der Kammerlackey vollends ausgepackt hat wird|er persönlich erscheinen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Zu große Gnade für mich. Mein Haus wiederfährt viel Ehre.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wie befindet sich dann Jungfer Bonavent: seine Baase?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sehr wohl. Sie wird das Vergnügen nicht erwarten, ihren Herrn Vetter|sobald gegenwärtig zu sehen. dazu.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      11ter-Auftritt.
+     </head>
+     <stage>
+      Kaspar. läst sich inwendig hören.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       inwendig.
+      </stage>
+      <p>
+       Kammerdiener! – Wo hat ihn dann der Konstantinop{e}litanische|Dudelsack-pfeiffer?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Element! Mein gnäd: Herr! Ist schon fertig! Ich werd’ ihm gleich hieher weis¬
+      </p>
+      <stage>
+       geht
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Geschwind Partlme! Richt’ Er alles in meinem Hause in Ordnung, räumer|auf, so gut möglich. Sag’ er Bonaventuren nichts von der Ankunft ihres|Vetters, wir wollen Sie überraschen.
+      </p>
+     </sp>
+     <sp who="#partelme">
+      <speaker>
+       Partelme.
+      </speaker>
+      <p>
+       Gantz gut, Hr: Kilian! Weiß schon, wie man noble Cavalier bewirth¬ muß.|
+      </p>
+      <stage>
+       eilt ins Hauß.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! Ey! was wär’ ich darum schuldig, wenn jezt Bonavent: weg¬ den lezten|Streich nicht ungehalten auf mich wäre. Doch vielleicht mach ich alles mitt einmah[l]|gut.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       tritt aus im altfränckisch¬ Modellkleide mit ein paar Pflaster im Gesicht, und {ein}|Stelz Fuß.
+      </stage>
+      <p>
+       Wo ist denn der Halluncke, mein guter Freund, den ich suche?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Hier – hier – [ist er schon] *steht* der Mann gnäd: Herr!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Gehorsamster Diener, mein gnäd: Hh. v. Schweinburg! Je! Je! welche sonderbahre Ehre –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kammerdiener! – Zieh mir den Huth herunter! – Willkommen! Willkommen! Er altes|Meerkazengesicht! Ist Er der Kilian, der öfters an mich geschrieben?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Zu dienen, gnäd. Herr! Ich hatte Ehre.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kammerdiener! Schneitz’ mich!|
+      </p>
+      <stage>
+       Jackel befolgt alles.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wieder Vermuthen sind sie gnäd: Herr! geschwind eingetroffen: um desto größer |wird die ist meine Freude, und das Vergnügen ihrer Baase
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Maul halt Er! Er schwadert ja in einem fort, wie ein Andten Schnabel. Ich wird|ihn um alles befragen. Ich bin geschwinder eingetroffen, weils mich gereuet hat,|meine Baase an einen alten Spießbürger zu verheurathen. Ich muß also [vor] ein|Wort im Vertrauen mit ihm reden – Kammerd: – schneitz’ mich!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie Sie befehlen, gnäd: Herr! Es soll mir leyd thun, wenn vielleicht ein neidischer|Feind mich bey ihnen fälschlich angeklagt hätte. Ich hoffe mit Jungf. Bonaventuren mein|Glück zu treffen, und Sie –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Still sey Er! Eben meine Baase wird ihm vielleicht lieber auf dem Stockfischmarckt aus-|wässern lassen, als ihn auf 1000 Schritte ansehen. – Ich muß doch, weil ich ihm {noch} nie gesehen|seine elende Person sammt seiner Hauseinrichtung mustern. Kammerdiener! schneitz’ mich!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sie schertzen, gnäd: Herr! doch ich stehe zu Befehle. Ist es nicht gefällig in mein Haus –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein! Ich will in seinen Nothstall nicht eintretten, bis ich mit ihm einig bin. Wie siehts in seiner Hauswirthschaft aus? wie groß ist sein Parade Zimmer?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       So ziemlich geräumlich. Gegen Vier Klafter lang, dreye breit.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       O er gemeiner Schöpfenkopf! das gantze Parade Zimmer ist verdorben. Wann er|der Mann meiner Baase werden will, so muß sein Parade Zimmer 30 Klafter|lang, und 40 breit seyn. – Kammerd: schneitz mich! –
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey was soll ich hier mit einem solchen Gebäude?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Er verstehts nicht, altgebackener Rindskopf! Was [macht Er dann] hat Er dann in einer|kleinen [Nothstall] Mausfallen für eine Unterhaltung. Er muß sich, wann er mein|Freund werden will, adeliche Gesinnung¬ angewöhnen. Wann seine Zimmer Eine halbe|Mail-Weegs [lang] groß seyn, und die Zeit wird ihm lang, so kann er seine Frau|Gemahlinn, wie einen Bären mit kleinen Hundeln hetzen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Ey! Sie schertzen zu nachdänklich, gnäd: Herr!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Will [mir] Er mir schon wieder einreden? Kammerdiener! schneitz’ mich! – Wir zwey|werden uns nicht mitsammen vergleichen. Ist meine Baase gesund, und munter?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sie befindet sich wohlauf. Hat zwar unlängst mit mir gezanckt, daß ich aus Unvor-|sichtigkeit meines Schreibers durch die Wache mein Haus hab untersuch¬ lassen, ob sich|keine bösen Leute hineingeschlich¬ haben; denn Sie glaub¬ nicht, gnäd: Herr, wie die|Welt hier boshaft ist.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wie? Was? Wo meine Baase wohnt, ist die Wache eingetretten, daß heiß ich meinen|Adl beleidiget. Ich bin &lt;Salva Quardia&gt;.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hören Sie nur, gnäd: Herr! Es geschah nicht um Jemand zu beleidigen. Mein Schreiber
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Was geht mich der Schreiber an. Meine Familie durch Wache zu strostimuliren.|Ich hätt gute Lust, und trett’ ihn mit Füssen. Kammerd: schneitz mich!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Verargen Sie mirs nicht, gnäd: Herr! Es geschah zu meinen und meiner Braut besten.|Ich besorgte einen heimlich¬ Feind.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Wie? was? Hält er meine Angehörigen für Spionen, oder Hexen, oder Schelmen Pagasche?|Nein! das ist zu arg! Er {burgh}: Holtzknittel soll Respeckt lehren. – Kammerd: zieh|mir den Degen aus. Ich spieß ihn, wie eine Wildschwein.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <stage>
+       zu Kilian.
+      </stage>
+      <p>
+       Gehen Sie, gehen Sie. Mein gnäd: Hh. kommt in Wuth.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Aber erlauben Sie mindesten –
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kammerdiener! schneitz mich! damit ich sehe, wann ich ihn den Kopf weg haue. Nur heraus|mit dem Degen. Ich will den Bärenheuter gleich in die Luft sprengen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! Eh ich mich ermord¬ lasse, weich ich ins Himmels Nammen aus!
+      </p>
+      <stage>
+       entspringt in sein Haus
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Kammerd: – schneitz’ mich!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Unvergleichlich ist und der Streich gelungen. Die gantze Hofnung, die Kilian auf Hrn:|von Schweinburgs Freundschaft gesetzt, ist zu Wasser worden.
+      </p>
+      <stage>
+       lacht.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nicht wahr. Ich hab meine Sache gut gemacht. Das müssen wir gleich unsern Herrn|berichten.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      12ter-Auftritt.
+     </head>
+     <stage>
+      Margreth hernach Denckner. dazu.
+     </stage>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       So geht’s gut. Ich hab alles von weiten mit angesehen. Treflich habt ihr meinen|Rath genutzt. Hr. Kilian muß noch darüber zum Narren werden. Führt|nur alles das aus, was wir verabredet haben. Wir erwarten eure|Hilfe.
+      </p>
+      <stage>
+       eilt in Kilians Hause.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja, Sie hat leicht reden, aber wir müssens ausführen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Laß’s gut seyn. Ist uns bisher nicht alles wohl von statten gegangen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Still! unser Herr kommt. Gieb dich nicht zu erkennen, wir wollen unsern Spaß hab¬.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       vor sich. 
+      </stage>
+      <p>
+       Margreth sagte mir meine Leute hätten etwas zu meinen besten aus-|zuführen, und ich weiß keinen zu finden. Wo müssen die Kerls stecken? Vermuthlich|im Wirthshause.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       trillert im auf, und nieder gehen.
+      </stage>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       der ihn beobachtet.
+      </stage>
+      <p>
+       Was für ein seltsammer Mensch!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Zurück! auf die Seithe! Ich bin der Herr von Schweinburg. Kammerd: schneitz mich!
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       mit Verwunderung.
+      </stage>
+      <p>
+       Wie? der Herr von Schweinburg.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       legt seinen Stelzfuß ab.
+      </stage>
+      <p>
+       Ja, der Hh. v. Schweinburg, der dem Alten alle Freund-|schaft aufgesagt hat.
+      </p>
+      <stage>
+       lacht.
+      </stage>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wir haben auf ihren Namen bey den bekannten Tändler die Kleider hiezu|ausgeborgt, und unsre Sachen gut ausgeführet.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Ist mir lieb. [zu vernehmen] Von allen Seithen will ich Kilian die Hofnung|benehmmen Bonaventuren behaupten zu können. Alle seine Vorsicht|ist zwar vergebens. Sie hat bereits in Gegenwart des Hrn: Pomgratz|einen Ehevertrag mit mir unterschrieben.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nu, so haben Sie sich nicht umsonst in die Behausung des Hrn: Kilians gewagt.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Die Margreth sagte mir. Wir soll¬ trachten Jungf: Bonav: aus dem Haus des|Hhrn: Kilian zu bringen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       So lautet selbst unsre Verabredung mit Hrn: Pomgratz. Nur muß ich|Bonaventuren Nachricht senden, wie Sie sich bey ihrer Entweichung zu ver-|halten habe.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das ist für mich nur ein Spaß. Ich und Jackel wissen schon, wie wirs gscheid|anstellen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       So kommt mit. Ich will euch erklären, was ihr zu sagen habt.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja in der Schelmerey soll mirs keiner gleich thun.
+      </p>
+      <stage>
+       Alle gehen.
+      </stage>
+     </sp>
+     <stage>
+      Ein Kabinet in Kilians Hause.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      13ter-Auftritt.
+     </head>
+     <stage>
+      Kilian, und Partlme.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! Ey! Ey! Was hat er mir mit seiner Narrheit vor Verwirrung, und|Unglück übern Hals gezogen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Nu, Nu, Verzweiflen Sie nicht. Das Blat kann sich wenden.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Halb unmöglich. Hrn: von Schweinburgs Freundschaft hab’ ich auch dadurch|ver-schertzt. Er ist unvermuthet angekommen, und hat mich bey den|gehörten Vorfall in der ersten Hitze ermorden wollen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Potztausend, und tausend! Das muß ein kollerischer Mann seyn. Wissen|Sie was Hr: Kilian: Weil ich den Fehler begangen, will ich Hrn: von Schweinb:|in der gantzen Stadt aufsuchen, und ihn bitten, er möcht mich nicht ums Brod|bringen, und ihnen, und mir verzeihen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Klug! das thu er mein lieber Partlme. Dadurch kann er vielleicht alles gut machen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ja, mein Köpfel ist nicht leer. Ich will kriechen wie ein Wurm, und wuseln, und bitten|wie ein Steigbettler.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Versäum’ er keine Zeit. Ich erwart’ ihn mit Ungeduld. Laß er mir zugleich Margreth,|und Bonavent: herkommen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ich will fliehen, wie eine Taube, um ihren Willen zu vollziehen.
+      </p>
+      <stage>
+       eilt fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Könnte doch seyn, daß sich Schweinb: des armen Schelm erbarmmet, und sich mit mir|aussöhnet. Ich will Bonavent: kein Wort von der Ankunft ihres Vetters sagen.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      14ter-Auftritt.
+     </head>
+     <stage>
+      Margreth, hernach Bonaventura.
+     </stage>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Was verlagen Sie?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Was ist Jungfer Bonav:? Ob Sie wohl die Gütte haben möchte hieher zu kommen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Ich will ihrs melden.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Komm Sie auch mit, Margereth! Auch ihr will ich etwas angenehmes sagen. Sie sind|noch beyde erzörnt über mich, und ich muß Sie zu besänftigen trachten.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       verdrüßlich.
+      </stage>
+      <p>
+       Was haben Sie mir zu sagen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nur nicht verdrüßlich, mein Engerl? Ich bitte, bitte! Verzeihen Sie mir! wo ist dann|Margreth?
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Sie wird gleich kommen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da haben wirs. Das Ungewitter hat sich noch nicht gantz verzohen. Wann ich nur wüste, was ich unternähme, um mir Bonavent. verbindlich zu machen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Was wollen Sie dann immer von mir?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wo ist dann Jungf: Bonav: Ich wollte Sie gern beyde mit mir aussöhnen.|Sey Sie auf meiner Seithe, und komm Sie mit Bonaventuren.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Das hätten Sie gleich sagen können, um unnöthige Gänge zu ersparren.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hab ich dann keine neue Müntze bey mir um Margreth damit zu blend¬.|Da hab ich ein 5 Patzen Stück. Was solls gelten, Sie zeigt sich gefälliger.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Bin müde mich ihrem veränderlichen Sinn zu unterziehen. Was haben Sie so dringend zu sagen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nur dieß einzige, daß Sie keinen Groll auf mich haben, und mich wegen des vorbeigegangen¬ |entschuldiget halten sollen. Wir werden uns künftig besser einverstehen, und sie sollen den|gefälligsten Mann an mir finden
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Sie kennen sich selbst sehr angenehm schildern. – So viel kann ich Sie versichern,|wir dencken weder an Eines, noch das andere.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Margreth! Hier hätt’ ich ein Geschencke – [Nur mir] sprich’ Sie mir zum Vortheil.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Ey was ich rede, geschieht ohne Eigennutz, und der lieben Billigkeit zur Steuer.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Hr: Kilian. Ich habe noch nie ohne Zurückhaltung *mit ihnen* gesprochen, weil ich meinen Freunden|etwas aufopfern wollte, doch jezt sag’ ich ungescheut, daß wir beyde nie von richtiger|Einverständniß eine Sylbe abhandlen werden. Ich hab’ meinen Angehörigen schon ge-|naueren Bericht davon ertheilet.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Aber um alles in der Welt! wie dencken Sie von mir so arg. Ich werd’ ihnen in meiner|gantzen Wirthschaft eigne Vollmacht, und freyen Willen lassen.
+      </p>
+     </sp>
+     <sp who="#margereth">
+      <speaker>
+       Margereth.
+      </speaker>
+      <p>
+       Wenn Sie uns den freyen Willen laßen, müssen Sie uns auch gestatten, 100 Meilen|von ihnen weit davon zu laufen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ich kenn’ Sie Margreth, dieß ist nur ihr Spaß. Sie würde nicht so viel Bedenklichkeit hab¬,|als Jungfer Bonaventura.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Natürlich: ich würd’ ihnen mit wenig Worten sagen, daß ich Sie nicht mag.
+      </p>
+      <stage>
+       lacht.
+      </stage>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       lacht:
+      </stage>
+      <p>
+       Du kannst dich auch nicht einen Augenblick verstellen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da haben wir’s. Sie lachen! Ich dachte selbst, daß diese Reden nur Schertz wären.
+       <stage>
+        lacht.
+       </stage>
+       |Lachen wir mein Herzenskind, und es werden [ihnen] *Sie* fröhliche Gesinnungen aufmuntern.|
+      </p>
+      <stage>
+       Alle drey lachen. dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      15ter-Auftritt.
+     </head>
+     <stage>
+      Jackel als Weib gekleidet.
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ach! ich armes, gekräncktes Weib! Weiß mir keinen Rath. Spring ins Waßer,|ins Feuer, erstick’ in der Luft, oder vergrab’ mich in der Erde. Für mich ist|kein anders Rettungsmittel – fort mit mir aus der Welt. Muß mich am nächst¬|besten Stock aufhängen.
+      </p>
+      <stage>
+       Will {si}ch mit einen Strick an Kilian erhängen.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       He! he! was treibt ihr!
+       <stage>
+        Reißt den Strick weg.
+       </stage>
+       Was für Tollsinn! Was [treibt] *bringt* euch zu|dieser Verzweiflung?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ach! die äusserste Noth! Mein Elend ist zu groß. So viele Kinder, und keinen Mann.|Wem soll das Leben nicht verdrüssen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! es wird wohl noch Rath seyn. – Wie geräth’ Sie denn in mein Haus.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       [Ach!] ich weiß selbst nicht, wo ich bin? Wo ich hin soll. Aus Angst, und Erbarmen über|meine armen Kinder! Drey Tage haben Sie keinen Bissen Brod. Sie werden mich|noch auffressen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <stage>
+       winckt Bonavent:
+      </stage>
+      <p>
+       Jungf: Bonav: Könnten Sie wohl ein beßer gut Werck ausüben, als|sich eines verlaßenen Waisen’s erbarmen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Was willst du mir aufbürden? Wenn ich dem zärtlich¬ Trieb meiner Erbarmung Gehör|geben wollte, so wär dies freylich mein gröstes Vergnügen mich *über* unschuldige [Tropfe]|*Geschöpfe* zu erbarmen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sie dürfen ja nur befehlen, mein Engel! Was Sie wollen, ist mein Vergnügen
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ach! versorgen Sie mir nur das kleinste meiner Kinder, oder ich muß mich umbringen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nu, Nu, Nu, Nu. Es wird [wohl] *schon* noch Rath seyn. – Wer ist dann ihr Mann?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich bin leider Wittwe. Mein Mann war {ber}uffener Scherg in Bayern, aber mit seinen|Tod hatt sein gantzer Verdienst ein Ende. Da hört aller Respekt auf. O ich arme|verlaßene Wittwe!
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Nu gestrenge Frau Schergen Wittwe! könnte man keines ihrer Abkömmlinge sehen?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ja mit Freuden! Meine edle Frau, Jungfer, oder Mamsell. Lassen Sie vor 70 Peronen essen richten, und meine 6 Kinderl soll sich gleich einfinden. Es soll kein Biss¬ übrig bleiben
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! Alle Sechße brauchen wir nicht. Aber über eines wollt’ ich mich erbarmen. Nicht wahr, Jungf[er]|Bonaventura?
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Sie beweisen hiedurch viele Menschenliebe, und jeder Rechtschaffne wird Sie deswegen, schätzen
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       eilig.
+      </stage>
+      <p>
+       Geschwind! Geschwind! bringt mir gleich eines eurer Kinder, ich will’s annehmen. Ist|so recht Jungf: Bonavent:?
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Tausend Danck, gestrenger Hh! der Himmel wird alles hundertfach bezallen. [Ich will] Ach! wann|Sie mir nur *meinen* kleinsten Knaben annehmen möchten. Der Bube macht mir die größt[e]|Sorge. Er ist drey Jahre alt, kann schon alles paperln. Ist gar ein liebes Kind|und giebt seinen verstorbenen Vater große Anmahnung.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Kinder von drey Jahren fangen eben an unterhaltlich zu werden, und die gröste Mühe {ist} mit |ihnen überstanden.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ein Kind von wenig Jahren last sich am ersten umförmmen. Es ist das Böse noch nicht so gew[ohnt]|und vergißt am ersten die [angewohnten] *ererbten* Fehler ihrer Eltern.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Richtig. Es ist ein weiches Wachs, aus dem man alles machen kann. Jungf. Bonaventur[…]|zur Unterhaltung bring Sie mir’s gleich.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Den Augenblick gestrenger Herr! Nu! das ist ein Glück für mich. Mein lieber Hanserl jezt|bist du versorgt. Sie werden gewiß eine Freude an dem Kind erleben. Er kann schon|recht deutlich reden. Er heißt mich einen Rammel hin, den andern her, und ist gar ein|lieber Fratz.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Schöne Kinderzucht! die Schimpfwörter wird man ihm schon abgewöhnen. Bring Sie ihn […]
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Mein gantzes Herz ist mir leichter! Ich lauf, was ich kann.
+       <stage>
+        geht, und kehrt wieder zurück
+       </stage>
+       |Gestrenger Herr! Ich bitt’ um etwas weniges!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Laß Sie mich. Man wird ihr [die] Kinder versorgen, und noch Geld oben drein schencken.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich brauchs nothwendig. Ich hab den Buben im Brandwein-Haus für drey Patzen versetzt.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Noch schöner! daraus läst sich viel gutes Vermuthen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Will gleich den Proceß ein kurzes Ende machen. Ich geh mit dem Weib, löse das Kind aus {dem}|Versatz und laßs hieher bringen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       O ja sey Sie so gut. [Ich] Werd’ meine Schuld richtig abtragen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ich weiß nicht, was ich vor Freuden machen soll. Tausend Danck.
+       <stage>
+        küst die Hände.
+       </stage>
+       Weil ich nur|den kleinen lustigen Wechselbalg los habe, so findet sich doch leichter wieder eine|Heurath vor mich.
+      </p>
+      <stage>
+       geht mit Margreth fort.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Was es doch für Menschen in der Welt giebt. Dieß Weib denckt noch auf Wiederverheu{r}athung
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Es mag vielleicht ihr Ernst nicht seyn. Ueberdieß wird Sie ihrer Versorgung weg¬ besorgt seyn.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sie dencken vor alle Mensch¬ gut, mein Engerl! dürft’ ich mir doch auch schmeicheln.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Warum schmeichlen? bey Schmeicheley muß Verstellung seyn, und sie muß man offenherzig|behandeln.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Desto besser. Sie seh¬ ja, was ich aus Liebe zu ihnen unternehme. Hätten Sie’s befohlen, zwey|drey Kinder hätt’ ich angenohmmen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Dieß würde ich nie thun. Zur Ausübung guter Wercke gehört ein freyer Wille ohne Neben-|absicht, sonst verliehrt [die That wahre] sich der wahre Verdienst.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sie haben vollkommen recht. O zu wie viel löblich¬ Handlungen werden Sie mich bewegen|wenn künftig unser beyderseitiger Wille nur einen ausmachen wird.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Ja! ja! wenn dieß geschieht, darf sich die Welt umkehren.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       So lustig, und zufrieden wollen wir leben. lacht. Ich bin nicht so verdrüslich, als ich |her sehe. Ich bin noch ein Erz Raubvogel.
+      </p>
+      <stage>
+       Küßt ihr {flähl}end die Hand. dazu
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      16ter-Auftritt.
+     </head>
+     <stage>
+      Margreth zurück.
+     </stage>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Das Kind befindet sich bereits in ihrem Hause. Ein allerliebster Knabe, Kommen|Sie Jungf: Bonaventura!
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ja, ja. Ich hoffe eine angenehmere Zerstreuung zu finden, als bisher.
+      </p>
+      <stage>
+       mit Margreth fort
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       O wie glücklich bin ich, daß ich doch ein Mittel gefunden, mir Bonaventuren zu verbinden!|Man sieht die Freude im Gesichte, die sie mit Kindern haben mag. Nu, Nu? der Himmel|wird mich doch auch mit einer kleinen Nachkommenschaft seegnen.
+      </p>
+      <stage>
+       geht lachend nach
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      17ter-Auftritt.
+     </head>
+     <stage>
+      Ein anders Zimmer in Kilians Hause.
+     </stage>
+     <stage>
+      Kasper als ein kleines Kind hinter einen Kasten versteckt. Das ausgeschoppte Kind sitzt auf einem Stocksesßerl, und Kasp: stellt nur seinen Kopf darauf. Hernach Kilian, Bonav: Margreth
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       wie die kleinen Kinder trillert für sich. Im natürlich¬ Ton [für sich].
+      </stage>
+      <p>
+       Jezt muß ich gescheid seyn,|sonst könnts Prügel setzen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <stage>
+       winckt Bonav.
+      </stage>
+      <p>
+       Sehen Sie! da ist der Knabe.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Wircklich! ein allerliebster Affe!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nu, da haben wirs. Kein unangenehmmer Fratz! wie heißt du dann?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       singend.
+      </stage>
+      <p>
+       Hanserl. Hanserl, Hanserl!
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       *Bonav*entura.
+      </speaker>
+      <p>
+       [Margreth.] Der Bub ist besonders lustig.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da heißt es wohl: Art von Art läst [nicht] nimmer mehr.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Wie alt bist du dann?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       wie oben.
+      </stage>
+      <p>
+       drey, und dreyßig Jahr.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Drey Jahr will er sagen. Der Bub weiß sich noch in die Zahl nicht recht zu finden.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Tattl! Tattl! bist du mein Vaterl? Wo ist dann {m}ein Mammerl?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja, ja. Ich bin jezt dein Vaterl, und da hast du zugleich zwey Mammerl?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Die Mammerl seyn schon recht, aber du bist ein wildes Vaterl!
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Hanserl! hast du mich lieb?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja! Ich das andre Mammerl auch lieb haben!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey, du Spitzbub! Wart du sollst mich bald auch lieb gewinnen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hungrich! hungrich! Ein Papperl! Ein Papperl!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Willst du eine Suppe, oder ein Brey?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein! Ein Schweins Brattel!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Hu! das wär’ nicht übel.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Das gute Kind mag halbs erhungert seyn.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Will in der Geschwindigkeit was zu essen bringen, damit ja alles geschieht, was|Sie gern sehen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ja Tatterl! Ein Papperl! Ein Papperl! – Geh nur fort! Ich brauch dich|nicht, du alter Brummer!
+      </p>
+      <stage>
+       geht herfür.
+      </stage>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Aber sagt mir nur ihr Leute, was ihr noch alles unternehmen werdet.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich muß ihnen nur sagen, daß mein Hh: Anstalt getroffen, Sie von hier weg, und|zum Herrn Pomgratz zu bringen, bis ihre Vermählung geschlossen wird.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Aber wie kann das angehen. Alle meine Geräthschaften sind im Hause.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Mein Kammerad, der Jackel packet indessen weil wir hier seyn alles zusammen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Richtig! Ich hab ihn ja selbst in unser Zimmer gewiesen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Aber wie werd ich fortkommen, ohne daß es Kilian merckt.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+     <stage>
+      Inwendig läßt sich Kilian hören.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Geschwind muß ich meine vorige Gestalt annehmen.
+      </p>
+      <stage>
+       geht zurück, wie zuvor.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       heraus mit dem Essen.
+      </stage>
+      <p>
+       Sehen Sie, wie ich geeilet habe? [Zu der Geschwindigkeit]|Milch, und Semmel ist vor Kinder die beste Nahrung. – Nu da, esse! [giebts]
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ein Papperl! Ein Papperl! – Tatterl! Papperl nicht gut! Ist kein Zuckerl.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wart! man wird dich mit Zucker füttern. Brod ist gesund für dich.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Tatterl! durstig! drincken!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Gleich sollst du Waßer haben!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Waßer nicht gut.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Willst du Milch?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein! Nein! Milch nicht gut.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Vielleicht gar Bier, oder Wein?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein Tatterl! Ein Brandweinl! Ein Brandweinl!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Da haben wirs! der Bub, wie die Mutter! Ich werd gleich Waßer bringen.|
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Geh nur, und komm nicht mehr. – Sorgen Sie sich nicht Jungfer! Den |Alten sperren wir in die Zimmer ein und sie gehen mit Margreth zu Hrn. Pomgratz! Mein Hh. wird schon dort warten.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       läst sich inwendig hören.
+      </stage>
+      <p>
+       Man solls nicht glauben, was man mit Kindern für Mühe hat.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Hat ihn der Geyer schon wieder da.
+      </p>
+      <stage>
+       begiebt sich zurück.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       heraus.
+      </stage>
+      <p>
+       Nun da ist jezt zu trincken. Giebt Kasparn Waßer.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       speit aus.
+      </stage>
+      <p>
+       Pfui Tatterl! Ist eine Fliege darinn gewesen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       He! he! bist du gar so eckelhaft. Da hast du noch ein Papperl.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Papperl mach’ ich nicht. Lieber ein Stückl Komiß Brod.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Der Bub ist nicht so haickel erzohen. Er ist lieber Brod, als Milch.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nu, so wart. Ich will dir Brod bringen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bedanck mich Tatterl! Lieber ein Brattel, und Sallatel.
+       <stage>
+        geht herfür.
+       </stage>
+       |Besinnen Sie sich nicht lange, trachten Sie den Alten fortbringen, und unterdessen,|da er aus ist, marschiren wir [fort] davon.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Wenn Kilian auch ausgeht, so wird er uns einsperren.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Sey’s auch. Wir sprengen Schlösser, und Rigel, nur daß wir ausreissen können.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bedencken Sie sich nur nicht lang. Je länger Sie hier bleiben, desto länger dauert ihre Plage
+      </p>
+     </sp>
+     <stage>
+      Kilian schleicht sich heraus, und geht, wie er den Betrug merckt an Kaspers Platz rückwärts.
+     </stage>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ich wünschte auf eine schicklicherere Art von ihm loszukommen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Sie haben nur ihr Wohl, und nicht seines zu besorgen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Natürlich! was liegt ihnen an dem alten Hauskruntzer! Mein Herr wird ihre|Freunde von allen unterrichten, und gewiß Recht erhalten.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       ahmt den Kinds Ton nach.
+      </stage>
+      <p>
+       Ein Papperl! Ein Papperl!
+      </p>
+     </sp>
+     <stage>
+      Frauenzimmer entspringen.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Gut, daß du nur selbst in die Falle gegangen. Du sollst mir nicht entkommen.|
+      </p>
+      <stage>
+       Bindet ihn, daß er nicht von der Stelle kann.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Laß mich los Schurcke! Möcht’ dich nur kennen, wer du bist?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich bin dein Tatterl! Sch! da hast ein Papperl?
+      </p>
+      <stage>
+       giebt ihm zu essen.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       schreit.
+      </stage>
+      <p>
+       Spitzbube! Spitzbube! dich soll der Geyer hohlen. Hilfe! zur Hilfe!
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Jezt wirds Zeit seyn, daß ich mich aus dem Staube mache.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      18ter-Auftritt.
+     </head>
+     <stage>
+      Partlme ihm entgegen.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was ist das für ein Lärm! für ein Geschrey?
+      </p>
+     </sp>
+     <stage>
+      Kasp. wirft ihn zu Boden, und entspringt.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       schreit.
+      </stage>
+      <p>
+       Partlme! Bind’ er mich los! Ich muß den Schelm fangen!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Wer hat mich dann zur Erde geschmissen?
+       <stage>
+        Sieht Kilian, lacht.
+       </stage>
+       Ey Herr! was|treiben Sie für Possen?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Bind’ er mich nur hurtig los.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was ist dann da für eine Narrethey geschehen.
+      </p>
+      <stage>
+       hat ihn losgebunden.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nur geschwind mit mir! Vielleicht fangen wir den Spitzbuben!
+      </p>
+      <stage>
+       lauft fort.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Weiß nicht, bin ich gesotten, oder gebratten.
+      </p>
+      <stage>
+       geht nach.
+      </stage>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     Dritter Aufzug.
+    </head>
+    <stage>
+     Gasse.
+    </stage>
+    <div type="scene">
+     <head>
+      1ster-Auftritt.
+     </head>
+     <stage>
+      Denckner, und Pomgratz.
+     </stage>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <stage>
+       lachend.
+      </stage>
+      <p>
+       Sey zufrieden, daß die Braut aus den Händen ihres seynwollenden Bräutigams.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       *Denckner.* [Kilian.]
+      </speaker>
+      <p>
+       Aber was wird der Mann in der gantzen Stadt für einen Lärmen schlagen.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Weißt du, wie wir dem abhelfen? Wir sagen ihm frey, wo sich Bonaventura befindet.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Meinetwegen darf ers erfahren. Ich werde mir meine rechtmäßige Braut nicht so leicht|abnehmen lassen, als er sich die seinige.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Deine Rechte Bruder! haben daher mehr Grund, und Wichtigkeit, weil du der Braut beßer|gefällst, als der alte Matthies Kilian, und deßwegen wünscht’ ich ihn noch selbst dahin zu|bringen daß er dein, und mein Unternehmen billiget.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Brächten wir ihn so weit, so würd’ ich noch eine Summe Gelds daran wenden.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Es muß gehn. Laß mir die Sorge. Deine zwey Kerls sind ein paar Spitzköpfe aus den[en]|man Spitzbüberey Essentz brennen könnte. Ich habe mich schon mit ihnen verabredet.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Bruder Pomgratz! Hälst du Wort, und überwindest alle Schwierigkeit, die uns im Wege|stehn könnten. So will ich mein dir gethanenes Versprechen um 6 Dukaten vermehren.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Das macht’s eben, das ich lustiger bin, als sonst. Jezt erst seh’ ich ein, daß ich ein gut|Werck stifte, die Heurath mit Kilian zu hintertreiben. Auf keinen Kreutzer Kuppel-|beltz hätte ich bey ihm rechnen dürfen.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Wie wirds aber mit dem Vetter stehn.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Auch den werd ich leicht besänftigen, und vielleicht ists ihm lieber, wenn er seine Baase mit|Zufriedenheit versorgt weiß. – Mein gantzes Hertz hat sich auf einmahl verändert.|Ich bin vollkommen auf deiner Seithe.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Danck dir! Was hab ich jezt zu unternehmen?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Folg’ deinen Kerln, und Sie rathen dir gutes! Sie haben schon etwas ausgedacht, wozu ihnen|eine forgefundene Sache in meinem Garten Anlaß gegeben hat.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       So will ich dir Freund, folgen. Ich darf doch sicher trauen?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Da brauchts keine Errinerung. Die ausgleichung mit Kilian überlaß mir!
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Hiemit bin ich zufrieden, und will gleich meine Bonavent: davon unterrichten.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Bleib du unbekümmert! Hast dich ja bereittwillig finden lassen, meine kleine Mühe zu belohnen|so muß ich ja undanckbahr handeln, wenn ich dir nicht als Freund beyspring¬ wollte –|Geschwind will ich mich in nächst bestes Haus verbergen, um Gelegenheit abzulauern|Kilian von Ungefehr zu sprechen.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      2ter-Auftritt.
+     </head>
+     <stage>
+      Kilian [hint] und Partlme jeder mit Stock, und Degen.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Je Potztausend, und Tausend! Was geschehen mir heute für verdammte Streiche!
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Gesagt hab ichs. Abgedroschene Spitzbübereyen seyn’s. Die Weibsbilder meinen’s nicht|gut, nicht aufrichtig mit ihnen, und da haben Sie schlechte Kerls, die Sie und mich|zum Narren halten
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Er hat Recht, so viel Bosheit, und Verstellung hätt ich den gantzen weiblichen Geschlecht nicht|zugetraut. Wie Schelm, und Diebe durchzugehn, ihre Geräthschaften mitzuschleppen.|Wer mag der Kerl gewesen seyn, der sie hiezu beredet hat. Es muß noch ein|gefährlicherer Feind im Hinterhalte verborgen seyn.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Jezt fangen sie’s erst an zu mercken? Hab ichs ihnen nicht gesagt. Die Mar-|greth der Schierteufel, der derJungf: Bonav: von hübschen Mannsbildern die|Ohren vollgeschwätzt hat. – Alles muß auf Betrug angesehen seyn. Kein|Hh. v. Schweinburg ist in allen Wirthshäusern nicht zu erfragen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Bild mir’s ein. Einmahl belogen, öfters betrogen, und das trift zu. Wir haben|keine Zeit zu versäummen, [ihr Haus haben Sie verriegelt]
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ihr Hauß [haben] *wissen* Sie verrigelt, *dann* eilen Sie zum Hrn: Bürgermeister ihm den gantzen|Casus zu erzellen, und ich streich herum in allen Winckeln, und Enden. Wir|werden, und müssen doch etwas erfahren.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       der sein Haus versperrt hat.
+      </stage>
+      <p>
+       Möcht’ mich doch vorher bey meinem Freund Pomgratz Raths erhollen.|Der wird sich ob dieser Neuigkeiten wundern.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ja wohl wundern? Er wird Sie auslachen. Warum haben Sie sich die Braut nehmen lassen.|Haben Sie doch einmahl ein Seithengewehr, daß Sie sich vertheidigen können. Ich geh nicht|mehr ohne Stock, und ohne Degen aus.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Schon recht. Ich brauch seine Erinnerungen nicht! weiß ohnehin nicht, wo mir der Kopf steht.|Geh’ ich jezt aus und laß mein Haus allein so könnte noch größeres Unglück entstehen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Jezt haben Sie nichts zu fürchten, da die Weibsbilder nicht mehr bey uns seyn. In leeren|Wänden kann nichts entstehen, und ich ihr Schreiber, ihre Köchinn, ihr Stubenmädl, und|ihre Haushälterinn bin ja bey Ihnen.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      3ter-Auftritt.
+     </head>
+     <stage>
+      Pomgratz.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Bruder Pomgratz! Zu meinem Trost kommst du, weist du schon daß mir Bonaventura|heimlich entwichen.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Kann mirs einbilden, weil ich von Ungefähr ein Schreiben erhalten, worinn gegenwärtiges Billet an dich eingeschlossen war.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       eifrig.
+      </stage>
+      <p>
+       Ein Billet von Bonavent: das muß ich lesen. liest. Hr: Klilian!
+      </p>
+     </sp>
+     <lg>
+      <l>
+       „Ihnen|größeren Verdruß, und mir mehr Hertzenleid zu ersparren, hab’ ich ihr|Haus verlassen; denn lieber wollt’ ich mich zeitlebens zwischen Vier Mauern einkerckern|lassen, als ihnen auch nur zum Schein Liebe [zu] zu sagen. Geben Sie sich also keine|weitere Mühe mich auszuforschen. Denn Sie wissen hiemit meine Meinung.“
+      </l>
+     </lg>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hm! diese Zärtlichkeit wollt’ ich mir von meiner Braut ausbitten.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       weint.
+      </stage>
+      <p>
+       Freund! was stell’ ich an. Ich bin verschwärtzt, und um mein Glück beneidet wo[rden]
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Betrübe dich darüber nicht. Besßer du weißt’s jezt, als wenn du dein größeres Unglück|zu spät hättest [bedauern] ertragen müssen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ach! Bonavent: hat ein gutes Herz. Sie würde mich schon nach und nach lieb gewonnen|haben, aber die Margreth – die Margreth
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <stage>
+       lacht.
+      </stage>
+      <p>
+       Ja wohl Margreth. – Ist’s ihr wohl zu verargen, wenn Sie einem Mann von ihr[em]|Alter geneigter ist, als dir.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Nun bin ja ich auch erst 55 ein fünf, und fünfziger. Sag’ mir nur, wo Sie wohl hin seyn m[ag]
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Vermutlich ist Sie zu ihrem Vetter zurück.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       im Eifer.
+      </stage>
+      <p>
+       Partlme! Geschwind bestell er mir eine Gelegenheit nach Schweinau. Es ahndet|mir, ich werde dort mein Glück wieder finden.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Sie sagten mir aber, Sie hätten sich mit Hrn: von Schweinburg zertragen!
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Laß du die Reise, bleib bey mir, vergeß’ ein Frauenzimmer, daß dich nicht lieben|wollte, und lebe bis hieher in Ruhe.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       weinerlich.
+      </stage>
+      <p>
+       Ist mir nicht möglich! Die Herzensbeängstigungen werden mich umbringen.|Und Bonaventura wird doch nicht so grausam seyn mich wegen ihr sterben zulassen
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Glauben Sie mir, Sie will lieber ihre Wittwe, als ihre Braut seyn.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      4ter-Auftritt.
+     </head>
+     <stage>
+      Kaspar als Tambour.
+     </stage>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <stage>
+       schlagt Ruf, nach diesen Zieht er ein Blat herfür, und liest.
+      </stage>
+      <lg>
+       <l>
+        „Hochgeneigte Liebhaber!|Kund und zu wissen wird hiemit Jedermänniglich gemacht, daß ein künstlicher,|und sehr berümbter Mechanickus, und Großuhrmacher allhier angelangt,|der ein besonderes Werck von seiner Erfindung mit sich führt, welches|in einer Uhr bestehet. [in der alle Vere] Diese Uhre [steht auf] ruht auf einer|Maschine in Form eines Thurms. Zeigt wie gewöhnlich die Stunden, und|Minuten, und überdieses die Vier Jahrs Zeiten: als Feuer, Waßer, Luft|und Erde.“
+       </l>
+      </lg>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nein! das ist ein Druckfehler! Es soll heissen:
+      </p>
+      <lg>
+       <l>
+        „Frühling, Sommer, Herbst, und Winter|als Vier Personen in Lebens Größe. Diese Vier Figuren sind von lebenden|Menschen nicht zu unterscheiden. Sie gehen, stehen, bewegen sich, rühren|Augen, Mund, und Nasen kurz: der Meister wird das Werck loben|Er ersuchet also alle Respecktive Liebhaber, und Unholden eine so schöne Gele-|genheit ihr Geld anzubringen, nicht zu verlieren. Auf dem ersten|Platz zahlt man nach belieben, auf den zweyten, was man kriegt, und|auf den dritten, was man giebt. Der Schauplatz ist in Hrn: Pomgratz|[Hause im] Garten beym Strumpf ohne Zwickel!“
+       </l>
+      </lg>
+      <stage>
+       schlagt ab.
+      </stage>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       zu Pomgratz.
+      </stage>
+      <p>
+       Wie? Bruder? bey dir ist ein Kunststück zu sehen?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Ja. Der Erfinder davon ist ein seltner Mann, dem ich dies{o} Gefälligkeit nicht|hab’ versagen können.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Haben die Herrn gehört, was ich ausgeruffen habe? Ich bitt’ um ein paar Maaß|Bier vor meine Mühe, hernach will ich ihnen sagen, daß Sie noch kein solches Kunst-|stück gegessen haben, als Sie dort sehen werden.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! was brauchen wir uns mit ihm abzugeben. Hier steht ja der Herr selbst in dessen|Garten man das Kunststück sehen kann.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Ja, ja, mein Freund! diesem Herrn darf er keine Beschreibung von der Sache machen.|Er wirds, wenns ihm gefällig ist mit mir sehen.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Sie verzeihen. Man kann halt die Gönner nicht am Nasenspitzel kennen. Wann|Sie auch die Uhr nicht ansehen wollen, so wär halt’ ich durstig. Nur auf ein|Maaßl Bier!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Laß er mich ungeschoren. Was steht denn er noch hier Partlme? Lauft er mir|nach einer Fuhr nach Schweinau?
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Ich kann mich nicht genug wundern über das Kunststück, was ich da hab ausruff¬|hören. Möcht’s vor mein Leben gern sehen.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Da wird leicht geholfen seyn. Er vollzieht seines Herrn Befehle, und wann er|einen Wagen hat, so läst er ihn zu meinem Hauß fahren, hollt Hr: Kilian|dort ab, und kann zugleich die Uhr sehen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Das wär’ unvergleichlich.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja Bruder! Ich will bey dir mich ein wenig erhollen. – Er wird also thun, was|Hr: Pomgratz gesagt hat. Forsch’ auch dabey genau, was wir verabredet|haben. Er versteht mich schon.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Sehr wohl, Hh. Kilian.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Bruder! Laß du alle eitle Gedancken verrauchen, sey du fröhlich, und munter.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Es ist mir unmöglich. So oft ich an Bonavent: dencke, möcht’ ich weinen.
+      </p>
+      <stage>
+       beide fort.
+      </stage>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Das seyn ein paar Kallmäuser. Landsmann ruck’ er mit ein paar Patz¬ aus.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was geht mich sein Sach an. Ich bin selbst ein Diener, und hab’ nichts zum besten.|
+      </p>
+      <stage>
+       will fort.
+      </stage>
+     </sp>
+     <stage>
+      Kasp. Geht ihm nach, und trommelt.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was macht er dann? Muß mir die Ohren verstopfen. Er schlagt mich taub.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Nu! Ich will ihm den Gefallen erzeigen, und will ihm austrommeln. Vielleicht kaufen|Sie ihm, wo auf eine Papiermühl.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Hab’ er mich da nicht zum Besten? wenn er einen Narrn mahlen. Schau! der|Schnautz Hahn.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Keinen Zorn, Hh Weixelberger! Wegen seiner ists nicht [damit] der Müh Werth,|daß man auf die Trommel schlagt. Es werden ihm die Buben ohnehin nachlauf¬|
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <stage>
+       schreit nach.
+      </stage>
+      <p>
+       Getroffen! Er Gnödel Hiesel! Er Schalks Narr! – was soll’ ich mich|über den Lumpen alteriren. Ich muß gehn, und thun, was mir mein|Herr befohlen hat.
+      </p>
+      <stage>
+       geht fort.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      5ter-Auftritt.
+     </head>
+     <stage>
+      Jackel als Uhrmacher, und Bonaventura als Frühling gekleidet, steht in dem zur|Uhr gehörigen Thurm.
+     </stage>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Förchten Sie sich nicht. Kein Mensch wird Sie kennen, und wann man Sie auch kennen|sollte, so haben Sie hier nichts zu besorgen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Die Furcht sey weit von mir entfernt. Lieb ist mir’s, wenn die Sache zu Ende geht.|Ich henge bereits von meinem freyen Willen ab, und um meine Wahl zu rechtfertig¬|bin ich mit diesen Spaß einverstanden.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Sie werden sich immer mehr darüber freyen. Ich hab schon Nachricht, Hr: Kilian wird nicht|lang ausbleiben.
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <stage>
+       inwendig.
+      </stage>
+      <p>
+       Behutsam! Es tritt Jemand im Garten ein!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Seyn Sie vorsichtig. Der Spaß wird seinen Anfang nehmen.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Ich bin, wie eine Statue.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Und ich bin ein Künstler, der, wann er nicht mehr versteht, wenigstens gut lügen kann.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      6ter-Auftritt.
+     </head>
+     <stage>
+      Pomgratz, und, Kilian.
+     </stage>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Komm Bruder! Komm! Der Herr *Künstler* wirds nicht übel deuten, wenn ich dich hieher führe. Vielleicht|bist du Kauffer für das gantze Werck, und kannst’s zu deinen Eigenthum machen, ohne daß {es}|noch Jemand Frembder gesehen hat.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Auch wenn ich meiner Braut ein angenehmes Geschencke damit machen könnte, wie gern will ichs kaufen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ihr Diener Hr. Hausherr! ha! Sie führen mir gewiß einen kunstverständigen Mann|auf, der mein kleines Werck untersuchen will?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Gantz, und gar nicht. Gegenwärtiger Herr ist mein Freund, ein alter Bekannter|und ich wollt’ ihn ihr Kunststück zeigen, denn Er wär’ auch im Stande es zu kauffen
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Entschuldigen Sie meine Neugierde. Bin ein ausserordentlicher Liebhaber des Schönen.|Mein Freund meldete mir ihren *hies{igen}* Aufenthalt, und ich konnte mich nicht enthalten|diese Seltenheit zu bewundern. Denn in der That, das Bild der Frühling könnte|nicht herrlicher gebildet seyn. So viel ich davon verstehe, heißt das, und mirs mein|schlechtes Augenlicht zeigt. Ich sehe zwar nicht zu gut, aber diese Figur erinnert mich|an Jemand, dessen Bild mir stets vor Augen schwebt.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       *Jackel.*[Pomgratz.]
+      </speaker>
+      <p>
+       Ich bitt mirs aus nicht zu nahe an mein Werck zu tretten. Es könnte eine Feder |springen, und dann wäre die gantze Maschine verdorben.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Wir können so weit zurücktretten, als sie’s haben wollen
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Damit Sie sich noch mehr wundern, muß ich ihnen einen andern Jahrstheil zeigen
+      </p>
+     </sp>
+     <stage>
+      Die Glocke geht wie bey einer Uhre, und indessen geht Bonav: weg, und Denckner tritt|als Sommer mit Korngarbe in der Hand, gekleidet ein. [Er zehrt an der Uhre.|Bonavent: kommt von ihrem Platz und |Denckner tritt als Sommer mit Korngarbe, und Sichel gekleidet ein.]
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! das ist schön. Eine Figur, so natürlich, wie ein Mann.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Wie gefällt ihnen dieses Bild? Ists nicht ein liebvoller Mann?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ja, ja, recht artig. Aber Frauenzimmer gefallen mit immer besser, als Männer|lacht.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Geduld! Sie sollen gleich wieder was anders sehen.
+      </p>
+      <stage>
+       Er zehrt an der Uhre.
+      </stage>
+     </sp>
+     <stage>
+      Denckner tritt von seinen Platz, und Margreth kommt als Herbst gekleidet mit einen Wein-|stock in der Hand an seine Stelle.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Schau! Schau! der Herbst! O du angenehme Jahreszeit, in der Uns der Wein|reif wird, aber was hat diese Figur für ein spitzfi{n}diges Gesicht. Wie|eine gewisse Schelmin, die mir die Braut entführt hat.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Glauben Sie’s ja nicht. Meine Menschen Maschinen seyn so elektrisch, daß Sie|bey Zusehern alle lezten Gedanken ins Gedächtniß herziehen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey das wäre viel.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Die lezte Jahrzeit müssen Sie auch noch sehen.
+      </p>
+      <stage>
+       wie oben.
+      </stage>
+     </sp>
+     <stage>
+      Margreth tritt ab, und Kaspar als Winter gekleidet mit einer Glutpfanne tritt ein.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Uber diese Figur wär ich bey nahe erschrocken.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Ja, Sie ist so förchterlich als der Winter selbst.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Nu! wie gefällt’s dir Bruder?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Sehr schön! sehr natürlich! das heiß ich Kunst!
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Das ist noch nichts. Sie werden sehen, wie diese Figuren an ihre bestimmte|Orte heraustretten, sich wie sie zusammen gehören, vereinbahren, und ein ander|anlächeln.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Ey! das möcht’ ich sehen.
+      </p>
+     </sp>
+     <sp who="#jackel">
+      <speaker>
+       Jackel.
+      </speaker>
+      <p>
+       Bleiben Sie nur ruhig an einer Stelle, daß Sie meine Maschinen im Gehwerck|nicht hindern, und Sie sollen Wunder [hören] sehen.
+      </p>
+      <stage>
+       Er zehrt.
+      </stage>
+     </sp>
+     <stage>
+      Hier tretten die Figuren eins nach dem andern heraus. Denckner stellt sich zu Bonav: Rechts,|und Margreth nebst Kasparn lincks.
+     </stage>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Schau ein Mensch! Nu das heiß ich doch die Mechanick aufs höchste bringen.
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Gefällt dir diese Vereinigung?
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Könnte die Eintheilung wohl herrlicher, und natürlicher seyn. Der Frühling und auf|den Sommer, der Herbst mit dem Winter. Wie zwey verliebte Paare.
+      </p>
+      <stage>
+       lacht
+      </stage>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Gelt! die Erfindung des Künstlers gefällt dir, und du kannst Sie nicht tadeln.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie wär’ ich das im Stande? Ich hab ein herzinniglich Vergnügen, und wünschte|daß der Frühling gantz belebet würde, ich würde meine Bonavent: vergessen
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Ob Sie daran dencken, oder nicht. Es nutzt nichts.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       mit äusserster Erstaunung.
+      </stage>
+      <p>
+       Wie die Figuren reden sogar.
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Und So bittre Wahrheit für Sie, daß ihnen alle Lust vergehen wird, länger|ihr Erstaunen darüber zu bezeugen.
+      </p>
+     </sp>
+     <sp who="#margreth">
+      <speaker>
+       Margreth.
+      </speaker>
+      <p>
+       Frühling, Sommer, und Herbst sind bey ihnen schon vorbey. Halten Sie sich|am Winter.
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Ich mach ihnen mit meiner Glutpfanne ein Präsent, so können Sie sich doch|wärmen.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       in Verlegenheit.
+      </stage>
+      <p>
+       Was soll das? Ich glaub’ gar es ist Betrug?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Kein Gedancke! Es ist alles die Wahrheit, was du siehst, und hörst.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie? Wie?
+      </p>
+     </sp>
+     <sp who="#denckner">
+      <speaker>
+       Denckner.
+      </speaker>
+      <p>
+       Es nützt keine weitere Verstellung. Bonav: bleibt mein!
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <p>
+       Wie? was? Ihnen? Wer sind Sie?
+      </p>
+     </sp>
+     <sp who="#bonaventura">
+      <speaker>
+       Bonaventura.
+      </speaker>
+      <p>
+       Mein schriftlich versprochener Bräutigam, der Sie sammt ihren Unter-nehmungen|verlachen wird.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       *weinerlich.*
+      </stage>
+      <p>
+       Bruder Pomgratz! Hast du mich auch betrogen?
+      </p>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Nein! Ich wollte dir zur Erkenntniß deines Fehlers, und zur Wiedererhaltung|deiner Vernunft helfen. Bonav: spüret keine Neigung für dich, was [also]|soll also Zwang, und Verstellung dir nutzen.
+      </p>
+      <stage>
+       dazu.
+      </stage>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Lezter Auftritt.
+     </head>
+     <stage>
+      Partlme.
+     </stage>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Der Kutscher sammt Wagen, und Pferden seyn da, um Sie nach Schweinau zufahren.
+      </p>
+     </sp>
+     <sp who="#kasp">
+      <speaker>
+       Kasp.
+      </speaker>
+      <p>
+       Recht! Hh. Kilian reisen Sie nach Schweinau, vielleicht finden Sie dort eine Braut.
+      </p>
+     </sp>
+     <sp who="#kilian">
+      <speaker>
+       Kilian.
+      </speaker>
+      <stage>
+       noch immer weinerlich.
+      </stage>
+      <p>
+       Ihr loses Gesindel! Ihr wollt mich durch Verdruß ums Leben|bringen; aber ich will euch nicht einmahl die Freude machen, daß ihr mir|meinen Kummer anmercken sollt.
+      </p>
+      <stage>
+       geht weinend fort.
+      </stage>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Was soll dann das heulen, und rotzen, und was wollen die Vier Jahrs Zeiten?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Bleib er da! Wir brauchen ihn auch in der Maschine.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       Und warum?
+      </p>
+     </sp>
+     <sp who="#kaspar">
+      <speaker>
+       Kaspar.
+      </speaker>
+      <p>
+       Er soll den alten Weiber Sommer vorstellen.
+      </p>
+     </sp>
+     <sp who="#partlme">
+      <speaker>
+       Partlme.
+      </speaker>
+      <p>
+       I! was hab ich von den Possen! Muß meinem Herrn nacheilen.
+      </p>
+      <stage>
+       ab
+      </stage>
+     </sp>
+     <sp who="#pomgratz">
+      <speaker>
+       Pomgratz.
+      </speaker>
+      <p>
+       Freunde! Lasts gut seyn. Eure Glückseeligkeit kann nichts mehr stöhren.|Kilian kann keine Einsprüche machen, weil er kein gegrundetes Recht|hat. Wir haben ihn den Nebel benohmmen, und Er weiß um das Ende|seiner Liebesgeschichte in Hirschau.
+      </p>
+     </sp>
+     <stage>
+      Wien den 10ten Jenner 1780. Marinelli.
+     </stage>
+     <stage>
+      Ende.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>
