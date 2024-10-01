@@ -1,4 +1,6 @@
 # dramacollections
+Auf diesen Seiten werden nach und nach Editionen von Korpora deutschsprachiger Dramen aus der Zeit von 1650-1815 als digitale Editionen publiziert, die heute nicht mehr kanonisiert sind.
+
 I) Thomas Schmidt/Katrin Dennerlein: Edition von 20 Kasperl-Dramen des Leopoldstädter Theaters um 1800. 
 
 Die digitale Edition dieser Dramen als Daten basiert auf der Edition "Mäzene des Kasperls" von Beatrix Müller-Kampel: https://web.archive.org/web/20220125182712/http://lithes.uni-graz.at/maezene/maezene_startseite.html. Die dort sorgfältig kritisch edierten Texte wurden hier für eine Edition als Daten aufbereitet. Das bedeutet, dass z.B. Varianten und Worterklärungen weggelassen, Schreibungen von Figurenbezeichnungen vereinheitlicht und ein strukkturelles TEI-konformes Markup hinzugefügt wurde.
