@@ -109,5 +109,26 @@ Textzeuge in der Druckschriftensammlung der Wienbibliothek im Rathaus (Signatur:
 
 II) Edition sentimentaler deutschsprachiger Dramen aus der Zeit um 1800  (Eigenmittel): eine Auswahl von 40 Dramen des Wiener Burgtheaters aus der Zeit um 1800 wird derzeit mit OCR4all digitalisiert und mit TEI ausgezeichnet.
 
-III) Edition von deutschsprachigen Dramen von Dramatikerinnen um 1800 (Eigenmittel): eine Auswahl von 10 Dramen von Frauen wird derzeit mit OCR4all volltextdigitalisiert und mit TEI ausgezeichnet.
+III) Edition von deutschsprachigen Dramen von Dramatikerinnen aus dem letzten Drittel des 18. Jahrhunderts (Eigenmittel): eine Auswahl von 10 Dramen von Frauen wird derzeit mit OCR4all volltextdigitalisiert und mit TEI ausgezeichnet.
+
+Hedwig Louise Pernet: Versuch in Fabeln und Erzählungen nebst einem komischen Trauerspiel in Versen. Graz 1770.
+
+Victoria Rupp: Marianne oder der Sieg der Tugend, ein rührendes Lustspiel in 3 Aufz. von Miß Jennys Uebersetzerinn. Frankfurt a. M. 1777.
+
+Caroline, Luis Klencke: Der Ehrliche Schweitzer: ein Schauspiel in zwey Handlungen. Berlin und Leipzig 1776.
+
+Eleonore Thon: Adelheid von Rastenberg. Trauerspiel in 5 Aufz. Wien 1788.
+
+Friederike-Helene Unger: Der Betbruder; ein Lustspiel in 5 Aufzügen, nach Moliere's Tartüffe frei übersetzt. Berlin 1787.
+
+Mariane Sophie Weikard: Die seltene Beständigkeit. Lustspiel in 2 Aufz. Frankfurt a.M. 1791.
+
+Friederike-Sophie Seyler: Oberon oder König der Elfen, ein romant. Singspiel in 3 Aufz. nach Wieland. Musik von Paolo Wranitzky. 3. Aufl. 1792.
+
+Wilhelmine Gersdorff: Die Kreuzfahrerinnen oder Dedo von Egolfstein und Blanka von Heldenfels. Weißenfels 1794.
+
+Charlotte von Stein: Dido. 1794.
+
+Catharina von Hesse-Witte: Prinz Egid von Bretagne, ein original Schauspiel in 4 Aufz. aus der franz. Geschichte bearb. München 1798.
+
 
