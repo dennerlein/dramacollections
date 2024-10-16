@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="../css/tei.css"?><?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xml:id="ger000" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title></title></titleStmt><publicationStmt><publisher></publisher></publicationStmt><sourceDesc><p></p></sourceDesc></fileDesc></teiHeader><text><front><titlePage><titlePart>WARNING!, it's just assumed that this is the title page, check
+this. Also check if the following 'head' elements in 'front' may be (another)
+title page.</titlePart><titlePart>Der
+Ehrliche Schweitzer,
+ein Schauſpiel
+in zwey Handlungen.</titlePart><titlePart>Berlin und Leipʒig,
+bey George Jacob Decker, 1776.</titlePart><titlePart>Perſonen des Stücks.</titlePart></titlePage><castList><castItem><role>George Bern,</role><roleDesc>ein junger Soldat von der
+Schweizer-Garde.</roleDesc></castItem><castItem><role>Louiſe Marchand,</role><roleDesc>ſeine Geliebte.</roleDesc></castItem><castItem><role>Andreas,</role><roleDesc>Kerkermeiſter von Bicctre. Her-
+nach ſeine Kinder.</roleDesc></castItem><castItem><role>Pater Martin.</role></castItem><castItem><role>Marchand,</role><roleDesc>Onele und Vormund der Louiſe.</roleDesc></castItem><castItem><role>Der Schiffshauptmann.</role></castItem><castItem><role>Der Schiffs-Sergeant.</role></castItem><castItem><role>Ein Königlicher Commiſſair.</role></castItem><castItem><role>Gefolge des Schiffshauptmanns.</role></castItem><castItem><role>Ein Trupp von Sclaven mit Bedeckung.</role></castItem><castItem><role>Zwey Häſcher.</role></castItem><castItem><role>Volk der Stadt als Zuſchauer.</role></castItem><castItem><role>Ein Bürger aus einem Hauſe.</role></castItem></castList><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = caption</p><p>Der Schauplatz iſt in Paris.</p></div><div type="preface"><p>WARNING!, the following 'head' might be slightly misplaced. Maybe
+there is a more suitable parent tag or it might be another title page.</p><head>Endung der Stellen,
+nach denen die Arien geſungen werden.</head></div><set><p>WARNING!, the description of the setting (if existing) may
+be misplaced as a 'roleDesc' element in the 'castList'. Place it at the correct place in an element like this.</p></set></front><body><p>WARNING!, the following 'head' element might be misplaced, i.e.
+there could be a better place.</p><head>Endung der Stellen,
+nach denen die Arien geſungen werden.</head><div type="act"><head>Erſter Aufzug.</head><div type="scene"><head>Erſter Auftritt.</head><stage><castList><castItem>George.</castItem></castList></stage><sp><speaker>WARNING!, it seems that the speaker is missing.</speaker><p>Eine widrige Pauſe macht.</p><p>Als dich! du! mein Element.
+Dito.</p><p>So abgeriſſen von ihr?</p><p>George! Louiſe!</p><p>Dito.</p><p>Nicht ſo, du Hoffnung meiner Tage.</p><p>Immer eine Seele, ein Gedanke ſeyn.</p><p>Ueber meine glühende Liebe ergoſſen.</p><p>Ruhe in meine unbändige Seele.</p></sp><spGrp><head>No. 1.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>George.</castItem><castItem>George.</castItem></castList></stage><spGrp><head>No. 2.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 3.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Siebenter Auftritt.</head><stage><castList><castItem>G. u. L.</castItem><castItem>Louiſe.</castItem></castList></stage><spGrp><head>No. 4.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 5.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Neunter Auftritt.</head><stage><castList><castItem>George.</castItem></castList></stage><spGrp><head>No. 6.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Zehnter Auftritt.</head><stage><castList><castItem>George.</castItem></castList></stage><spGrp><head>No. 7.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Eilfter Auftritt.</head><stage><castList><castItem>George.</castItem></castList></stage><spGrp><head>No. 8.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div></div><div type="act"><head>Zweyter Aufzug.</head><div type="scene"><head>Vierter Auftritt.</head><stage><castList><castItem>Louiſe.</castItem><castItem>Kerk.</castItem></castList></stage><spGrp><head>No. 9.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 10.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>George.</castItem><castItem>Louiſe.</castItem></castList></stage><spGrp><head>No. J1.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 12.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 13.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><div type="notes"><p>WARNING!, the element isn't placed correctly, it still needs a solution.</p><p>type = catch-word</p><p>Allen
+Freunden meiner Mutter
+zugeeignet.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Ich hab Euch lieb! Ihr edlen Seelen alle!
+Mit wahrer Herzens-Innigkeit,
+Weil Ihr die Laufbahn meiner theuren Mutter
+Mit Roſen überſtreut.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Ich hab Euch lieb! mir hüpft bey Euren Namen
+Mein dankbar Herze froh empor!
+Süß ſind ſie meinen Lippen auszuſprechen,
+Sind Wohlklang für mein Ohr.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Schon lange brannt in mir ein heiß Verlangen
+Euch dieß zu ſagen laut und frey:
+Nur niemals fand ich Mittel, Art und Weiſe
+Wies anzufangen ſey.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Doch Liebe wagt ſich über Schwierigkeiten,
+Sie drang mit mir bis auf den Berg
+Der Muſen - Ach! da ſtand ich unter Männern
+So muthlos als ein Zwerg.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Ich zitterte. Schon wollt ich wieder gehen,
+Allein, Apollo neigte mir
+Sein göttlich Haupt: und ſagte zu Thalien:
+Geh! hilf ein wenig ihr.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Da half ſie mir dieß kleine Spiel vollenden,
+Von einem Alpen-Biedermann.
+Und meine Liebe beut nun Eurem Schutze
+Dieß Erſtlingsopfer an.</p></div><div type="notes"><p>WARNING!, the following paragraph couldn't be handled
+correctly. You have to solve this by yourself.</p><p>type = other</p><p>Auch Ihr! die Ihr entfernt die K. .. liebet,
+Nehmt dieſes Jugend-Werkchen hin,
+Und gebt auch mir ein Theilchen Eurer Liebe,
+Wenn ich es würdig bin.</p></div></div></div><div type="act"><head>Erſter Aufzug.</head><div type="scene"><head>Erſter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>(</stage><stage>ſteht bey der offenen Mauer, hat ein Meſſer
+in Händen welches er von ſich wirft. )</stage></div><div type="scene"><head>Zweyter Auftritt.</head><stage><castList><castItem>Der Kerkermeiſter</castItem><castItem>George.</castItem></castList></stage><stage>und</stage><sp><speaker>George</speaker><stage>(geht ihm entgegen )</stage><p>Ach! - lieber
+Meiſter! - - ſeyd ihrs? willkommen! - -</p></sp><sp><speaker>Kerkermeiſter.</speaker><p>Gott hab euch gute Stun-
+den, George!</p><stage>(ſetzt ſein Licht auf den Tiſch )</stage></sp><sp><speaker>George.</speaker><p>Ich dank euch, ſetzt euch! was
+bringt euch ſo früh zu mir?</p></sp><sp><speaker>Kerkerm.</speaker><p>Hm! Du ſiehſt mirs ja wohl an
+Augen an, was mich herbringt.</p><stage>(kuckt ihn in die Augen )</stage></sp><sp><speaker>George</speaker><stage>(der ſein Geſicht wegwendet)</stage><p>Macht
+mir das Herz nicht ſchwer, geht, ich bitt</p><p>euch! ſchlaft aus, die Morgenröthe iſt kaum
+wach.</p></sp><sp><speaker>Kerkerm.</speaker><p>Mag! iſts nicht die letzte Nacht,
+daß ich euch unter meinem Dache habe? krieg
+ich euch in meinem Leben wieder? laß mich im-
+mer noch einmahl ſatt mit dir plaudern. Schla-
+fen kann ich ja doch nicht, der Gedanke, daß
+du heute fort ſollſt, läßt mich kein Auge zuthun;
+wenn ich auch einmahl ſchlummerte, huſch!
+weckte mich dein Bild wieder auf, und kurz,
+es ward nichts vom Schlafe, mir wars immer
+als ob mich einer beym Arm zopfte, und zu mir
+ſagte: lauf zu Georgen, du haſt ihm noch einen
+Gefallen zu thun.</p></sp><sp><speaker>George.</speaker><p>Setzt euch nur! ſetzt euch! wer mag
+euch widerſtehn, lieber rechtſchafner Mann!</p></sp><sp><speaker>Kerkerm.</speaker><p>Immer ſind doch euere Lippen
+mit Honig beſtrichen. Nun nun! ihr mögt mir
+ſchon immer was ſchenken: von euch nehm ichs!
+ich nehms! denn ihr gebts mit Bedacht! ſonſt
+iſt mir die glatte Zunge Gift. Ihr kennt mich.</p></sp><sp><speaker>George</speaker><stage>(für ſich )</stage><p>Wenn er nur nichts ge-
+wahr wird! o Himmel, ich wäre des Todes!</p></sp><sp><speaker>Kerkerm.</speaker><p>Du biſt unruhig? Ja! der Kelch
+iſt bitter dem ihr entgegen geht. Jhr! ſo ſchö-
+nes friſches junges Blut! Galeerenſclave? pfui!
+Schurkenſtreich! Schurkenſtreich! und das durch
+ſo einen Lotterbuben - He! daß ich dran denke,
+hab ihn doch bey mir?</p><stage>(will in Taſchen ſuchen und
+hat keine )</stage><p>hi hi, wo mir der Kopf ſteht! will
+im Nachtwams Briefe ſuchen.</p></sp><sp><speaker>George.</speaker><stage>(erſchrocken)</stage><p>Briefe? wer hätte an
+mich zu ſchreiben?</p></sp><sp><speaker>Kerkerm.</speaker><p>Der Taugenichts, der heute ab-
+gethan wird.</p></sp><sp><speaker>George.</speaker><p>Franz? der Unglückliche! was will
+er noch?</p></sp><sp><speaker>Kerkerm.</speaker><p>Abſchied nimmt er, nun er euch
+mit an den Abgrund gezogen, in den er ietzt
+plumpt. Arme gutherzige Seele!</p></sp><sp><speaker>George</speaker><stage>(der bisher ſeine Angſt mit Hinſchau-
+ung nach der Mauer bezeigt hat )</stage><p>Lieber Meiſter!
+dürft ich euch bitten?</p></sp><sp><speaker>Kerkerm.</speaker><stage>(im Aufſteigen)</stage><p>Den Brief?</p></sp><sp><speaker>George.</speaker><p>Auch ein wenig Waſſer, mich dür-
+ſtet ſehr.</p></sp><sp><speaker>Kerkerm.</speaker><p>Dich dürſtet! armer Schelm!
+hätt ich das gewußt -</p><stage>(ab)</stage><p>O was hab ich ausgeſtanden! nein! ich hätte
+mein Unrecht nicht überlebt. Ich fühls! ich
+fühls! mein Herz iſt ſtärker als mein Leben, ich
+hätte die Marter meines Gewiſſens nicht über-
+lebt. (er räumt hurtig auf, füllt die Mauer ſo gut
+er kann, ſchiebt das Stroh vör, und ſpricht während
+der Arbeit) Wie wohl mirs bey dieſer Arbeit
+wird! o Gewiſſen! Gewiſſen! deine Ruhe
+überſteigt alles. So eine Büberey! tücki-
+ſches, rebelliſches Herz! er ſoll ſie wiſſen: aber
+ietzt noch nicht. Vor meinem Angeſicht ſoll er
+deine Schande nicht ausjammern. Wo ich nur
+den Muth-dazu hergenommen! Muth! Frech-
+heit wars, eine ganze Familie ums Brod bringen
+zu wollen. (ſtillſtehend ) Aber unglücklich werd
+ich ſeyn, elend - Nein, George! nein! nur der
+iſt elend, den ein böſes Gewiſſen drückt - Du</p><p>armer Franz! du! der du mich unſchuldig an-
+gabſt, und nun ein herbes Lebewohl aus deinem
+quälenden Gewiſſen gepreßt mir zuſchickſt. Ach!
+daß die Verzeihung des Himmels leichter in dei-
+ner Seele ſey, als dieß Lebewohl: du weißt es
+nicht, welche unaushaltſame Leiden du über mich
+gebracht haſt! - Dein Engel verberge dirs!
+und ſtärke dich in deiner letʒten Angſt mit Zu-
+verſicht auf die ewige Erbarmung! Gott ſey
+Dank! ich kann dir vergeben.</p></sp></div><div type="scene"><head>Dritter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>allein.</stage></div><div type="scene"><head>Vierter Auftritt.</head><stage><castList><castItem>Der Kerkermeiſter</castItem><castItem>George.</castItem></castList></stage><stage>und</stage><sp><speaker>Kerkerm.</speaker><stage>(ſetzt eine Flaſche und zwey Gläſer
+auf den Tiſch )</stage><p>Da! nehmt den Brief: leſe mir
+ihn, aber ietzt nicht laut, zum Zeitverderb. Und
+hier, George! ein wackerer Trunk! feurig und
+gut, wie euer Blut. Trinkt! weil eihr Durſt
+habt, ich darfs euch ſo gut nicht wieder bieten.</p><stage>(ſchenkt ein)</stage></sp><sp><speaker>George.</speaker><p>Aber, Meiſter! hab ich euren Wein
+begehrt? Waſſer! Waſſer!</p></sp><sp><speaker>Kerkerm.</speaker><p>Eh! das laßt den Waſchweibern</p><stage>(giebt ihm das Glas )</stage><p>Da! es iſt noch ſo ein
+klein Inventarium von einem meiner gehabten
+Kunden, ein junges unbeſonnenes Kaufmanns-
+ſöhnchen, das der Vater eine Weile hieher
+ſchickte. Der hat zwiſchen meinen Wänden
+gezappelt, daß er quitſchte. Tauſend gottloſe
+Streiche, und eine raſende Liebe zu einer Erz-
+Buhlerinn, in dem Gehirne eines ſiebzehnjähri-
+gen Buben, wahrhaftig! er hätte ſich können
+hoch bringen, wär ihm nicht Halte gemacht wor-
+den. Was es heut zu Tage für Zucht giebt!
+man möchte Gott bitten: Herr! nimm der jun-
+gen Brut die zu vielen Sinne. Aber Hals ab!
+wo's nicht wahr iſt! die Väter ſind Schuld, ſind
+ſelber quergängig, überſehens den Söhnchens.
+Und den Müttern brichts Herzchen, wenn das
+liebe Bubchen ein wenig gezüchtigt werden ſoll.
+Aber das war ein Vater, wie ihn Gott haben
+will, der meints mit dem Sohne recht, er nahm
+ihn nicht eher von hier weg, bis ers ihm recht
+hatte fühlen laſſen, daß er in ſeiner Gewalt war,
+und bis er heilig Beſſerung verſprach, die er</p><p>auch nun hält. Ein braver Vater! werth zehn
+Söhne! wenn er ſie alle ſo vor der Peſtwaare
+behüten kann. Wollen ſeine Geſundheit trin-
+ken.</p></sp><sp><speaker>George.</speaker><p>Thus ungern.</p></sp><sp><speaker>Kerkerm.</speaker><p>Was? -</p></sp><sp><speaker>George.</speaker><p>Jhr thut zuviel, und ich kann euch
+nichts erwiedern.</p></sp><sp><speaker>Kerkerm.</speaker><p>Hi hi! das Maulen kam mir an,
+nun muß ich lachen, hi hi! des Wiedergebens
+halber thut man auch eures gleichen was ʒu Lie-
+be! ich möchte das Vergnügen, euch erquicken
+ʒu können, gewiß keinem andern gönnen, und
+wenns der König ſelber wäre. Auch will ich
+euch heute, ſo lang ihr noch hier ſeyd, ganz al-
+lein bedienen. Verſtanden?</p></sp><sp><speaker>George.</speaker><p>Wohl wohl! wenn ihr mit dem
+allen euch und eure Kinder nicht verſäumet.</p></sp><sp><speaker>Kerkerm.</speaker><p>Ich! die Kinder! - das Herz
+hier in meiner Bruſt, das mich reich macht,
+ſoll auf meine Kinder erben, und ſie werden ge-
+nug haben. Ich ging in die weite Welt, Vater-
+und Mutterlos, morgends bey ſchönen Sonnen-</p><p>Aufgang, ſah eine Strecke hinter mir meine Va-
+terſtadt in grauen Nebel ſchwinden, ſtarrte noch
+einmahl die Thurmſpitze des hohen Münſters
+an, mir grießte die Haut, ich wandte mich um,
+hub meine ledige Hände ʒum Himmel und dachte,
+du Vater aller Kinder dort oben, wirſt mich
+nicht verſäumen. Und ſieh! er gab mir noch
+dich zu erquicken. Aber du trinkſt ja nicht!
+was giebts! was ſiehſt du ſo wäßrich! biſt du zu
+durſtig! ich hohl dir gleich Waſſer.</p></sp><sp><speaker>George.</speaker><p>Bleibt, bleibt! es lebe die Red-
+lichkeit.</p></sp><sp><speaker>Kerkerm.</speaker><p>Recht! Redlichkeit iſt beſſer als
+Reichthum, und was gelernt haben ſichrer denn
+eine Krone; erwerben ſich das meine Buben, ſo
+iſt für ſie geſorgt und für mich - meine paar
+grauen Haare werd ich ja auch noch mit Ehren
+hinunter zur Grube bringen, ich ſage mit Eh-
+ren! Kennt ihr was herrlichers als ein rechter
+Menſch zu ſeyn; ſo, daß man einem noch im
+Grabe nachſagen darf, das war ein rechtſchaffe-
+ner Mann.</p></sp><sp><speaker>George.</speaker><p>Es lebe der rechtſchaffene Mann!</p></sp><sp><speaker>Kerkerm.</speaker><p>Ihr meynt doch nicht Andreſen?</p></sp><sp><speaker>George.</speaker><p>Noch hab ich ihn nirgends beſſer
+gefunden.</p></sp><sp><speaker>Kerkerm.</speaker><p>Würdet ihrs in meiner Haut
+nicht auch ſeyn?</p></sp><sp><speaker>George.</speaker><p>Es wäre meine Freude.</p></sp><sp><speaker>Kerkerm.</speaker><p>Nun ſo trinkt auf die Geburt
+dieſer Freude! der Himmel ſoll ſie euch ſchenken!
+topp George! es leben alle gute Herzen.</p></sp><sp><speaker>George.</speaker><p>Der Himmel geb ihnen all ihre
+Wünſche!</p><stage>(nachdem er getrunken)</stage><p>Herrlicher
+Trunk! ihr ſolltet ihn euren ſchwächern Kräften
+behalten.</p></sp><sp><speaker>Kerkerm.</speaker><p>Als ob ihr nicht Zuſatz brauchtet.</p></sp><sp><speaker>George.</speaker><p>Glaubt ihr mich ſo ſchwach?</p></sp><sp><speaker>Kerkerm.</speaker><p>Jhr jammert mich.</p></sp><sp><speaker>George.</speaker><p>Die Vorſicht, die mich ins Elend
+führt, wird mir auch durchhelfen.</p></sp><sp><speaker>Kerkerm.</speaker><p>Das wird ſie, das muß ſie der
+armen Unſchuld.</p></sp><sp><speaker>George.</speaker><p>Daß ich es wäre.</p></sp><sp><speaker>Kerkerm.</speaker><p>Was, ihr?</p><stage>(bitter)</stage><p>ich ſah einſt
+eine Mutter ihr gutes Stiefkind bis aufs Blut</p><p>peitſchen, der arme Wurm hatt' es ihr aus
+Vorſicht verſchwiegen, daß ihr eigner Bube ei-
+nem andern ein Loch in den Kopf geſchlagen.
+Daß war wohl ſehr ſchuldig? gelt?</p></sp><sp><speaker>George.</speaker><p>Wars aber ein Todtſchlag, mußt'
+ihn das Stiefkind auch verſchweigen? und
+bin ich nicht dadurch ſtrafbar, daß ich ihn ver-
+ſchwieg?</p></sp><sp><speaker>Kerkerm.</speaker><p>Aber hat euch nicht der Feige
+drum gebeten?</p></sp><sp><speaker>George.</speaker><p>Was ſoll ich ſagen! ihr wißts.</p></sp><sp><speaker>Kerkerm.</speaker><p>Hab ich euch nun! ſeyd ihr nicht
+das Stiefkind vom Schickſale! kanns wohl einen
+ungerechter peitſchen als euch gute barmherzige
+Seele? weißt mir mal den Brief.</p><stage>(George
+giebt ihm denſelben)</stage><p>Da ſollt ihr hören. Erſt aber
+trinkt einmahl, ſo. Nun:</p><stage>(ließt)</stage><p>Brief an Georgen.
+"Eben hat mich der Prieſter zu meinem letzten
+"Gange bereitet. Ich bin meines Lebens
+"müde, und zur Ewigkeit geſtärkt; nichts
+"quälet mich mehr als der Gedanke, daß</p><p>"ch euch mein armer George mit in mein
+"Unglück zog. Euch Unſchuldigen hab ich
+"Mörder bis ans Grab elend gemacht.</p></sp><sp><speaker>Kerk.</speaker><stage>(ſpricht )</stage><p>Ja Bube! das haſt du.
+"O! das iſt für mich bittrer als der Todt.
+"Eure Sclavenkette klirret in meiner Seele,
+"ſchlägt mir Wunden ins Herz. Ach!
+"warum dacht ich nicht daran! warum -</p></sp><sp><speaker>Kerk.</speaker><stage>(ſpricht)</stage><p>Ja ja! ſchnell gemacht, und
+nicht zuvor bedacht, hat manchen in groß Leid
+gebracht.</p><p>"Warum nannt ich euch ſchuldloſen Zeu-
+"gen meiner That! Jch ſelbſt ſollte mich
+"angeben, meine Strafe fordern, und euch
+"verſchweigen, dann ſtürb ich ruhig, und
+"ihr wärt heute frey -</p></sp><sp><speaker>Kerk.</speaker><stage>ſpricht)</stage><p>Nun, wer hat dich dran ge-
+hindert du Unkraut! Himmelſchreyend, einen
+ehrlichen Mann mit ins Verderben zu ziehn.
+"Aber wir ſcheinen beyde zum Leiden be-
+"ſtimmt.</p></sp><sp><speaker>Kerk.</speaker><stage>(ſpricht)</stage><p>Schöner Troſt! nein Kerl-
+chen, es heiſt: wie du dir betteſt, ſo wirſt du</p><p>ſchlafen, und was du dir eingebrockt haſt mußt
+du auseſſen.
+"Gott ſteh euch bey mit ſeiner Hülfe.</p></sp><sp><speaker>Kerk.</speaker><stage>(ſpricht)</stage><p>Noch beſſer!
+"Ich vermag nichts mehr, als für euch zu
+"weinen, für euch meinen letzten Seufzer
+,zu ihm ſchicken, möcht' er ihn hören,
+"möcht er euch retten wie ihrs verdient.
+"Ach! denn könnt ich hoffen, das ihr mir
+"meinen Frevel vergebt. Aber ihr ſeyd ſo
+"gut, ich kenn euch, ihr nehmt meine Reue
+"an, ihr verzeiht mir ietzt in euren Ban-
+"den, ihr laßt mir das durch ein Wort
+"wiſſen, und Franz ſtirbt in dem ſeligen
+"Bewußtſeyn, das ihn George nicht
+"haſſet. "</p></sp><sp><speaker>Kerkerm.</speaker><p>Ja ja! nun's zu ſpät iſt, kommt
+er mit der Reue nachgezogen wie ein Alterwei-
+bertanz.</p></sp><sp><speaker>George.</speaker><p>Scheltet ihn nicht, er ſtirbt, und
+ich lebe.</p></sp><sp><speaker>Kerkerm.</speaker><p>Ihr lebt! nun ja! das ihr doch
+noch an den lumpigen Leben kauen könnt, wie</p><p>der Hund am dürren Knochen, ihr müßt große
+wackre Stücke auf das bischen Leben halten.</p></sp><sp><speaker>George.</speaker><p>Es iſt auch ein Gut das wir ſchätzen
+müſſen ſo lange es uns die Beſtimmung erhalten
+will. Wer kann den Rath der Vorſicht durch-
+ſchauen! wem ſind ihre verborgene Wege er-
+forſchlich? Wer ſagt dem Elenden ſeine Hülfe
+ab, ſo lange er noch Oden holt? Im Leiden
+erndtet die Tugend, und der Gerechte wird durch
+Trübſale herrlich.</p></sp><sp><speaker>Kerkerm.</speaker><p>Lieber Seelenjunge! du ſprichſt
+wie ein Bischof, mußt ſehr bekannt mit dem
+Himmel ſeyn, mußt fühlen das er dich liebt.</p></sp><sp><speaker>George.</speaker><p>Ja! das fühl ich, und dulde ſeine
+Prüfung mit der Stille eines guten Kindes
+dem ſein Vater etwas aus der ſpielenden Hand
+reißt.</p></sp><sp><speaker>Kerkerm.</speaker><p>Großer himmliſcher Vater! ſo
+ein guter Menſch ſollte mit den böſen vermengt
+an der Ruderbank ſterben? iſt er doch nicht ſei-
+nes Unglücks Schmidt, und du wirſt ſein Elend
+nicht immer wollen, denn du biſt gerecht.</p><stage>(ab )</stage><p>Und dich hätt' ich betrügen ſollen, herzlicher
+liebevoller Alter! wer das könnte, muß an ſei-
+ner eigenen Seele ein Betrüger ſeyn. Nein!
+lebe für deine Pflichten, für deine Kinder! ohne
+das dir ein Haar gekrümmt werde, du recht-
+ſchaffener Mann, wenige in der Haushaltung
+Gottes halten ſich wie du! weil ihrer ſo wenige
+mit dem Lohne zufrieden ſind, den die verarmte
+Tugend giebt. Und nun zu dir! (zum Bildchen )
+ganz zu dir! in den letzten Augenblicken meiner
+Freyheit, will ich nichts hören, nichts ſehen,
+nichts empfinden als dich! du mein Elemeut!
+An meiner Bruſt will ich dich tragen, da ſollſt
+du auch in der gräßlichſten Sclaverey meine
+Welt, mein Troſt, meine Freyheit ſeyn. Wer
+uns das geweißaget hätte! als ſie dich mir
+ſchickte, als ſie mir ſchrieb: "Hier mein George!
+"empfange die Schattenzüge deiner Louiſe, er-
+"hole dich daran, wenn ein neidiſcher Tag voll
+"widriger Zufälle, Gefahr, oder Eigenſinn un-</p><p>"ſeres Geſchicks mich hindert mit dir aus der
+vollen Seele zu ſprechen, die du, wenn du wilt,
+"auch in dieſen ſtummen Bildchen ſinden kannſt,
+"denn ſie iſt immer fort bey dir. " Ach damals
+wußte ſie nicht, daß du noch einmahl für die
+Bedürfniße meines Herzens mir alles ſeyn wür-
+deſt, alles ſeyn könnteſt - O! wer uns das
+geweiſſagt hätte! als in meiner malenden Hand,
+die erſte Liebe zitterte, als meine ſeligtrunknen
+Blicke dieſes Wonnebildchen vollendet in ihrer
+Hand ſahn, und darauf ihr verſchämtes Stam-
+meln mich frug: Schweitzer: könnteſt du dem
+Mädchen gut ſeyn? - Ich hielt das nicht aus,
+ſtand auf, von meinem Schickſal gedrungen, und
+taumelte aus ihren Zimmer, wie ein verſtoßener
+Engel aus Gottes-Himmel. Wie ſie das alles
+ertrug! durchſah, und nicht abließ, und mich
+immer lieber gewann - und nun auf einmahl
+ſo abgeriſſen von ihr.</p><stage>(ſetzt ſich am Tiſch, will
+ſchreiben, und vermags nicht!</stage><p>Die Hand verſagt
+mir ihre Kräfte!</p><stage>(pauſirt, fängt nach einer Weile
+wieder an)</stage><p>dieß iſt der letzte Brief an dich!
+Louiſe! welch Beginnen - -</p><stage>(will wieder ſchrei-</stage><p>Aber Louiſe! an dich nicht ſchreiben
+ʒu können? an dich nicht? du! deren Name al-
+lein ſchon meinem Leben ſeine Geiſter giebt! An
+dich nicht ſchreiben zu können! nicht das letzte
+Lebewohl aus meiner Seele winden zu können?
+nicht in einer Sylbe mein Herz dir zurück zu
+laſſen, daß deine ſchwimmenden Blicke es faßen
+könnten, das Herʒ, das mit allen ſeinen Trie-
+ben dein iſt. Kein Liſpeln aus ihm dringt zu
+dir, kein Gedanke der liebevollſten Liebe, keine
+Ueberzeugung meines Innigſten Schmerzes eilt
+zu dir! das es dir Troſt bringe und Linderung
+in die bittre Stunde die mich dir entreißen
+wird. -</p></sp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>allein.</stage><stage>ben, legt die Feder nieder, und ſpricht mit dem
+Bildchen )</stage></div><div type="scene"><head>Sechſter Auftritt.</head><stage><castList><castItem>Kerkermeiſter</castItem><castItem>Louiſe</castItem><castItem>Louiſe</castItem></castList></stage><stage>und</stage><stage>treten ein,</stage><stage>iſt in Mannsreiſekleidern.</stage><stage>(George raft hurtig ſein Bildchen zu ſich und das
+Schreibzeug im Tiſchkaſten. )</stage><sp><speaker>Kerkerm.</speaker><stage>(der Louiſen faſt mit Gewalt herein-
+zieht)</stage><p>Je! ſo kommt doch nur! hier iſt er ja,
+erſt frägt er ſich bald das Maul nach ihm ab,
+und nun er ihn ſieht, ſcheut er ſich vor ihm,
+wie die Eule vorm Tageslicht. (Louiſe geht bis
+mitten aufs Theater, bleibt ſtehn, und hält den Hut
+vor Augen ) gar den Hut vor Augen? nein!
+mit euch iſts nicht richtig. Seyd ihr ein
+Schelm? ſo will ich euch bald Quartier anwei-
+ſen. - Ey was! ich muß nur Licht machen.
+(nimmt ihr den Hut weg ) George kennt ihr denn
+das Zuckerpüpchen?</p></sp><sp><speaker>George.</speaker><stage>(zwey Schritt auf ſie zugehend, mit
+fallender Stimme)</stage><p>Ach den kenn ich! den kenn
+ich!</p><stage>(ſinkt kraftlos rücklings auf den Schemmel )</stage></sp><sp><speaker>Kerkerm.</speaker><p>Sechs Sinne vor einem, wo ich
+aus dem Volke klug werde, der eine ſteht wie</p><p>der marmorne St. Johanne an-der-großen
+Kirchthüre, und der andere ſitzt wie der Lahme
+am Teiche-Bethes da. George! Monſieur!</p><stage>(reißt ſie zuſammen )</stage><p>ſo thut doch einmal die
+Mäuler auf.</p></sp><sp><speaker>George</speaker><stage>(nach einer Pauſe)</stage><p>Laßt uns ein we-
+nig allein. Mein Vetter - der - wir verun-
+einigten uns neulich - und - - ich bitt euch
+Meiſter!</p></sp><sp><speaker>Kerkerm.</speaker><p>Burſche! - - von dem Vetter
+haſt du mir nichts geſagt.</p><stage>(geht ab, dreht ſich
+noch einmal zu Louiſen um)</stage><p>ich laß euch beyſam-
+men, und vertragt euch hübſch wieder Herr Vet-
+ter! daß ihr verſöhnt ſeyd, wenn ich wieder
+komme. Haß und Groll muß in keiner Bruſt
+übernachten, eben heißt das Evangelium, Liebe
+verbindet alles untereinander. He! wie roth
+er wird! nun! der iſt noch nicht verdorben dems
+Herz ſo ins Geſicht tritt.</p><stage>(ab)</stage></sp></div><div type="scene"><head>Siebenter Auftritt.</head><stage><castList><castItem>Louiſe</castItem><castItem>George.</castItem></castList></stage><stage>und</stage><sp><speaker>George</speaker><stage>(der zu ihr geht)</stage><p>O Louiſe!</p></sp><sp><speaker>Louiſe</speaker><stage>(bey ihm)</stage><p>Mein George!</p></sp><spGrp><head>(1)</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><sp><speaker>George</speaker><stage>(noch immer bey ihr)</stage><p>Sie ſinds! ſie
+ſinds! in dieſen elenden Mauren wird mir noch
+einmal die Seligkeit zu theil Sie zu ſehn? die
+Seligkeit die mir nun künftig nicht Himmel
+nicht Erde wiedergeben kann -</p></sp><sp><speaker>Louiſe.</speaker><p>Du liebſt mich George?</p></sp><sp><speaker>George.</speaker><p>O Louiſe! wiſſen Sie auch an wem
+Sie dieſe Frage thun!</p></sp><sp><speaker>Louiſe.</speaker><p>An dich -</p></sp><sp><speaker>George.</speaker><p>An einen Elenden, Hülfloſen, der
+nie Ihre Bemerkung werth war, und der nun
+für dieſe Welt nichts mehr iſt, als die Seiffen-
+blaſe in der Hand eines Knaben. Meine Freu-
+den, meine Hoffnungen ſind aus.</p></sp><sp><speaker>Louiſe.</speaker><p>Sage nicht ſo! du Hoffnung mei-
+ner Tage! O was hab ich gelitten, was hab
+ich verſucht! meine Seele hätt ichs für deine
+Befreyung koſten laſſen. Aber ich kam zu ſpät,</p><p>dein Urtheil war ſchon vom Könige unter-
+ſchrieben.</p></sp><sp><speaker>George</speaker><stage>(dankbar )</stage><p>Wie? Sie hätten mich
+auch hier nicht vergeſſen, Ihre Liebe wäre auch
+für mich armen verurtheilten Sclaven wirkſam,
+thätig geweſen? Welcher Menſch unter der
+Sonnen iſt ſo vieler Güte werth?</p></sp><sp><speaker>Louiſe.</speaker><p>Du ſpotteſt meiner Liebe? Was hat
+ſie für dich ausgerichtet? wirſt du nicht im
+Elende verſchmachten? o George! lieben alle
+Seelen ſo unglücklich als wir?</p></sp><sp><speaker>George.</speaker><p>Faſſen ſie ſich Louiſe! Muß es
+nicht ſo ſeyn? gab ich dem Laſter mich preiß?
+hab ich der Stimme der Tugend jemals mein
+Ohr verſchloſſen? oder meinem Nächſten mit
+unrecht wehe gethan: eine Seele müſſe den
+Himmel darben, wo ſie ſich einer Bosheit be-
+wußt iſt. Warum aber leid' ich nun? iſt mein
+Schickſal nicht ein Zuſtand dem ich nicht ent
+gehn konnte?</p></sp><sp><speaker>Louiſe.</speaker><p>Daß du das ſo nimmſt! du Lieber!
+wer deukt dir gleich? ſieh! deine Denkungsart
+iſts, die dein Mädchen an dich gezaubert hat.</p><p>Aber, iſt auch ietzt die Stunde davon zu han-
+deln? die Stunde! für die ich mein halbes Le-
+ben verſeufzt, alle Kräfte meiner Seelen ver-
+weint habe. O Gott! ich hätte ſterben müſſen, 
+hätte ich mir dieſe Stunde nicht verſchaffen
+können.</p></sp><sp><speaker>George.</speaker><p>Mußten wir uns lieben lernen?
+um ſo ſchröcklich, ſo auf ewig geſchieden zu wer-
+den! ach! warum warf ſich der Eigenſinn Ih-
+res Herzens juſt auf mich? auf mich! armen
+Soldaten!</p></sp><sp><speaker>Louiſe.</speaker><p>Haſt du mich das nicht ſchon tau-
+ſendmal gefragt? und ich frug ſchon tauſendmal
+den Himmel, warum er dich von deiner Stelle
+weg in dieſen Stand ſetzte. Mein Auge kann
+ſeine Rathſchläge nicht durchſchaun, ich will
+ſtille ſeyn, denn du murreſt nicht: Aber das
+fühl ich, wenn du deine Hand von mir ziehſt,
+ſo bin ich verloren.</p></sp><sp><speaker>George.</speaker><p>Verloren? was wollen Sie? was
+kann ich für Sie thun?</p></sp><sp><speaker>Louiſe.</speaker><p>Was ich will? weiß ich denn in
+dieſer Todesangſt was ich will? dich! dich! der</p><p>du mir alles biſt was in meiner Seele liegt.
+Liebſt du mich, George?</p></sp><sp><speaker>George.</speaker><p>Fragen Sie nicht ſo. In dieſen
+finſtern Stunden, in dieſem nichtsbedeutenden
+Zuſtande, hab ich keine Antwort für Sie. Nicht
+mein Elend dem ich entgegen gehe, nicht dieſe
+ſchändlichen Ketten, nicht der Todt der mich in
+hundert Geſtalten auf den Wellen erwartet, iſt
+mir ſchrecklich - Nein! an dem Verluſt Loui-
+ſens ſcheitert meine Seele.</p></sp><sp><speaker>Louiſe.</speaker><p>Du liebſt mich? das nimmt mir
+alle meine Wünſche. Zwiſchen Himmel und
+Erde kenn ich nur noch eine Glückſeligkeit, die
+erwart ich von dir, gieb mir deine Hand darauf,
+zögre nicht! mein Leben hängt daran.</p></sp><sp><speaker>George.</speaker><p>Ihr Leben? o geſchwind! geſchwind!</p></sp><sp><speaker>Louiſe</speaker><stage>(ängſtlich)</stage><p>Mir wars als käme je-
+mand. Wenn wir nur nicht behorcht werden.
+O George! ich zittre dirs zu ſagen, du wirſt
+nicht einwilligen.</p></sp><sp><speaker>George.</speaker><stage>(für ſich)</stage><p>Welch Licht geht mir
+auf? - Weiß man in Jhrem Hauſe um die-
+ſen Beſuch?</p></sp><sp><speaker>Louiſe.</speaker><p>Frage nicht, du kennſt das Joch
+unter dem ich ſeufze. Ich bin heimlich gekom-
+men, meine Amme half mir durch.</p></sp><sp><speaker>George.</speaker><p>Himmel! und Sie wagten! -
+Wo nahmen Sie dieſe Kleider her?</p></sp><sp><speaker>Louiſe.</speaker><p>Ich ließ ſie von meinem Taſchen-
+gelde machen O ſieh mich nicht an! ich weiß,
+ein ſittſames Mädchen kleidet ſich nicht ſo, aber
+ich mußte.</p></sp><sp><speaker>George.</speaker><p>Engel in jeder Tracht! und durch
+dieſen einzigen Schritt hieher ſoll Sie die Welt
+verdammen? um unſerer Liebe willen, machen
+Sie, daß Sie wieder heimkehren. (Louiſe ſchüt-
+telt den Kopf.</p></sp><sp><speaker>George.</speaker><stage>(in Aengſten )</stage><p>O! warum muß ich
+Sie kennen? gehn Sie! ich flehe! gehn Sie,
+ehe ſie noch jemand vermißt, jemand gewahr
+wird. Der nahende Todt könnte mir nicht
+ſchrecklicher ſeyn, als die Gefahr, in der ich Sie
+itzt ſchweben ſehe. Gehn Sie! was wollen Sie
+bey einem Hülfloſen noch? die Augenblicke
+ſchwinden.</p></sp><sp><speaker>Louiſe.</speaker><p>Wohl! der Morgen bricht ſchon
+durchs Gegitter, Ach George! nimm den Todt
+von meinen zitternden Lippen! ſieh mich an!
+rähtſt du nichts?</p></sp><sp><speaker>George.</speaker><p>So faß ich Sie nicht.</p></sp><sp><speaker>Louiſe.</speaker><p>Du wirſt fort?</p></sp><sp><speaker>George.</speaker><p>Nicht aus der Welt. Wir kön-
+nen uns wieder ſehn.</p></sp><sp><speaker>Louiſe.</speaker><p>Wieder ſehn! wenn der Gram dein
+Mätchen getödtet, und der Staub von ihren
+Gebeinen ſich in alle Winde theilt. O du kennſt
+meine Leiden nicht! ich habe mich ihn offenbart.</p></sp><sp><speaker>George.</speaker><stage>(erſchrocken )</stage><p>Wie? Wem haben
+Sie ſich offenbart?</p></sp><sp><speaker>Louiſe.</speaker><p>Meinem Oncle.</p></sp><sp><speaker>George.</speaker><p>Entſetzlich!</p></sp><sp><speaker>Louiſe.</speaker><p>Schilt mich nicht! Ach es war eine
+Stunde der Verzweiflung, eine ſinnloſe Stunde.
+Ich hatte von dir gehört du ſeyſt in Verhaft
+genommen, der Heuchler, der ſchon längſt von
+unſrer Liebe geargwohnt, ſagte mirs ſelber, mit
+angenommnen Mitleid ſagte er mirs, um mich
+recht auszuforſchen. Und ich - konnt ihn nicht</p><p>zurückhalten den Strom von Schmerzen in dem
+ich ietzt verſank? noch hatt' er nicht genug, er
+ſchmeichelte mir, ſah Thränen fließen, die ich
+umſonſt zu verbergen ſuchte, ſie roliten wie
+kalte Todestropfen von meinen Wangen herab,
+er trocknete meine Augen und ſagte ſo ſanft:
+armes Mädchen! ich weiß was dir fehlt! wilſt
+du dich mir vertraun, ſo will ich dir helfen.
+Nicht wahr? du liebſt ihn! Kind! Ich ſtürzte
+zu ſeinen Füſſen, konnte nicht reden, küßte nur
+ſeine Hand wie einem wohlthätigen Gotte.
+Er hub mich auf, und noch immer ſanft be-
+fahl er mir zu reden: da ſtürzte mit einem Thrä-
+nenſtrom aus meinen Augen meine ganze Seele
+vor ihm hin, und das ganze Bekenntniß mei-
+ner Liebe, aller Zuſammenhang von dem. An-
+fange unſerer Bekanntſchaft bis ietzt, floß vor
+ihn hin, wie ein lautrer Bach.</p></sp><sp><speaker>George</speaker><stage>(in äußerſter Beſtürzung )</stage><p>Und er?</p></sp><sp><speaker>Louiſe.</speaker><p>Ward wie ein grimmiger Löwe,</p><p>ſobald er ausgehört hatte, da flatterte das zit-
+ternde Täubchen zwiſchen ſeinen Klauen! er
+hätte mich getödtet liebt' er mich nicht.</p></sp><sp><speaker>George.</speaker><p>Gott! Gott! und ich Hülfloßer
+hier? was kann ich nun für dich thun? theures
+Opferlamm der Wahrheit und Liebe!</p></sp><sp><speaker>Louiſe</speaker><p>Mich mit dir nehmen, mein Georg!</p></sp><sp><speaker>George</speaker><stage>(erſchrocken)</stage><p>Auf die Galleeren?</p></sp><sp><speaker>Louiſe.</speaker><p>Nimm mich mit dir!</p></sp><sp><speaker>George.</speaker><p>Ich! der ichs mir in hoffnungs-
+vollen Tagen verſagte an Sie zu denken, jemals
+ihrem beſſeren Glücke mich entgegen zu ſetzen,
+ich ſoll nun ſo ganz wie eine kriechende Raupe
+die Blüthe Ihres ſchönen Lebens dahinnagen?
+die unſelige Urſach Jhrer ruheloſen Tage ſeyn?
+die Sie ſo gemächlich in dem Schooße ihrer Fa-
+milie verleben könnten.</p></sp><sp><speaker>Louiſe.</speaker><p>Laß es doch! hab ich nicht dich da-
+für meine Welt?</p></sp><sp><speaker>George.</speaker><p>Und der Name eines verlauffenen
+Mädchens -</p></sp><sp><speaker>Louiſe.</speaker><p>Dein Verdienſt veredelt alles was
+ich für dich thu.</p></sp><sp><speaker>George.</speaker><p>Unmöglich! unmöglich!</p><stage>(geht eini-
+gemal auf und ab )</stage><p>Hören Sie! Licht meines
+Lebens! mein einziger Gedanke! meine einzige</p><p>Sorge! hörn Sie, und verſchmähn Sie nicht
+meinen Rath. - Wenn Sie nicht wieder zu
+Ihren Oncle wollen, nicht zu ihm können, ſo
+geben Sie ſich in den Schutz unſres Beichtva-
+aters; er war der Freund, der Vertraute unſrer
+Liebe, er wird auch der Freund Ihres Schick-
+ſals ſeyn, Sie in Schutz nehmen, Ihnen Ihr
+Vermögen ausmachen, Sie in-ein Ktoſter brin-
+gen, wohin Sie wollen.</p></sp><sp><speaker>Louiſe.</speaker><p>Was ſoll mir das Leben ohne dich!
+nimm mich mit dir, mein George!</p></sp><sp><speaker>George.</speaker><p>Folgen Sie mir!</p></sp><sp><speaker>Louiſe.</speaker><p>O! heute, heute nur nicht. Ich
+kann dir nicht gehorchen, die ganze Welt,
+meine Glückſeligkeit, mein Leben liegt in dem
+Gedanken mit dir zu gehn.</p></sp><sp><speaker>George.</speaker><p>Und für mich liegt eine Hölle
+darinnen, ich ſehe ſie voraus die Gefahr, die
+Reue, die hinter ihren unglücklichen Wünſchen
+hergehn. Die See iſt kein bequemes Haus, man
+iſt darauf tauſend Ungemächlichkeiten, tauſend Zu-
+fällen unterworfen, ſie trennt und ſcheitert Freunde
+und Hoffnungen oft in einem Augenblicke. Und</p><p>was würde aus mir, wenn ich jede ſelige Minute
+aus dieſen Blicken empfangen, der tödtenden Be-
+ſorgnis für ihr Leben wieder zurück geben müßte,
+das theuer gewünſchte Leben! für das allein
+ich nur noch ein Gebet habe, für deſſen, glück-
+ſelige Dauer allein nur noch ein Gefühl. Und
+wenn es ſich in mein Unglück miſcht, aus wel-
+chen fernen Himmel wird dann die Ruhe wie-
+derkehren, die Sie ietzt ſo undankbarlich von
+ſich weiſen!</p></sp><sp><speaker>Louiſe.</speaker><p>Nimm mich mit dir!</p></sp><sp><speaker>George</speaker><stage>(die Hände ringend )</stage><p>Sie läßt ſich
+nicht bedeuten, kann man die Güte hartnäckiger
+betreiben, als Sie thut. O Louiſe! wie wenig
+gehört Ihr Herz in Ihre Bruſt! Sanftmuth,
+Geduld, holdſelige Einfalt ſind die Zierden Ih-
+res Geſchlechtes, nicht dieſer Sturm derAffe-
+tten, dieß Brauſen der Leidenſchaften, dieß Un-
+genügſame Ihrer Wünſche, da, wo die Vorſicht
+ſelbſt eine Scheidewand vor Ihre Augen ſetzt.</p></sp><sp><speaker>Louiſe.</speaker><p>Und wenn ein Jordan ſich zwiſchen
+meinem Vorſatz ſtellte, ſo ſollte meine Liebe ihn
+theilen, und Louiſe eilte mitten durch zu dir.</p></sp><sp><speaker>George.</speaker><p>O Himmel! warum mußte dieſer
+feſte Sinn, dieß unbiegſame Herz Ihnen zu
+Theil werden?</p></sp><sp><speaker>Louiſe.</speaker><p>Du fragſt? kennſt du die Glückſe-
+ligkeit noch nicht, die man in der Beharrlichkeit,
+in der Treue zu dem hat, das man einmal für
+liebenswerth erkennet? oder würdeſt du in
+meiner Stelle feiger ſeyn, weniger thun wollen?</p><stage>(George ſchließt die Hände, und ſchlägt die Augen
+nieder)</stage><p>Und was opfere ich dir anders auf als
+ein wenig Muth über mein Geſchlecht? biſt du
+nicht auch ein Menſch wie ich? biſt du nicht
+mir verlobt? und hab ich als ein Mädchen, die
+ſich dir auf deine Lebenstage verheiſſen hat, ein
+Recht beßre Tage zu leben als dir beſtimmt
+ſind? nein mein Geliebter! was dein iſt, ſey
+mein; und das Schickſal, des du lebſt, ſey auch
+mein Schickſal, ich bin dir gewiß wie der Tod,
+du wirſt mich nicht los.</p></sp><sp><speaker>George</speaker><stage>(für ſich )</stage><p>Gott! was ſoll ich noch
+erdenken ſie zurückzuhalten?</p><stage>(laut, nach einigen
+Bedenken)</stage><p>Alles gut! vortreflich! höchſt vor-
+treflich! wenn ich nur - für mich ſelbſt ſicher</p><p>ſeyn - die Mannsperſonen - beſiunen Sie
+ſich auf Exempel: die Mannsperſonen haben
+eine wunderbare Delicateſſe in ihrer Neigung -
+Ein ſo unbehutſames - verzeihn Sie mir!
+reichliches Opfer wollt ich ſagen, könnte mir
+mißfallen - Ueberdruß machen - vielleicht -
+daß ich Sie</p><stage>(beyſeite)</stage><p>o Gott!</p><stage>(laut)</stage><p>nicht
+mehr liebte -</p></sp><sp><speaker>Louiſe.</speaker><p>George!</p><stage>(erſchrocken)</stage></sp><sp><speaker>George.</speaker><p>Nicht mehr hochſchätzte! -</p><stage>(für
+ſich )</stage><p>Böſewicht, der das kann.</p></sp><sp><speaker>Louiſe.</speaker><p>Sey gütig.</p></sp><sp><speaker>George.</speaker><p>Würden Sie das ertragen?</p></sp><sp><speaker>Louiſe.</speaker><p>Mitleid! Mitleid! grauſamer Pro-
+phet!</p></sp></div><div type="scene"><head>Achter Auftritt.</head><stage><castList><castItem>Andreas,</castItem><castItem>die Vorigen.</castItem></castList></stage><stage>in Eile,</stage><sp><speaker>Kerkerm.</speaker><p>George! lieber Junge! das Blut
+iſt mir alle in einen Tropfen geronnen, in einer
+Stunde holt man euch ab.</p></sp><sp><speaker>Louiſe.</speaker><p>Ach! George! nun! nun!</p></sp><sp><speaker>George.</speaker><p>Muth! meine Liebe! Muth!</p><stage>(für ſich)</stage><p>O! der ſchrecklichen Angſt! in einer
+Stunde, was werd ich hier anfangen?</p></sp><sp><speaker>Louiſe.</speaker><p>Sey menſchlich! o! mein armes
+Herz.</p></sp><sp><speaker>Kerkerm.</speaker><stage>( für ſich)</stage><p>Nu! was ſtellt denn
+das vor?</p></sp><sp><speaker>George.</speaker><p>O! dem meinigen Kraft! dieſen
+quälenden Kampf auszudauren. Ich muß fort,
+meine Augenblicke ſind gezählt.</p></sp><sp><speaker>Louiſe.</speaker><p>Noch eine volle Stunde - ach!
+haltet mich.</p></sp><sp><speaker>George.</speaker><p>Nicht ſo lange mehr, wir müſſen
+uns früher trennen, Andreas wird eine Kutſche
+beſorgen, Sie werden wegfahren.</p></sp><sp><speaker>Louiſe.</speaker><p>Iſt dirs denn ſo leicht mich von dir
+zu weiſen?</p><stage>(ſetzt ſich )</stage></sp><sp><speaker>George.</speaker><p>O Liebe! o Pflicht! was koſtet
+ihr meinem Herzen?</p><stage>( zum Kerkerm. )</stage><p>lieber Mei-
+ſter! helft mir! rettet ſie von ihrer gefährlichen
+Schwärmerey, beſorgt eine Kutſche, bringt ſis
+zum Pater Martin an der St. Johannis Kirche.
+Er weiß von unſrer Liebe, er wird ſie gern in</p><p>Schutz nehmen, in ein Kloſter bringen, wohin
+ſie will. Geht nur, lauft nur, ehe man mich
+abholt.</p></sp><sp><speaker>Kerkerm.</speaker><p>Den Augenblick!</p><stage>(im Abgehn)</stage><p>Heilige-Agnes! was doch die Weiber voll
+Poſſen ſtecken, wer hätte nu hierunter wieder
+eine Eva geſucht</p><stage>(ab.)</stage></sp></div><div type="scene"><head>Neunter Auftritt.</head><stage><castList><castItem>George</castItem><castItem>Louiſe.</castItem></castList></stage><stage>und</stage><sp><speaker>George</speaker><stage>(ſieht ſie leidend an, und nimmt ihre
+Hand. )</stage></sp><sp><speaker>Louiſe.</speaker><p>Du kannſt mich verſchmähn?</p></sp><sp><speaker>George.</speaker><p>Verſchmähn? O du Richter aller
+meiner Handlungen! Himmel, du weißt es, was
+michs koſtet ihr zu entſagen.</p></sp><sp><speaker>Louiſe.</speaker><p>O ſo wiederrufe deine ſchrecklichen
+Prophezeihungen! und kannſt du nicht, ſo ſegne
+meinen Vorſatz, und laß mich ſterben.</p></sp><sp><speaker>George.</speaker><p>Nein mein Mädchen! Ihre Ver-
+nunft wird Sie davor bewahren, ſie allein eilt
+Ihnen zu helfen, wenn alle Stützen ihrer Nei-</p><p>gung um Sie herfallen, beut ſie Ihnen ihre
+Rechte, und die ſanfte Louiſe folgt ihr willig.</p></sp><sp><speaker>Louiſe.</speaker><p>Wie kann ich: wenn die nagende
+Flamme, meine Kräfte verzehrt!</p></sp><sp><speaker>George.</speaker><p>O! wer tröſtet mich? wenn ich
+nun von Ihnen geriſſen einzig meinem unglück-
+lichen Schickſale und meinem noch unglücklichern
+Herzen überlaſſen bin, thät es die Vernunft,
+die Tugend nicht.</p></sp><sp><speaker>Louiſe.</speaker><p>Kalt, kalt wie Eis! wars nicht die
+Tugend die unſre Herzen vereinte? warum giebt
+ſie nun ihr eignes Werk verlohren.</p></sp><sp><speaker>George.</speaker><p>Sie giebts nicht verlohren, unter
+jedem Himmelsſtriche, werden wir getrennt,
+noch immer eine Seele ein Gedanke ſeyn.</p></sp><sp><speaker>Louiſe.</speaker><p>Segne meinen Vorſatz, und laß
+mich ſterben.</p></sp><sp><speaker>George.</speaker><p>War es nicht von je an unſre Be-
+ſtimmung getrennt zu ſeyn?</p></sp><sp><speaker>Louiſe.</speaker><p>Nein, nein! dein Eigenſinn trennte
+uns nur. Wie oft erfand ich nicht Vorſchläge
+zu unſerm ewigen Bündniße, dein Schweitzer-
+ſtolz hat ſie alle verworfen.</p></sp><sp><speaker>George.</speaker><p>Warum nennen Sie das Stolz?
+was der äußerſte Grad von Rechtſchaffenheit
+war. Quälen Sie mich nicht, Louiſe!</p></sp><sp><speaker>Louiſe.</speaker><p>Sieh! und mich nimmſt du auf
+die Folter. Wenn du fühlteſt, was ich bey dei-
+nem Eigenſinn leide! - Nein, du biſt mein
+George nicht mehr! -</p></sp><sp><speaker>George</speaker><stage>(ihre Hand nehmend )</stage><p>Ich bins nicht
+mehr? O! in dieſen Augen liegt eine Welt
+voll Liebe für Sie - ich will für Sie knien,
+flehen, weinen, daß eine Thräne die andere
+ſchlägt! laſſen Sie ſich für Ihre eigene Wohl-
+fahrt erbitten. O Louiſe! kann ein Mann drin-
+gender bitten als durch Thränen? laſſen Sie
+ſich erweichen! vergeſſen Sie mich!</p></sp><sp><speaker>Louiſe</speaker><stage>(kniet neben ihn)</stage><p>Laß dich erweichen,
+vergiß mich erſt, vergiß den erſten Blick der Liebe
+der dich durchdrang, das erſte Geſtändnis mei-
+ner Neigung zu dir, meine Werthſchätzung, meine
+Angſt, meine Thränen, meine Langmuth, meine
+Treue, alles, bis auf meinen Namen -</p><stage>(George iſt erſchüttert aufgeſtanden )</stage><p>Du biſt
+bewegt? o könnt ich dich erweichen! Nein, du</p><p>kannſt deine Hand nicht von mir ziehn, ohne
+mit zu fallen, liebſt du mich nicht? - -
+Wende mir nichts mehr ein, allzulange ſchmiegt!
+ich meine Geſinnungen unter deine zarte Ver-
+nunft, und zwang mein Herz in die Feſſeln des
+Jungfräulichen Wohlſtandes, ich hofte ſo lange
+ich noch nicht für deinen Verluſt zittern durfte.
+Nun aber biſt du unglücklich, hülflos, wie ein
+weinend Kindin in Windeln. O! verſchmähe
+nicht den Beyſtand der Freundſchaft, der Liebe,
+der Treue. Und wenn ich deine Tage nicht
+glücklich, nicht frey machen kann, ſo mache
+meine Liebe ſie dir wenigſtens leidlich, die Liebe,
+die alles auf Erden mit Reiz überzieht. Und
+wenn du je mich liebteſt, ſo nimm an, was ich
+für dich thun kann, nimm die Erbietungen
+eines Herzens das ſo ganz dein eigen, ganz an
+dein Schickſal geheftet iſt, dem du alles biſt,
+Leben, Welt und Himmel! laß mich das ſeyn,
+wozu die Befehle des der die Liebe ſelbſt iſt,
+und dieſes Herzens mich verbinden, deine Ge-
+fährtinn, deine Eva! du Verlaßner! und was
+ich auch für dich verlaſſe, ſo verlaß ichs ja mit</p><p>dir - War nach dem-Verluſt des Paradieſes
+nicht Adam alles für Evam in dieſer Welt?
+und kann ich dafür, daß du für mich nur der
+Einzige biſt?</p></sp><sp><speaker>George</speaker><stage>(für ſich )</stage><p>Engel! Sie fühlt nichts
+von dem Schmerze, den Sie wie kochend Bley
+über mich ausgießt? Wer war je glücklicher
+und unglücklicher beyſammen, als ichs in dieſem
+Augenblicke bin?</p></sp><sp><speaker>Louiſe.</speaker><p>Wende dich nicht weg, ſieh mich
+an, gefall ich dir nicht mehr? Ach! der Gram
+um dich hat meine Wangen abgezehrt, aber die
+Ruhe, die Freude immer bey dir zu ſeyn, wird
+ſie wieder mit Roſen färben. Ich gehe mit
+dir, mein George! Ja, was fürchteſt du doch
+wenn ich bey dir bin? ich habe alles wenn ich
+dich habe, du biſt die Seele aller meiner Wün-
+ſche; um einen Blick von dir vergäß ich die
+Quaalen einer Welt. Glaube doch auch nicht,
+daß der gerechte Himmel dich immer in deinem
+Elende laſſen wird, nein, er wird ſich deiner
+erbarmen, wird das Herz deiner Befehlshaber
+lenken, du wirſt nach einiger Zeit von deinen</p><p>Ketten erlößt, und in irgend einen Theil der
+Welt hingeſetzt werden, ihn zu bebauen, oder
+zu bewohnen, dahin will ich dir denn folgen,
+und in deine ſtille Hütte mein glückliches Herz
+zu theuren Pflichten zu goldnen Tagen brin-
+gen, die durch die Erinnerung aller Leiden, die
+wir zuvor erdulden mußten, nur ſeliger uns
+ſeyn werden.</p></sp><sp><speaker>George</speaker><stage>(der kommen hört, ſieht wild, geht ei-
+nige Schritte von Louiſen, flieht zu ihr, drückt ſie an
+ſeine Bruſt)</stage><p>Und wärs der kommende Tod! -
+Dieſe Seligkeit!</p><stage>(Marchand und der Kerkerm.
+treten herein. )</stage></sp><sp><speaker>Kerkerm.</speaker><p>Das iſt der Schweitzer.</p><stage>(geht ab)</stage></sp><sp><speaker>George.</speaker><p>Für die lange Ewigkeit biſt du
+mein, und keine andre!</p><stage>(zum Marchand )</stage><p>Hört
+ihrs? mein! und keine andre! und keines an-
+dern!</p><stage>(läßt ſie loß )</stage><p>Da! nehmt ſie!</p><stage>(mit ſchwa-
+cher Stimme, indem er ſich allmählich auf den
+Schemmel ſetzt, die Hände ſchließt, den Kopf hängt,
+und ſo leblos ſitzen bleibt)</stage><p>Nehmt ſie!</p></sp><sp><speaker>Louiſe</speaker><stage>(im äußerſten Schrecken)</stage><p>Gott! mein
+Oncle!</p><stage>(zu ſeinen Füſſen)</stage><p>mein Oucle!</p></sp><sp><speaker>Marchand.</speaker><p>Nichtswürdige! hier biſt du?
+fort!</p><stage>(ſie ſinkt um. Er pocht mit dem Stocke, ein
+Bediente tritt ein )</stage><p>Brilſgt ſie fort.</p></sp><sp><speaker>George</speaker><stage>(den das aus ſeiner Betäubung ſchreckt)</stage><p>Wohin? wo bringt ihr ſie hin? laßt ſie!</p><stage>(hält den Bedienten mit einer Hand, und mit der
+ändern ſchützt er Loniſen. )</stage></sp><sp><speaker>March.</speaker><stage>(mit aufgehobenen Stocke )</stage><p>Sclave!</p></sp><sp><speaker>George</speaker><stage>(der nun merkt daß es Marchand iſt )</stage><p>Verrath! Verrath! wer rettet uns! Ha! das
+iſt er! wir ſind verloren! o meine Louiſe!</p><stage>( ſinkt an ſie)</stage></sp><sp><speaker>March.</speaker><p>Ha! daß du ſchon Wurm genug
+biſt! daß ich dich nicht mit Zähnen zerreißen,
+mit dieſen Händen erwürgen darf, elender, ver-
+dammter Verführer!</p></sp><sp><speaker>George.</speaker><p>Schimpfen Sie mich, Herr! machen
+Sie mich, zum Schlachtopfer, alle nur erſinn-
+liche Grauſamkeit. Nur ſchonen Sie dieſen
+Engel, dieſe Unſchuld!</p></sp><sp><speaker>Louiſe</speaker><stage>(die ſich ermuntert, aufrichtet)</stage><p>Geor-
+ge! - mein Oncle!</p><stage>(in äußerſten Aengſten )</stage></sp><sp><speaker>March.</speaker><stage>(ſchlägt ſich vor die Stirn)</stage><p>Kopf!
+wo warſt du! daß du nicht gleich mit allen
+Flüchen dreingeſchlagen, als der Freche zuerſt
+über meine Schwelle trat! Himmel und Erde!
+ſo was nur im Schlafe gedacht! das Püppchen
+lies ſich malen, und wieder mahlen</p><stage>(faßt Geor-
+gen an beyde Schultern )</stage><p>haſt du den Engel ge-
+faßt, Pinſel! haſt du!</p></sp><sp><speaker>George</speaker><stage>(ſtößt ihn von ſich)</stage><p>Auf ewig in
+mein Herz hab ich ſie gefaßt! und du Teufel!
+ſollſt ſie nicht daraus bannen.</p></sp><sp><speaker>Louiſe</speaker><stage>(ſteht auf, ringt die Hände )</stage><p>Wer er-
+lößt mich aus dieſer Angſt!</p></sp><sp><speaker>March.</speaker><p>Wie gefällt ihr das Jungfer?
+alles ihr ſaubres Werk. Wahrhaftig: ein tref-
+liches Original, zum Exempel für die Mägdchen
+von Paris, einem Sclaven nachzulaufen. Ha!
+das muß ein Tableau, und zum Wahrzeichen
+aufbewahrt werden! dich! wie du daſtehſt, mit
+dem nett angegoſſenen Anʒuge, der uns allen
+deinen Reiz anpreißt, mit deinem Geſichte,
+wovon ſchon ein einziger Zug Engel verführen
+könnte, und dich von einem Affect übergoſſen,</p><p>der die Elemente ſich möchte unterthan machen,
+ſo dich gemalt, in dieſer Krötenhöle, dieſer
+elenden Brut am Halſe hangend. Warte, ich
+will dirs malen laſſen, nicht wahr mein Kind,
+das wird dir wohl ſeyn? Und damit dir nichts
+fehle, will ich dir juſt ſo ein Kämmerchen nach
+dieſem hier anweiſen - du nimmſt auch einen
+Spinnrocken an, den du in ſüſſer Phantaſte
+umarmen kannſt wenn du wilſt, ſchwarz Brod,
+und Waſſer, hum! Götterkoſt für die Lieben-
+den! auch zuweilen die Zuchtmeiſterinn über
+dich, damit du den Wänden was klagen kannſt,
+vorzüglich aber das Tableau der letzten Umar-
+mung vor deinen Augen, wo du gehſt und ſtehſt.
+Komm! komm! wir haben nicht zu ſäumen,
+man kömmt zu ſeiner Glückſeligkeit nie zu früh.</p><stage>(geht hohnlächelnd ab, Louiſen die nichts von ſich
+weiß, bringt man fort. )</stage><p>Wo bin ich! Galle! Galle! über meine glü-
+hende Liebe ergoſſen? Und ſie iſt fort! fort!</p><p>Und hier ſteh ich wie ein ohnmächtiges Kind,
+das die Ruthe erwartet! Himmel! nur dieſen
+Augenblick kein Gefangner, nur dieſen einzigen
+Tag mein Leben frey, das Leben, das ich tau-
+ſendmal meiner Louiſe aufopfern möchte. (auf-
+ſehend ) Mein Vater! mein Vater! wie ſchlägſt
+du mich!</p></sp></div><div type="scene"><head>Zehnter Auftritt.</head><stage><castList><castItem>George</castItem><castItem>Kerkermeiſter</castItem></castList></stage><stage>allein.</stage><stage>tritt ein.</stage><sp><speaker>Kerkerm.</speaker><p>Der arme Junge! er iſt ver-
+rückt! das ſchneidet mir Wunden in die Seele.
+George!</p></sp><sp><speaker>George</speaker><stage>(ihm um Hals fallend)</stage><p>Ach Meiſter!
+wo wird ſie itzt ſeyn, wie wirds ihr ergehn!</p></sp><sp><speaker>Marchand</speaker><stage>(der eilend hereinſtürzt)</stage><p>Ver-
+dammt! Meiſter! habt ihr keine Leute nachzu-
+ſchicken, aufzuſuchen? das Mägdchen iſt uns
+entgangen.</p></sp><sp><speaker>George.</speaker><p>Entgangen? o Vorſicht!</p></sp><sp><speaker>Marchand.</speaker><p>Kommt geſchwind! geſchwind!
+wir wollen ſie ſelber ſuchen, meinem Kerl ent-
+kommt ſie wieder, wenn er ſie auch findet.</p></sp><sp><speaker>George</speaker><stage>(zum Kerkerm. )</stage><p>Wollt ihr mich
+tödten, ſo thuts.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(der den Marchand an die Thür führt
+und ſie hinter ihm zuſchließt )</stage><p>Da Herr! geht,
+und ſchaft euch Helfers-Helfer, meint ihr, daß
+ich ein Häſcher bin? - ha ha ha, der wird
+uns nicht wieder hindern. Sey ruhig George!
+ſie iſt in die Kutſche geſchaft, ſie fährt zum
+Pater Martin.</p></sp><sp><speaker>George.</speaker><p>Was ſagt ihr? o! ein Funke des
+Lebens wieder in dieſe erſtorbne Bruſt - Sie
+wäre in Schutz durch euch gebracht? in Schutz?</p></sp><sp><speaker>Kerkerm.</speaker><p>Nu! habt ihr mirs nicht be-
+fohlen?</p></sp><sp><speaker>George.</speaker><p>Wie wars euch aber möglich in
+dem entſetzlichen Augenblicke?</p></sp><sp><speaker>Kerkerm.</speaker><p>Ganz leicht. Ich lauerte vor
+der Thür, bis der Kerl von euch ginge, daß
+ich ſie hernach abholte, als ich ſie auf einmel
+ſah heraus geſchleppt bringen: Ich merkte Uu-.
+recht, that als wollte ihnen helfen, machte den
+Schlag meiner Kutſche auf, brachte ſie hinein,
+ſchlug die Thüre zu, und der Kutſcher dem das</p><p>die Loſung war, fuhr über alle Berge. Die
+Herren ſchrien, halt! halt! liefen ihr nach, ich
+lies ſie laufen, und gieng zu euch -</p></sp><sp><speaker>George.</speaker><p>Ach! wenn ſie nur keiner entdeckt,
+oder ſich die Straße merkt, wo ſie abſteigt.</p></sp><sp><speaker>Kerkerm.</speaker><p>Was denkt ihr doch? der Kut-
+ſcher wird kein Narr ſeyn und immer gradeaus
+fahren, er wird ſie ſchon müde machen die
+Herren Läufer, ich ſteh euch davor.</p></sp><sp><speaker>George.</speaker><p>O mein Freund! mein einziger
+Freund in der Noth! Gott ſchickte ſonſt En-
+gel den Menſchen zu helfen, nun ſchickt er an
+ihrer ſtatt Menſchen, wie euch. Ihr habt mir
+alle Sorgen, allen Gram genommen, ach! die
+mächtige Freude nimmt noch einmal Platz in
+mir, belebt noch einmal mein Herz.</p></sp><sp><speaker>Kerkerm.</speaker><p>Armer Schelm! man hörts daß
+du verliebt biſt: Jetzt denkſt du dich ſo reich,
+ſo glücklich, glaubſt die ganʒe Welt ſey voll
+Heiligen, nun nur dein Mägdchen in Schutz
+gebracht iſt - Ach Gott! wie bald wirſt du
+aus deiner Trunkenheit wieder ſchrecklich zu dir
+ſelber kommen.</p><stage>(ab. )</stage><p>Himmel! gerechter Himmel! muß ich ihm,
+nur ihm, jeden Dienſt, jedes Gute in meinem
+Kerker ſchuldig ſeyn? - Jetzt bin ich allein,
+noch ſo früh am Tage - Wer hätte nicht Mit-
+leid mit meiner Jugend in Ketten? wie bald
+nähme mich ein barmherziger Winkel, oder
+eine milde Hütte in Schutz? - Louiſe bey dem
+Freunde, dem Vertrauten, dem Vater unſrer
+Liebe - Da ſucht ich ſie, fände ſie, und flöhe
+mit ihr weit, weit von dem Angeſicht unſrer
+Haſſer. Wohin? ach! - in die erſte freund-
+liche Einöde die uns verbirge, in die erſte tiefe
+Wildniß, oder grauſenvolle Felſenkluft, wohin
+der Fuß der Menſchen uns nachzukommen ſich
+ſcheute. O! die Liebe würde uns die Arabiſchen
+Wüſten kühlen, und aus dem Schnee im tiefen
+Norden, aus dem Eiſe Grönlands Flammen
+für uns ziehn - ſie würde - was kann all-
+mächtige innige Liebe nicht - -</p><stage>(nach einigen
+Stillſchweigen, in welchem er ein unruhiges Vorha-</stage><p>Verſuchung!
+mächtige reizende Verſuchung! wie ſüß ſprichſt
+du in mir. Folg ich dir, ſo bin ich glücklich,
+und Louiſe - -</p><stage>(ſchnell nach der Mauer ſich
+hinwendend)</stage><p>O du! der du mir Muth gabſt,
+ihr ſo lange her zu entſagen, Muth gabſt, dieſe
+meine Leiden auf mich zu nehmen; gieb mir
+doch auch ietzt Muth, zu der ſüß- abſcheulichen
+That! gieb mir Muth hier durch zu gehn,follts
+auch in deinem Zorneſeyn - -</p><stage>(erſchrocken)</stage><p>Gott! wo bin ich? wo ſind meine Sinnen? -
+Grundloſe Leidenſchaft! das machſt du! -
+Vergieb mir, Vater meiner Lage! Vater meines
+Schickſals? vergieb mir Sünder im Staub.
+Ich will-deine Ruthe-küſſen, deinen ſchwer auf
+mir liegenden Arm ehren, nur gieb mir Ruhe,
+Ruhe, in meine unbändige Seele.</p></sp></div><div type="scene"><head>Eilfter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>allein.</stage><stage>ben, wieder durch zu gehn, ausdruckt)</stage></div><div type="scene"><head>Zwölfter Auftritt.</head><stage><castList><castItem>Der Schiffs-Sergeant,</castItem><castItem>ſeinen Leuten,</castItem><castItem>George.</castItem></castList></stage><stage>mit</stage><stage>und</stage><sp><speaker>Schiffs-Sergeant.</speaker><p>Biſt du George Bern?</p></sp><sp><speaker>George.</speaker><p>Ich bins! ſeyd ihr mein Trans-
+port?</p></sp><sp><speaker>Schiffs-Serg.</speaker><p>Das ſiehſt du wohl! mach
+fort.</p></sp><sp><speaker>George.</speaker><p>Gut! gut! den Augenblick -
+werd ich wohl den Meiſter draußen finden?</p></sp><sp><speaker>Schiffs-Serg.</speaker><p>Da hab ich keinen Wind
+von.</p></sp><sp><speaker>George.</speaker><p>Seyd ſo barmherzig, und laßt
+ihn noch einmal zu mir kommen, ich hab nur
+noch etwas mit ihm zu ſprechen.</p></sp><sp><speaker>Schiffs-Serg.</speaker><p>Unverſchämter Bengel!
+was er ſich einfallen läßt! marſch! oder ich
+will dich transportiren, daß es um dich rau-
+chen ſoll.</p></sp></div><div type="scene"><head>Dreyzehnter Auftritt.</head><stage><castList><castItem>Kerkermeiſter</castItem><castItem>ſeinem jüngſten Kinde</castItem><castItem>die übrigen vier Söhne</castItem><castItem>die Vorigen.</castItem></castList></stage><stage>mit</stage><stage>auf dem Arme,</stage><stage>bey ihm,</stage><sp><speaker>Kerkerm.</speaker><p>Halt Sergeant! es iſt ein
+kreutzbraver Junge! er verdients nicht, daß er
+unter deine Fuchtel kommt. Will nur Abſchied
+von ihm nehmen.</p></sp><sp><speaker>Schiffs-Serg.</speaker><p>Ey was! ich hab keine
+Zeit. Marſch!</p><stage>(mit dem Stocke )</stage></sp><sp><speaker>George.</speaker><p>Herr! ich war auch Soldat! ich
+kenne meine Pflichten, und folge dem Geſetze,
+ſo handfeſte brauchts nicht daß ich behandelt
+werde.</p><stage>(hat etwas aus der Taſche geſucht )</stage><p>Da!
+das Letzte was ich habe, ich fleh euch! laßt
+mich nur drey Minuten allein mit dem Meiſter.</p></sp><sp><speaker>Schiffs-Serg.</speaker><stage>(beſieht das Geld)</stage><p>Hum!</p><stage>( zu ſeinen Leuten)</stage><p>kommt naus, bleibt vor der</p><p>Thür, will nur noch eins trinken.</p><stage>(ab)</stage></sp><sp><speaker>Kerkerm.</speaker><stage>(der mit den Kindern zugleich Georgen
+um den Hals fällt )</stage><p>Lieber Junge!
+Lieber George!</p></sp><sp><speaker>Die übrigen Kinder.</speaker><p>unſer George!</p></sp><stage>(ihn umſchlingend )</stage><sp><speaker>George.</speaker><p>Ich halts nicht aus.</p></sp><sp><speaker>Kerkerm.</speaker><p>Hier Kinder! nehmt Exempel an
+dieſem Frommen, daß Gott die mit Kreuz und
+Trübſal heimſucht, die er am liebſten hat. Lernt
+von ihm, wider das Leiden nicht murren; denn
+ihr wißt nicht, was auch euch aufgehoben iſt.
+Seht! er ſteht wie ein Lamm bey allen Krän-
+kungen die ihm wiederfahren, und doch iſt er
+unſchuldig. George! ſchenkt doch den Kindern
+was, ihr wißt ja wohl, was ſolchen Pflanzen
+am nützlichſten iſt.</p><stage>(läßt das Kind vom Arm )</stage></sp><sp><speaker>Die Kinder.</speaker><p>Segne uns mit deiner Liebe.</p></sp><sp><speaker>George</speaker><stage>(der ſie alle in einen Kreis in ſeine
+Arme ſchließt )</stage><p>Glückliche, glückliche Kinder!
+Gott hat Segen für den Saamen des From-
+men bis ans tauſende Glied.</p></sp><sp><speaker>Das kleine Kind.</speaker><p>Nimm mich auf den
+Schooß George!</p></sp><sp><speaker>Kerkerm.</speaker><p>Nein Kind! er kann nicht, er
+muß fort.</p></sp><sp><speaker>Das Kind.</speaker><p>Fort, und nicht wieder kommen?</p></sp><sp><speaker>Kerkerm.</speaker><p>Nein! mein Kind! ſichſt ihn
+nicht wieder.</p></sp><sp><speaker>Das Kind.</speaker><p>Ach Jammer!</p><stage>(weint)</stage><p>hier
+bleiben, Thüre zuſchließen, hier bleiben.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(zum älteſten Sohn )</stage><p>Geh, nimm
+ſie mit dir, geht Kinder alle, geht.</p></sp><sp><speaker>Der eine von den kleinen Knaben</speaker><stage>zu
+Georgen.</stage><p>Ich hab dir mein Frühſtück ver-
+wahrt, nimms! wirſt heute noch nichts gegeſ-
+ſen haben, wirſt oft ſo hungern müſſen, daß
+ich darüber weinen werde.</p><stage>(George nimmts, kann
+ſich nicht faſſen)</stage></sp><sp><speaker>Das Kind</speaker><stage>(welches der Aelteſte auf den Arm
+nimmt)</stage><p>Weh! Weh! nicht wiederſehn, hab
+dich von Herzen lieb.</p></sp><sp><speaker>Kerkerm.</speaker><p>Geh! Joſepherle! geh! ſollſt
+ihn noch drauſen ſehn.</p></sp><sp><speaker>Das Kind.</speaker><p>Kuß! Kuß! à Dieu! noch
+ein Kuß!</p><stage>(ſchluchzend ab)</stage></sp><sp><speaker>Die übrigen Kinder.</speaker><p>A Dieu! behalt uns
+lieb! wir werden dich nicht vergeſſen. Behalt
+uns lieb.</p><stage>(alle ab. )</stage></sp></div><div type="scene"><head>Vierzehnter Auftritt.</head><stage><castList><castItem>George</castItem><castItem>der Kerkermeiſter.</castItem></castList></stage><stage>und</stage><sp><speaker>George</speaker><stage>(läßt ſein Haupt über Andreſens Achſel
+fallen)</stage><p>Nun muß ich davon! und wie ſoll ich
+mich von euch trennen!</p></sp><sp><speaker>Kerkerm.</speaker><p>Könnt ich euch retten! es würde
+mir ſeyn, wie der Jugend ein verboten Schläf-
+chen, wie ein neues Leben ſelber. Aber nun
+kann ich nichts für euch thun, als einen ſchlech-
+ten Zehrpfennig, nehmt ihn mit auf die Reiſe,
+verſchmäht ihn nicht - Gott der allmächtige
+kann ihn tauſendfältig ſegnen, und machen, daß
+ihr ihn nimmer ganz verzehren dürft.</p></sp><sp><speaker>George.</speaker><p>Schont mich! ſchont mich! ach!
+ich bins nicht werth -</p><stage>(zwiſchen Furcht und Be-
+denken)</stage><p>behaltet eure Güte! kommt!</p><stage>(führt ihn
+an die offne Mauer, reißt das Stroh weg )</stage><p>ſeht! -</p></sp><sp><speaker>Kerkerm.</speaker><stage>(bückt ſich, ſieht, nimmt einen Stein
+raus, läßt ihn fallen )</stage><p>Jeſus Maria! was iſt
+das?</p></sp><sp><speaker>George.</speaker><p>Seyd ihr nun noch mein Freund?</p></sp><sp><speaker>Kerkerm.</speaker><p>Was habt ihr gethan?</p></sp><sp><speaker>George.</speaker><p>Mir die Freyheit ſchaffen wollen,
+zu der ich geboren bin.</p></sp><sp><speaker>Kerkerm.</speaker><p>Ich begreif euch nicht! wie denu?
+womit denn?</p></sp><sp><speaker>George.</speaker><p>Das unglückliche Meſſer, das ihr
+mir zum Eſſen geliehn - denkt euch das andre
+hinzu.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(ſchlägt ſich vor die Stirn )</stage><p>Ha!
+alter Dummgut! - Ihr ſeyd ja aber hier! Je-
+ſus Maria! ihr ſeyd ja noch hier!</p></sp><sp><speaker>George.</speaker><p>Aus Dankbarkeit bin ich noch
+hier! O mein Vater! ich hab ein Herz für
+eure Wohlthaten, ein andrer aber möchte ſie
+misbrauchen. Seyd künftig auf der Huth,
+und gebt keinem Gefangenen mehr auf ſein ehr-
+lich Geſicht, ſo viel Freyheit als mir, die Ver-
+ſuchung iſt zu ſüß - er dürfte euer Beſtes nicht
+ſo zu Herzen nehmen als euer George!</p></sp><sp><speaker>Kerkerm.</speaker><stage>(wiſcht ſich die Augen)</stage><p>Junge!
+lauf! kriech durch! ich will dir nachkommen, will</p><p>fitzen, hungern, will - - aber meine armen
+Kinder!</p><stage>(die Soldaten zeigen ſich, und winken
+Georgen. )</stage></sp><sp><speaker>George.</speaker><p>Seht ihr! man winkt mir! Lebt
+wohl! ewig wohl, mein Vater! mein Vater!</p><stage>(reißt ſich fort und ab. )</stage></sp><sp><speaker>Kerkerm.</speaker><p>All ihr Heiligen! und du himm-
+liſche Mutter Gottes! laßt ihr dieſen Gebe-
+nedenten im Verderben, ſo müſſe Gott auch
+die erſte Bitte verſchmähn!</p><stage>(ab)</stage></sp><stage>Ende des erſten Aufzugs.</stage></div></div><div type="act"><head>Zweyter Aufzug.</head><div type="scene"><head>Erſter Auftritt.</head><stage><castList><castItem>Der Pater-Martin</castItem><castItem>Louiſe.</castItem></castList></stage><stage>und</stage><stage>Pater Martin ſitzt im Kirchhabit gekleidet an einem
+Tiſche und ſchreibt, vor ihm ein brennend Wachs-
+licht. Louiſe geht ängſtlich auf und ab. )</stage><sp><speaker>Pater Martin</speaker><stage>(ſchüttelt den Kopf )</stage><p>Du
+giebſt zu viel, alter Martin! Du giebſt
+zu viel.</p></sp><sp><speaker>Louiſe</speaker><stage>(die zu ihm hüpft)</stage><p>Sind Sie fertig,
+mein Pater?</p></sp><sp><speaker>P. Martin.</speaker><p>Wollte Gott es wäre zu Ihrem
+Heil, Tochter! wars nicht genug, daß ich der
+Vertraute Ihres Verſtändniſſes war? daß ich
+Ihre Liebe zu ihm erlaubte? müſſen Sie auch
+nun kommen und mich um dieſen-Schein quä-</p><p>len, der wider meine ganzePſlicht läuft? ach!
+hätten ſie mit ihren Bitten nicht hier ange-
+ſchlagen, hier (auf ſeine Bruſt) wo noch eine
+irdiſche Liebe mit der Liebe zum Hmmel ſtrei-
+tet, bey allen Heiligen! ich konnte ſie nicht er-
+hören.</p><stage>(hält das Schreiben feſt in Händen)</stage></sp><sp><speaker>Louiſe</speaker><stage>(die darnach greift)</stage><p>Bey den Thränen
+ihrer Maria geben ſie her.</p><stage>(ſie nimmt das Papier
+und lieſt, während er ſpricht)</stage></sp><sp><speaker>P. Martin.</speaker><p>Ich hatte ſie, man riß ſie mir
+weg, da grif der Schmerz an mein Leben, ich
+ſank in Staub, flehte um meinen Tod, und mir
+erſchien ein plötzlicher Glanz, eine himmliſche
+Stimme richtete nich auf, ich ſchaute empor,
+und da ſah ich die Mutter Gottes wie ſie mir
+winkte. Ich folgte, legte das Ritterkreuz nie-
+der, gieng hieher und übergab mein ganzes Le-
+ben Gotte. Thun ſie das auch, Tochter! Roſe
+der Kirche! Freude meines Amtes! Sonſt war
+mein Mägdchen ſo fromm, ſo folgſam, und
+heute will ſie Erz, Eiſen und Stahl ſeyn!
+Ach! ich könnte vor ihr niederfallen wie vor
+die heilige Jungfrau, könnte auf meinen Knien</p><p>ſie um ihr eigen Heil flehn, doch bliebe ſie
+taub.</p></sp><sp><speaker>Louiſe</speaker><stage>(ſieht den Pater gerührt an, drückt das
+Schreiben an ihre Bruſt, hebt die Augen gen Him-
+mel, einen Augenblick darnach küßt ſie dem Pater
+die Hand )</stage><p>O! was ſind Sie für ein Mann!
+ſiegeln Sie nun,</p><stage>(ſie legt ihm das Papier vor, und
+hälts mit ihrer Hand feſt)</stage><p>geſchwind, geſchwind
+ſiegeln, Sie.</p></sp><sp><speaker>P. Martin</speaker><p>Das Siegel des Verderbens,
+das dich aus dem Schooße der Glückſeligkeit,
+der Sicherheit und Ruhe reißt. O Tochter!
+Tochter!</p></sp><sp><speaker>Louiſe.</speaker><p>Hätten Sie einen Hi-
+mmel für Ihre
+Maria genommen? O ſiegeln Sie! ſiegeln Sie!
+man wird ihn fortſchleppen, weit weg, wo ihn
+mein Gedanke nicht erreichen kann, und ich ſollt
+ihn nicht einholen? o geſchwind! - Sie zittern?
+wohl! ich in meiner Todesangſt will ſtärker ſeyn
+als ein Mann! geben Sie her,</p><stage>(ſie nimmt ihm
+das Lack aus der Hand, brennts an, und ſiegelt,
+drückt das Petſchaft drauf. )</stage></sp><sp><speaker>P. Martin</speaker><stage>(der gegen das Papier fährt, dem
+ſie aber ausweicht)</stage><p>Was machen ſie? - Was
+hab ich gemacht? ihnen einen Trauſchein ge-
+ſchrieben zu einen Sclaven?</p></sp><sp><speaker>Louiſe.</speaker><p>Ein Heiliger iſt er! ein Engel! wie
+Sie mein Pater! Ich gehe! ſegnen Sie mich,
+meine Flucht und meinen Georgen! und ver-
+dammen Sie mein Andeuken nicht, wie Gott
+Ihr Herz nicht verdammen wird.</p><stage>(ſchnell ab. )</stage><p>Was hab ich gethan? welche Verantwortung
+hab ich auf mein Gottgelebtes Alter gebracht?
+meinem Beichtkinde, meiner Freundinn, gab
+ich die Erlaubnis ins Elend zu gehn, mit einem
+Sclaven ſich zu verbinden? blos weil ſie liebt,
+wie ich einſt liebte; wie unheſonnen! ſoll ich
+ihr nicht mit mneinem Anſehn abgerathen haben?
+aber war mirs nicht als ob ich für mich ſelber
+den Traubrief unterſchrieb? ſo fühlt ich ihr
+dringend Begehren in meiner Seele, und iſt er
+ſie doch werth! und ſie ſcheint ihm beſtimmt.</p><p>Warum konnt ich ihr nicht widerſtehn, wenns
+nicht göttliche Beſtimmung wäre, die Louiſen
+an ſein Schickſal heftet? Mein Haupt zittern
+meine Kräfte ſind ausgelebt, Alter und Ʒeit
+haben mich grau und klug gemacht, und heute
+bey ihren Thränen war ich ein Kind wie zuvor.
+Aber wer hat je geliebt? und kann bey andrer
+Liebe-Leiden unempfindlich, hart ſehn? Bey
+meinem Glauben! ich kann es nicht. Gott iſt
+die Liebe! ſeine Heiligen, ſeine Engel ſind die
+Liebe, die ganze Welt beſticht in Liebe, und ich
+ſollte Stein ſeyn, wo ich leiden ſehe? (nimmt
+ſeinen Hut) und reiß ich ſie nicht aus den Klauen
+eines laſterhaften Vetters, der ihre Tugend ver-
+folgt, ihre Sitten verderben und ihr Herz ſich
+unterjochen will, das ihn verabſcheut? - O!
+von dem höchſten irdiſchen Elende, von der
+Sclaverey einer unglücklichen Ehe ſie zu befreyn
+kann ich ihr keine zu weite Flucht erlaüben. Sie
+gehe! ihr Entſchluß iſt Tugend und Stärke der
+Seele, ſie gehe! und Gott ſelbſt der mit den
+Tugendhaften iſt, wird ihres Schickſals Vater
+ſeyn.</p><stage>(ab )</stage></sp></div><div type="scene"><head>Zweyter Auftritt.</head><stage><castList><castItem>Der Pater</castItem></castList></stage><stage>allein.</stage></div><div type="scene"><head>Dritter Auftritt.</head><stage><castList/></stage><stage>Das Theater verändert ſich in den Platz,
+worauf die Sclaven zuſammen geführt
+und gefeſſelt werden. Der Platz iſt mit
+Häuſern und Zuſchauern beſetzt, unter
+welchen ein Gemurmel iſt. Ein Bür-
+ger aus einem Hauſe, häuslich geklei-
+det, kömmt mit einer Flaſche und einem
+Glaſe.</stage><sp><speaker>Der Bürger.</speaker><p>Da ſind ſie, ich muß den
+armen Schelmen noch ein Labſal mit auf die
+Reiſe geben.</p><stage>(zum Sergeanten )</stage><p>Jſts erlaubt?
+Der Herr kann ſich ein Gläschen feinen im
+Laden geben laſſen, auf mein Conto! Verſteht
+der Herr?</p></sp><sp><speaker>Sergeant.</speaker><p>Schon gut! gebt nur dieſen
+nicht zuviel.</p><stage>(geht im Laden)</stage></sp><sp><speaker>Der Bürger</speaker><stage>(geht die Sclavenreihe durch,
+ſchenkt jedem ein, langt ein Fläſchgen aus der Taſche,
+giebts der Bedeckung, welche es rund um gehen laſ-
+ſen, nun kommt er zu Georgen, ſchreckt zurück )</stage><p>Lieber Gott! was ſeh ich! das iſt der Zürcher!
+bey meinem Leben er iſts! alle Welt! wie kommſt
+du guter lieber Junge hieher?</p><stage>(George ſteht wie
+leblos )</stage><p>er hört mich nicht! er iſt ganz von ſich.
+Lieber Gott, der dienſtfertigſte, ordentlichſte, gut-
+herzigſte Burſche, den ich in meinem Leben ge-
+kannt habe, ſoll auf die Galeeren</p><stage>(ſetzt die Fla-
+ſche und das Glas nieder )</stage><p>höre doch! du?</p></sp><sp><speaker>George</speaker><stage>(ſieht ihn ohn Empfindung ſtarr an. )</stage></sp><sp><speaker>Der Bürger.</speaker><p>Sage mir doch, wie kommſt
+du hieher?</p></sp><sp><speaker>George</speaker><stage>(wie oben )</stage><p>Ich?</p></sp><sp><speaker>Der Bürger.</speaker><p>Kennſt du mich?</p></sp><sp><speaker>George.</speaker><p>Euch?</p></sp><sp><speaker>Der Bürger.</speaker><p>Kann ich dir wo dienen?</p></sp><sp><speaker>George.</speaker><p>Mir?</p><stage>(läßt den Kopf fallen )</stage></sp></div><div type="scene"><head>Vierter Auftritt.</head><stage><castList><castItem>Louiſe</castItem><castItem>die Vorigen.</castItem></castList></stage><stage>im Durchdringen durchs Volt,</stage><sp><speaker>Louiſe.</speaker><p>Platz! Platz! wo iſt er?</p><stage>(ſieht ihn)</stage><p>ach!</p><stage>(zu Georgen, ſinkt mit dem Kopf auf ſeine</stage><p>Wohl! Wohl!</p></sp><stage>Schultern)</stage><sp><speaker>George.</speaker><p>Louiſe!</p><stage>(ſinkt um, das Volk läuft
+herzu und hält ihn, man bringt ihn auf die Schwelle
+eines Hauſes. )</stage></sp><sp><speaker>Louiſe.</speaker><p>Er fällt! er ſtirbt! er ſtirbt!</p><stage>( kniet neben ihn )</stage><p>Nein! nein! verweile Licht
+meines Lebens! verliſch nicht ohne mich. Was
+ſoll mir die Welt ohne dich! ſo öde, ſo finſter,
+ſo quaalenreich - ohne Beyſtand, ohne Troſt
+von dir, müßt ich herumirren, wie das welke
+Blatt einer Roſe vom Sturm getrieben! -</p></sp><sp><speaker>George</speaker><stage>(ſchlägt allmählich die Augen auf)</stage><p>Louiſe! - du biſt hier?</p></sp><sp><speaker>Louiſe.</speaker><p>Du lebſt noch?</p></sp><sp><speaker>George.</speaker><p>Mache dich fort! fort!</p></sp><sp><speaker>Louiſe.</speaker><p>Nun du wieder lebſt.</p></sp><sp><speaker>George.</speaker><p>Sie werden dich wieder finden
+deine Verfolger! O! daß ich dich in meine
+Seele hüllen, in meine Adern verbergen könnte!
+fliehe! fliehe!</p></sp><sp><speaker>Louiſe.</speaker><p>Nun ich dich wieder habe? nach
+ſolcher Angſt!</p></sp><sp><speaker>George.</speaker><p>Fliehe! fliehe! wenn du mich
+liebſt!</p></sp><sp><speaker>Louiſe.</speaker><p>Nie, niemals! an dich will ich mich
+ſchlingen, feſt halten, mit dir in ein Schickſal,
+in ein Grab, in einen Himmel gehn, laß ſie
+nur kommen, ich fürchte nichts, nun ich wieder
+bey dir bin, Kraft meiner Sinnen!</p></sp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>Der Kerkermeiſter</castItem><castItem>die Vorigen.</castItem></castList></stage><stage>und</stage><sp><speaker>Kerkerm.</speaker><stage>(im herbeylaufen )</stage><p>Ich muß ihn
+noch ſehn, und ſollt ich ihm nach ins Waſſer
+ſpringen.</p><stage>(ſieht die Reihe der Sclaven )</stage><p>Ach! er-
+wünſcht.</p><stage>( ſieht ihn nicht darunter )</stage><p>Jeſus-Ma-
+ria er iſt ja nicht hier?</p><stage>(ſieht ſich wild um, läuft
+nach den Tumult am Hauſe)</stage><p>Nun.</p><stage>(guckt durchs
+Volk )</stage><p>Himmliſcher Vater! da ſitzen die Tur-
+teltauben!</p><stage>(fällt ihm um Hals )</stage><p>Mein Junge!</p></sp></div><div type="scene"><head>Sechſter Auftritt.</head><stage><castList><castItem>Der Schiffscapitain</castItem><castItem>Die Vorigen.</castItem></castList></stage><stage>mit ſeinen Leuten.</stage><sp><speaker>Sergeant</speaker><stage>(kömmt aus dem Hauſe geſprungen,
+läuft auf Georgen los )</stage><p>Alle Wetter! der Capi-</p><p>tain,</p><stage>(reißt ihn auf)</stage><p>Schlingel ſteh!</p><stage>ſchleppt ihn
+zu den andern. )</stage></sp><sp><speaker>Louiſe</speaker><stage>(wills ihm wehren )</stage><p>Unbarmherziger!</p></sp><sp><speaker>Capitain.</speaker><p>Sachte, ſachte Sergeant! ein
+Kranker.</p></sp><sp><speaker>Sergeant.</speaker><p>Ja gnädiger Herr! am Heim-
+weh! oder der Teufel weiß an welchen Weh!</p></sp><sp><speaker>Capitain.</speaker><p>Halt!</p><stage>(Sergeant ſteht ſtill )</stage><p>alle
+verhört?</p></sp><sp><speaker>Sergeant.</speaker><p>Alles richtig, Herr Hauptmann.</p></sp><sp><speaker>Capitain.</speaker><p>Führt ſie ab!</p><stage>(man kettet die
+Selaven aneinander. )</stage></sp><sp><speaker>Louiſe</speaker><stage>(die ſich zu den Füſſen des Capitains
+ſtürzt)</stage><p>Erbarmen, Herr! Erbarmen!</p></sp><sp><speaker>Capitain</speaker><stage>(ſtutzt, hebt ſie auf)</stage><p>Was begeh-
+ren Sie? wer ſind Sie?</p></sp><sp><speaker>Louiſe.</speaker><p>O Gott! wie ſie mit ihm eilen,
+George! George! helfen Sie, erbarmen Sie ſich
+meiner! um alles Hellige willen, trennen Sie
+mich nicht von ihn!</p></sp><sp><speaker>Capitain</speaker><stage>(zu den Umſtehenden )</stage><p>Verſteht
+ihr ihn?</p></sp><sp><speaker>Louiſe.</speaker><p>Da ſchleppen ſie ihn hin! George!
+ach</p><stage>(fäht wieder nieder)</stage><p>Herr! Herr!</p></sp><sp><speaker>Capitain.</speaker><p>Halt Sergeant!</p><stage>(ſie ſtehn ſtill)</stage></sp><sp><speaker>Capitain</speaker><stage>(zu Louiſen )</stage><p>Mit welchem unter
+ihnen ſind Sie verwandt.</p></sp><sp><speaker>Louiſe</speaker><stage>(läuft zu Georgen, nimmt ſeine Hand )</stage><p>Ich will mich in ſeine Galeere dingen, neben
+ihn geſchmiedet ſeyn, mit ihm die Laſt ſeiner
+bedrängten Tage tragen, mit ihm arbeiten, wie
+ein Knecht, nur trennen Sie mich nicht von ihm.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(fällt vor den Capitain auf ein Knie)</stage><p>Herr! hören Sie auf mich! Herr! auf mich!</p></sp><sp><speaker>Capitain.</speaker><p>Und was wollt ihr Vater, wer
+ſeyd ihr?</p></sp><sp><speaker>Kerkerm.</speaker><p>Kerkermeiſter von Bicetre.</p></sp><sp><speaker>Capitain.</speaker><p>Nun?</p></sp><sp><speaker>Kerkerm.</speaker><p>Um aller Heiligen willen, ſehen
+Sie mir einmal den Burſchen recht an.</p></sp><sp><speaker>Capitain.</speaker><p>Was hülfs? unter einen ver-
+urtheilten Sclaven ſeh ich allemal einen Böſe-
+wicht.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(der ſich kreuzigt)</stage><p>Böſewicht?
+Gott verzeihs! Sie kennen ihn nicht beſſer. Aber</p><p>Herr! giebt ein Böſewicht auch ſeine Haut für
+das Beſte eines andern? hätte er ſo gewollt,
+als er konnte, Herr! ich ſäße ietzt wo mich
+weder Sonn noch Mond beſcheint, und meine
+Kinder könnten betteln gehn.</p></sp><sp><speaker>Capitain.</speaker><p>Das klingt eben nicht fein für
+euch.</p></sp><sp><speaker>Kerkerm.</speaker><p>Mags! und ſollt es mein graues
+Haar beflecken, will ich doch den guten Namen
+des lieben Jungens retten. Zwölf Wochen
+lang ſaß er bey mir im Gefängnis, fromm, wie
+ein Bild der Helligen, zog er ein, gelaſſen blieb
+er. Ich ward ihm gut, er iſt klug, und ich,
+und meine Kinder giengen oft von ihm lernen.
+Wies nun aber, in der Schrift heißt: Müßig-
+gang iſt aller Laſter Anfang, und des Teufels
+Ruhrbank: ſo kömmt auch er vor langer Weile
+auf einen Einfall, den ich mit zehn Spießen
+nicht in ihm geſucht hätte.</p><stage>(geheimnisvoll)</stage><p>Was meint der Herr! ich lehn ihm ein Meſ-
+ſer zum Eſſen -</p></sp><sp><speaker>Capitain.</speaker><p>Nun?</p></sp><sp><speaker>Kerkerm.</speaker><p>Das Meſſer nimmt er, und gräbt
+ſich damit ein Loch in die Mauer des Gefäng-
+niſſes, wie meine Schultern breit, und ich alter
+Maulwurf geh Tag aus Tag ein zu ihm, Sie
+glaubens nicht, was ich gerne bey ihm war,
+ſeine Reden waren mir lieber, wie den Kindern
+die Honigſchnitten. Heut vor Tage ſteht er
+vor ſeinem Arbeitsſtück und beſiehts, und be-
+guckts, wie Eva den Apfelbaum, da ſagt ihm
+die Schlange der Verſuchung: kriech durch,
+kriech durch! er aber beſinnt ſich kurz, denkt an
+mich, an mein Häufchen Kinder, die er alle
+brodlos machen würde, und ſeht! er bleibt,
+und heute beym Abſchied zeigt er mir das Hi-
+ſtörchen, Herr, ich dachte zu verſteinern, ſo fuhr
+mir der Schreck in die Glieder, denn der Weg
+durch, geht zum Thore naus.</p><stage>(zupft den Capitain
+am Rocke)</stage><p>Hey! Henrl,wenn, ich das ver-
+geſſe, will ich in die Verdammnis:</p><stage>(langt ein
+Beutelchen aus der Taſche)</stage><p>Wann ich nur dürfte,
+ich wollt Ihnen hier was anbieten, iſt juſt ſo-
+viel, als ſie für einen Kerlkauf brauchen -
+Was ſehn Sie mich ſo an, als wäre ich eine</p><p>Glasſcheibe? es iſt nichts aus meinen Kräften,
+ich habs zuſammengeholt von unſern Geiſtlichen.</p></sp><sp><speaker>Capitain.</speaker><p>Euer Herz iſt gut, Vater! aber
+wo habt ihr den Kopf? läßt ſich die Gerech-
+tigkeit erkaufen? er iſt durch Kriegesrecht ver-
+urtheilt.</p></sp><sp><speaker>Kerkerm.</speaker><stage>(halb verdroſſen)</stage><p>Ihr große Her-
+ren! mit eurer Gerechtigkeit, die ihr immer
+auf den Lippen habt, und oft weniger davon
+wißt als ich von meinem Uhr-Uhr-Großvater.
+Gott im Himmel iſt auch gerecht, aber auch
+barmherzig.</p></sp><sp><speaker>Capitain.</speaker><p>Für Silber oder Gold? ich bin
+ein Menſch.</p></sp><sp><speaker>Kerkerm.</speaker><p>Nun ja! Geld brauchen eben
+die Menſchen, mit Geld läßt ſich auf Erden
+alles durchſetzen. Nehmen Sie, gnädiger Herr!
+Sie dürfen ihn ja nicht gleich los laſſen, das
+weiß ich wohl daß Sie das nicht können, aber
+mit der der Zeit. -</p></sp><sp><speaker>Capitain.</speaker><p>Wenn ich aber nun nicht darf.
+Wißt ihr denn nicht, daß ſeine Freylaſſung vom
+Könige ſelbſt abhängt? geht und fragt ihn,</p><p>ob er euch den Sclaven verkaufen will: oder
+meynt ihr, daß ich kein Erbarmen in meiner
+Bruſt habe?</p></sp><sp><speaker>Kerkerm.</speaker><p>Gut! ich will zum Könige gehn,
+vor ihm niederfallen, ihn flehn. König! nehmt
+mir mein Brod! nur erlöſt mir den Unſchul-
+digen von ſeinen Ketten, die mich ſchwerer
+drücken, als ihn, denn auch für mich trägt er
+ſie.</p><stage>(zum Gelde)</stage><p>Und du, verwünſchtes Metall!
+das du den König, den Kaiſer, den Bettler,
+den Freund machſt: Ehre, Leben, Glück,
+Schwindſucht, Podagra, alles auf die Weltku-
+gel bringſt - Elendes Geld! kannſt heute vor
+meinen Jungen nichts? gar nichts?</p><stage>(ab )</stage></sp><sp><speaker>Capitain</speaker><stage>(zu Georgen)</stage><p>Sclave! hieher! -
+näher!</p></sp></div><div type="scene"><head>Siebenter Auftritt.</head><stage><castList><castItem>Marchand</castItem><castItem>zwey Häſchern.</castItem><castItem>Die Vorigen.</castItem></castList></stage><stage>mit</stage><sp><speaker>Marchand</speaker><stage>(zu den Häſchern, indem er mit dem
+Stock auf Louiſen zeigt)</stage><p>Die da! ergreift ſie!</p></sp><sp><speaker>Louiſe</speaker><stage>mit einem Schrey)</stage><p>Gerechter Him-
+mel! da iſt er!</p></sp><sp><speaker>Marchand</speaker><stage>(zu den ſäumenden Häſchern )</stage><p>Er-
+greift ſie!</p></sp><sp><speaker>George</speaker><stage>(an den ſich Louiſe hält )</stage><p>Wer ſie mir
+anrührt - Ach! ich Elender! wo iſt meine
+Kraft?</p></sp><sp><speaker>Marchand.</speaker><p>Himmel und Hölle! faßt zu.</p><stage>( die Häſcher greifen nach ihr. )</stage></sp><sp><speaker>Capitain</speaker><stage>(zu den Häſchern)</stage><p>Halt! was heißt
+das hier!</p><stage>(ſie laſſen Louiſen los)</stage><p>Mein Herr! ich
+bitte mir Erklärung aus</p><stage>(zum Marchand. )</stage></sp><sp><speaker>Marchand.</speaker><p>Warum? die Sache geht Sie
+nichts an, das Mägdchen iſt meine Nichte,
+eine Wayſe, und mein Mündel, ſie will mit
+dem Kerl dort davon lauffen, ſoll ich das zu-
+geben? ſoll ich?</p></sp><sp><speaker>Capitain.</speaker><p>Ach, mein Herr! ich bitte um
+Vergebung! wenn die Sache ſich ſo verhält,
+thun Sie nichts, als Ihre Pflicht, und Sie
+ſind hier völlig Herr. Sie wollte ſich in die
+Galeeren dingen.</p></sp><sp><speaker>Marchand.</speaker><p>Die Unbeſonnene! ſie ſolls
+haben, ſie ſolls haben! denn ihr Glück ſtößt
+ſie mit Füſſen, ich habe ſchon bezahlt wo ſie
+künftig herbergen ſoll.</p><stage>(zum Capitain ins Ohr )</stage><p>Ich ſchrecke ſie nur ſo, ſehn Sie mir das
+Mägdchen einmal an, wer wäre wohl ſo ein
+Thor und verſperrte die Figur von ſich? ich
+muß ſie beſitzen, oder mein Leben verlieren.</p></sp><sp><speaker>Capitain.</speaker><p>So! ſo! hum! da dächt ich wir
+verſuchten lieber in Güte</p><stage>(er nimmt Louiſen bey
+der Hand )</stage><p>Mademoiſelle! wollen Sie wieder zu
+Ihrem Oncle? er will Sie mit ſich nach Hauſe
+nehmen, er will Ihnen nichts thun, wenn Sie
+in Güte gehn.</p></sp><sp><speaker>Louiſe.</speaker><p>Man laſſe mich ſterben.</p></sp><sp><speaker>Capitain.</speaker><p>Nun warum denn? was ſoll die
+volle Roſe im Grabe, Ihr Oncle will Sie an
+ſeiner Hand zu allen Glückſeligkeiten dieſes Le-
+bens führen, folgen Sie doch.</p></sp><sp><speaker>Louiſe</speaker><stage>(ihm ins Ohr )</stage><p>Führt er mich zu
+Georgen? in die Hölle will er mich führen.
+Ach! Sie kennen den Flucher nicht, den Ver-
+führer der Unſchuld.</p></sp><sp><speaker>Capitain.</speaker><p>Wie? ſagen Sie das laut,
+Mamſel!</p></sp><sp><speaker>Louiſe.</speaker><p>Ach nein! ich fürchte mich.</p></sp><sp><speaker>Capitain.</speaker><p>Noch einmal, ſagen Sie das
+laut: Was iſt er?</p></sp><sp><speaker>Louiſe</speaker><stage>(furchtſam laut)</stage><p>Ein Flucher, und
+Verführer der Unſchuld! O Weh!</p></sp><sp><speaker>Capitain.</speaker><p>Was antworten Sie darauf? mein
+Herr!</p></sp><sp><speaker>Louiſe.</speaker><p>Sehn Sie! Sehn Sie nur ſeine
+wüthenden Geberden! er wird mich umbrin-
+gen.</p></sp><sp><speaker>Marchand</speaker><stage>(läuft voll Wuth auf Louiſen )</stage><p>Was bin ich? du! was bin ich? ha! du willſt
+mich verklagen? du! O! du biſt mir ja nur
+Staub! ſieh! ſo nehm ich dich:</p><stage>(packt ſie an
+und ſchüttelt ſie)</stage><p>ſo ſetz ich dich hin!</p><stage>(ſtäupt ſie
+nieder)</stage><p>und nun rühre dich! rede! rühre dich!
+he! kannſt du nicht zu deinem Herzblatte hin-
+gehn? geh doch! rede doch!</p></sp><sp><speaker>Capitain.</speaker><p>Halt! Verwegner! für was bin
+ich hier?</p><stage>(reißt ihm Louiſen weg, und übergiebt ſie
+ſeinen Leuten)</stage><p>Ihr ſollt mir für ſie haften!</p><stage>(zu den Häſchern )</stage><p>Und ihr da! entfernt euch
+den Augenblick! fort! oder ich werd euch euren
+Herrn weiſen. Schurken ſeyd ihr! und keine
+Glieder der Gerechtigkeit, wo ihr noch einen
+Augenblick anſteht von dieſer Unſchuld eure
+Hände zu laſſen.</p><stage>(die Häſcher gehn brummend
+ab. )</stage></sp><sp><speaker>Marchand</speaker><stage>(läuft auf Louiſen los )</stage><p>Und müßt
+ich auf der Stelle mein Leben laſſen, ſo ſollt
+ihr doch euren Willen nicht haben.</p><stage>(Soldaten
+umringen ſie, er bricht durch )</stage><p>Himmel und Hölle!
+weicht! oder ich ſtreck' euch alle zur Erde.</p><stage>(er reißt Louiſen heraus )</stage><p>Ey Närrchen! wie ſie
+zittert, hätte ſie zuvor gezittert, dürfte ſie nun
+nicht.</p></sp><sp><speaker>Louiſe.</speaker><p>Mitleid - Verzeihung - ach!
+ich kann nicht von ihm laſſen - Ich bin ſein
+Weib!</p><stage>(wirft den Traubrief dem Capitain zu. )</stage></sp><sp><speaker>Marchand</speaker><stage>(der ſie vor Entſetzen los läßt)</stage><p>Sein Weib? ſein Weib?</p><stage>(will dem Capitain
+das Papier wegnehmen. )</stage></sp><sp><speaker>Capitain.</speaker><p>Gut! das entſcheidet mit einmal
+den Proceß. Madam! Sie ſind von nun an</p><p>mein Paſſagier. Gehn Sie zu ihrem Manne,
+gehn Sie. Und trotz dem geboten der Sie
+ihm nun entreißen will!</p><stage>(Louiſe drückt ihren Dank aus, und eilt frölich
+ʒu Georgen. )</stage></sp><sp><speaker>Capitain</speaker><stage>(ʒum Marchand)</stage><p>Ja, mein Herr!
+der Traubrief iſt vom. Pater Martin ʒu St. Jo-
+hann. Werden Sie nun auch Ihre lächerli-
+chen Drohungen wider die Geiſtlichkeit ſchicken?</p><stage>(steckt das Papier bey)</stage></sp><sp><speaker>Marchand.</speaker><p>Herr! und wider den Satan
+Dazu! Getraut? ohne mich getraut? Euch
+ſoll die Hölle würgen! Menſch und Kerl!
+Pfaffe und Kirche! und alle Helfers-Helfer,
+eurer verdammten Kuppeley! Und Euch Herr!
+der Jhr das gelten laßt, geh ich ietzt bey Gott
+und weltlichen Obrigkeit verklagen.</p><stage>(ab)</stage></sp><sp><speaker>Capitain.</speaker><p>Wie Sie belieben, mein Herr!
+wie Sie belieben.</p><stage>(zum George)</stage><p>Du! noch
+einmal hieher. Näher! näher! - - Wie
+heiſt du?</p></sp><sp><speaker>George.</speaker><p>George Bern.</p></sp><sp><speaker>Capitain</speaker><stage>(erſchrocken)</stage><p>Was? - Wie
+heiſt du?</p></sp><sp><speaker>George.</speaker><p>George Bern.</p></sp><sp><speaker>Capitain</speaker><stage>(für ſich )</stage><p>Wär es möglich? -
+Wo biſt du her?</p></sp><sp><speaker>George.</speaker><p>Aus Zürch.</p></sp><sp><speaker>Capitain.</speaker><p>Wer war dein Vater?</p></sp><sp><speaker>George.</speaker><p>Eines angeſehenen Mannes Sohn,
+der ſich ohne Willen ſeiner Eltern an meine
+Mutter verheyrathete, erblos gemacht ward,
+und aus Mangel der Nahrung den Entſchluß
+faßte auf die See zu gehn.</p></sp><sp><speaker>Capitain</speaker><stage>(für ſich)</stage><p>Gott! er iſts! er
+iſts! - Haſt du deinen Vater gekannt?</p></sp><sp><speaker>George.</speaker><p>Ich ging ins dritte Jahr als er
+uns verlies. Ich kenne ſein Geſicht nicht,
+aber die Lehren meiner ſelgen Mutter haben
+ſeinen Namen tief in mein Herz gepragt.</p></sp><sp><speaker>Capitain.</speaker><p>Wie alt biſt du nun, Sohn?</p></sp><sp><speaker>George.</speaker><p>Sechs und zwanzig Jahr, Herr!</p></sp><sp><speaker>Capitain.</speaker><p>Und welch Schickſal führte dich
+nach Paris?</p></sp><sp><speaker>George.</speaker><p>Die Neugier zu dieſer Weltbe-
+rühmten Stadt, die Liebe zum Soldaten, und
+endlich Vater- und Mutter-los, welch Mittel
+war für mein Fortkommen übrig?</p></sp><sp><speaker>Capitain.</speaker><p>Hat dich deine Mutter nichts
+lernen laſſen?</p></sp><sp><speaker>George.</speaker><p>Ich bin die Schulen durchgan-
+gen, ſoviel es unſre Armuth und die Kränk-
+lichkeiten meiner Mutter zuließen: da ſie aber
+keinen Fond hatte mich wohin zu geben, und
+ſie immer vergeblich auf die Wiederkunft mei-
+nes Vaters hofte, zuletzt darüber ſtarb -
+ſo legt ich mich auf die freyen Künſte, gieng
+in der Abſicht nach Paris, und ergrif vor
+allen die Malerey, welche mir zu meinem
+Stande am nützlichſten ſchien.</p></sp><sp><speaker>Capitain.</speaker><p>Wie weit biſt du damit ge-
+kommen?</p></sp><sp><speaker>George.</speaker><p>Ich bin am glücklichſten in der
+Kopfmalerey.</p></sp><sp><speaker>Capitain.</speaker><p>Und hat dir deine Kunſt keine
+Freunde gemacht?</p></sp><sp><speaker>George.</speaker><p>Wenige. Ein Anfänger, ein
+Soldat, und die wenige Anlage zu kriechen,
+zu betteln - Ich bin ein Schweitzer, Gnäd-
+ger Herr! und war immer vergnügt mit dem
+was ich hatte.</p></sp><sp><speaker>Capitain.</speaker><p>Du haſt Stolz! aber mein gu-
+ter Burſche! mit alle dem Stolze haſt du dich
+doch bis zu uns gebracht.</p></sp><sp><speaker>George.</speaker><p>Nein Herr! meine Redlichkeit
+legte mir dieſe Bande an.</p></sp><sp><speaker>Capitain.</speaker><p>Du haſt aber einem Morde bey-
+gewohnt.</p></sp><sp><speaker>George.</speaker><p>Ein unglücklich Ohngefähr brachte
+mich vor einem viertel Jahre bey ein paar
+Schläger, wovon einer den andern tödtete.
+Ich kam eben hinzu als der unſelige Schlag
+geſchah. Der Tödter war mein ehemaliger
+Schlafgeſell, ein muntrer geſchickter Burſche,
+aber höchſt hitzig. Er wollte verzweifeln als er
+die Folgen ſeiner Unbeſonnenheit ſah. Ich redete
+ihn an, er kannte mich, und nun war er klein-
+müthig genug mich um Gottes Willen zu bit-</p><p>ten, ihn nicht anzugeben. Er jammerte mich.
+Ich verſprachs ihm.</p></sp><sp><speaker>Capitain.</speaker><p>Das hätteſt du nicht thun ſollen.</p></sp><sp><speaker>George.</speaker><p>Der Todte ward vermißt, gefun-
+den, und der Thäter ausgeforſcht. Er be-
+kannte, der Streich wäre nicht von ihm allein
+geſchehn, ich wäre mit bey der Schlägerey ge-
+weſen, und man ſollte mich nur zum Beweiſe
+holen laſſen.</p></sp><sp><speaker>Capitain.</speaker><p>Das war boshaſt.</p></sp><sp><speaker>Louiſe.</speaker><p>O Herr! was laſſen Sie mich hof-
+fen, wenn Sie meinen Georgen nach dieſer
+Einſicht behandeln.</p></sp><sp><speaker>Capitain</speaker><stage>(zieht Georgen beſſer herwärts )</stage><p>Wie kommſt du aber zu dieſer ſchönen Be-
+kanntſchaft?</p></sp><sp><speaker>George.</speaker><p>Sie hatte die Güte ſich von mir
+malen zu laſſen, und die Liebe, die blind iſt,
+nahm ſogleich ihr Herz zu meinem Vortheile
+ein.</p></sp><sp><speaker>Capitain.</speaker><p>Und das deine widerſtand nicht?</p></sp><sp><speaker>George.</speaker><p>Schonen Sie meiner Leiden,
+Gnädger Herr! niemals rang ein Schwimmen-</p><p>der eyfriger mit den Wellen, als ich mit mei-
+nem Herzen. Was konnt ich thun? ich that
+mir Gewalt, und entzog mich ihrem bezau-
+bernden Umgange, Sie aber verfolgte mit dem
+Feuer ihres Geſchlechts ihre unſelige Neigung,
+und nun will ſie ihr Schickſal mit in mein
+Unglück ziehn. Herr! noch habe ich keine Un-
+gerechtigkeit mit Vorſatz auf mein Gewiſſen
+gebracht. Helfen Sie mir aus dieſer Gefahr.</p></sp><sp><speaker>Capitain.</speaker><p>Nun, iſt ſie denn nicht dein
+Weib?</p></sp><sp><speaker>George.</speaker><p>Nein, Gnädger Herr! eher finde
+mich der Tod im Meere, als in dieſem Zu-
+ſtande, in dem Beſitze dieſes vortreflichen
+Mägdchens.</p></sp><sp><speaker>Capitain.</speaker><p>Wie? und die Eheſtiftung hier
+wäre nicht mit deiner Bewilligung gemacht?</p></sp><sp><speaker>George.</speaker><p>Nein. Sie iſt blos eine Frucht
+ihrer flammigen Phantaſie.</p></sp><sp><speaker>Capitain.</speaker><p>Und dieſe willſt du nicht nutʒen?
+weißt du auch, welche Vortheile du mit ihr
+verleugneſt?</p></sp><sp><speaker>George.</speaker><p>Herr! wer mit ſchaamloſer Stirn
+die Aufwallungen eines zärtlichen Mägdchens
+nutzt, und ſeinem Vortheile ihr ganzes zeitli-
+ches Glück aufopfert: wer kann das! in mei-
+ner Stelle - Nun! der iſt wenigſtens kein
+Schweitzer.</p></sp><sp><speaker>Capitain.</speaker><p>Menſch! denken alle Schwei-
+zer ſo?</p></sp><sp><speaker>George.</speaker><p>Alle nach ihrer Pflicht.</p></sp><sp><speaker>Capitain.</speaker><p>Du machſt den Lobredner dei-
+nes Volks.</p></sp><sp><speaker>George.</speaker><p>Nein Herr! nur der Natur. Sie
+gab meinem Volke die Redlichkeit zum erbli-
+chen Geſchenk.</p></sp><sp><speaker>Capitain.</speaker><p>Haſt du deine Pflicht immer
+vor Augen gehabt?</p></sp><sp><speaker>George.</speaker><p>Ich denks.</p></sp><sp><speaker>Capitain.</speaker><p>Gleichwohl haſt du doch aus dem
+Kerker ſchlüpfen wollen.</p></sp><sp><speaker>George.</speaker><p>Wer hat Jhnen das geſagt?</p></sp><sp><speaker>Capitain.</speaker><p>Haſt dus nicht vorhin gehört?
+der Kerkermeiſter von Bicetre.</p></sp><sp><speaker>George.</speaker><p>Nun, Gnädger Herr! wenn meine
+Jugend, das grauſame Schickſal in dem ich ſie
+verleben ſoll, die Liebe, die Gelegenheit, und
+endlich mein Sieg über mich ſelbſt - Wenn
+das alles mich nicht frey ſpricht, ſo bin ich
+allerdings ſchuldig.</p></sp><sp><speaker>Capitain</speaker><stage>(klopft ihn auf die Schulter )</stage><p>Sey
+ruhig, mein Sohn! Wohl dem Manne, der dir
+gleich denkt; wohl dem Staate, der ſolche Bür-
+ger zeugt! Geh in dein Schickſal, geh! der
+Himmel legt dirs zu deiner Verherrlichung auf.
+Dir daraus zu helfen wäre faſt Sünde. Deine
+Seele glänzt allzuſchön in deinen Ketten.</p><stage>(George fällt voll Dankbarkeit nieder )</stage><p>Geh mein
+Sohn! und wenn dirs Troſt iſt, ſo glaube,
+daß dein Zuſtand mein Herz verwundet, und
+daß der Unglückliche, vor dem du ietzt knieſt,
+dir lieber um Hals fallen, dir mit ſeinem Blute
+helfen möchte wenn er könnte.</p></sp><sp><speaker>George.</speaker><p>O mein Herr! nur Gnade! nur
+Gnade für meine Louiſe!</p></sp><sp><speaker>Capitain.</speaker><p>Was ſoll ich mit ihr machen?
+ſprich!</p></sp><sp><speaker>George.</speaker><p>Wenn Sie irgend einen Freund
+bey den hieſigen Großen, irgend ein Anſehn
+bey der Obrigkeit haben; ſo wenden Sie dieß
+Anſehn für das Beſte meiner Loniſe an. Reiſ-
+ſen Sie ſie durch gerichtliche Hände aus der
+Gewalt ihres Oucles, und fügen Sie, daß ſie
+ihr Vermögen bekomme, damit ſie für ſich in
+Ruhe leben kann.</p></sp><sp><speaker>Capitain.</speaker><p>Du biſt mir unbegreiflich! Du
+liebſt ſie doch?</p></sp><sp><speaker>George.</speaker><p>Jemehr ich ſie liebe, jemehr muß
+ich es ihr durch Vernunft beweiſen. Seinen
+Gegenſtand der Schande, der Armuth, dem
+Tode ſelbſt ausſetzen, heißt: die Liebe aufs
+ſchrecklichſte mißhandeln.</p></sp><sp><speaker>Capitain.</speaker><p>Nun ſo nimm Abſchied. Du
+mußt fort.</p></sp><sp><speaker>George.</speaker><p>O! daß ich vor ihr verſchwinden
+könnte, aus ihren Gedanken gelöſcht verſchwin-
+den, wie die Grabſtätte Moſes, die noch kein
+menſchlich Auge fand.</p><stage>(geht an Louiſen )</stage><p>Louiſe!</p><stage>(traut ſich nicht zu ihr )</stage></sp><sp><speaker>Louiſe</speaker><stage>(froh )</stage><p>Biſt du nun ganz verhört?
+Reiſen wir ab?</p></sp><sp><speaker>George</speaker><stage>(Nach einer Pauſe, in welcher er allen
+Schmerz ausdrückt)</stage><p>Du bleibſt! - Louiſe! -
+Leb wohl! O Gott! wie ſchwer iſt dieß Lebe-
+wohl.</p><stage>(will gehn, und wankt)</stage><p>Louiſe! Louiſe!</p></sp><sp><speaker>Louiſe.</speaker><p>Herr Allmächtiger! was iſt das!</p><stage>(man führt Georgen von ihr)</stage><p>Verräther! laßt
+mir ihn! - weh mir! ich erhalte ſie nicht.</p></sp><sp><speaker>Capitain</speaker><stage>(der ſie hält. Zum Sergeanten )</stage><p>Führt ihn ſacht.</p><stage>(zu Georgen)</stage><p>Ermanne dich
+mein Sohn! denk an deinen hohen Geiſt! laß
+ihn-ſeine Schwachheit niederbeugen. Du kannſt
+noch glücklich werden.</p><stage>( zu Louiſen )</stage><p>Beruhi-
+gen Sie ſich liebes Kind! nehmen Sie Ihre
+Zuflucht in ein Kloſter, ich will Ihnen einen
+Diener hier laſſen, der Sie in Sicherheit bringt:
+er ſoll Ihnen ſagen, wohin Sie uns ſchreiben
+müſſen. Ich will für Sie ſorgen, Ihr Vater,
+Ihr Beyſtand in allen ſeyn; Sie sollen an
+nichts Mangel, alles nach Ihren Wünſchen
+haben, bis ich wieder nach Paris komme: viel
+leicht, daß ich Jhnen denn beſſern Troſt mit</p><p>bringe. Folgen Sie! wir können, wir dürfen
+Sie letʒt nicht mit uns nehmen.</p><stage>(zu einem von
+ſeinen Leuten)</stage><p>Sorge für ſie! ich ſchicke dir
+von Marſeille aus weitern Befehl, wohin
+du min nachkömmſt. Sorge für ihr Leben.</p><stage>( ſie iſt ohne Leben, man umringt ſie )</stage><p>Ihr Engel
+der Liebe! der Treue! der Tugend! beſchützt
+meine Tochter!</p><stage>(geht den Sclaven nach )</stage></sp><stage>(Wegen Georgen hat man Mühe fortzukommen. )</stage><sp><speaker>Louiſe</speaker><stage>(die ſich ermuntert)</stage><p>George! -
+laßt mich! laßt mich! er hat mich in Schutz
+genommen, mir Beyſtand verſprochen, er muß,
+er wird ſein Wort nicht brechen. Ich will
+vor ihn niederfallen, ihn flehn, ihn mit mei-
+nen Thränen baden, ſo daß unter Seinen Füſ-
+ſen die Erde davon erweicht wird, ſich in Mit-
+leid auflößt - laßt mich - mich armes hülf-
+loſes verlaßnes Mägdchen.</p><stage>(des Capitains Die-
+ner hält ſie zurück, und der Mann aus dem Laden
+ſucht ſie zu überreden in ſein Haus zu treten )</stage></sp></div><div type="scene"><head>Neunter Auftritt.</head><stage><castList><castItem>Ein Königlicher Commmiſſair</castItem><castItem>Kerkermeiſter.</castItem><castItem>Die Vorigen.</castItem></castList></stage><stage>mit dem</stage><sp><speaker>Kerkerm.</speaker><p>Ach Gott! wir kommen zu
+ſpät. Geſchwind Herr Commiſſarius! dort
+lenken ſie um die Ecke.</p><stage>(im Laufen )</stage><p>Bleiben
+Sie nur ſtehn, ich hol ſie ein. Herr Haupt-
+mann! Herr Hauptmann!</p><stage>(er holt ihn ein, und
+bringt ihn. )</stage></sp><sp><speaker>Capitain.</speaker><p>Halt Sergeant.</p><stage>(zum Commiſ-
+ſair kommend)</stage><p>Wer will mich ſprechen?</p></sp><sp><speaker>Commiſſair.</speaker><p>Sie verzeihn! Ich Gnädger
+Herr! ich hab hier Ordre vom Hofe.</p><stage>(giebt
+ihm ein Blatt. )</stage></sp><sp><speaker>Capitain.</speaker><p>Zu Befehl! Sie erlauben:</p><stage>(lieſt)</stage><p>Im Namen des Königs.
+Freybrief für den Zürcher George Bern.
+Der Schweitzer, George Bern, iſt unſchul-
+"dig, nach Ausſage des hingerichteten Franz
+"Albrechts. -Und ob ihm gleich wegenVer-</p><p>"ſchweigung des Mordes, die Gaſeerenſtrafe zu-
+"erkannt wurd, fo wiederrufen Wir doch dieſes
+"Urtheil wegen ſeiner ſonderbaren Ehrlichkeit:
+"Auf den Bericht des Kerkermeiſters von Bi-
+"cetre, dem er entwiſchen konnte,weil ihm Ge-
+"legenheit geluffen ward ein Loch durch die Mauer
+"zu graben. Der Kerkermeiſter klagte ſich ſelbſt
+"an, bekannte ſeine Fahrläßigkeit, und prieß die
+"Tugend ſeines Gefangnen, die ihm nicht er-
+"laubt hatte Gebrauch von der Maueröffnung
+"zu machen. Wir ſind davon gerührt, Wir
+"begnadigen den Kerkermeiſter, und ſchenken
+"dem George Bern völlige Freyheit zu gehen
+"wohin er will. Auch ſenden Wir dieſerhalb
+"einen bevollmächtigten Commiſſair ab, mit
+"dieſem Unſern offnen Huldbrief, und mit Be-
+"fehl, dem Schweitzer ſeine Ketten unverzüglich
+"abnehmen zu laſſen. "
+Ludewig.</p></sp><sp><speaker>Capitain.</speaker><p>Gott! Allmächtiger! das iſt dein
+Werk! du ſtehſt in die Schickſale der Unſchuld,</p><p>und verläſſeſt den Gerechten nicht. Sergeant!
+Sergeant! -</p></sp><sp><speaker>Sergeant.</speaker><p>Was befehlen der Herr Haupt-
+mann?</p></sp><sp><speaker>Capitain.</speaker><p>Lößt den Schweitzer von dem
+Truppe.</p></sp><sp><speaker>Sergeant.</speaker><p>Den Schweitzer ſoll ich los-
+ſchließen?</p></sp><sp><speaker>Kerkerm.</speaker><p>Ja ja! den Schweitzer. Hört
+ihr nicht wohl? wenn man bey euch Herren
+nicht mit Gelde klingelt, ſo habt ihr im-
+mer Erbſen in Ohren.</p><stage>(Sergeant geht zu den
+Sclaven. )</stage></sp><sp><speaker>Cpitain.</speaker><p>So lieb hat mich Gott, mich
+das erleben zu laſſen, mich aus der Verſuchung
+ʒu reißen, die mein Gewiſſen zu beflecken oder
+meinen Lebensfaden zu zerreiſſen drohte! Ihr
+ſeht mich wundervoll an, meine Freunde!</p><stage>(nimmt des Commiſſairs Hand )</stage><p>Sie ſind ein
+rechtſchaffner Mann! aber ſind Sie auch Vater?</p></sp><sp><speaker>Commiſſair.</speaker><p>Das bin ich, aber ich verſtehe
+Sie nicht.</p></sp><sp><speaker>Capitain.</speaker><p>Ich glaube es! ietzt verſteh ich
+mich ſelbſt nicht, aber bald</p><stage>(zum Commifſair)</stage><p>Da ſehn Sie ihn.</p><stage>(George kommt gegangen)</stage></sp><sp><speaker>Commiſſair.</speaker><p>Ein glücklich Exterieur!</p></sp><sp><speaker>Kerkerm.</speaker><p>Was wird er nur ſagen? lieber
+Gott! haſt mirs vor meinem Ende noch ſo gut
+werden laſſen, eine Unſchuld zu retten.</p></sp><sp><speaker>George.</speaker><p>Was ſoll ich noch einmal bey ihr?
+laßt mich! ihre Thränen brennen auf meiner
+Seele!</p></sp><sp><speaker>Louiſe.</speaker><p>Welche Stimme? was ſeh ich?</p><stage>(eilt zu Georgen )</stage><p>Du biſts? gütigen Mächte
+des Himmels! man wird uns nicht trennen!</p></sp><sp><speaker>Capitain.</speaker><p>In Ewigkeit nicht, er iſt, kann
+ichs ausſprechen? er iſt frey.</p></sp><sp><speaker>Louiſe.</speaker><p>Frey? Ach!</p><stage>(ſinkt den Umſtehenden
+in die Arme. )</stage></sp><sp><speaker>Kerkerm</speaker><stage>(zu Georgen )</stage><p>Hörſt du nicht,
+Herʒens-Junge! Du biſt frey! Die Menſchen,
+die Luft, der Himmel ruft: Du biſt frey!</p></sp><sp><speaker>George.</speaker><p>Frey?</p><stage>(tief in Erſtaunen verſenkt)</stage><p>Ich frey?</p></sp><sp><speaker>Capitain</speaker><p>Ach die Freude übermannt ihn!
+Mein Sohn! Georgw! ermuntre dich!</p></sp><sp><speaker>Commiſſair.</speaker><p>Dieß iſt die ſchönſte Freude,
+die ich jemals erlebte.</p></sp><sp><speaker>George</speaker><stage>(zu ſich kommend )</stage><p>Wo bin ich?
+Wars ein Zauberſchall? ein Troſtwort meines
+Engels?</p></sp><sp><speaker>Capitain.</speaker><p>Nicht Scheinwerk, Wahrheit!
+Wahrheit! Du biſt frey. Lies!</p><stage>(giebt ihm den
+Freybrief. )</stage></sp><sp><speaker>}
+Louiſe
+Kerkerm.</speaker><p>Wun-
+derbarer Erretter der Unſchuld! wie ſoll ich dir
+danken? was ſoll ich dir geben? mein Dank,
+meine Thränen! alles iſt ja dein Werk.</p></sp><stage>(zugleich auf ihren Knien)</stage><sp><speaker>Kerkerm.</speaker><p>O all ihr Heligen des Himmels,
+helfet mir Gott danken!</p></sp><sp><speaker>George.</speaker><p>Ich verſinke vor Schaam und
+Freude.</p><stage>(umarmt den Kerkermeiſter )</stage><p>O mein
+Erretter!</p></sp><sp><speaker>Kerkerm.</speaker><p>Dankts eurem Herzen, und eurer
+Tugend.</p></sp><sp><speaker>George.</speaker><p>Armer Franz! daß du ſterben
+mußteſt! - was habt ihr für mich gethan?
+wie ſoll ichs euch danken? ach! daß ich ſo
+arm bin!</p></sp><sp><speaker>Capitain.</speaker><p>Kann ich mich noch halten?</p></sp><sp><speaker>Louiſe.</speaker><p>O mein Herz! ſo auf einmal wie
+aus dem tiefen Grabe ſchnell an die helle Luft
+gerißen.</p></sp><sp><speaker>George</speaker><stage>(zu Louiſen eilend )</stage><p>O Louiſe! - -
+Gott! wo irren meine Sinne? bin ich nicht
+noch ein armer unbedeutender Menſchenſchatten?</p></sp><sp><speaker>Capitain</speaker><stage>(zeigt ihm einen Ring den er am
+Finger hat)</stage><p>Kennſt du das Bildchen hier auf
+dem Ringe?</p></sp><sp><speaker>George.</speaker><p>Himmel! das war meine Mutter!
+Louiſe! ſehn Sie, das war meine Mutter.</p></sp><sp><speaker>Capitain.</speaker><p>Und in mir ſiehſt du deinen Va-
+ter!</p><stage>(fällt ihm um Hals)</stage><p>mein Sohn! mein
+theurer edler Sohn!</p></sp><sp><speaker>Alle.</speaker><p>Sein Vater? er ſein Vater?</p></sp><sp><speaker>Commiſſair</speaker><stage>(zum Capitain)</stage><p>Ach! mein
+Herr! das heißt ſchön überraſcht.</p></sp><sp><speaker>George.</speaker><p>Wie? ſo auf einmal ein Sturm
+von Freuden? Sie mein Vater? Sie?</p></sp><sp><speaker>Louiſe.</speaker><p>Still ihr wehenden Lüftchen! ſtill!
+er ſein Vater?</p></sp><sp><speaker>Kerkerm.</speaker><p>Hum! das iſt wohl eine hübſche
+Lüge.</p></sp><sp><speaker>Capitain.</speaker><p>Glaubt mir doch meine Freunde!
+martre mich nicht mit Zweifeln mein Sohn!
+Ja! ich hab ihn vefleugnet den väterlichen Na-
+men, hab deine Mutter verlaſſen: Aber der
+Allwiſſende weiß es nicht aus Büberey: Segen
+ging ich aus zu holen, Segen für ſie und dich
+in unſer Haus zu bringen. Ich lies mirs
+ſauer werden, hab weder mein Blut noch meine
+Kräfte geſchont, habe mich alt gekümmert. Auf
+jeden fröhlichen Pulsſchlag ohne euch geizig,
+ſpahrt ich, ſammete ich alles für euch ein. Nun
+hatt' ich genung reiſe vor drey Jahren nach
+Zürch, fand euch nicht, die Mutter todt, und
+dich fort. Das zerriß mir die Bruſt! Seit dem
+Tage ruht ich nicht, ſuchte dich überall, auch in
+Paris, umſonſt, gab dich auf, und heute -</p><p>hier! hier! - Umarme mich mein Sohn! ſage,
+du liebſt mich! ſag es mir von Herʒen: du
+liebſt mich!</p></sp><sp><speaker>George.</speaker><p>Segnen Sie mich, mein Herr!
+mein Vater!</p><stage>(kniend)</stage></sp><sp><speaker>Louiſe.</speaker><p>Segnen Sie auch mich! mich! ihre
+Tochter!</p><stage>(neben ihn kniend )</stage></sp><sp><speaker>Capitain</speaker><stage>(hebt ſie auf. Zu Louiſen )</stage><p>Knoſpe
+aller meiner künftigen Freude!</p><stage>(zu Georgen)</stage><p>Du Hoffnung meines Lebens! in welche unaus-
+ſprechliche Freuden fühl ich fnich ietzt verlo-
+ren! - Nun lebe wohl! Sorge, Gram und
+See! wir gehn nach Marſeile, und von da
+erbitt ich meinen Abſchied, den ich bald erhalten
+will.</p></sp><sp><speaker>Loniſe.</speaker><p>Gott! zu welchen glücklichen Aus-
+ſichten bin ich heute erwacht!</p></sp><sp><speaker>George.</speaker><p>Theurer, theurer Meiſter! warum
+ſteht ihr denn ſo traurig?</p></sp><sp><speaker>Kerkerm.</speaker><p>Ihr habt nun einen Vater fun-
+den, ich werd euch verlieren, ich bin euch nun
+viel zu ſchlecht.</p></sp><sp><speaker>George.</speaker><p>Wenn ich euch vergeſſe, ſo müſſe
+Gott mich vergeſſen. Beſter Vater! dieſen
+Mann! dieſen Engel keinen kann ich verlieren.</p></sp><sp><speaker>Louiſe.</speaker><p>Aber vor einer halben Stunde -
+geh, geh! du liebſt Louiſen nicht. Wie du
+mich verlaſſen konnteſt!</p></sp><sp><speaker>George.</speaker><p>Hatt' ich dieſe Ausſicht? ich will
+mich rechtfertigen. Ich kanns -</p></sp><sp><speaker>Louiſe.</speaker><p>Nein! ſey lieber ganz bittender
+Sünder, damit ich dir vergeben müſſe. Es iſt
+ſo ſüß! unausſprechlich ſüß zu verzeihn -
+Mich zu verlaſſen -</p></sp><sp><speaker>George.</speaker><p>Möchte mein ganzes Leben voll
+Liebe nur eins Ihrer Leiden um mich vergü-
+tigen! Sie zittern meine Beſte?</p></sp><sp><speaker>Louiſe.</speaker><p>Ein wenig, ich weiß nicht, noch
+iſt mir als ob eine finſtre Decke über mein
+Glück verbreitet ſey. So viel Angſt - ich
+werde dich doch behalten? wo werd ich mich
+aber vor meinem Vetter bergen?</p></sp><sp><speaker>Capitain.</speaker><p>Er ſoll Sie nicht antaſten, da-
+für bin ich. Herr Commiſſair! Sie nehmen</p><p>noch meinen Sohn in Aufſicht, rechnen auf
+meine Erkenntlichkeit, und danken in meinem
+Namen zum voraus dem huldreichſten Könige
+für ſeine Gnade.</p><stage>(der Commiſſair verneigt ſich )</stage><p>Und meine Tochter nimmt indeß dieſer wackre
+Mann in Schutʒ</p><stage>(auf den Kerkermeiſter )</stage><p>bis
+icheuchvon Marſeilie aus weitre Verfügun-
+gen ſchicke.</p></sp><sp><speaker>Kerkerm.</speaker><p>Recht ſo, komm Sie Jungfer!
+komm Sie, ich will Ihr meine beſte Stube
+aufſchließen, Keller und Küche ſoll Ihr zu
+Gebote ſtehn, und meine Jungens ſollen Ihr
+die Winke an Augen abſtehlen.</p></sp><sp><speaker>Louiſe.</speaker><p>Ich bin ganz euer Geſchöpf, macht
+mit mir was ihr wollt, nur Du verlaß mich
+nie wieder.</p><stage>(zu Georgen)</stage></sp><sp><speaker>George.</speaker><p>Seele! möcht ich ganz Ihrer
+werth ſeyn! Wo werd ich Erſatz hernehmen
+für alles was Sie meinetwillen aufopfern?</p></sp><sp><speaker>Louiſe.</speaker><p>Verachte mich nur nicht dafür.</p><stage>(George wird erſchrocken beſchämt, ſie nimmt freund-
+lich ſeine Hand )</stage><p>Es geht doch alsdenn nach
+Zürch?</p></sp><sp><speaker>Capitain.</speaker><p>Engel! Lieber! das willſt du?</p></sp><sp><speaker>Kerkerm.</speaker><p>Wunderlich! wollte Sie nicht
+vorhin gar mit ihm übers Meer rudern?</p></sp><sp><speaker>Louiſe.</speaker><p>Recht! und nun ſollt ich nicht das
+Land der edlen Freyheit, die ſchöne Schweitz
+ſehn? welche für die Welt viel große weit ge-
+liebte Männer hervorgebracht hat, und für mich
+meinen, George?</p></sp><sp><speaker>George.</speaker><p>Mein Vater! reden Sie doch für
+mich.</p></sp><sp><speaker>Capitain.</speaker><p>O! wenn ihr nur dein Stumm-
+ſeyn nicht beſſer gefiele, wie alles was unſer
+aller Beredſamkeit an deiner ſtatt aufbringen
+könnte. Kommt meine Kinder.</p><stage>(er umſchließt
+Georgen und Louiſen. )</stage></sp><sp><speaker>Capitain und Louiſe</speaker><p>Vater! macht ihr eine Reiſe mit nach den
+Alpen?</p></sp><stage>(zum Kerkermeiſter )</stage><sp><speaker>Kerkerm.</speaker><p>Mit Euch? in fünften Theil der
+Welt. Wo kann man ſeine Hütte beſſer auf-
+ſchlagen als in der Wohnung der Tugend! Ihr
+habt mich heut wacker durchs Fegefeuer gejagt.</p><p>mit Euch ging ich noch durch eine Hölle! denn
+wenn ich meynſe, nun gehts grade in die Flam-
+men, huſch, ſäß ich mitten im Himmel in Abra-
+hams Schooß. Denn Ihr könnt ſo wenig zu
+Grunde gehn als mein Glaube: und wer ſich
+zu den Tugendhaften hält, der hält ſich an Got-
+tes Hand.</p><stage>Ende des zweyten und letzten Aufzugs.</stage></sp><div type="notes"><p>WARNING!, the element isn't placed correctly, it still needs a solution.</p><p>type = catch-word</p><p>Willkührliche Arien
+zum
+Ehrlichen Schweitzer.</p></div></div></div><div type="act"><head>Erſter Aufzug.</head><div type="scene"><head>Erſter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 1.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 2.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><stage>Dito.</stage><spGrp><head>No. 3.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Siebenter Auftritt.</head><stage><castList><castItem>Georgen</castItem><castItem>Louiſen.</castItem></castList></stage><stage>Duett</stage><stage>zwiſchen</stage><stage>und</stage><sp><speaker>G. und L.</speaker></sp><sp><speaker>Louiſe.</speaker><p>Nun weicht aus meinen Blicken
+Der Gram, den ich empfand!
+So ſiehet mit Entzücken
+Der bange Schiffer Land.</p></sp><sp><speaker>George.</speaker><p>So trift in einer Wüſte
+Der arme Wandersmann,
+Der bald verſchmachten müßte,
+Noch eine Labung an.</p></sp><sp><speaker>Beyde.</speaker><p>So ſinkt er an die Quelle,
+Als ich an deine Bruſt -
+O! meine ganze Seele
+Zerſchmilzt in ſüſſer Luſt.</p></sp><sp><speaker>Louiſe.</speaker><p>Gränzenloſe Macht und Güte
+Rette, rette du
+Meiner Hoffnung ſchönſte Blüthe;
+Send ihr Hülfe zu.
+Laß dein beſt Geſchöpfe nicht im Sturme
+Seines Unglücks untergehn:
+Ach! du pflegſt ja ſelbſt dem Wurme
+Tief im Staube beyzuſtehn. -</p><p>Liebe, die von Tugend ward geboren,
+Prüfet ſich durch die Entfernung nur;
+Gehet unter keinem Himmelsſtrich verloren:
+Hier (auf ſeine Bruſt) erhält ſich ihre Spuhr.
+Weit hin über Berge, Thal und Meere,
+Ueber Wiſſen und Gedenken hin,
+Füllet ſie erquickend unſres Herzens Leere,
+Feſſelt ſie uns jeden Sinn.</p><p>Wächſt mit jedem neuen Tagesſchimmer,
+Läutert ſich im Leiden, und gewinnt:
+Wie zwey ſchön vereinte Flammen, welche nimmer
+Ganz zu trennen möglich ſind.</p><p>So iſt ſie fort! - in welchen Zuſtand hat ſie
+mich verlaſſen!
+War es nicht hier, wo wir beyſammen ſaßen?
+Hör ich nicht noch ihr letztes Wort?
+Seh ich nicht ihre Thränen rinnen? Händeringen?
+Um mich! um mich! - -
+Und ich ſoll ſie vergeſſen! - ich?
+Und wem muß ich dieß höchſte Opfer bringen?
+Tochter Gottes! Tugend dir!
+Die du von den Sternen fähreſt,
+Uns der Engel Sitten lehreſt,
+Den verſucheſt, den du liebſt;
+Und mit deinem Roſenmunde
+Für jedwede Leidensſtunde
+Göttliche Verheißung giebſt. -</p><p>Himmliſche Ruh!
+Dir ſeufz ich zu,
+Laß dich in meine Seele nieder,
+Gieb meinem Herzen Stärke wieder.</p><p>Du kömmſt! ich fühle dich, und werde
+Durch dich erquickt. Und nun vergeß ich ſchon
+Daß alle Hoffnungen der Erde
+Von mir hinweg geflohn.</p></sp><spGrp><head>No. 5.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Neunter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 6.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Zehnter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 7.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Eilfter Auftritt.</head><stage><castList><castItem>George</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 8.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div></div><div type="act"><head>Zweyter Aufzug.</head><div type="scene"><head>Dritter Auftritt.</head><stage><castList><castItem>Louiſe</castItem><castItem>Kerkermeiſter.</castItem></castList></stage><stage>ſingt.</stage><spGrp><head>No. 9.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No 10.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div><div type="scene"><head>Fünfter Auftritt.</head><stage><castList><castItem>George,</castItem><castItem>Louiſe.</castItem></castList></stage><stage>nachdem er den Freybrief geleſen,</stage><stage>ſingt.</stage><spGrp><head>No. 11.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><spGrp><head>No. 12.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp><sp><speaker>Schluß-Chor.</speaker><p>Unſchuld! du haſt Recht gefunden,
+Bliebſt im Kerker Sonnenrein.
+Tugend! du haſt überwunden,
+Liebe! der Triumph iſt dein.</p></sp><spGrp><head>No. 13.</head><sp><speaker>WARNING!</speaker><p>WARNING! Place the closing 'spGrp' tag after the last 'sp' tag of the
+singing.</p></sp></spGrp></div></div></body></text></TEI>
